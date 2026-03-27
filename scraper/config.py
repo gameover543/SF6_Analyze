@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).parent.parent / ".env")
 
 @dataclass
 class ScraperConfig:
@@ -12,15 +12,15 @@ class ScraperConfig:
     base_url: str = "https://www.streetfighter.com/6/ja-jp/character"
     character_list_url: str = "https://www.streetfighter.com/6/ja-jp/character"
     
-    # パス設定
-    root_dir: Path = Path(__file__).parent
+    # パス設定（プロジェクトルート基準）
+    root_dir: Path = Path(__file__).parent.parent
     data_dir: Path = root_dir / "data"
     session_dir: Path = data_dir / "session"
     output_dir: Path = data_dir / "frame_data"
     storage_state_path: Path = session_dir / "storage_state.json"
     cookie_backup_path: Path = session_dir / "cookies_backup.json"
     db_path: Path = data_dir / "metadata.db"
-    log_dir: Path = root_dir / "logs"
+    log_dir: Path = Path(__file__).parent / "logs"
     
     # スクレイピング挙動
     min_delay_sec: float = 3.0

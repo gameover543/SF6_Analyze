@@ -1,6 +1,7 @@
 .env
-logs/
+scraper/logs/
 data/session/
+.agent/
 __pycache__/
 *.py[cod]
 *$py.class

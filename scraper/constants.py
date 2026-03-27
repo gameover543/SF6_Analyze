@@ -26,4 +26,7 @@ CHARACTER_LIST = [
     {"name": "Mai", "slug": "mai"},
     {"name": "Elena", "slug": "elena"},
     {"name": "C.Viper", "slug": "cviper"},
+    {"name": "Sagat", "slug": "sagat"},
+    {"name": "Alex", "slug": "alex"},
+    # {"name": "Ingrid", "slug": "ingrid"},  # 未リリース（2026年春後半予定）
 ]

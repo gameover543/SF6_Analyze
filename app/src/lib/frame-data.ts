@@ -1,9 +1,68 @@
-import { readFileSync } from "fs";
-import { join } from "path";
 import type { CharacterFrameData, CharacterInfo, MoveFrameData, ControlType } from "@/types/frame-data";
 
-/** フレームデータのディレクトリパス */
-const DATA_DIR = join(process.cwd(), "..", "data", "frame_data");
+// 全キャラのフレームデータを静的importで読み込む（Vercel対応）
+import dataRyu from "@/data/ryu.json";
+import dataLuke from "@/data/luke.json";
+import dataJamie from "@/data/jamie.json";
+import dataChunli from "@/data/chunli.json";
+import dataGuile from "@/data/guile.json";
+import dataKimberly from "@/data/kimberly.json";
+import dataJuri from "@/data/juri.json";
+import dataKen from "@/data/ken.json";
+import dataBlanka from "@/data/blanka.json";
+import dataDhalsim from "@/data/dhalsim.json";
+import dataEhonda from "@/data/ehonda.json";
+import dataDeejay from "@/data/deejay.json";
+import dataManon from "@/data/manon.json";
+import dataMarisa from "@/data/marisa.json";
+import dataJp from "@/data/jp.json";
+import dataZangief from "@/data/zangief.json";
+import dataLily from "@/data/lily.json";
+import dataCammy from "@/data/cammy.json";
+import dataRashid from "@/data/rashid.json";
+import dataAki from "@/data/aki.json";
+import dataEd from "@/data/ed.json";
+import dataGouki from "@/data/gouki.json";
+import dataMbison from "@/data/mbison.json";
+import dataTerry from "@/data/terry.json";
+import dataMai from "@/data/mai.json";
+import dataElena from "@/data/elena.json";
+import dataCviper from "@/data/cviper.json";
+import dataSagat from "@/data/sagat.json";
+import dataAlex from "@/data/alex.json";
+
+/** slug → データのマッピング */
+const FRAME_DATA_MAP: Record<string, CharacterFrameData> = {
+  ryu: dataRyu as CharacterFrameData,
+  luke: dataLuke as CharacterFrameData,
+  jamie: dataJamie as CharacterFrameData,
+  chunli: dataChunli as CharacterFrameData,
+  guile: dataGuile as CharacterFrameData,
+  kimberly: dataKimberly as CharacterFrameData,
+  juri: dataJuri as CharacterFrameData,
+  ken: dataKen as CharacterFrameData,
+  blanka: dataBlanka as CharacterFrameData,
+  dhalsim: dataDhalsim as CharacterFrameData,
+  ehonda: dataEhonda as CharacterFrameData,
+  deejay: dataDeejay as CharacterFrameData,
+  manon: dataManon as CharacterFrameData,
+  marisa: dataMarisa as CharacterFrameData,
+  jp: dataJp as CharacterFrameData,
+  zangief: dataZangief as CharacterFrameData,
+  lily: dataLily as CharacterFrameData,
+  cammy: dataCammy as CharacterFrameData,
+  rashid: dataRashid as CharacterFrameData,
+  aki: dataAki as CharacterFrameData,
+  ed: dataEd as CharacterFrameData,
+  gouki: dataGouki as CharacterFrameData,
+  mbison: dataMbison as CharacterFrameData,
+  terry: dataTerry as CharacterFrameData,
+  mai: dataMai as CharacterFrameData,
+  elena: dataElena as CharacterFrameData,
+  cviper: dataCviper as CharacterFrameData,
+  sagat: dataSagat as CharacterFrameData,
+  alex: dataAlex as CharacterFrameData,
+};
 
 /** キャラクター一覧（表示順） */
 export const CHARACTER_LIST: CharacterInfo[] = [
@@ -42,11 +101,11 @@ export const CHARACTER_LIST: CharacterInfo[] = [
   { name: "Alex", slug: "alex" },
 ];
 
-/** キャラクターのフレームデータをJSONファイルから読み込む */
+/** キャラクターのフレームデータを取得 */
 export function getCharacterFrameData(slug: string): CharacterFrameData {
-  const filePath = join(DATA_DIR, `${slug}.json`);
-  const raw = readFileSync(filePath, "utf-8");
-  return JSON.parse(raw);
+  const data = FRAME_DATA_MAP[slug];
+  if (!data) throw new Error(`キャラクター "${slug}" のデータが見つかりません`);
+  return data;
 }
 
 /** 操作タイプに応じて使用可能な技のみフィルタする */

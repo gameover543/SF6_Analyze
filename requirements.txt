@@ -6,3 +6,5 @@ pydantic
 python-dotenv
 pytest
 pytest-asyncio
+google-genai
+yt-dlp

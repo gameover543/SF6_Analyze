@@ -6,6 +6,7 @@ import {
   buildCounselingPrompt,
   formatFrameDataForContext,
 } from "@/lib/prompts";
+import { buildKnowledgeContext } from "@/lib/knowledge";
 import type { UserProfile } from "@/types/profile";
 
 export async function POST(request: NextRequest) {
@@ -50,7 +51,17 @@ export async function POST(request: NextRequest) {
         }
       }
 
-      systemPrompt = buildCoachSystemPrompt(frameDataContext, profile);
+      // プロ選手のナレッジコンテキストを生成
+      const recentMessages = messages
+        .filter((m: ChatMessage) => m.role === "user")
+        .slice(-3)
+        .map((m: ChatMessage) => m.content);
+      const knowledgeContext = buildKnowledgeContext(
+        Array.from(slugs),
+        recentMessages
+      );
+
+      systemPrompt = buildCoachSystemPrompt(frameDataContext, profile, knowledgeContext);
     }
 
     const reply = await llm.chat(systemPrompt, messages);

@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "last_updated": "2026-03-28T14:10:32.832480",
+  "videos": [
+    {
+      "video_id": "-TcI1Y2Gdlg",
+      "url": "https://www.youtube.com/watch?v=-TcI1Y2Gdlg",
+      "title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "channel_name": "なるおのひとりでできるもん",
+      "status": "completed",
+      "credibility_score": 0.845,
+      "relevance_score": 1.0,
+      "entries_extracted": 15,
+      "tokens_used": 0,
+      "processing_time_seconds": 336.7572178840637,
+      "processed_at": "2026-03-28T14:10:32.830717",
+      "skip_reason": null,
+      "error": null
+    }
+  ]
+}

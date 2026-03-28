@@ -3,7 +3,8 @@ import type { UserProfile } from "@/types/profile";
 /** AIコーチのシステムプロンプトを生成する */
 export function buildCoachSystemPrompt(
   frameDataContext: string,
-  profile?: UserProfile | null
+  profile?: UserProfile | null,
+  knowledgeContext?: string
 ): string {
   const profileSection = profile
     ? buildProfileSection(profile)
@@ -68,7 +69,9 @@ ${profileSection}
   ※「キャンセル:不可」の技からはドライブラッシュも必殺技キャンセルもできない。これを間違えると嘘のアドバイスになるので必ず確認すること
 
 ## 参照フレームデータ
-${frameDataContext}`;
+${frameDataContext}
+
+${knowledgeContext || ""}`;
 }
 
 /** カウンセリング用のシステムプロンプト */

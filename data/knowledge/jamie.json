@@ -1,0 +1,307 @@
+{
+  "slug": "jamie",
+  "entries": [
+    {
+      "id": "5dad7178b383",
+      "category": "general",
+      "topic": "Jamie's OD技の強さ",
+      "content": "ジェイミーのOD技は非常に強力。OD酔疾歩やOD無影脚を当てた場合、追撃が可能でダメージを伸ばせる。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "OD技ヒット時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "00:10",
+      "source_quote": "このキャラってOD技がクソ強いんだよね。こういう技とかこれとか。当たったら大足とか追撃いけるじゃん。めちゃくちゃ強い。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "95e43232c6e6",
+      "category": "general",
+      "topic": "Lv0ジェイミーの弱さ",
+      "content": "ジェイミーはLv0（お酒を飲んでいない状態）だと非常に弱い。全てのキャラクターに対して不利で、まともに戦えないレベル。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "Lv0の状態",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "00:36",
+      "source_quote": "Lv0はゴミです。めちゃくちゃ弱いです。全キャラに不利だと思う。ってレベルで弱い。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "45d77d7e5bd1",
+      "category": "neutral",
+      "topic": "しゃがみ中Kの間合い",
+      "content": "ジェイミーのしゃがみ中Kは他の多くのキャラと比べてリーチが短い。相手のしゃがみ中Kは届くが、ジェイミーからは届かないことが多い。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "地上戦の差し合い",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "01:01",
+      "source_quote": "こいつの中足って、大体のキャラより短いです。相手は届くけど、こっちは届かないっていう。ちょっと短い。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "96a24aebe768",
+      "category": "neutral",
+      "topic": "立ち中Kの発生フレーム",
+      "content": "ジェイミーの立ち中Kは発生9Fで、他の主要キャラのしゃがみ中K（7F）に比べて遅い。差し合いで振るのは難しい。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "地上戦の差し合い",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "01:16",
+      "source_quote": "立ち中Kもまあ長いんだけど、発生(9F)がちょっと遅い。こんな感じで中足に勝ちやすいんだけど、発生9Fの技で触りに行くってちょっと難しいんすよ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "d529cde81a2e",
+      "category": "neutral",
+      "topic": "弱酔疾歩の用途",
+      "content": "弱酔疾歩は発生17Fで、ガード時-3Fの突進技。相手の置き技に被弾しづらく、先端ガードだと確定反撃がないため、リスクを抑えつつDゲージを増やす手段として非常に有効。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "地上戦の差し合い",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "01:59",
+      "source_quote": "最初まず当てたい技これなのよね。これ（ガード）-3F。継続が結構長くて、先でガードさせると-3になるイメージ。確定取れない。この距離で-9って、まあなんもないです。突進技感覚。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "33ccb947a69d",
+      "category": "neutral",
+      "topic": "中酔疾歩と強酔疾歩のリスク",
+      "content": "中酔疾歩（ガード時-6F）と強酔疾歩（発生25F）は、弱酔疾歩に比べて距離調整が難しく、ガードされると確定反撃を受けるリスクが高い。特に強酔疾歩は発生が遅いため、相手に潰されやすい。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "地上戦の差し合い",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "02:59",
+      "source_quote": "中ってちょっと長い。中酔疾歩もめりこんだら-6F。距離調整がめちゃくちゃ難しい。中だったら多分この辺。こんな感じじゃん。この辺の距離で立ち回るのって、弾キャラなんすよ。この距離でうろつくことって基本ないんすよ。意味ないから。使う場面がかなり限られる感じ。強酔疾歩は当たる要素がない。発生がまず遅いんすよ。25なの。リュウでいうと強足刀くらいだと思う。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "b32af4be5945",
+      "category": "general",
+      "topic": "Dゲージの重要性",
+      "content": "Dゲージは常にMAXに近い状態を保つことが重要。Dゲージが多いほど攻めの選択肢が増え、相手に強力な圧力をかけられる。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "常時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "00:24",
+      "source_quote": "Dゲージがいっぱいあった方が強い攻めが出来るのね。Dゲージはいくらあってもいい。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "37908c086b57",
+      "category": "defense",
+      "topic": "ラッシュコパン後の暴れ潰し",
+      "content": "ジェイミーのラッシュ中Pガード後の行動は強力。相手がDゲージ削りを嫌がって固まると、しゃがみ弱Pや投げなどの連携で相手の暴れを潰しやすい。相手が動けない時間が長く、投げる機会が増える。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ中Pガード後",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "05:20",
+      "source_quote": "ガーブされた時にちょっと崩しやすい。ガードだったとしてもちょっと強いのよ。ちょっと刻めるんすよ。動けない時間が多いのわかる？相手側。動けない時間多いの。動けないよね、相手は。動きたくなる。投げが通りやすいんだよね。動ぎづらいよね、あっちが。見せとくだけでお得っす。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "fe59cae92d01",
+      "category": "combo",
+      "topic": "ラッシュ中足からのコンボ",
+      "content": "ラッシュ中足がヒットした場合、Dゲージに余裕があれば大昇竜(SA2)で締め、Dゲージ温存なら大足で締める。Dゲージが少ない時は、Dゲージ回収を優先してOD酔疾歩やSA1を使う。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ中足ヒット時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "09:05",
+      "source_quote": "中足ラッシュ当たりました。これ基本的にはね、これ大昇竜でやった場合に1本飲む。大昇竜じゃなくてSA1飲む場合。投げもいいし起き攻めいってもいいんだけどとりあえず投げが超安牌だよね。これ下KKと中Pどっちかに固定するならどっちのほうがいいですかね？SA3使う時は中Pにいった方がいい。ダメージ高いから。SA3いかない場合はこっちにした方がいい。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "ab104dc954e1",
+      "category": "neutral",
+      "topic": "OD無影脚の活用",
+      "content": "リーチの長い相手キャラ（エドなど）に対しては、OD無影脚で差し合いを無視して攻めることができる。相手は技を振りにくくなり、中足や酔疾歩が当てやすくなる。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": "ed",
+      "situation": "相手のリーチが長い時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "12:28",
+      "source_quote": "ベタ足の地上戦はリーチ的に難しい事が多いから無影蹴とか弱酔疾歩で補おうってことー？そういう事だよガスイん君。中足全然当てられないと思ってたからなるほど！そう！基本的に中足とか立ち中Kだけで勝負しようって無理なんだよね。だってあっちの方が足長いんだもん。そりゃ無理じゃん。中足当てらんねーってなるじゃんそりゃ。あっちの方が長いから。近づくまでの間に、どんだけ色んな長い技をかいくぐって…。OD無影蹴があることによって、これ当てやすいしこれも当てやすい。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "f8ff38328aa9",
+      "category": "general",
+      "topic": "シミーへの考え方",
+      "content": "ジェイミーはシミーで攻めるよりも、相手に様々な選択肢を見せて意識を散らし、崩すことを得意とする。シミー自体は強力な選択肢だが、ジェイミーの持ち味ではない。相手の行動を誘って潰す、という意識が重要。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "常時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "13:43",
+      "source_quote": "シミーって、技を空振りさせるってことですね。今やっと理解できた！格ゲー用語で難しいからね。散らしが下手なのかな。波動拳がやっぱクソうざいんだけどやっぱ波動拳に対してOD無影蹴が強い。最初何で触るかって言ったら、大Pよりも中足なのね。これはジェイミーの強いところって、散らすんだよね。いろんな技を散らされると、結局全部をケアは無理だよねっていう。相手に「あれもこれも見ないと」って意識を散らせるのが大事なんですね。シミーよりもしゃがみ中Pの方がかわいそうだよね。やめとけ。シミーやる時ってやつね。俺が攻めたのにシミー1点読みで他全部ダメなのかって思っちゃう。俺はシミーっていう選択肢が好きじゃない。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "f62a4dad9217",
+      "category": "defense",
+      "topic": "投げ抜け遅らせグラップの有効性",
+      "content": "遅らせ投げ抜けは基本的に強力な防御選択肢。投げと打撃を両方ケアできるため、相手は読み合いを仕掛けなければならない。ただし、相手が昇竜拳などの無敵技で暴れてきた場合、遅らせ投げ抜けは機能しない。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "相手の起き攻め時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "08:19",
+      "source_quote": "遅らせ投げは全部シミー出来るとおもった方がいい。最速はシミー出来なくなったけど遅らせは出来ると。投げ抜け全部通らないときあるけどこれあれば変わるのか？結構遅らせ投げは強いっす。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "89839d5b63f1",
+      "category": "general",
+      "topic": "ジェイミーのDゲージ回収能力",
+      "content": "ジェイミーはDゲージの回収能力が非常に高い。SA1（スーパーアーツ1）を当てることでDゲージを大量に回収できるため、Dゲージが少ない状況でも攻めを継続しやすい。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "Dゲージが少ない時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "20:28",
+      "source_quote": "OD無影蹴もそう。これやった後に大足やると、まあ実質1.1なんだよね。期待値もりもり。これ結構いいよ。保険効くから。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "2d3d8a7e7adf",
+      "category": "combo",
+      "topic": "中央最大コンボ(SA3)",
+      "content": "中央でパニッシュカウンターからSA3まで繋ぐ最大火力のコンボは、しゃがみ中P > ドライブキャンセル > 大P > 強酔疾歩 > 大P > ドライブキャンセル > 大P > 弱爆弾が最も効率が良い。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "中央パニカン時",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "36:20",
+      "source_quote": "中央の最大火力のコンボは、しゃがみ中P > ドライブキャンセル > 大P > 強酔疾歩 > 大P > ドライブキャンセル > 大P > 弱爆弾",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    },
+    {
+      "id": "3cf556791744",
+      "category": "general",
+      "topic": "ジェイミー地上戦の弱体化",
+      "content": "今回のアップデートでジェイミーの地上戦の抑止力が弱体化。中Kを気軽に振れなくなったため、相手は動きやすくなった。結果として地上戦が難しくなった。",
+      "characters": [
+        "jamie"
+      ],
+      "matchup": null,
+      "situation": "今回のアップデート後",
+      "source_video_id": "-TcI1Y2Gdlg",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+      "source_timestamp": "44:37",
+      "source_quote": "政治もクソもなくて、マジで言うけど、地上戦は弱くなりましたね。明言していいけど弱くなった。今回ね、抑止力がなくなったから地上性に関しては結構弱くなったね。何も出来ない時間が増えた。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:10:32.825562"
+    }
+  ],
+  "last_updated": "2026-03-28T14:10:32.830224",
+  "source_video_count": 1
+}

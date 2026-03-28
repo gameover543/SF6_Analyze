@@ -1,0 +1,41 @@
+{
+  "なるお": {
+    "name": "なるお",
+    "youtube_handle": "",
+    "channel_id": "",
+    "trust_rank": "S",
+    "trust_score": 1.0,
+    "subscriber_count": null,
+    "videos_processed": 0,
+    "entries_extracted": 0,
+    "avg_knowledge_density": 0.0,
+    "last_checked": "",
+    "note": "攻略情報が豊富"
+  },
+  "ぷげら": {
+    "name": "ぷげら",
+    "youtube_handle": "",
+    "channel_id": "",
+    "trust_rank": "S",
+    "trust_score": 1.0,
+    "subscriber_count": null,
+    "videos_processed": 0,
+    "entries_extracted": 0,
+    "avg_knowledge_density": 0.0,
+    "last_checked": "",
+    "note": "攻略情報が豊富"
+  },
+  "カワノ": {
+    "name": "カワノ",
+    "youtube_handle": "",
+    "channel_id": "",
+    "trust_rank": "S",
+    "trust_score": 1.0,
+    "subscriber_count": null,
+    "videos_processed": 0,
+    "entries_extracted": 0,
+    "avg_knowledge_density": 0.0,
+    "last_checked": "",
+    "note": "攻略情報が豊富"
+  }
+}

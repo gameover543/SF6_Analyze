@@ -1,0 +1,48 @@
+{
+  "slug": "manon",
+  "entries": [
+    {
+      "id": "23a44b7f5381",
+      "category": "neutral",
+      "topic": "置き技の性質",
+      "content": "相手が漫然と技を振ってきているのは「置き技」であり、これは強い行動である。このゲームの当たり判定・やられ判定の性質上、技の攻撃判定は通常やられ判定よりも長いため、リーチの長い技を相手の短い技に合わせると一方的に勝てる場面が多い。",
+      "characters": [
+        "manon"
+      ],
+      "matchup": null,
+      "situation": "相手が漫然と技を振ってくる（置き技）場合",
+      "source_video_id": "hWrADk0BeRo",
+      "source_channel": "カワノKawano",
+      "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+      "source_timestamp": "03:37",
+      "source_quote": "ブンブン相手に技振られてるのは置きをされてるってことですか？そう、相手が技振ってんのは置きをされてる。リーチの長い技を振る。当たり判定・やられ判定の性質上リーチの長い技を短い技に合わせると一方勝ちする事が多い",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:31:24.724480"
+    },
+    {
+      "id": "187fa9b088bf",
+      "category": "defense",
+      "topic": "相手の置き技に対する防御・反撃",
+      "content": "相手が置き技を振ってくる場合、飛びやドライブインパクトも有効な対策。また、リーチの長い技（マノンの大キックなど）の先端を当てるイメージで技を振る。これは飛び道具にも同様に言える。",
+      "characters": [
+        "manon",
+        "ryu"
+      ],
+      "matchup": null,
+      "situation": "相手が置き技を振ってくる場合",
+      "source_video_id": "hWrADk0BeRo",
+      "source_channel": "カワノKawano",
+      "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+      "source_timestamp": "04:00",
+      "source_quote": "技を置いてる相手に対してはインパクト、飛びも有効。リーチの長い技を振る。このリーチ長い技の延長として玉も大事。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-28T14:31:24.724480"
+    }
+  ],
+  "last_updated": "2026-03-28T14:31:24.738310",
+  "source_video_count": 1
+}

@@ -1,25 +1,44 @@
 {
   "matrix": {
+    "ryu": {
+      "neutral": 5,
+      "defense": 6,
+      "general": 1
+    },
     "jamie": {
       "general": 6,
       "neutral": 5,
-      "defense": 2,
+      "defense": 3,
       "combo": 2
+    },
+    "kimberly": {
+      "defense": 2,
+      "neutral": 1
+    },
+    "juri": {
+      "matchup": 2
+    },
+    "ken": {
+      "neutral": 5,
+      "defense": 3
+    },
+    "manon": {
+      "neutral": 1,
+      "defense": 1
+    },
+    "gouki": {
+      "neutral": 1
     }
   },
-  "total_entries": 15,
-  "total_videos": 1,
+  "total_entries": 44,
+  "total_videos": 3,
   "gap_queries": [
     "SF6 リュウ 対策 解説",
     "SF6 リュウ 対策 攻略",
     "SF6 リュウ コンボ 解説",
     "SF6 リュウ コンボ 攻略",
-    "SF6 リュウ 立ち回り 解説",
-    "SF6 リュウ 立ち回り 攻略",
     "SF6 リュウ 起き攻め 解説",
     "SF6 リュウ 起き攻め 攻略",
-    "SF6 リュウ 防御 解説",
-    "SF6 リュウ 防御 攻略",
     "SF6 リュウ 攻略 解説",
     "SF6 リュウ 攻略 攻略",
     "SF6 ルーク 対策 解説",
@@ -94,8 +113,6 @@
     "SF6 ケン 対策 攻略",
     "SF6 ケン コンボ 解説",
     "SF6 ケン コンボ 攻略",
-    "SF6 ケン 立ち回り 解説",
-    "SF6 ケン 立ち回り 攻略",
     "SF6 ケン 起き攻め 解説",
     "SF6 ケン 起き攻め 攻略",
     "SF6 ケン 防御 解説",
@@ -355,5 +372,5 @@
     "SF6 アレックス 攻略 解説",
     "SF6 アレックス 攻略 攻略"
   ],
-  "last_updated": "2026-03-28T14:10:32.832009"
+  "last_updated": "2026-03-28T14:36:16.180167"
 }

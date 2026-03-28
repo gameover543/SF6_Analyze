@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-03-28T14:10:32.832480",
+  "last_updated": "2026-03-28T14:36:16.180982",
   "videos": [
     {
       "video_id": "-TcI1Y2Gdlg",
@@ -14,6 +14,66 @@
       "tokens_used": 0,
       "processing_time_seconds": 336.7572178840637,
       "processed_at": "2026-03-28T14:10:32.830717",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "hWrADk0BeRo",
+      "url": "https://www.youtube.com/watch?v=hWrADk0BeRo",
+      "title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+      "channel_name": "カワノKawano",
+      "status": "completed",
+      "credibility_score": 0.919,
+      "relevance_score": 1.0,
+      "entries_extracted": 28,
+      "tokens_used": 0,
+      "processing_time_seconds": 454.42226791381836,
+      "processed_at": "2026-03-28T14:31:24.741394",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "51D9f56wynI",
+      "url": "https://www.youtube.com/watch?v=51D9f56wynI",
+      "title": "ガチ座学！遅らせ打撃は〇フレーム目を目指して打て！理解して使うと確実に強くなる「遅らせ打撃」の役割と最適化の仕方を徹底解説するぷげら【スト6】",
+      "channel_name": "ぷげら pugera",
+      "status": "completed",
+      "credibility_score": 0.891,
+      "relevance_score": 1.0,
+      "entries_extracted": 14,
+      "tokens_used": 0,
+      "processing_time_seconds": 285.6290988922119,
+      "processed_at": "2026-03-28T14:36:10.370937",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "2JEReN9fnQE",
+      "url": "https://www.youtube.com/watch?v=2JEReN9fnQE",
+      "title": "モダンルーク講座！立ち回りやコンボ、ドライブゲージの使い方を徹底解説します【スト6・カワノ】",
+      "channel_name": "カワノKawano",
+      "status": "completed",
+      "credibility_score": 0.885,
+      "relevance_score": 1.0,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 5.41697883605957,
+      "processed_at": "2026-03-28T14:36:15.788282",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "Jm25ovUu5Mc",
+      "url": "https://www.youtube.com/watch?v=Jm25ovUu5Mc",
+      "title": "【スト6】何したらいいか分からん人向け！ぷげらのエド講座（コンボ以外）",
+      "channel_name": "ぷげら pugera",
+      "status": "completed",
+      "credibility_score": 0.87,
+      "relevance_score": 1.0,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 0.38343310356140137,
+      "processed_at": "2026-03-28T14:36:16.173147",
       "skip_reason": null,
       "error": null
     }

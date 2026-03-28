@@ -1,37 +1,58 @@
 import { NextRequest, NextResponse } from "next/server";
 import { llm, type ChatMessage } from "@/lib/llm";
 import { getCharacterFrameData, filterMovesByControlType } from "@/lib/frame-data";
-import { buildCoachSystemPrompt, formatFrameDataForContext } from "@/lib/prompts";
+import {
+  buildCoachSystemPrompt,
+  buildCounselingPrompt,
+  formatFrameDataForContext,
+} from "@/lib/prompts";
+import type { UserProfile } from "@/types/profile";
 
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { messages, characterSlugs } = body as {
+    const { messages, characterSlugs, profile, mode } = body as {
       messages: ChatMessage[];
       characterSlugs?: string[];
+      profile?: UserProfile | null;
+      mode?: "counseling" | "coaching";
     };
 
     if (!messages || messages.length === 0) {
       return NextResponse.json({ error: "メッセージが必要です" }, { status: 400 });
     }
 
-    // 指定されたキャラのフレームデータをコンテキストに含める
-    let frameDataContext = "";
-    const slugs = characterSlugs || [];
+    let systemPrompt: string;
 
-    for (const slug of slugs.slice(0, 3)) {
-      // 最大3キャラ分（トークン節約）
-      try {
-        const data = getCharacterFrameData(slug);
-        const classicMoves = filterMovesByControlType(data.moves, "classic");
-        frameDataContext += formatFrameDataForContext(data.character_name, classicMoves);
-        frameDataContext += "\n";
-      } catch {
-        // キャラデータが見つからない場合はスキップ
+    if (mode === "counseling") {
+      // カウンセリングモード（初回ヒアリング）
+      systemPrompt = buildCounselingPrompt();
+    } else {
+      // コーチングモード（通常会話）
+      // プロフィールのメインキャラ + 選択キャラのフレームデータを含める
+      const slugs = new Set(characterSlugs || []);
+
+      // プロフィールのメインキャラを自動追加
+      if (profile?.mainCharacter) {
+        slugs.add(profile.mainCharacter);
       }
+
+      let frameDataContext = "";
+      for (const slug of Array.from(slugs).slice(0, 3)) {
+        try {
+          const data = getCharacterFrameData(slug);
+          const controlType = profile?.controlType || "classic";
+          const filteredMoves = filterMovesByControlType(data.moves, controlType);
+          frameDataContext += formatFrameDataForContext(data.character_name, filteredMoves);
+          frameDataContext += "\n";
+        } catch {
+          // キャラデータが見つからない場合はスキップ
+        }
+      }
+
+      systemPrompt = buildCoachSystemPrompt(frameDataContext, profile);
     }
 
-    const systemPrompt = buildCoachSystemPrompt(frameDataContext);
     const reply = await llm.chat(systemPrompt, messages);
 
     return NextResponse.json({ reply });

@@ -12,6 +12,15 @@ function frameColor(value: string): string {
   return "text-yellow-400";
 }
 
+/** フレーム値のバッジ背景色 */
+function frameBg(value: string): string {
+  const num = parseInt(value, 10);
+  if (isNaN(num)) return "bg-gray-800";
+  if (num > 0) return "bg-blue-900/50";
+  if (num < 0) return "bg-red-900/50";
+  return "bg-yellow-900/50";
+}
+
 /** 技タイプの日本語ラベル */
 const TYPE_LABELS: Record<string, string> = {
   NORMAL: "通常技",
@@ -28,6 +37,59 @@ const TYPE_ORDER = ["NORMAL", "UNIQUE", "SPECIAL", "SA", "THROW", "COMMON"];
 interface FrameTableProps {
   moves: MoveFrameData[];
   characterName: string;
+}
+
+/** スマホ用: 1技分のカード表示 */
+function MoveCard({
+  move,
+  controlType,
+}: {
+  move: MoveFrameData;
+  controlType: ControlType;
+}) {
+  const cmd = controlType === "classic" ? move.command : move.command_modern;
+
+  return (
+    <div className="border border-gray-800 rounded-lg p-3 hover:bg-gray-900/50">
+      {/* 技名 + コマンド */}
+      <div className="mb-2">
+        <div className="text-white font-medium text-sm">{move.skill}</div>
+        {cmd && (
+          <div className="text-gray-400 font-mono text-xs mt-0.5">{cmd}</div>
+        )}
+      </div>
+
+      {/* フレームデータ（グリッド） */}
+      <div className="grid grid-cols-4 gap-1.5 text-xs">
+        <div className="text-center">
+          <div className="text-gray-500">発生</div>
+          <div className="text-yellow-300 font-medium">
+            {move.startup_frame || "-"}
+          </div>
+        </div>
+        <div className="text-center">
+          <div className="text-gray-500">ガード</div>
+          <div
+            className={`font-medium rounded px-1 ${frameBg(move.block_frame)} ${frameColor(move.block_frame)}`}
+          >
+            {move.block_frame || "-"}
+          </div>
+        </div>
+        <div className="text-center">
+          <div className="text-gray-500">ヒット</div>
+          <div
+            className={`font-medium rounded px-1 ${frameBg(move.hit_frame)} ${frameColor(move.hit_frame)}`}
+          >
+            {move.hit_frame || "-"}
+          </div>
+        </div>
+        <div className="text-center">
+          <div className="text-gray-500">ダメージ</div>
+          <div className="text-white font-medium">{move.damage || "-"}</div>
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default function FrameTable({ moves, characterName }: FrameTableProps) {
@@ -63,7 +125,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
   return (
     <div>
       {/* コントロール */}
-      <div className="flex flex-wrap items-center gap-4 mb-6">
+      <div className="flex flex-wrap items-center gap-3 mb-6">
         {/* Classic/Modern切替 */}
         <div className="flex rounded-lg border border-gray-700 overflow-hidden">
           <button
@@ -94,18 +156,19 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           placeholder="技名・コマンドで検索..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="flex-1 min-w-[200px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
+          className="flex-1 min-w-[160px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
         />
 
-        <span className="text-sm text-gray-500">
-          {searched.length}技 / {characterName}
+        <span className="text-xs text-gray-500">
+          {searched.length}技
         </span>
       </div>
 
-      {/* 技テーブル */}
+      {/* 技リスト */}
       {sortedTypes.map((type) => {
         const typeMoves = grouped[type];
-        const isExpanded = expandedType === null || expandedType === type || search !== "";
+        const isExpanded =
+          expandedType === null || expandedType === type || search !== "";
 
         return (
           <div key={type} className="mb-6">
@@ -113,9 +176,13 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
               onClick={() =>
                 setExpandedType(expandedType === type ? null : type)
               }
-              className="flex items-center gap-2 mb-2 text-lg font-semibold text-gray-300 hover:text-white transition"
+              className="flex items-center gap-2 mb-2 text-base font-semibold text-gray-300 hover:text-white transition"
             >
-              <span className={isExpanded ? "rotate-90" : ""}>▶</span>
+              <span
+                className={`text-xs transition-transform ${isExpanded ? "rotate-90" : ""}`}
+              >
+                ▶
+              </span>
               {TYPE_LABELS[type] || type}
               <span className="text-sm font-normal text-gray-500">
                 ({typeMoves.length})
@@ -123,71 +190,97 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
             </button>
 
             {isExpanded && (
-              <div className="overflow-x-auto">
-                <table className="w-full text-sm border-collapse">
-                  <thead>
-                    <tr className="border-b border-gray-800 text-gray-500 text-left">
-                      <th className="py-2 px-2 font-medium">技名</th>
-                      <th className="py-2 px-2 font-medium">コマンド</th>
-                      <th className="py-2 px-2 font-medium text-center">発生</th>
-                      <th className="py-2 px-2 font-medium text-center">持続</th>
-                      <th className="py-2 px-2 font-medium text-center">硬直</th>
-                      <th className="py-2 px-2 font-medium text-center">ガード</th>
-                      <th className="py-2 px-2 font-medium text-center">ヒット</th>
-                      <th className="py-2 px-2 font-medium text-center">ダメージ</th>
-                      <th className="py-2 px-2 font-medium text-center">属性</th>
-                      <th className="py-2 px-2 font-medium text-center">C</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {typeMoves.map((move, i) => (
-                      <tr
-                        key={`${move.web_id}-${i}`}
-                        className="border-b border-gray-800/50 hover:bg-gray-900/50"
-                      >
-                        <td className="py-2 px-2 text-white">{move.skill}</td>
-                        <td className="py-2 px-2 text-gray-300 font-mono text-xs">
-                          {controlType === "classic"
-                            ? move.command
-                            : move.command_modern}
-                        </td>
-                        <td className="py-2 px-2 text-center text-yellow-300">
-                          {move.startup_frame}
-                        </td>
-                        <td className="py-2 px-2 text-center text-gray-400">
-                          {move.active_frame}
-                        </td>
-                        <td className="py-2 px-2 text-center text-gray-400">
-                          {move.recovery_frame}
-                        </td>
-                        <td
-                          className={`py-2 px-2 text-center font-medium ${frameColor(
-                            move.block_frame
-                          )}`}
-                        >
-                          {move.block_frame}
-                        </td>
-                        <td
-                          className={`py-2 px-2 text-center font-medium ${frameColor(
-                            move.hit_frame
-                          )}`}
-                        >
-                          {move.hit_frame}
-                        </td>
-                        <td className="py-2 px-2 text-center">
-                          {move.damage}
-                        </td>
-                        <td className="py-2 px-2 text-center text-gray-400">
-                          {move.attribute}
-                        </td>
-                        <td className="py-2 px-2 text-center text-gray-400">
-                          {move.web_cancel}
-                        </td>
+              <>
+                {/* スマホ: カード表示 */}
+                <div className="md:hidden flex flex-col gap-2">
+                  {typeMoves.map((move, i) => (
+                    <MoveCard
+                      key={`${move.web_id}-${i}`}
+                      move={move}
+                      controlType={controlType}
+                    />
+                  ))}
+                </div>
+
+                {/* PC: テーブル表示 */}
+                <div className="hidden md:block overflow-x-auto">
+                  <table className="w-full text-sm border-collapse">
+                    <thead>
+                      <tr className="border-b border-gray-800 text-gray-500 text-left">
+                        <th className="py-2 px-2 font-medium">技名</th>
+                        <th className="py-2 px-2 font-medium">コマンド</th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          発生
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          持続
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          硬直
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          ガード
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          ヒット
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          ダメージ
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          属性
+                        </th>
+                        <th className="py-2 px-2 font-medium text-center">
+                          C
+                        </th>
                       </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
+                    </thead>
+                    <tbody>
+                      {typeMoves.map((move, i) => (
+                        <tr
+                          key={`${move.web_id}-${i}`}
+                          className="border-b border-gray-800/50 hover:bg-gray-900/50"
+                        >
+                          <td className="py-2 px-2 text-white">{move.skill}</td>
+                          <td className="py-2 px-2 text-gray-300 font-mono text-xs">
+                            {controlType === "classic"
+                              ? move.command
+                              : move.command_modern}
+                          </td>
+                          <td className="py-2 px-2 text-center text-yellow-300">
+                            {move.startup_frame}
+                          </td>
+                          <td className="py-2 px-2 text-center text-gray-400">
+                            {move.active_frame}
+                          </td>
+                          <td className="py-2 px-2 text-center text-gray-400">
+                            {move.recovery_frame}
+                          </td>
+                          <td
+                            className={`py-2 px-2 text-center font-medium ${frameColor(move.block_frame)}`}
+                          >
+                            {move.block_frame}
+                          </td>
+                          <td
+                            className={`py-2 px-2 text-center font-medium ${frameColor(move.hit_frame)}`}
+                          >
+                            {move.hit_frame}
+                          </td>
+                          <td className="py-2 px-2 text-center">
+                            {move.damage}
+                          </td>
+                          <td className="py-2 px-2 text-center text-gray-400">
+                            {move.attribute}
+                          </td>
+                          <td className="py-2 px-2 text-center text-gray-400">
+                            {move.web_cancel}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </>
             )}
           </div>
         );

@@ -4,6 +4,9 @@ import json
 import subprocess
 import re
 import logging
+import shutil
+import sys
+from pathlib import Path
 from typing import Iterator
 
 from .schemas import VideoCandidate
@@ -24,6 +27,21 @@ class VideoDiscoverer:
     def __init__(self, config: PipelineConfig):
         self.config = config
         self._exclude_re = [re.compile(p) for p in EXCLUDE_PATTERNS]
+        # yt-dlpのパスを解決（venv内を優先）
+        self._ytdlp = self._find_ytdlp()
+
+    @staticmethod
+    def _find_ytdlp() -> str:
+        """yt-dlpの実行パスを探す"""
+        # 現在のPythonと同じvenv内を最優先
+        venv_bin = Path(sys.executable).parent / "yt-dlp"
+        if venv_bin.exists():
+            return str(venv_bin)
+        # PATHから探す
+        found = shutil.which("yt-dlp")
+        if found:
+            return found
+        return "yt-dlp"  # フォールバック（見つからなければエラーになる）
 
     # --- メインAPI ---
 
@@ -157,7 +175,7 @@ class VideoDiscoverer:
     ) -> Iterator[VideoCandidate]:
         """yt-dlpでプレイリスト/検索結果からメタデータを取得"""
         cmd = [
-            "yt-dlp",
+            self._ytdlp,
             "--flat-playlist",
             "--dump-json",
             "--no-warnings",
@@ -205,7 +223,7 @@ class VideoDiscoverer:
     def _fetch_video_metadata(self, url: str) -> VideoCandidate | None:
         """単一動画のメタデータを取得"""
         cmd = [
-            "yt-dlp",
+            self._ytdlp,
             "--dump-json",
             "--no-warnings",
             "--skip-download",

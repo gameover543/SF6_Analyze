@@ -8,6 +8,7 @@ from .schemas import VideoCandidate, KnowledgeEntry
 from .prompts import EXTRACTION_PROMPT
 from .budget import BudgetTracker
 from .config import PipelineConfig, CHARACTER_JP_NAMES
+from .move_resolver import MoveResolver
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +23,7 @@ class KnowledgeExtractor:
         self.config = config
         self.budget = budget
         self._client = None
+        self._resolver = MoveResolver(config.frame_data_dir)
 
     def _get_client(self):
         if self._client is None:
@@ -102,6 +104,12 @@ class KnowledgeExtractor:
             if matchup and matchup not in VALID_SLUGS:
                 matchup = None
 
+            # 技名解決: LLMが出力したreferenced_move_namesをweb_idに変換
+            move_names = raw.get("referenced_move_names", [])
+            referenced_moves = self._resolver.resolve_for_entry(
+                content, raw.get("source_quote", ""), characters
+            )
+
             entry = KnowledgeEntry(
                 category=category,
                 topic=raw.get("topic", "")[:50],
@@ -117,6 +125,10 @@ class KnowledgeExtractor:
                 confidence=1.0,  # バリデーション後に調整
                 channel_trust=candidate.channel_trust,
                 extracted_at=now,
+                # パッチ鮮度管理フィールド
+                game_version=self._resolver.get_game_version(),
+                video_upload_date=candidate.upload_date or "",
+                referenced_moves=referenced_moves,
             )
             entry.generate_id()
             entries.append(entry)

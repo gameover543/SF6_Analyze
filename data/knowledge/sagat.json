@@ -1,0 +1,292 @@
+{
+  "slug": "sagat",
+  "entries": [
+    {
+      "id": "6899bff378d5",
+      "category": "combo",
+      "topic": "強アパカ締め",
+      "content": "強アパカをコンボの締めに使用すると、高ダメージで起き攻めにも移行できるため非常に優秀です。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "コンボの締めとして",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "00:00",
+      "source_quote": "まず一つが強アパカを当てちゃうこと！コンボで使うと めちゃめちゃ優秀で ダメージも取れて状況もいいんで アパ強アパカ締めを目指す。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "0f85663400e8",
+      "category": "combo",
+      "topic": "しゃがみ大Pからの強アパカ確認",
+      "content": "しゃがみ大P（ crouching Heavy Punch）がヒットした際に強アパカへ繋ぐ場合、強アパカのコマンドを先に仕込んでおき、しゃがみ大Pのヒットを確認してから最後のボタンを押すことで、ヒット確認を容易に行うことができます。相手の動きを見て「当たった」と判断した時のみ強アパカを発動します。相手が動いていない時は出さずにガードするなど、リスクを減らす意識を持つことも重要です。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ大Pヒット時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "00:34",
+      "source_quote": "強アパカ締めをするためにはどうするかっていうと、ま、しゃがみ中パンを当てるってのもいいけど、しゃがみ大パンを振る。コマンドだけ仕込んどいて、あとはもう、タゲコン確認と一緒。なんか当たったなと思ったら、なんか当たったなと思った時に打つ。頑張ればヒット確認結構できるっぽいんだけど、漏らすと痛いから、最初は、こういうのには出さなくていいから、なんかこうやって、ためあって、相手が動いたの見て、これは当たったなっていう時だけ（打つ）。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104"
+      ]
+    },
+    {
+      "id": "aa8448efdb7e",
+      "category": "combo",
+      "topic": "立弱K差し返しからの強アパカ",
+      "content": "相手が隙のある長い技を繰り出してきた際に、立弱K（Standing Light Kick）で差し返し、そのまま強アパカに繋ぐコンボが非常に強力です。立弱Kのリーチと強アパカのダメージおよび起き攻め状況が優れているため、信頼して振ることができます。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "相手の長い技の隙を差し返す時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "01:29",
+      "source_quote": "もう一つが、ま、この辺色々ね、長い技やってたら相手も、技を置いたりなんだり色々するんだけど、この距離で技を置くってことは、そこそこ隙がある技を置くことになるから相手も中攻撃以上に、そこに空振らせて立弱Kで差し返して強アパカ。これ推しです。これ見たらヤバいけど、ここで届くから本当に信頼して打っていい。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "dce4c7374f27",
+      "category": "combo",
+      "topic": "ジャンプ攻撃やコパンからの強アパカ",
+      "content": "ジャンプ攻撃がヒットした際や、コパン（Light Punch）がカウンターヒットした際に、そのまま強アパカへ繋ぐことでダメージと起き攻め状況を確保できます。Dゲージがある場合はラッシュで起き攻めをすることでより攻めを継続できます。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "ジャンプ攻撃ヒット時、コパンカウンターヒット時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "02:49",
+      "source_quote": "飛びとかね、飛んで飛びが入った時とかも、しゃがみ中パンとかにつないで（強アパカ）つないじゃって。なんか立ち回りでこうやってコパンカウンターとか入ったら、コパン中パンから強アパカにつないじゃって、でラッシュで起き攻めするっていうのが一つのゴール。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "102"
+      ]
+    },
+    {
+      "id": "b129052dee33",
+      "category": "combo",
+      "topic": "引大Pネクサスを使用した高ダメージコンボ",
+      "content": "コンボに引大Pネクサス（Heavy Punch Nexus）を組み込むことで、ダメージを大幅に増加させることができます。特にラッシュ中P（Drive Rush Medium Punch）や、近距離での中P（Medium Punch）カウンターヒットから繋ぐのが効果的です。ノーゲージでもダメージが大きく、端に運んだ際の追撃も強力です。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "コンボダメージを最大化したい時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "03:09",
+      "source_quote": "もう一つのゴールが、コンボで大攻撃をぶち込む。できれば、コンボに引大Pをぶち込むと、手軽に高いコンボができるから。これノーゲージで中パンカウンター程度からこのダメージとか想像でないんで。で、端も、龍の大足昇龍みたいな感じで、ノーゲージでこのパーツを入れられると、めちゃめちゃ高くなる。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "202"
+      ]
+    },
+    {
+      "id": "9a06a88c7ec2",
+      "category": "combo",
+      "topic": "SA1使用時の高効率コンボ",
+      "content": "SA1（スーパーアーツ1）を使用する際は、しゃがみ中P（crouching Medium Punch）から大K（Heavy Kick）へ繋ぎ、そこからSA1を発動すると、Dゲージを全く消費せずに高効率のダメージを出すことができます。SA1を無駄なく活用するためのルートとして有効です。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "SA1を使用したい時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "05:15",
+      "source_quote": "SAを使いたい時はしゃがみ中パンから大Kって行けると、DSゲージを全く使わずに高効率のコンボができます。これだけで4900。SA1にしても3500ぐらいかな。3でもそんなに悪いダメージじゃない。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "105",
+        "108",
+        "400"
+      ]
+    },
+    {
+      "id": "79b7bd634bb1",
+      "category": "oki",
+      "topic": "ラッシュ中Pガード後の遅らせ中P",
+      "content": "ラッシュ中P（Drive Rush Medium Punch）がガードされた場合、相手は-2フレーム不利になりますが、間髪入れずに次の攻撃を出すと連ガになりやすいです。次の技を少しだけ遅らせて（体感で中Pと中Pの間を少し開けるように）出すことで、相手の暴れを潰しつつ、有利状況を維持できます。これは練習が必要です。中Pカウンターヒットからは引大Pネクサスに繋いで高ダメージコンボを狙えます。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ中Pガード後",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "05:37",
+      "source_quote": "起き攻めして中パン重ねたガードされたっていう時とかも、この時に絶対やっちゃいけないのが中パンって連打すると、これ連打になっちゃうから。プラロックからロックフレ出しちゃって連打になっちゃうから。Dゲージ削りがちょっと確定するだけになっちゃう。ここは連打しないようにする絶対。ここちょっとだけ間を開けるようにする、体感で中パンってちょっとだけ開けるように（練習）。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102"
+      ]
+    },
+    {
+      "id": "07bb77ef9cc0",
+      "category": "defense",
+      "topic": "ステローに対する垂直ジャンプ",
+      "content": "相手のステロー（しゃがみ中K）は発生が早く、リーチも長いため強力ですが、垂直ジャンプで対応することで、一方的に攻撃を当てることができます。特に、ステロー読みの垂直ジャンプ大Kは非常に強力な対空手段となります。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "相手がステローを多用する時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "19:26",
+      "source_quote": "垂直ジャンプとかいうのがあるんだけど、サガットさんはステローで垂直を振るっていう意識を持っていれば、ステハイで（垂直大K）結構あっさり狩れるから。すっごい一方勝ちするでしょ。これ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "109"
+      ]
+    },
+    {
+      "id": "2c5e6e7fad29",
+      "category": "neutral",
+      "topic": "ステローでの立ち回り",
+      "content": "サガットのしゃがみ中K（ステロー）は非常に強力な技です。リーチが長く、ガードされても有利、ヒット時は＋3Fの有利を取れます。この技を中心に、相手の動きを見てしゃがみ中Pや中足、近距離でのジャクジャク（Light Punch x2）からの暴れ潰しなど、様々な択を仕掛けることで主導権を握れます。また、Dゲージがある場合はラッシュ中Pに繋ぐことでさらに強力な攻めが可能です。相手がしゃがむほど技が振りやすくなるため、相手にしゃがみを意識させる動きも重要です。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "立ち回り",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "21:20",
+      "source_quote": "立ち回りや、基本はとりあえず、この辺（地上技）を使っていって、ここから下段？中段？投げ？ってなるのを仕掛けられればいい。地上技とかで暴れ潰しとか投げとかもいいし、遠い距離で、ダッシュの大パンとかもいいと思う。ステハイじゃなくて大Kとか。ここから下段？本田の大体ステローにして欲しいでこわすみたいな。これ全部できる。これはもう全キャラ見て欲しい。とりあえずサガットは、こういう立ち回り技が強いから、強気で振っていこう。ま、遠いからとりあえず強キックやってみていいかな。しゃが中からOOネクサスって繋がります？宇宙だ。か、かっこいいな。J Pとかマリーザより早いらしいっすね。ステハイじゃなくて大Kか。ダルシムの大パンだと思うと強い。この対面の勝率がEASYですわ。しゃがめばしゃがむほど振りやすくなるし。しゃがみ大パンとかもこれカラブるとやっぱ差し返し怖いんだけど、ぶつけやすくなる。ステローの方は長いね。ステローの方が長い。何よりもステローが長い。何よりもステローが長い。なによりもステローが長い。ステローの方が長い。立ち大パンも。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "105",
+        "108",
+        "109"
+      ]
+    },
+    {
+      "id": "af8d80c39c94",
+      "category": "neutral",
+      "topic": "弾の打ち方",
+      "content": "サガットは遅い弾がないため、安易に弾を打ちすぎると相手に飛び込まれて反撃を受けやすくなります。OD下段弾は発生・弾速が非常に速く強力ですが、威力が低い（ダメージがない）ため、これを連打しても相手は倒せません。そのため、基本的には地上技での肉弾戦を意識しつつ、Dゲージが余った時にOD下段弾や強玉を撒く程度にとどめるのが効果的です。これにより、相手に弾を意識させつつ、自分はリスクを抑えて立ち回ることができます。",
+      "characters": [
+        "sagat"
+      ],
+      "matchup": null,
+      "situation": "弾を撃つ時",
+      "source_video_id": "CHhf0G4_RtI",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+      "source_timestamp": "29:50",
+      "source_quote": "弾については、基本的にはあんまりゲージを使わないから、余ったゲージでちょいちょいODした玉とか、強玉とかでまぶす。ODは下玉が本当に強くて、発生も爆速だし、弾速もヤケクソだしで。これ強いからってとりあえず連打で売ってると相手死なない。だからまぶす程度に。ODは下玉が本当に強くて、発生も爆速だし、弾速もヤケクソだしで。めっちゃ強いけど強すぎるから威力そんなにないんすよね。威力そんなにないからこれ強いからってとりあえずで売ってると相手死なないっす。だからまぶす程度に。基本的には地上技とかで肉弾戦で相手を倒すことを意識しつつ、あんまりゲージを使わないから、余ったゲージでちょいちょいODした玉とか、強玉とかでまぶす。って言ってるうちに相手が弾の意識とか弾を喰らいたくないなってなってる所に自分はステローとか地上戦振るってのができたりするから。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:27:54.474142",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    }
+  ],
+  "last_updated": "2026-03-29T07:27:54.475746",
+  "source_video_count": 1,
+  "last_validated_version": "2"
+}

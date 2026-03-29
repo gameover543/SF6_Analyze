@@ -1,0 +1,693 @@
+{
+  "slug": "elena",
+  "entries": [
+    {
+      "id": "6431253cd5ed",
+      "category": "neutral",
+      "topic": "立ち中Pの利用法",
+      "content": "立ち中Pはエレナの振りやすい主力技で、ガードされても反撃を受けにくく、カウンターヒットすれば立ち弱Kに繋がる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、牽制",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:08",
+      "source_quote": "立ち中パンチ。これ結構強い。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "102"
+      ]
+    },
+    {
+      "id": "3c40d2831933",
+      "category": "combo",
+      "topic": "立中Pからのコンボ",
+      "content": "立ち中Pがカウンターヒットした場合、立ち弱Kに繋がり、その後は弱ライノホーン、弱昇竜、または弱スクラッチホイールで追撃可能。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "立中Pカウンターヒット時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:11",
+      "source_quote": "カウンターするだけで、えー、立ち弱Kが繋がるようになったりして、立ち弱Kが繋がるから、えー、弱Kから、えー、弱ライノホーンか、弱昇竜",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "102"
+      ]
+    },
+    {
+      "id": "cfcd8bdf5b35",
+      "category": "combo",
+      "topic": "立中Kパニカンコンボ",
+      "content": "相手の技を差し返して立ち中Kがパニッシュカウンターした場合、立ち大Kに繋がる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "立中Kパニッシュカウンター時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:30",
+      "source_quote": "たまたまなんか相手の技差し返して、パニカン取ったら、立ち中K、ま、コンボ用に良くなる立ち中K、たら立ち大K",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103",
+        "105"
+      ]
+    },
+    {
+      "id": "7828d395bc8b",
+      "category": "oki",
+      "topic": "立中K〆からの起き攻め",
+      "content": "コンボを立ち中K > 立ち大Kで締めた後、ドライブラッシュで起き攻めを展開し、投げを仕掛けたり、投げフェイントから下がることで相手を揺さぶる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "コンボ後の起き攻め",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:38",
+      "source_quote": "っていうタゲコンを使って、で、これまたホーンとかで閉めてラッシュで起き攻め。ラッシュで走って投げか、投げと見せかけて下がるか。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103",
+        "105"
+      ]
+    },
+    {
+      "id": "b9d4defd262f",
+      "category": "oki",
+      "topic": "ドライブラッシュからの起き攻め",
+      "content": "ドライブラッシュから立ち中Kを重ねることで、強力な起き攻め圧力をかけられる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "起き攻め",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:46",
+      "source_quote": "ラッシュしてて立ち中Kをガンって埋めるか。これだけで、これだけでかなり出しでるす。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ]
+    },
+    {
+      "id": "7d1e011afc1e",
+      "category": "neutral",
+      "topic": "しゃがみ中Pの性質",
+      "content": "エレナのしゃがみ中Pは発生8Fで、キンバリーやジェイミーの立ち中Kに似た用途を持つ。置き技としてではなく、当てに行ってからドライブラッシュキャンセルで攻めの起点とする。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、地上戦",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "00:51",
+      "source_quote": "しゃがみ中パンチ。他のキャラのしゃがみ中パンチとちょっと性質が違って、ま、用途的には、えー、キンバリーとかジェイミーの立ち中Kに近いかな。あんまカラブルもんでもなくて、えー、発生も8、置き技っていうよりは、これ当てに行って、えー、キャンセルラッシュとか攻めの起点にするのがしゃがみ中パンチ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "103",
+        "108"
+      ]
+    },
+    {
+      "id": "552c23d5b0a8",
+      "category": "neutral",
+      "topic": "しゃがみ中Pのリーチ",
+      "content": "しゃがみ中Pは同キャラの道着キャラのしゃがみ中Pよりもリーチが長く、エレナの中足と同じくらいのリーチを持つため、比較的振りやすい。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "01:12",
+      "source_quote": "普通に振っても道着のしゃがみ中Pとかよりは全然長いし、自分の弱中足と大体同じようなリーチしてるから、ある程度振りやすいす。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "109"
+      ]
+    },
+    {
+      "id": "83398fd9e629",
+      "category": "neutral",
+      "topic": "しゃがみ中Pと立中Pの使い分け",
+      "content": "同じ距離で牽制として振るだけなら立ち中Pが振りやすいが、ドライブラッシュやゲージを使ったコンボに繋げたい場合はしゃがみ中Pを使う。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、ゲージ状況",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "01:20",
+      "source_quote": "同じ距離で振るだけなら立ち中パンチが振りやすいんだけど、ラッシュしたいなあとか、ゲージ使ってコンボしたいなっていう時はしゃがみ中パンチ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108"
+      ]
+    },
+    {
+      "id": "187702bd4eb3",
+      "category": "combo",
+      "topic": "しゃがみ中P始動コンボの基本",
+      "content": "しゃがみ中Pがヒットしたら、キャンセルラッシュから立中K > しゃがみ大P > 大スピンサイズに繋ぐのが基本的なコンボルート。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中Pヒット時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "01:28",
+      "source_quote": "しゃがみ中パンチからは、ラッシュして、当たってたら、立ち中Kしゃがみ大P大スピンサイズ",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "103",
+        "108"
+      ]
+    },
+    {
+      "id": "c35d2d698c31",
+      "category": "combo",
+      "topic": "しゃがみ中P始動コンボの追撃",
+      "content": "しゃがみ中P > キャンセルラッシュ > 立中K > しゃがみ大P > 大スピンサイズの後、中ライノホーンで締めるのが安定。画面端が近い場合は弱ライノホーン > 強スクラッチホイールで高ダメージ。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中P始動コンボ",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "01:40",
+      "source_quote": "この後に、ま、中ホーンとりあえず安定なのかなっていうのと画面端近かったら弱ライノホーン。行くと強昇竜で追撃ができていい感じのダメージになります。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108"
+      ]
+    },
+    {
+      "id": "abcc824e5dce",
+      "category": "combo",
+      "topic": "しゃがみ中P始動コンボ（SA3）",
+      "content": "しゃがみ中P > キャンセルラッシュ > 立中K > しゃがみ大P > 大スピンサイズ > ラッシュしゃがみ中P > 弱リンクシング(中派生) > SA3で大ダメージを狙うことができる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "SA3を絡めたコンボ",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "02:35",
+      "source_quote": "例えばこっからSA3とかね。しゃがみ中Pキャンセルラッシュ＞立中K＞しゃがみ大P＞大スピンサイズ＞ラッシュしゃがみ中P＞弱リンクシング(中派生)＞SA3。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "402"
+      ]
+    },
+    {
+      "id": "2f89d6a0402c",
+      "category": "defense",
+      "topic": "立ち中Pガード時の選択肢",
+      "content": "立ち中Pをガードされた場合、エレナのしゃがみコパは+3F、立ちコパは+2Fで、立ちコパは後退しやすい。ガードからの攻め継続やシミーに利用する。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "立中Pガード時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "03:05",
+      "source_quote": "ガードされた時は、ま、普通どおりエレナは立ちコパとかしゃがみコパが、しゃがみコパがプラ3で立ちコパがプラ2。立ちコパの方が後ろに下がりやすいんで、お好みで立ちコパ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "102"
+      ]
+    },
+    {
+      "id": "5ed468b4d7c3",
+      "category": "neutral",
+      "topic": "暴れ潰し",
+      "content": "立ち中Kは暴れ潰しとして有効。ガードさせて+1Fを取る。ノーマルヒットからコパン > 立ち弱Kが繋がり、コンボへ移行可能。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "相手の暴れに対して",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "03:26",
+      "source_quote": "暴れ潰しの有利取れる中攻撃。こいつ立ち中Kになってるんで、こういう道着が振れたら立ち中Kを暴れ潰しに使いつつプラスフレームを取って、ガードされてもコパン立ち弱K。でやるとノーマルヒットでもコパン立ち弱Kが繋がってそっから、えー、コンボ閉めることができ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "101",
+        "103"
+      ]
+    },
+    {
+      "id": "c3008c9a33bb",
+      "category": "neutral",
+      "topic": "立ち大Kのリーチ",
+      "content": "立ち大Kは非常にリーチが長く、牽制技として使いやすい。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、牽制",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "03:54",
+      "source_quote": "立ち大K。めっっっっっっっちゃ長いです。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105"
+      ]
+    },
+    {
+      "id": "52a8e4e3ae05",
+      "category": "combo",
+      "topic": "立大Kカウンターヒットからの追撃",
+      "content": "立ち大Kが近距離でカウンターヒットした場合、しゃがみコパンに繋がる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "立大K近距離カウンターヒット時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "04:02",
+      "source_quote": "しかも長い上に、まいの影響受けてかたまたま近くでカウンターしたらしゃがみコパンが繋がります。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "105"
+      ]
+    },
+    {
+      "id": "b41e436d06bf",
+      "category": "neutral",
+      "topic": "前大Pのヒット確認とフレーム",
+      "content": "前大Pはヒット確認が容易で、1段目で止めるとガードで-4Fとなり確反がない。相手の飛びやインパクトを誘う手段としても有効。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、ヒット確認",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "05:21",
+      "source_quote": "かつこれ、えー、ヒット確認がかなり、ちゃんとできるように作られてます。でヒット確認、これね。ちょっとやってみてほしいんですけど。そうんなに難しくないです。でこの1段目で止めるとこんぐらいの距離でマイナス4。ま、確反絶対ないっていう距離で撃てる。長い技で2000ダメージ出る長い技。ま、飛ばれたらヤバいし、インパクトもヤバいんだけど、飛びとかインパクトをこれで引き出すことができる、かなり使いやすいと思います。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "330"
+      ]
+    },
+    {
+      "id": "c78fa83fa271",
+      "category": "defense",
+      "topic": "前大Pのリスク管理",
+      "content": "前大Pはしゃがみガードされると空振ってしまい大きな隙を晒すため、入れ込みは厳禁。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "前大Pガード時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "10:41",
+      "source_quote": "ただミスってもガードされてマイナス3でいいんじゃんと思うんだけど、ミスってしゃがみガードされるとスカッちゃうんで入れ込みは厳禁。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "8d4e281d8d68",
+      "category": "neutral",
+      "topic": "立大Pの牽制での優先度",
+      "content": "立大Pはパニッシュカウンター時に高いリターンを得られるが、牽制としては立中Kや前大Pが優先される。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、牽制",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "11:06",
+      "source_quote": "だ、けどどっちかっていうと、なんかこう相手のパニカンの時にすごくリターンが出る技なんで、パニカンで使える状況を狙っていきたいかな。だから基本的には牽制にはこれとかこれを、立ち中Kとか前大Pを使っていっく感じですね。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ]
+    },
+    {
+      "id": "a288b2ce4249",
+      "category": "combo",
+      "topic": "立大Pパニカンからのコンボ（高ダメージ）",
+      "content": "立大Pがパニッシュカウンターした場合、立大P > 生ラッシュ > しゃがみ中P > 強スピンサイズ > 弱ライノホーン > 強スクラッチホイールで高いダメージと運び性能を持つコンボを狙える。これだけでドライブラッシュゲージ1本で4000ダメージ近く出る。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "立大Pパニッシュカウンター時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "13:51",
+      "source_quote": "大パンチでパニカン取ってさっきやったやつ。立大P（パニカン）＞立大P＞ラッシュしゃがみ中P＞強スピンサイズ＞弱ライノホーン＞強スクラッチホイール。運びもえぐいしダメージも全然効率いいです。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "108",
+        "324"
+      ]
+    },
+    {
+      "id": "5c9836a4d2a8",
+      "category": "defense",
+      "topic": "インパクト返し",
+      "content": "ドライブインパクトを当てた場合、パニッシュカウンターと同じ浮き方をするため、生ラッシュ > しゃがみ中P > 大スピン > ライノホーンで追撃できる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ドライブインパクトヒット時",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "16:46",
+      "source_quote": "インパクト当てた時もあんま変わんないす。えーと、ま、めっちゃ一発は変わんないのかもしれないけど、とりあえずちょちょっと待って大Pタゲコン。パニカンで当てた時と同じような浮き方するから、すると、ほら、生ラッシュからしゃがみ中P大スピン。で、ライノホーン。で、って感じでとりあえず十分かな。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "602"
+      ]
+    },
+    {
+      "id": "209bc890d403",
+      "category": "neutral",
+      "topic": "ラッシュ中段（前中K）",
+      "content": "エレナのラッシュ中段（前中K）はヒット時に+6Fの有利フレームを取れるため、立中Kやターゲットコンボに繋げて高いリターンを狙える。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ドライブラッシュからの攻め",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "22:15",
+      "source_quote": "ラッシュ中段があるんで、このキャラ。舞中Kが中段技になってます。でこれ、普通に、いつもの、普通にラッシュ中段できるから、プラ6取れるラッシュ中段になってます。でプラ6ってことは立ち中Kが繋がる。立ち中Kが繋がるってことはタゲコンいけるからこんな感じ。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ]
+    },
+    {
+      "id": "33838a75ab77",
+      "category": "neutral",
+      "topic": "地上戦の基本",
+      "content": "エレナはリーチの長い地上技を活かした立ち回りが強力。牽制や確認を徹底し、ゲージが溜まっていればしゃがみ中Pからのラッシュで攻めを継続する。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "ニュートラル、地上戦",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "19:18",
+      "source_quote": "立ち回りはもう完全にさっき最初に言った技をこう振って、これで牽制したり、これで確認したりしつつゲージが余ってるようなら、しゃがみ中パンラッシュで。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108"
+      ]
+    },
+    {
+      "id": "1ff5fcca956f",
+      "category": "defense",
+      "topic": "対空",
+      "content": "対空は基本的に昇竜拳一本で対応する。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "対空",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "19:50",
+      "source_quote": "ま対空はもう昇竜一本で。とりあえず良くて。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "9a851e368a92",
+      "category": "neutral",
+      "topic": "地上戦の強み",
+      "content": "エレナはリーチの長い地上技が豊富で非常に強力。これらの技で地上を制圧することが強みとなる。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "地上戦",
+      "source_video_id": "tF9uoljjccM",
+      "source_channel": "ぷげら pugera",
+      "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+      "source_timestamp": "19:47",
+      "source_quote": "地上は本当に長くて、かなり強いと思うんで。なんか普通にとりあえず地上でこうやってった方が強みは出るかなっていう感じです。",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:23:40.266520",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    }
+  ],
+  "last_updated": "2026-03-29T07:23:40.274450",
+  "source_video_count": 1,
+  "last_validated_version": "2"
+}

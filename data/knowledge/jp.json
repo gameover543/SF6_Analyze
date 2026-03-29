@@ -1,0 +1,36 @@
+{
+  "slug": "jp",
+  "entries": [
+    {
+      "id": "0b5175647406",
+      "category": "neutral",
+      "topic": "JPの飛び道具マナー（ジョーク）",
+      "content": "「マナーバトル」では、JPの飛び道具は画面端まで届くように撃つべきであり、途中で消える飛び道具を出すのはマナーが悪いとされます。また、Vトリガー中の飛び道具も連打するのではなく、1回撃ったら立ち回りに戻るのがマナーとされます。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "飛び道具を撃つ際",
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "17:11",
+      "source_quote": "手前で消える弾、マナー悪くない？",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "607"
+      ]
+    }
+  ],
+  "last_updated": "2026-03-29T07:33:40.134365",
+  "source_video_count": 1,
+  "last_validated_version": "2"
+}

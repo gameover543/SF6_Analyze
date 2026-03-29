@@ -19,7 +19,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "48965c38caa2",
@@ -39,7 +45,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "71352c1bfba7",
@@ -59,7 +71,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "c3d12874fbd8",
@@ -79,7 +97,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "6f514917185b",
@@ -99,7 +123,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "75b6e2f031e6",
@@ -119,7 +149,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "43cffbca0aeb",
@@ -139,7 +175,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "ae3644fdc4ae",
@@ -159,7 +201,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "8908f23fe380",
@@ -179,7 +227,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "09c341d960e3",
@@ -199,7 +253,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "315b6649b474",
@@ -219,7 +279,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "a3d70e9020b1",
@@ -239,7 +305,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "e1628a186aa8",
@@ -259,9 +331,42 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:36:10.366048"
+      "extracted_at": "2026-03-28T14:36:10.366048",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "266d216fe933",
+      "category": "general",
+      "topic": "オンライン対戦のマナー（ジョーク）",
+      "content": "動画内での「マナーバトル」におけるジョークルールです。実際のマナーとは異なります。オンライン対戦では、安定した有線接続が推奨されます。試合開始前の挨拶は基本であり、挨拶を無視することや、対戦が始まる前に「対戦ありがとうございました」と言うのは失格とみなされます。相手に続けて2回投げを仕掛けることや、相手がバーンアウト中にドライブインパクトを繰り返したり、削りKOを狙ったり、JPのSA2（ラヴーシュカ）を多用すること、BGMを変更することはマナー違反とされます。勝利時に「強かったです」と相手に伝えるのも煽りとみなされることがあります。あくまでジョークですので、良いスト6ライフを楽しみましょう。",
+      "characters": [
+        "general"
+      ],
+      "matchup": null,
+      "situation": "オンライン対戦時",
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "09:54",
+      "source_quote": "マナー悪いっす",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     }
   ],
-  "last_updated": "2026-03-28T14:36:10.367739",
-  "source_video_count": 2
+  "last_updated": "2026-03-29T07:33:40.132860",
+  "source_video_count": 3,
+  "last_validated_version": "2"
 }

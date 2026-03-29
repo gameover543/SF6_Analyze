@@ -19,7 +19,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "187fa9b088bf",
@@ -40,9 +46,20 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "602",
+        "607"
+      ]
     }
   ],
   "last_updated": "2026-03-28T14:31:24.738310",
-  "source_video_count": 1
+  "source_video_count": 1,
+  "last_validated_version": "2"
 }

@@ -11,6 +11,7 @@ from pathlib import Path
 
 from .schemas import KnowledgeEntry
 from .config import PipelineConfig
+from .move_resolver import MoveResolver
 
 logger = logging.getLogger(__name__)
 
@@ -33,10 +34,16 @@ class FrameDataValidator:
     def __init__(self, config: PipelineConfig):
         self.config = config
         self._frame_data_cache: dict[str, list[dict]] = {}
+        self._resolver = MoveResolver(config.frame_data_dir)
 
     def validate_entries(self, entries: list[KnowledgeEntry]) -> list[KnowledgeEntry]:
-        """エントリ群をバリデーションし、confidence を調整"""
+        """エントリ群をバリデーションし、confidence を調整。referenced_movesも設定。"""
         for entry in entries:
+            # 技名解決: referenced_moves を自動設定
+            if not entry.referenced_moves:
+                entry.referenced_moves = self._resolver.resolve_for_entry(
+                    entry.content, entry.source_quote, entry.characters
+                )
             self._validate_entry(entry)
         return entries
 

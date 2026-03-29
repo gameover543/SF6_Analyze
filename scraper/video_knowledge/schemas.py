@@ -63,6 +63,13 @@ class KnowledgeEntry(BaseModel):
     channel_trust: float = 0.0
     frame_data_conflicts: list[str] = Field(default_factory=list)
     extracted_at: str = ""
+    # パッチ鮮度管理フィールド
+    game_version: str = ""  # フレームデータのバージョン（抽出時点）
+    video_upload_date: str = ""  # 動画のアップロード日 (YYYYMMDD)
+    referenced_moves: list[str] = Field(default_factory=list)  # 参照技のweb_id
+    staleness_status: str = "current"  # "current" | "possibly_stale" | "confirmed_stale"
+    staleness_reason: str = ""  # 例: "v2→v3: 立ち弱P startup 5→6"
+    last_validated_version: str = ""  # 最後にバリデーションしたバージョン
 
     def generate_id(self) -> str:
         """コンテンツベースの決定論的ID生成"""
@@ -84,6 +91,7 @@ class CharacterKnowledge(BaseModel):
     entries: list[KnowledgeEntry] = Field(default_factory=list)
     last_updated: str = ""
     source_video_count: int = 0
+    last_validated_version: str = ""  # 最後にバリデーションしたバージョン
 
 
 # --- チャンネル ---
@@ -101,6 +109,41 @@ class ChannelProfile(BaseModel):
     avg_knowledge_density: float = 0.0
     last_checked: str = ""
     note: str = ""
+
+
+# --- パッチ差分 ---
+
+class MoveDiff(BaseModel):
+    """1技の変更差分"""
+    web_id: str
+    move_name: str  # skillフィールドの値
+    character_slug: str
+    changed_fields: dict[str, list[str]] = Field(default_factory=dict)  # field -> [old, new]
+    impact_level: str = "unchanged"  # "value_changed" | "property_changed" | "removed" | "added"
+
+
+class CharacterDiff(BaseModel):
+    """1キャラの変更まとめ"""
+    slug: str
+    character_name: str = ""
+    changed_moves: list[MoveDiff] = Field(default_factory=list)
+    total_changes: int = 0
+
+
+class PatchDiff(BaseModel):
+    """パッチ差分全体"""
+    old_version: str
+    new_version: str
+    diffed_at: str = ""
+    characters: list[CharacterDiff] = Field(default_factory=list)
+    summary: str = ""  # AIプロンプト注入用の要約テキスト
+
+
+class PatchMeta(BaseModel):
+    """パッチ管理メタデータ（data/patches/_meta.json）"""
+    current_version: str = ""
+    patches: list[dict] = Field(default_factory=list)  # [{version, date, diff_file}]
+    last_updated: str = ""
 
 
 # --- カバレッジ ---

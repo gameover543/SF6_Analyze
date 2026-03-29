@@ -68,6 +68,12 @@ ${profileSection}
 - キャンセル: 「C」=必殺技キャンセル可、「SA」=SA可、「不可」=キャンセルできない
   ※「キャンセル:不可」の技からはドライブラッシュも必殺技キャンセルもできない。これを間違えると嘘のアドバイスになるので必ず確認すること
 
+## パッチ情報への対応
+- ⚠マーク・[旧バージョン情報]付きのナレッジは、パッチで変更された可能性がある
+- これらの知識の具体的な数値を信用せず、フレームデータを参照すること
+- ただし戦略的なアドバイス（「画面端では攻めを継続」等）はパッチ後も有効な場合が多い
+- 最新パッチ変更点が提供されている場合、質問に関連する変更があれば能動的に言及すること
+
 ## 参照フレームデータ
 ${frameDataContext}
 
@@ -165,7 +171,11 @@ function buildProfileSection(profile: UserProfile): string {
   return text;
 }
 
-/** フレームデータをLLMコンテキスト用のテキストに変換する */
+/** フレームデータをLLMコンテキスト用のテキストに変換する
+ *
+ * questionContext が指定された場合、質問に関連するカテゴリを優先的に含める。
+ * デフォルトでは NORMAL + SPECIAL + SA を含み、COMMON は省略（トークン節約）。
+ */
 export function formatFrameDataForContext(
   characterName: string,
   moves: Array<{
@@ -180,7 +190,8 @@ export function formatFrameDataForContext(
     attribute: string;
     web_cancel: string;
     move_type: string;
-  }>
+  }>,
+  questionContext?: string
 ): string {
   const lines = [`## ${characterName} のフレームデータ\n`];
 
@@ -193,6 +204,32 @@ export function formatFrameDataForContext(
     COMMON: "共通技",
   };
 
+  // 質問に応じて含めるカテゴリを動的選択
+  const alwaysInclude = new Set(["NORMAL", "SPECIAL", "SA"]);
+  const includeTypes = new Set(alwaysInclude);
+
+  if (questionContext) {
+    const q = questionContext.toLowerCase();
+    // 投げ関連
+    if (q.includes("投げ") || q.includes("グラップ") || q.includes("throw") || q.includes("コマ投げ")) {
+      includeTypes.add("THROW");
+    }
+    // 特殊技
+    if (q.includes("特殊技") || q.includes("ユニーク") || q.includes("ターゲットコンボ")) {
+      includeTypes.add("UNIQUE");
+    }
+    // 共通技（ドライブ系）
+    if (q.includes("共通技") || q.includes("ドライブ") || q.includes("パリィ") || q.includes("インパクト")) {
+      includeTypes.add("COMMON");
+    }
+    // 全技要求
+    if (q.includes("全技") || q.includes("一覧")) {
+      includeTypes.add("UNIQUE");
+      includeTypes.add("THROW");
+      includeTypes.add("COMMON");
+    }
+  }
+
   const grouped: Record<string, typeof moves> = {};
   for (const move of moves) {
     const type = move.move_type || "OTHER";
@@ -201,10 +238,11 @@ export function formatFrameDataForContext(
   }
 
   for (const [type, typeMoves] of Object.entries(grouped)) {
+    if (!includeTypes.has(type)) continue;
+
     lines.push(`### ${typeLabels[type] || type}`);
     for (const m of typeMoves) {
       const cmd = m.command || "";
-      // キャンセル情報を明示的に表記
       const cancelInfo = m.web_cancel
         ? `キャンセル:${m.web_cancel}`
         : "キャンセル:不可";
@@ -213,6 +251,13 @@ export function formatFrameDataForContext(
       );
     }
     lines.push("");
+  }
+
+  // 省略されたカテゴリがある場合、注記
+  const omitted = Object.keys(grouped).filter((t) => !includeTypes.has(t));
+  if (omitted.length > 0) {
+    const omittedNames = omitted.map((t) => typeLabels[t] || t).join("・");
+    lines.push(`※ ${omittedNames}は省略。質問に含めれば表示されます。`);
   }
 
   return lines.join("\n");

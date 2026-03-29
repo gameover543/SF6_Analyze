@@ -20,6 +20,7 @@ from config import ScraperConfig
 from auth import AuthManager
 from js_crawler import JSCrawler
 from js_extractor import JSFrameDataExtractor
+from patch_diff import snapshot_frame_data, compute_diff, save_diff
 
 # ログディレクトリの作成
 log_dir = Path(__file__).parent / "logs"
@@ -50,6 +51,9 @@ async def run_scraper(force: bool = False, targets: list[str] | None = None):
     auth = AuthManager(config)
     crawler = JSCrawler(config)
     extractor = JSFrameDataExtractor()
+
+    # パッチdiff用: スクレイピング前に旧データをスナップショット
+    old_snapshot = snapshot_frame_data(config.output_dir) if force else {}
 
     async with async_playwright() as p:
         # ブラウザコンテキストの取得（認証済み）
@@ -98,6 +102,23 @@ async def run_scraper(force: bool = False, targets: list[str] | None = None):
                 f"全{len(all_data)}キャラ抽出成功\n"
                 f"保存先: {config.output_dir}"
             )
+
+            # パッチdiff: 旧データと新データを比較
+            if force and old_snapshot:
+                new_snapshot = snapshot_frame_data(config.output_dir)
+                diff = compute_diff(old_snapshot, new_snapshot)
+                if diff:
+                    patches_dir = config.data_dir / "patches"
+                    save_diff(diff, patches_dir)
+                    logger.info(f"パッチdiff保存完了。ナレッジ再バリデーションを実行...")
+                    # 再バリデーション自動実行
+                    try:
+                        from video_knowledge.revalidator import revalidate_knowledge
+                        revalidate_knowledge(diff, config.data_dir)
+                    except ImportError:
+                        logger.warning("revalidator未実装。スキップ。")
+                    except Exception as e:
+                        logger.error(f"再バリデーション失敗: {e}")
 
         finally:
             await context.close()

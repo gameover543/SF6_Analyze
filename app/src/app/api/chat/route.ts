@@ -44,7 +44,9 @@ export async function POST(request: NextRequest) {
           const data = getCharacterFrameData(slug);
           const controlType = profile?.controlType || "classic";
           const filteredMoves = filterMovesByControlType(data.moves, controlType);
-          frameDataContext += formatFrameDataForContext(data.character_name, filteredMoves);
+          // 最新のユーザー質問を渡してフレームデータの選択的注入
+          const latestQuestion = messages.filter((m: ChatMessage) => m.role === "user").pop()?.content || "";
+          frameDataContext += formatFrameDataForContext(data.character_name, filteredMoves, latestQuestion);
           frameDataContext += "\n";
         } catch {
           // キャラデータが見つからない場合はスキップ

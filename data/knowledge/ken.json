@@ -20,7 +20,16 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109",
+        "602"
+      ]
     },
     {
       "id": "9b5caa0c41d3",
@@ -41,7 +50,16 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "107"
+      ]
     },
     {
       "id": "fed4006874e5",
@@ -62,7 +80,15 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "607"
+      ]
     },
     {
       "id": "959adc28a27c",
@@ -83,7 +109,15 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "606"
+      ]
     },
     {
       "id": "c11b849d7084",
@@ -104,7 +138,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "a9fecdeef36f",
@@ -125,7 +165,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "f93b8f44e4a5",
@@ -146,7 +192,13 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
     },
     {
       "id": "90e6846668a8",
@@ -167,9 +219,18 @@
       "confidence": 1.0,
       "channel_trust": 1.0,
       "frame_data_conflicts": [],
-      "extracted_at": "2026-03-28T14:31:24.724480"
+      "extracted_at": "2026-03-28T14:31:24.724480",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "606"
+      ]
     }
   ],
   "last_updated": "2026-03-28T14:31:24.737453",
-  "source_video_count": 1
+  "source_video_count": 1,
+  "last_validated_version": "2"
 }

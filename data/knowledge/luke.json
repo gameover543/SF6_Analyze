@@ -1,0 +1,146 @@
+{
+  "slug": "luke",
+  "entries": [
+    {
+      "id": "7755f04d17be",
+      "category": "combo",
+      "topic": "ルークの基本コンボ",
+      "content": "ルークはジャンプ中パンチ、立ち強パンチ、しゃがみ強パンチ、ジャンプ強キック、立ち中パンチ、ODライジングアッパーを繋げることで2990ダメージの基本コンボが可能です。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "00:28",
+      "source_quote": "何 のひねりもなくリーサルじゃねえかw",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ]
+    },
+    {
+      "id": "7dd2ec1c409c",
+      "category": "oki",
+      "topic": "スタン後のめくり連携",
+      "content": "ルークでスタン後の相手にめくり攻撃を狙う場合、バクステ後、前ステ2回、前ジャンプの入力でめくりが当たりやすくなります。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": "スタン後の起き攻め時",
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "01:18",
+      "source_quote": "バクステ前ステ2回前ジャンプでめくりで攻撃当たりませんか？",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    },
+    {
+      "id": "818bb188af4d",
+      "category": "combo",
+      "topic": "ルークの3030ダメージコンボ",
+      "content": "ルークで3030ダメージを出すコンボには、ドライブゲージ消費なし、サイドチェンジなし、飛び道具なしのルートが存在し、特定のセットプレイが求められます。スタン後の相手がダウンする際、ジャンプ強パンチの先端当て（表当て）から裏落ちでコンボを繋げるような精密な入力が必要です。ジャンプ中キックではこのダメージは出せません。モダンコントロールでも同様のダメージが出せます。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": "スタン後の起き攻め、ノーゲージ",
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "02:33",
+      "source_quote": "スタンの時倒れるじゃん、倒れる時にジャンプ大Pを表当てて→裏落ちでコンボするって感じだね。これ普通にジャンプ中Kでやっちゃうとダメなのよ",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "116",
+        "607"
+      ]
+    },
+    {
+      "id": "f9d4759de77e",
+      "category": "defense",
+      "topic": "スタン時のDDTダメージ",
+      "content": "ルークでスタン時に直接DDT（ドライブインパクト）を狙うのは、相手のドライブゲージが2.1本以下など少ない場合を除き、他のコンボよりダメージが低くなる傾向にあります。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": "スタン時、相手のドライブゲージが少ない時",
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "03:14",
+      "source_quote": "Dゲージが2.1本しかないとかそういう時だけだと思う",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "316",
+        "602"
+      ]
+    },
+    {
+      "id": "1975f021ff89",
+      "category": "general",
+      "topic": "ルークのコンボ難易度",
+      "content": "ルークの最大ダメージコンボは、「キモいフレーム消費」と呼ばれる非常に精密なフレーム入力が要求されるため、発見や習得が難しい場合があります。ダメージ効率を上げるためには、適切なフレーム消費のタイミングを見つける必要があります。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "eVLCEHSkbY0",
+      "source_channel": "カワノKawano",
+      "source_video_title": "バックジャンプ始動！？初めて見るルークのコンボがしっかり強くて感動するカワノ【スト6】",
+      "source_timestamp": "05:39",
+      "source_quote": "絶対見つけれないと思います キモいフレーム消費いるので",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-29T07:33:40.128172",
+      "game_version": "2",
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": []
+    }
+  ],
+  "last_updated": "2026-03-29T07:33:40.129442",
+  "source_video_count": 1,
+  "last_validated_version": "2"
+}

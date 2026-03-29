@@ -25,6 +25,13 @@ interface KnowledgeEntry {
   channel_trust: number;
   frame_data_conflicts: string[];
   extracted_at: string;
+  // パッチ鮮度管理
+  game_version: string;
+  video_upload_date: string;
+  referenced_moves: string[];
+  staleness_status: "current" | "possibly_stale" | "confirmed_stale";
+  staleness_reason: string;
+  last_validated_version: string;
 }
 
 interface CharacterKnowledge {
@@ -32,10 +39,12 @@ interface CharacterKnowledge {
   entries: KnowledgeEntry[];
   last_updated: string;
   source_video_count: number;
+  last_validated_version: string;
 }
 
 // ナレッジディレクトリのパス（プロジェクトルートの data/knowledge/）
 const KNOWLEDGE_DIR = path.join(process.cwd(), "..", "data", "knowledge");
+const PATCHES_DIR = path.join(process.cwd(), "..", "data", "patches");
 
 /**
  * キャラクターのナレッジデータを読み込む
@@ -46,6 +55,30 @@ function loadCharacterKnowledge(slug: string): CharacterKnowledge | null {
     if (!fs.existsSync(filePath)) return null;
     const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
     return data as CharacterKnowledge;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 最新のパッチ変更サマリーを読み込む
+ */
+function loadLatestPatchSummary(): string | null {
+  try {
+    const metaPath = path.join(PATCHES_DIR, "_meta.json");
+    if (!fs.existsSync(metaPath)) return null;
+
+    const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+    const patches = meta.patches || [];
+    if (patches.length === 0) return null;
+
+    // 最新のdiffファイルを読む
+    const latest = patches[patches.length - 1];
+    const diffPath = path.join(PATCHES_DIR, latest.diff_file);
+    if (!fs.existsSync(diffPath)) return null;
+
+    const diff = JSON.parse(fs.readFileSync(diffPath, "utf-8"));
+    return diff.summary || null;
   } catch {
     return null;
   }
@@ -108,6 +141,10 @@ function filterRelevantEntries(
     // チャンネル信頼度による重み付け
     score *= 0.5 + entry.channel_trust * 0.5;
 
+    // 鮮度ペナルティ
+    if (entry.staleness_status === "confirmed_stale") score *= 0.3;
+    else if (entry.staleness_status === "possibly_stale") score *= 0.6;
+
     return { entry, score };
   });
 
@@ -169,16 +206,35 @@ export function buildKnowledgeContext(
     `## プロ選手の知識（動画から抽出・検証済み / ${selected.length}件）\n`,
   ];
 
+  // パッチサマリーがあれば先頭に注入
+  const patchSummary = loadLatestPatchSummary();
+  if (patchSummary) {
+    lines.push(`### 最新パッチ変更点`);
+    lines.push(patchSummary);
+    lines.push(`（⚠マーク付き知識はこの変更に関連。フレームデータを優先すること）`);
+    lines.push("");
+  }
+
   for (const entry of selected) {
     const source = `${entry.source_channel}（${entry.source_timestamp}）`;
-    const trustMark = entry.confidence < 0.5 ? " ⚠未検証" : "";
+
+    // 鮮度マーク
+    let stalenessMark = "";
+    if (entry.staleness_status === "confirmed_stale") {
+      stalenessMark = " **[旧バージョン情報]**";
+    } else if (entry.staleness_status === "possibly_stale") {
+      stalenessMark = entry.staleness_reason
+        ? ` ⚠[パッチで変更の可能性: ${entry.staleness_reason}]`
+        : " ⚠[パッチで変更の可能性]";
+    }
+
     const conflictMark =
       entry.frame_data_conflicts.length > 0
-        ? ` ⚠フレームデータと矛盾あり: ${entry.frame_data_conflicts[0]}`
+        ? ` ⚠フレームデータと矛盾: ${entry.frame_data_conflicts[0]}`
         : "";
 
     lines.push(
-      `- **[${entry.category}] ${entry.topic}**${trustMark}${conflictMark}`
+      `- **[${entry.category}] ${entry.topic}**${stalenessMark}${conflictMark}`
     );
     lines.push(`  ${entry.content}`);
     lines.push(`  ─ ${source}`);
@@ -190,10 +246,13 @@ export function buildKnowledgeContext(
     `- 上記知識を引用する際は「〇〇選手によると」のようにソースを示すこと`
   );
   lines.push(
-    `- ⚠マーク付きの知識は「〜という意見もある」と留保をつけること`
+    `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「〜という情報がありますが、パッチで変更された可能性があります」と留保をつけること`
   );
   lines.push(
     `- フレームデータと矛盾する知識はフレームデータを優先すること`
+  );
+  lines.push(
+    `- 戦略的アドバイス（画面端では攻めを継続、等）はパッチ後も有効な場合が多い`
   );
 
   return lines.join("\n");

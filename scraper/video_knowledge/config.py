@@ -235,10 +235,21 @@ class PipelineConfig:
     )
     gemini_model: str = "gemini-2.5-flash"
 
-    # レートリミット
+    # Vertex AI設定（Cloud Consoleのクレジットを使う場合）
+    use_vertex_ai: bool = field(
+        default_factory=lambda: os.getenv("USE_VERTEX_AI", "").lower() in ("true", "1", "yes")
+    )
+    vertex_project: str = field(
+        default_factory=lambda: os.getenv("VERTEX_PROJECT", "")
+    )
+    vertex_location: str = field(
+        default_factory=lambda: os.getenv("VERTEX_LOCATION", "us-central1")
+    )
+
+    # レートリミット（Vertex AIは大幅緩和: RPM 2000, トークン制限なし）
     rpm_limit: int = 15               # リクエスト/分
     request_interval_sec: float = 5.0  # API呼び出し間隔（秒）
-    daily_request_limit: int = 1000    # 日次リクエスト上限（アプリ用に500残す）
+    daily_request_limit: int = 1000    # 日次リクエスト上限
     daily_video_minutes: int = 480     # 日次動画時間上限（8時間 = 480分）
 
     # DISCOVER設定

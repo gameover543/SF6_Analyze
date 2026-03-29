@@ -26,36 +26,67 @@ class KnowledgeExtractor:
         self._resolver = MoveResolver(config.frame_data_dir)
 
     def _get_client(self):
+        """Gemini APIクライアントを遅延初期化（Vertex AI / AI Studio 自動切替）"""
         if self._client is None:
             from google import genai
-            self._client = genai.Client(api_key=self.config.google_api_key)
+            if self.config.use_vertex_ai:
+                self._client = genai.Client(
+                    vertexai=True,
+                    project=self.config.vertex_project,
+                    location=self.config.vertex_location,
+                )
+            else:
+                self._client = genai.Client(api_key=self.config.google_api_key)
         return self._client
 
-    def extract(self, candidate: VideoCandidate) -> list[KnowledgeEntry]:
-        """動画から攻略知識を抽出"""
+    def extract(self, candidate: VideoCandidate, max_retries: int = 3) -> list[KnowledgeEntry]:
+        """動画から攻略知識を抽出（429エラー時はリトライ）"""
         if not self.budget.can_process(candidate.duration_seconds):
             logger.warning("予算上限到達。抽出をスキップ。")
             return []
 
-        self.budget.wait_for_rate_limit()
+        import time
 
-        try:
-            client = self._get_client()
-            from google.genai import types
+        for attempt in range(max_retries):
+            self.budget.wait_for_rate_limit()
 
-            response = client.models.generate_content(
-                model=self.config.gemini_model,
-                contents=[
-                    types.Part(
-                        file_data=types.FileData(
-                            file_uri=f"https://www.youtube.com/watch?v={candidate.video_id}"
-                        )
-                    ),
-                    EXTRACTION_PROMPT,
-                ],
-            )
+            try:
+                client = self._get_client()
+                from google.genai import types
 
-            self.budget.record_request(candidate.duration_seconds)
+                response = client.models.generate_content(
+                    model=self.config.gemini_model,
+                    contents=[
+                        types.Part(
+                            file_data=types.FileData(
+                                file_uri=f"https://www.youtube.com/watch?v={candidate.video_id}",
+                                mime_type="video/*",
+                            )
+                        ),
+                        EXTRACTION_PROMPT,
+                    ],
+                )
+
+                self.budget.record_request(candidate.duration_seconds)
+                break  # 成功
+
+            except Exception as e:
+                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                    wait = 60 * (attempt + 1)  # 60秒, 120秒, 180秒
+                    logger.warning(
+                        f"レート制限 (試行{attempt+1}/{max_retries})。{wait}秒待機... "
+                        f"({candidate.video_id})"
+                    )
+                    time.sleep(wait)
+                    if attempt == max_retries - 1:
+                        logger.error(f"EXECUTE失敗（リトライ上限）: {candidate.video_id}")
+                        return []
+                    continue
+                else:
+                    logger.error(f"EXECUTE失敗 ({candidate.video_id}): {e}")
+                    return []
+        else:
+            return []
 
             # レスポンスからJSON配列を抽出
             entries_data = self._parse_json_array(response.text)

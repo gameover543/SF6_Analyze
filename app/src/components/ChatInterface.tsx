@@ -58,6 +58,8 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [mode, setMode] = useState<"counseling" | "coaching">("coaching");
   const [initialized, setInitialized] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [showConfirm, setShowConfirm] = useState<"reset-chat" | "reset-profile" | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   // 初期化：プロフィールと履歴を読み込む
@@ -68,13 +70,11 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     if (savedProfile) {
       setProfile(savedProfile);
       setMode("coaching");
-      // メインキャラを自動選択
       setSelectedChars([savedProfile.mainCharacter]);
       if (savedHistory.length > 0) {
         setMessages(savedHistory);
       }
     } else {
-      // プロフィール未設定→カウンセリングモード
       setMode("counseling");
     }
     setInitialized(true);
@@ -143,7 +143,6 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             setProfile(extractedProfile);
             setMode("coaching");
             setSelectedChars([extractedProfile.mainCharacter]);
-            // 表示用テキストからJSON部分を除去
             const cleanReply = cleanReplyForDisplay(data.reply);
             setMessages([
               ...newMessages,
@@ -171,34 +170,169 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     }
   };
 
-  const handleReset = () => {
+  // 会話だけクリア（プロフィール維持）
+  const handleNewChat = () => {
+    clearChatHistory();
+    setMessages([]);
+    setShowConfirm(null);
+  };
+
+  // プロフィールごと全リセット
+  const handleResetProfile = () => {
     clearProfile();
     clearChatHistory();
     setProfile(null);
     setMessages([]);
     setMode("counseling");
     setSelectedChars([]);
+    setShowConfirm(null);
+    setSidebarOpen(false);
   };
+
+  const charName = (slug: string) =>
+    characters.find((c) => c.slug === slug)?.name || slug;
 
   if (!initialized) return null;
 
   return (
     <div className="flex flex-col h-[calc(100vh-3.5rem)]">
-      <div className="flex flex-1 overflow-hidden">
+      {/* ツールバー */}
+      <div className="flex items-center gap-2 px-4 py-2 border-b border-gray-800 bg-gray-950/80">
+        {/* モバイル: サイドバー開閉 */}
+        <button
+          onClick={() => setSidebarOpen(!sidebarOpen)}
+          className="md:hidden p-1.5 rounded-lg text-gray-400 hover:text-white hover:bg-gray-800 transition"
+          aria-label="メニュー"
+        >
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">
+            <path d="M3 5h14M3 10h14M3 15h14" />
+          </svg>
+        </button>
+
+        {/* モード表示 */}
+        <div className="flex items-center gap-2 flex-1 min-w-0">
+          {mode === "counseling" ? (
+            <span className="text-xs font-medium text-amber-400 bg-amber-400/10 px-2 py-0.5 rounded">
+              ヒアリング中
+            </span>
+          ) : (
+            <>
+              {profile && (
+                <span className="text-xs text-gray-400 truncate">
+                  {charName(profile.mainCharacter)} / {profile.rank}
+                  {profile.masterRating ? ` (MR${profile.masterRating})` : ""}
+                </span>
+              )}
+              {selectedChars.length > 0 && (
+                <div className="hidden sm:flex gap-1">
+                  {selectedChars.map((slug) => (
+                    <span
+                      key={slug}
+                      className="text-xs bg-blue-600/20 text-blue-400 px-1.5 py-0.5 rounded"
+                    >
+                      {charName(slug)}
+                    </span>
+                  ))}
+                </div>
+              )}
+            </>
+          )}
+        </div>
+
+        {/* アクションボタン */}
+        {mode === "coaching" && (
+          <div className="flex items-center gap-1">
+            <button
+              onClick={() => setShowConfirm("reset-chat")}
+              className="text-xs text-gray-500 hover:text-white px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              title="新しい会話を始める"
+            >
+              新しい会話
+            </button>
+            <button
+              onClick={() => setShowConfirm("reset-profile")}
+              className="text-xs text-gray-500 hover:text-orange-400 px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              title="プロフィールを変更する"
+            >
+              プロフィール変更
+            </button>
+          </div>
+        )}
+      </div>
+
+      {/* 確認ダイアログ */}
+      {showConfirm && (
+        <div className="px-4 py-3 bg-gray-900 border-b border-gray-800 flex items-center gap-3">
+          <span className="text-sm text-gray-300 flex-1">
+            {showConfirm === "reset-chat"
+              ? "会話履歴をクリアしますか？（プロフィールは維持されます）"
+              : "プロフィールをリセットして、ヒアリングからやり直しますか？"}
+          </span>
+          <button
+            onClick={showConfirm === "reset-chat" ? handleNewChat : handleResetProfile}
+            className={`text-xs font-medium px-3 py-1.5 rounded-lg transition ${
+              showConfirm === "reset-chat"
+                ? "bg-blue-600 hover:bg-blue-500 text-white"
+                : "bg-orange-600 hover:bg-orange-500 text-white"
+            }`}
+          >
+            {showConfirm === "reset-chat" ? "クリア" : "リセット"}
+          </button>
+          <button
+            onClick={() => setShowConfirm(null)}
+            className="text-xs text-gray-500 hover:text-white px-3 py-1.5 rounded-lg hover:bg-gray-800 transition"
+          >
+            キャンセル
+          </button>
+        </div>
+      )}
+
+      <div className="flex flex-1 overflow-hidden relative">
+        {/* モバイルオーバーレイ */}
+        {sidebarOpen && (
+          <div
+            className="fixed inset-0 bg-black/50 z-30 md:hidden"
+            onClick={() => setSidebarOpen(false)}
+          />
+        )}
+
         {/* サイドバー */}
-        <div className="w-56 border-r border-gray-800 p-4 overflow-y-auto hidden md:flex md:flex-col">
+        <div
+          className={`
+            fixed md:relative z-40 top-0 left-0 h-full w-64
+            border-r border-gray-800 bg-gray-950 p-4 overflow-y-auto
+            flex flex-col transition-transform duration-200
+            md:translate-x-0 md:w-56
+            ${sidebarOpen ? "translate-x-0" : "-translate-x-full"}
+          `}
+        >
+          {/* モバイル: 閉じるボタン */}
+          <button
+            onClick={() => setSidebarOpen(false)}
+            className="md:hidden absolute top-3 right-3 p-1 text-gray-500 hover:text-white"
+            aria-label="閉じる"
+          >
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="1.5">
+              <path d="M4 4l10 10M14 4L4 14" />
+            </svg>
+          </button>
+
           {/* プロフィール表示 */}
           {profile && (
             <div className="mb-4 p-3 rounded-lg bg-gray-900 border border-gray-800">
               <div className="text-xs text-gray-500 mb-1">担当プレイヤー</div>
               <div className="text-sm font-medium text-white">
-                {characters.find((c) => c.slug === profile.mainCharacter)
-                  ?.name || profile.mainCharacter}
+                {charName(profile.mainCharacter)}
               </div>
               <div className="text-xs text-gray-400">
                 {profile.controlType} / {profile.rank}
                 {profile.masterRating ? ` (MR${profile.masterRating})` : ""}
               </div>
+              {profile.weakAgainst.length > 0 && (
+                <div className="mt-1.5 text-xs text-gray-500">
+                  苦手: {profile.weakAgainst.map(charName).join(", ")}
+                </div>
+              )}
               {profile.challenges.length > 0 && (
                 <div className="mt-2 flex flex-wrap gap-1">
                   {profile.challenges.map((c) => (
@@ -230,6 +364,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
               <div className="flex flex-col gap-1 flex-1 overflow-y-auto">
                 {filteredChars.map((char) => {
                   const isSelected = selectedChars.includes(char.slug);
+                  const isMain = char.slug === profile?.mainCharacter;
                   return (
                     <button
                       key={char.slug}
@@ -241,6 +376,9 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
                       }`}
                     >
                       {char.name}
+                      {isMain && (
+                        <span className="ml-1 text-gray-600">MAIN</span>
+                      )}
                     </button>
                   );
                 })}
@@ -248,17 +386,27 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             </>
           )}
 
-          {/* リセットボタン */}
-          <button
-            onClick={handleReset}
-            className="mt-4 text-xs text-gray-600 hover:text-red-400 transition"
-          >
-            プロフィールをリセット
-          </button>
+          {/* サイドバー下部のアクション */}
+          <div className="mt-4 pt-3 border-t border-gray-800 flex flex-col gap-2">
+            {mode === "coaching" && (
+              <button
+                onClick={() => { setShowConfirm("reset-chat"); setSidebarOpen(false); }}
+                className="text-xs text-gray-500 hover:text-white text-left transition"
+              >
+                新しい会話を始める
+              </button>
+            )}
+            <button
+              onClick={() => { setShowConfirm("reset-profile"); setSidebarOpen(false); }}
+              className="text-xs text-gray-600 hover:text-orange-400 text-left transition"
+            >
+              プロフィール変更
+            </button>
+          </div>
         </div>
 
         {/* チャットエリア */}
-        <div className="flex-1 flex flex-col">
+        <div className="flex-1 flex flex-col min-w-0">
           {/* メッセージ一覧 */}
           <div className="flex-1 overflow-y-auto p-4 space-y-4">
             {messages.length === 0 && (
@@ -282,13 +430,13 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
                   <>
                     <p className="text-lg mb-2">SF6 AIコーチ</p>
                     <p className="text-sm">
-                      何でも質問してください。あなたのプロフィールに基づいてアドバイスします。
+                      何でも質問してください。プロフィールとプロ選手の知識に基づいてアドバイスします。
                     </p>
                     <div className="mt-6 flex flex-col gap-2 items-center">
                       {[
-                        `${characters.find((c) => c.slug === profile?.mainCharacter)?.name || "自キャラ"}の確反に使える技は？`,
+                        `${charName(profile?.mainCharacter || "")}の確反に使える技は？`,
                         profile?.weakAgainst?.[0]
-                          ? `${characters.find((c) => c.slug === profile.weakAgainst[0])?.name}戦のコツは？`
+                          ? `${charName(profile.weakAgainst[0])}戦のコツは？`
                           : "苦手キャラへの対策は？",
                         "今の課題を克服する練習メニューを教えて",
                       ].map((example) => (
@@ -336,19 +484,23 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
 
           {/* 入力エリア */}
           <div className="border-t border-gray-800 p-4">
+            {/* モバイル: 選択キャラ表示 */}
             {selectedChars.length > 0 && mode === "coaching" && (
-              <div className="flex gap-2 mb-2">
-                {selectedChars.map((slug) => {
-                  const char = characters.find((c) => c.slug === slug);
-                  return (
-                    <span
-                      key={slug}
-                      className="text-xs bg-blue-600/20 text-blue-400 px-2 py-0.5 rounded"
-                    >
-                      {char?.name}
-                    </span>
-                  );
-                })}
+              <div className="flex gap-2 mb-2 sm:hidden">
+                {selectedChars.map((slug) => (
+                  <span
+                    key={slug}
+                    className="text-xs bg-blue-600/20 text-blue-400 px-2 py-0.5 rounded"
+                  >
+                    {charName(slug)}
+                  </span>
+                ))}
+                <button
+                  onClick={() => setSidebarOpen(true)}
+                  className="text-xs text-gray-600 hover:text-gray-400"
+                >
+                  変更
+                </button>
               </div>
             )}
             <div className="flex gap-2">

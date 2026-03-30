@@ -49,6 +49,63 @@ COMMON_ABBREVIATIONS: dict[str, list[str]] = {
     "ジャンプ強K": ["j.HK"],
 }
 
+# FGCコミュニティの俗称・通称 → 正式名称
+# 動画内やユーザーの質問で使われる非公式な呼び名を正式名称に変換する
+SLANG_TO_OFFICIAL: dict[str, dict[str, str]] = {
+    # ジェイミー
+    "jamie": {
+        "烈火拳": "流酔拳",
+        "烈火": "流酔拳",
+        "通常烈火拳": "流酔拳",
+        "通常烈火": "流酔拳",
+        "OD烈火": "OD 流酔拳",
+        "弱烈火": "弱 流酔拳",
+        "中烈火": "中 流酔拳",
+        "強烈火": "強 流酔拳",
+        "酔っ払い": "酔疾歩",
+        "突進": "酔疾歩",
+    },
+    # リュウ
+    "ryu": {
+        "波動": "波動拳",
+        "昇竜": "昇龍拳",
+        "竜巻": "竜巻旋風脚",
+        "大足払い": "しゃがみ強K",
+    },
+    # ケン
+    "ken": {
+        "波動": "波動拳",
+        "昇竜": "昇龍拳",
+        "竜巻": "竜巻旋風脚",
+        "迅雷": "迅雷脚",
+        "龍尾": "龍尾脚",
+    },
+    # 豪鬼
+    "gouki": {
+        "波動": "豪波動拳",
+        "昇竜": "豪昇龍拳",
+        "竜巻": "竜巻斬空脚",
+        "灼熱": "灼熱波動拳",
+        "瞬獄殺": "瞬獄殺",
+        "百鬼": "百鬼襲",
+        "斬空": "斬空波動拳",
+    },
+    # 汎用（キャラ問わず通じる俗称）
+    "_common": {
+        "パリィ": "ドライブパリィ",
+        "ジャスパ": "ジャストパリィ",
+        "ラッシュ": "ドライブラッシュ",
+        "インパクト": "ドライブインパクト",
+        "リバサ": "リバーサル",
+        "確反": "確定反撃",
+        "安飛び": "詐欺飛び",
+        "セットプレイ": "起き攻め",
+        "暴れ": "暴れ",
+        "グラップ": "投げ抜け",
+        "シミー": "シミー",
+    },
+}
+
 
 class MoveResolver:
     """テキスト中の技名をframe dataのweb_idに解決する"""
@@ -118,6 +175,17 @@ class MoveResolver:
                 if cmd in lookup:
                     lookup[abbr] = lookup[cmd]
                     break  # 最初にマッチしたものを使う
+
+        # 俗称辞書のマッピングを追加（キャラ固有 + 汎用）
+        for slang_dict in [SLANG_TO_OFFICIAL.get(slug, {}), SLANG_TO_OFFICIAL.get("_common", {})]:
+            for slang, official in slang_dict.items():
+                # 正式名称がlookupにあれば、俗称→同じweb_idをマッピング
+                if official in lookup:
+                    lookup[slang] = lookup[official]
+                # スペース除去版でも検索
+                official_no_space = official.replace(" ", "")
+                if official_no_space in lookup and slang not in lookup:
+                    lookup[slang] = lookup[official_no_space]
 
         self._lookup[slug] = lookup
         return lookup

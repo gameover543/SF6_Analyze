@@ -216,8 +216,6 @@ export function buildKnowledgeContext(
   }
 
   for (const entry of selected) {
-    const source = `${entry.source_channel}（${entry.source_timestamp}）`;
-
     // 鮮度マーク
     let stalenessMark = "";
     if (entry.staleness_status === "confirmed_stale") {
@@ -237,16 +235,15 @@ export function buildKnowledgeContext(
       `- **[${entry.category}] ${entry.topic}**${stalenessMark}${conflictMark}`
     );
     lines.push(`  ${entry.content}`);
-    lines.push(`  ─ ${source}`);
     lines.push("");
   }
 
-  lines.push(`### 引用ルール`);
+  lines.push(`### 知識の使い方`);
   lines.push(
-    `- 上記知識を引用する際は「〇〇選手によると」のようにソースを示すこと`
+    `- 上記知識をアドバイスに自然に組み込むこと。情報ソース（チャンネル名・動画名）はユーザーに表示しないこと`
   );
   lines.push(
-    `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「〜という情報がありますが、パッチで変更された可能性があります」と留保をつけること`
+    `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「パッチで変更された可能性がある」と留保をつけること`
   );
   lines.push(
     `- フレームデータと矛盾する知識はフレームデータを優先すること`

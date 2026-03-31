@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cddc795f6694",
+    "category": "matchup",
+    "topic": "ローリング対策（強）",
+    "content": "ブランカの強ローリングアタックに対して、パニッシュカウンター狙いでマノンの立ち強Pを早めに出し、ヒット確認後ランヴェルセに繋ぐ。反応速度が非常に重要で、少しでも遅れると相打ちになり、マノンがダメージで損をするため、超速での入力が求められる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが強ローリングアタックを使用時",
+    "source_video_id": "rr1l182cINU",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】対策必須！ブランカのローリング対策を解説します！",
+    "source_timestamp": "00:09",
+    "source_quote": "理想は、まずこの強に対して、こうやって（4強P＞ランヴェルセ）かなり、ちょっと反応遅れるところなんで、難しいですこれ。一方勝ちするなら、もうほんと超スピードで出さないといけない",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:12:10.975549",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b28c2662284f",
+    "category": "matchup",
+    "topic": "ローリング対策（弱）",
+    "content": "ブランカの弱ローリングアタック（手前落ち）に対しては、相手の着地に合わせてマノンの立ち強Pを出すと刺さる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが弱ローリングアタックを使用し、手前落ちした際",
+    "source_video_id": "rr1l182cINU",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】対策必須！ブランカのローリング対策を解説します！",
+    "source_timestamp": "00:24",
+    "source_quote": "これが仮に弱で手前落ちだったとしても、これをやっておけば、この相手の着地に4強Pが刺さるんです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:12:10.975549",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c1ed8ad6c603",
+    "category": "matchup",
+    "topic": "ローリング対策（代替）",
+    "content": "強ローリングアタックに対する立ち強Pでの一方勝ちが難しい場合、ODランヴェルセで切り返すのも選択肢の一つ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカのローリングアタックに対して立ち強Pでの対処が困難な場合",
+    "source_video_id": "rr1l182cINU",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】対策必須！ブランカのローリング対策を解説します！",
+    "source_timestamp": "01:12",
+    "source_quote": "一方勝ちしたら結構リターン取れるけど、難しかったらこれ(ODランヴェルセ)でもいいかな。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:12:10.975549",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "556c7b92444b",
+    "category": "matchup",
+    "topic": "ODローリング対策",
+    "content": "ブランカのODローリングアタックは、見てからドライブインパクトで切り返すことができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがODローリングアタックを使用時",
+    "source_video_id": "rr1l182cINU",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】対策必須！ブランカのローリング対策を解説します！",
+    "source_timestamp": "01:26",
+    "source_quote": "ODローリングにはこれ見てからインパクトでいけます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:12:10.975549",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80ceb627c6a5",
+    "category": "matchup",
+    "topic": "ジャストパリィからの確定行動",
+    "content": "ブランカのローリングアタックをジャストパリィできた場合、+8フレームの有利が取れるため、前ステップからマノンのコマンド投げ（マノンデコレ）や立ち中Pからのランヴェルセが確定する。また、走って8Fの技（例：立ち強K）での確定も可能。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカのローリングアタックをジャストパリィした直後",
+    "source_video_id": "rr1l182cINU",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】対策必須！ブランカのローリング対策を解説します！",
+    "source_timestamp": "01:47",
+    "source_quote": "ジャストパリィがあるんすけど、マノンの場合は確定がジャストが取れねえ。前ステ中コマネジが、一応確定です。+8ってことは当然5中パンとかも確定するんですけど。だからジャスパ取ったら、前ステ中コマネジをするか、まあ、5中Pランベとかでもいいんですけど。これもぜひ、走って8Fの技で確定を撮るっていうのを覚えておいてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:12:10.975549",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

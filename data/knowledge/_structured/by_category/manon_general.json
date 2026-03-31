@@ -1,0 +1,306 @@
+[
+  {
+    "id": "f0a170295f3d",
+    "category": "general",
+    "topic": "マノン：有利フレーム技の有無",
+    "content": "マノンはガード時に有利になる技を持っていません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "manon",
+    "situation": "マノン戦の立ち回り",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "09:39",
+    "source_quote": "マノンはガード時有利になる技を持っていないよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "868d7457baa4",
+    "category": "general",
+    "topic": "ODデガジェヒット時の距離",
+    "content": "『ODデガジェ』が先端ヒット、もしくはしゃがみ相手にヒットした場合、+7Fの有利フレームを得られます。この時、『コマ投げ』を仕掛けるのに最適な距離となることを覚えておきましょう。代わりにSA2に繋ぐこともできます（2,960dmg）。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ODデガジェヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "07:38",
+    "source_quote": "ODデガジェが先端ヒット、もしくはしゃがみに当たった場合、+7F取れてコマ投げの後がちょうど良い距離と覚えておきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a12d47cc1f15",
+    "category": "general",
+    "topic": "初中級者向け練習アドバイス",
+    "content": "初中級者の方は、まずは重要度の高いコンボから練習することをおすすめします。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "08:01",
+    "source_quote": "初中級者の方は、先ずは重要度の高いコンボから練習してみるのが良いと思います！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0fad34fa2ad2",
+    "category": "general",
+    "topic": "有利フレームを持つ技",
+    "content": "マノンは後ろ大Pをガードさせた際に+1F有利を取れる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "技をガードさせた時",
+    "source_video_id": "sNi7w4HuMGo",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【座学】意外に少ない！？覚えるべき有利フレーム技一覧！　#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "01:51",
+    "source_quote": "後ろ大P: +1",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:18:19.717533",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c19c025690c1",
+    "category": "general",
+    "topic": "2強Kの仕様変更と対応",
+    "content": "Year3の全体調整により、マノンの2強K（大足）はパニッシュカウンター時以外は相手が後ろ受け身を取れるようになりました。これにより、Year2で可能だった2中P持続重ね＞4強Pの連携はできなくなりました。しかし、2中P持続重ね自体は変わらないため、追撃を5中Pにすることで問題なく対応できます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "Year3以降の2強K使用時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "11:46",
+    "source_quote": "大足に関してはyear3の全体調整でパニカン以外は後ろ受身が取れる様になりました これにより、year2で出来ていた2中P持続重ね＞4強Pが出来なくなりました。ですが、2中Pが持続で重なるのは変わらないので追撃を5中PにすればOKです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df89975f3e73",
+    "category": "general",
+    "topic": "マノンの+3F状況の発生源",
+    "content": "マノンが+3Fの有利フレームを得る状況は主に2つあります。1つ目は立ち強P（5HP）が地上ヒットした時で、密着で+3Fとなります。2つ目はパリィラッシュからのしゃがみ中P（2MP）がガードされた時で、これも基本的に密着で+3Fを生成できます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "+3F状況の発生",
+    "source_video_id": "qQXUnPhZhvo",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】強気の択で相手を崩せ！+3Fからの攻め方を解説！",
+    "source_timestamp": "00:20",
+    "source_quote": "1つ目は5HPヒット後です。距離によりますが地上ヒットすれば基本的に密着で+3Fです。2つ目はパリィラッシュ2MP (ガード) です。これも基本的に密着で+3Fを作ることができます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:52:49.305108",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0e4e949400f8",
+    "category": "general",
+    "topic": "+3F状況の活用",
+    "content": "マノンの+3F状況は非常に有利な状況であり、基本的な選択肢を理解し、適切に使い分けることが重要です。個人のプレイスタイルによりますが、強コマンド投げと4中K（アン・オー）を軸に強気の攻めを仕掛け、時にはガードを混ぜるのが良いでしょう。+3Fの有利さを理解し、状況に応じた選択肢を選んでいきましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "Manonの+3F状況全般",
+    "source_video_id": "qQXUnPhZhvo",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】強気の択で相手を崩せ！+3Fからの攻め方を解説！",
+    "source_timestamp": "04:56",
+    "source_quote": "以上が+3から基本的な選択肢となりますプレイスタイルによってどの技を使うかは好みですが私はコマ投げとアン・オーを軸に強気の択を仕掛けてたまにガードするといった感じでしょうか？まずは+3Fという状況がいかに有利かという事を理解し適切な択を仕掛けていけるようにしましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:52:49.305108",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "205"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2d10c80325db",
+    "category": "general",
+    "topic": "コマ投げの性能差",
+    "content": "マノンのコマ投げは、ダメージ（弱・中・強・OD全て）は同じだが、発生フレームと掴める距離に違いがある。弱コマ投げは発生10Fで掴める距離が2番目に長く、中コマ投げは発生8Fで掴める距離は中間、強コマ投げは発生5Fで掴める距離が最も短い。ODコマ投げは発生8Fで掴める距離が最も長い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "vwdzxf0YKx8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】意外と違う！マノンのコマ投げの使い分けについて解説します！",
+    "source_timestamp": "00:26",
+    "source_quote": "まず、コマ投げの性能の話なんですけど、ダメージに関しては弱中強OD全てと同じです。これはレベルが上がっても変わりません。具体的にじゃあ、どこに差があるのかっていうと、発生フレームと掴める距離が違います。まず、弱コマ投げ。これは発生が10フレームなんですけど、掴める距離としては二番目に長いです。続いて、中コマ投げなんですけど、これは発生が8フレームと弱より2フレーム、早いです。で、つかめる距離としては、さっきの弱コマ投げの距離だと届かないんですけど、まあ、もう一歩ぐらい、一歩二歩前に出れば届きます。ちょうど、発生も掴める距離も中間というところですね。次に、強コマ投げなんですけど、恐らくこれが一番使うことになると思います。発生が5フレームと早いです。通常投げと同じですね。通常投げも5フレーム。で、掴める距離は一番短いです。この密着から二歩ぐらい下がっても、まあ掴めるかなっていう感じで。ただその弱みたいに、1キャラ分とか空いてるとやっぱり掴めなくて。多分中の距離もそうですね。掴めない。発生は一番早いけど、掴める距離も一番短いのが強コマ投げです。最後にODコマ投げなんですけど、これは発生が8フレームと中コマ投げと同じなんですけど、掴める距離としては一番長く、さっきの弱コマ投げが多分この位置でも掴めるんですけど、ここから多分もう一歩下がっても、ODだったら届きます。ちょっとざっくりした説明なんですけど、発生は真ん中、並み程度。ただし、掴める距離は相当長い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:05:34.909876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "86659d8b3215",
+    "category": "general",
+    "topic": "マノンのメダルレベル",
+    "content": "マノンはコマンド投げの「マネージュ・ドレ」と打撃投げの「ランヴェルセ」を決めることで、ドライブゲージ横に表示されるメダルレベルが上昇する。メダルレベルが上がるとこれらの必殺技とSA3の威力が上がる。メダルレベルはラウンドを跨いで持ち越される。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "試合中",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "00:13",
+    "source_quote": "コマンド投げのマネージュ・ドレや、打撃投げのランヴェルセを決めるごとに、ドライブゲージ横に表示されてるメダルレベルが上昇して、コマンド投げと打撃投げ、それとSA3の威力が上がるぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6562052ff745",
+    "category": "general",
+    "topic": "マノンのメダル5コマ投げダメージ",
+    "content": "スト6の多くのキャラが体力10000であるのに対し、マノンのメダル5状態でのコマンド投げは3700ダメージを与える。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "メダルレベルが5の時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "00:30",
+    "source_quote": "スト6の大半のキャラが体力10000なのに対して、メダル5のコマ投げは3700減るからな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "67653323cab2",
+    "category": "general",
+    "topic": "ランヴェルセの弱と中の使い分け",
+    "content": "ランヴェルセは、コンボのヒット確認の猶予によって弱と中を使い分ける。最初の攻撃がガードされていても弱ランヴェルセであればヒット確認して次の技に繋ぐことができるが、中ランヴェルセだと間に合わないため、最初からヒットが確定しているコンボの締めには中ランヴェルセを使うことでよりダメージが伸びる。中ランヴェルセの方がダメージが高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コンボの締め",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "05:19",
+    "source_quote": "あれ？俺なんでこれ弱にしてんの？確認しようとすると。例えばさ、ここまでガードして、ここでヒット確認しようってなったら、弱じゃないと間に合わないんだけど。この時点で当たってるってやつは、中でいいんだよ。なんで中と弱で確認のあれが変わるんだ？っていうのは、あのー、弱の場合はここでヒット確認してるから。あー。中だと間に合わないの、これ何だ？中だと間に合わないのが、最初ガードしてて、はい、で、引き大Pの時に動いてほしいんだけど、これの確認が間に合わない。弱でもちょっと難しいから。なるほどね、そういうことか。そうそうそうそう。最初から当たってるんだっっだったら、もう最初から中でいい。なるほどな、そういうことか。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

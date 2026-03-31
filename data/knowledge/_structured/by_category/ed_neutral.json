@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "8054c6c202cf",
+    "category": "neutral",
+    "topic": "遠距離キャラへのアプローチ",
+    "content": "遠距離タイプのキャラクターと戦う際、自分の攻撃射程に入るまでの間に、どれだけ被弾を抑えるかが重要。体力が少ない状態で有利な状況を作っても、反撃を受けやすく不利になる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "遠距離タイプの相手との対戦序盤",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "01:00",
+    "source_quote": "こういう遠距離タイプのキャラと戦う時にとにかく大事なのが、自分の攻撃射程に入るまでの間にどれだけ被弾しないかがとにかく大事ですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8875d9f3860c",
+    "category": "neutral",
+    "topic": "サイコシュートの用途",
+    "content": "サイコシュートはダメージがないため、相手を動かす目的で使うと良い。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:05",
+    "source_quote": "サイコシュートはダメージが取れないので、相手を動かすためだけに使ようよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "44c2e6e0f2e4",
+    "category": "neutral",
+    "topic": "弱サイコシュートの強み",
+    "content": "弱サイコシュートはラインを上げることができるため、非常に強力な技である。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:08",
+    "source_quote": "弱弾はラインを上げれることができるので、とっても強い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d26674b983f",
+    "category": "neutral",
+    "topic": "強サイコシュートの弾速",
+    "content": "強サイコシュートは弾速が速いため、時々使うことで相手にヒットさせやすい。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:12",
+    "source_quote": "強弾は思ったより弾速が速いので、たまに打つと結構あたってくれるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "304"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3ece3f5f0b01",
+    "category": "neutral",
+    "topic": "サイコスパークのフェイント活用",
+    "content": "サイコスパークはフェイントのように使うことができ、相手との駆け引きにおいて強力な選択肢となる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:16",
+    "source_quote": "サイコスパークで、フェイントみたいなこともできて、脳みそといて強いよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f357c5c82ee8",
+    "category": "neutral",
+    "topic": "サイコフリッカーの強み",
+    "content": "サイコフリッカーは視認して避けるのが難しいにも関わらず、波動拳よりもダメージが300高く、非常に強力である。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:20",
+    "source_quote": "サイコフリッカーは見からよけることが難しいのに、なせか波動拳よりダメージが300高いので、とっても強い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "77631ce820c2",
+    "category": "neutral",
+    "topic": "サイコフリッカーの使い分け",
+    "content": "サイコフリッカーはリーチが長い中ボタン版のみを使うと良い。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:26",
+    "source_quote": "使うのはリーチの長い、中弾だけでいいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e769faa60653",
+    "category": "neutral",
+    "topic": "立ち回りの主力通常技",
+    "content": "Edが立ち回りで使う通常技は、基本的に立ち強Pが主力となる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:36",
+    "source_quote": "エドが立ち回りで使う通常技は基本この技です",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "409f966cc513",
+    "category": "neutral",
+    "topic": "立ち強Pの牽制利用",
+    "content": "立ち強Pはリーチが長く、隙が少ないため、牽制技としても有効に使える。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "UQTVoG4eBRQ",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Ed explained for people who don't really want to use their brains",
+    "source_timestamp": "00:43",
+    "source_quote": "この技はリーチが長くて、隙も少ないので、牽制としても使えるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:43:18.635420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6eaa7adbbbc6",
+    "category": "neutral",
+    "topic": "対ガイル戦の詰め方",
+    "content": "ガイル戦は基本的に通常技が届く間合いまで詰めるのが目標。ソニックをガードした時に次のソニックが安全弾にならない距離を保つ。そうすることでガイル側が飛びを食らう覚悟で撃たなければならないか、ソニック以外の方法で応戦せざるを得なくなり、地上技を読んで攻撃できる。下がっていくなら追いつめて端に追い詰める。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ソニック戦",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "00:30",
+    "source_quote": "ガイル戦は基本的に通常技が届く間合いまでしっかり詰めるのが一つの目標。そうすることでソニックをガードした時に次のソニックが安全弾にならないので、ガイル側が飛びを食らう覚悟で撃たなきゃならない、もしくはソニック以外の方法で応戦しなければならない。…ので地上技を振るとかそういう構図になるので、そこで地上技を読んでこちらも殴ることが出来るし、ただ下がっていくならついていって端に追い詰めることができるっていう感じです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "af373c279991",
+    "category": "neutral",
+    "topic": "ソニックガード後の歩き",
+    "content": "ソニックをガードしたら、止まらずすぐに歩き始める。歩ける分だけ最速で歩くことで、ガイルに素早く近づける。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ソニックガード後",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "01:03",
+    "source_quote": "まず開幕から歩いていくんですけど、ソニックのモーションがもう見えたので一旦ガードします。で、この時大事なのがガードしたらすぐに歩くこと。ちょっとここに止まってからとかじゃなくて、しっかり歩ける分だけ最速で歩くことで、ガイルにちゃんと近づくことができます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dae465a10c05",
+    "category": "neutral",
+    "topic": "ソニックガード後の攻め方",
+    "content": "ソニックをガードできた後、しっかり前進してガードすることで、次のソニックが安全弾にならない距離にいる。これによりガイル側はソニックではなく、ラッシュなど違う行動で次の手段を取るようになる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ソニックガード後",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "02:00",
+    "source_quote": "で、またソニックをガードしたんですけども、最初に言った通り、しっかり前進してガードできた事によって『次のソニックが安全弾にならない距離』になってますね。なのでガイル側がソニックではなく違う行動で次の手段を取る様になっている。ま、ここだとラッシュを仕掛けてきてますね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dd3d232ca077",
+    "category": "neutral",
+    "topic": "パリィからのODサイコアッパー",
+    "content": "パリィで飛んでくるソニックを消した後、しっかり歩いてODサイコアッパーが届く距離まで近づき、ソニックを打つモーションを見てから昇龍拳（ODサイコアッパー）を入力することで抜けている。しっかり歩いて届く距離まで来ることが重要。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ソニックパリィ後",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "03:20",
+    "source_quote": "で、飛んで来たソニックを一旦パリィして、この時ジャストもできたのでしっかりまた歩きます。しっかり歩いた事によってまた近い距離になりましたね。で、ここはもう一発打つだろう事が読んでたので、前に歩いてODサイコアッパーが届く距離まで歩きつつ…見た瞬間に昇龍を入力してODサイコアッパーで抜けてます！しっかり歩いた事で届く距離まで来れてるって事ですね！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e194e61d1e08",
+    "category": "neutral",
+    "topic": "ガイルのソニック後の詰め方",
+    "content": "ガイルがとりあえず遅いソニックを出して詰めてくる場合、そのソニックをその場でガードするのではなく、行ける所まで歩いてガードする。しっかり歩くことでガイル側が有利Fを取れても投げ間合いにはならない状況が作れる。離れたままだとガイル側がド密着で有利Fを取る展開になりがち。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルがソニックを撃って詰めてくる時",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "04:14",
+    "source_quote": "で、吹っ飛ばされてガイル側がとりあえず遅い玉を出してそこから詰めてくるっていうよくあるパターンなんですけど、この時大事なのは、ここでこの玉をガードするんじゃなくて、この玉をしっかり行ける所まで歩いてガードする事ですね。まあこうすることでガイル側がどのぐらい近い距離でどのぐらいの有利Fを取るかっていうのが変わってきます！しっかり歩く事でガイル側が一旦有利Fを取るものの、投げ間合いではないっていう状況に結構出来たりするので、歩いてからガードは大事ですね。離れたまんまだとガイル側がド密着で有利Fを取ってしまって、っていう展開になりがちです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b0d47509a5f7",
+    "category": "neutral",
+    "topic": "近づかれすぎた時の対処",
+    "content": "ガイルに近づかれすぎた時は、しゃがみ中Pで相手を押し返すことで一旦距離を離し、状況をリセットする。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルに近づかれすぎた時",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "04:44",
+    "source_quote": "で、ここは近づかれすぎないようにベンリなしゃがみ中Pで一旦距離を離して状況をリセットしてます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dfa5883a1ed8",
+    "category": "neutral",
+    "topic": "ガイルの引き下がりに対応",
+    "content": "通常技を振らないガイル側は下がる傾向にある。それを追いかけて歩くことで、どんどん画面端が近づき、自身に有利な状況に持っていける。まだダメージは発生していなくても、有利な状況が作れる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルが通常技を振らずに下がる時",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "12:08",
+    "source_quote": "通常の技を振らないんだったらガイル側がやっぱり下がっていくんです。こうやってズルズル。なのでこれを追いかけていきます歩いて。そうすることでどんどん画面端が近づいていって、自分に有利なことが運んでいくと。ダメージはまだ発生してないんですけども有利に運んでいくって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "734ef1377bf5",
+    "category": "neutral",
+    "topic": "ターン終了後の立ち回り",
+    "content": "自分のターンが終わってガイルが下がっていても、下がりすぎないのが大事。すぐに歩いて詰めていく。これによりガイルはソニックを打ちづらいフレーム状況になり、様子見をせざるを得なくなる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "guile",
+    "situation": "自分のターン終了後",
+    "source_video_id": "IJNMKzWMMI8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "対ガイルの距離の詰め方！ぷげらの対戦脳内解説【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "15:43",
+    "source_quote": "ちょっとターン終わったから大人しくしましたけど、またすぐ歩いて詰めます。で、するとガイル側がやっぱりソニック以外で応戦してくれる、っていうことです。で、ガイル側が技を振ったところにエドの立ち中K、長いのが先に刺さって、で、ここにゲージが潤沢なのでもう最初からラッシュを仕込んでました。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:08:57.728035",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6a7d4fb61e05",
+    "category": "neutral",
+    "topic": "キャンセルラッシュ始動技の使い分け",
+    "content": "キャンセルラッシュの始動技として、中攻撃と下強攻撃を主に使う。アシスト強攻撃はODフリッカーを仕込んでいるためキャンセルラッシュにはあまり使わない。下中攻撃は8F発生でリーチは短いが下段であり、キルステップ後の相手が投げを嫌がって下がる動作を狩れる。ドライブゲージがある場合は、リーチが長く差し返しにも使える下強攻撃からのラッシュが安定する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "8ANv62gBRwA",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】year3対応版 モダンエド簡単解説 コンボ 立ち回り...【Mエド】",
+    "source_timestamp": "03:55",
+    "source_quote": "キャンセルラッシュ始動技の使い分け",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:10:38.548787",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c61933f51b45",
+    "category": "neutral",
+    "topic": "攻めの立ち回り",
+    "content": "攻めの時はドライブゲージを積極的に使う。キャンセルラッシュからのアシスト強攻撃＋ODフリッカー、生ラッシュからのアシスト弱攻撃などで触りに行く。また、ドライブゲージを使わない攻めとしてタメフリッカーも有効。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "攻め時",
+    "source_video_id": "8ANv62gBRwA",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】year3対応版 モダンエド簡単解説 コンボ 立ち回り...【Mエド】",
+    "source_timestamp": "06:37",
+    "source_quote": "攻め Dゲージを使っていく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:10:38.548787",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6b7cdcd5ef4d",
+    "category": "neutral",
+    "topic": "弱P2回投げ（特権）",
+    "content": "ラッシュ立ち弱Pをガードさせた後、もう一度立ち弱Pを入力し、その後に投げを入力する。この「弱P2回投げ」はエドの特権のようなもので、セオリー外の動きゆえに相手は投げ抜けを押しづらく、高確率で通る。相手がバーンアウト中の場合は+3F取れるため、純粋に強い択となる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "ドライブラッシュ立ち弱Pガード後",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "01:10",
+    "source_quote": "次は投げの機会を増やしていきましょう\nエドは中段・コマ投げ持ってないうえに下段貧弱なので…\n極論、投げでしか崩せないないのでこれをいかに通すかが腕の見せ所でもあります\n1つ目が弱二回投げ ラッシュ立P後もう一回弱をやっても投げが届く\n弱二回投げができるキャラごくわずかなのでエドの特権みたいなところがあります\nラッシュ立弱P＞投げは警戒されやすく投げ抜けされやすいのですが弱二回からの投げはセオリー外の動きゆえに相手は投げ抜けを押しづらく高確率で通ります\n不利F投げなので弱点もありますが相手BO中なら＋3で純粋に強い択を迫れます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f19a1e8514c",
+    "category": "neutral",
+    "topic": "詐欺飛びからの歩き投げ",
+    "content": "ジャンプ強Pをヒットさせた後、着地後にわずかに歩いてから立ち弱Pで投げを狙う。通常の立ち弱Pでは投げ間合い外となる距離からでも、歩くことで投げが届くようになる。バーンアウト中の相手に対しては+3Fとなり、投げとシミーの強力な択を迫れる。弱3回からの崩しコンボにもいける。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ強Pヒット後",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "02:11",
+    "source_quote": "次が詐欺飛びからの投げのお話\n直投げはタイミングが難しかったり読まれやすかったりします\nここで使いたいのがJ強Pからの歩き立弱P投げ\n詐欺飛び後の弱Pは本来投げ間合い外で遠いのですが歩き弱Pで投げが届くようになります\n不利Fからの投げなのでリスクもありますが弱3回の崩しコンボにいけるようになる利点もあり\nBO中なら＋3で投げ・シミー択も迫れる超強力択へと変わります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1076da158a51",
+    "category": "neutral",
+    "topic": "前ステップからの投げ/打撃",
+    "content": "前ステップから打撃や投げを仕掛ける。エドの前ステップは全体フレームが19Fと速く、モーションも見切られにくいため、相手に止められにくい。これを利用して崩しを狙う。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手との距離が近い時",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "02:52",
+    "source_quote": "3つ目は超単純なんですが前ステを使っていきましょう\n前ステから弱攻撃と投げ\n(弱点の置き技はエドに対してあまりやられません)\n全体フレーム19と優秀かつ見辛いモーションゆえに止められにくいのです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9463087d93cf",
+    "category": "neutral",
+    "topic": "タイミングシミーの習得",
+    "content": "相手が投げを狙ってくるタイミングに合わせて、シミー用の攻撃ボタンを押す。これにより、以下の利点がある。\n1. 難易度が低く、楽にシミーができる。\n2. 相手が投げではなく通常技を暴れた場合にも、それを狩れる場合がある。\nただし、以下のデメリットもあるため、適切な状況で使うことが重要。\n1. 飛びに反応できなくなる。\n2. 相手にシミーの動きを読まれて、技を空かされ差し返されるリスクがある。また、逆に通常技からコンボを入れられる可能性もある。\nこれらのデメリットを回避するためには、投げ間合い外からの屈ガード待機でシミーを狙うこと、そして相手の投げスカを見てから攻撃ボタンを押すテクニックが重要。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手が投げを狙ってくる間合い、または攻め継続を狙う時",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "07:05",
+    "source_quote": "超重要テクニック見てからシミー用のボタンを押す\nシミーはタイミングでボタン押しとけば成立するので最初のうちはコレでもOKなんです\nタイミングシミーのよいところは2つあります\n1つは難易度が低いのでラクなところ\n2つ目の利点は通常技の暴れを狩れる（こともある）\nただしね、デメリットもあって1つが飛びに対応ができなくなります\nガードやパリィが間に合ったとしても対空技は間に合いません\nもう1つのデメリットがタイミングシミーに対して対応の動きをされること\n一番嫌なパターンは技をすかされ差し返されること\n他にもどうせ後ろ下がりシミーでしょ？という感じで逆に通常技からコンボにいかれること\nこれらのデメリットを回避するために投げ間合い外＋屈ガード待機でシミーを狙う\n投げスカを見てから攻撃ボタンを押すというのは大事なテクニクになります\nこれさえできてれば投げには最大をとって飛んでくる相手には対空技で対応\n投げ間合い外＆屈ガードがちゃんとできてれば逆択中足にも対応できます\n冒頭で語ったラッシュ確認Dリバもできれば上々",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63558f72e3e1",
+    "category": "neutral",
+    "topic": "画面端での立ち回り方",
+    "content": "画面端に追い詰められた際、安易に前ジャンプで逃げるのは避けるべき。初中級者帯では通用するが、上に行くほど撃ち落とされ、その後の起き攻めで致命傷を負いやすい。\n画面端にはデメリットだけでなくメリットも存在することに注目する。\n1. 中央ではほぼありえない生インパクトが飛んでくる可能性があり、そこからインパクト返しで戦況をひっくり返すチャンスがある。\n2. 後ろ投げからのリターンが向上し、通常では起き攻めに行けない状況でも起き攻めに移行できるようになる（例えばエドの「ドリームコンボ」など）。\n「端でしのぐ」という意識で立ち回りを変えることで、プレイの幅が広がり安定感に繋がる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "画面端に追い詰められている時",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "08:38",
+    "source_quote": "3つ目なんだけど端逃げの前飛びをしない\n初中級者帯では相手の対処が甘いので推奨行動なんですが上にいくほど上手に対応され撃ち落とされたあとの起き攻め致命傷になりやすい\n画面端は端コンボやDIコンボをくらったり下がりやバクステで距離を取れない欠点もありますがよくよく考えてみるとメリットもたくさんあるんですよ\nまず第一に中央だとほぼ撃たれない生インパクトが飛んでくる可能性が出てきます\nインパクト返しから戦況をひっくり返すチャンスがやってきます\n次に後ろ投げのリターン向上本来起き攻めにいけないところがイケるように\nコスパあまりよくないけど入れ替えコンもあるのでなにか刺されば一瞬で戦況逆転です\n最後にエドの代名詞でもあるドリームコンボね\nこれも端にいるからこそ狙えるので端にいるメリットになっています\n以上のことをふまえて安易な前飛び一辺倒で逃げるのではなく「端でしのぐ」という考え方で動きを変えてくとプレイに幅が出て安定感にも繋がっていきます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93819a56bb5b",
+    "category": "neutral",
+    "topic": "安易なボタン押しの自制",
+    "content": "お互いの技が届く間合いで、安易にボタンを押す「運ゲー」は避ける。ボタンを押すのを我慢することで、相手が先にボタンを押してくれるようになり、それに対して対応の動きをする選択肢が生まれる。状況次第ではそこからリターンに繋げられる。エドは強い間合いをキープして戦うための技が揃っているため、相手の運ゲーに付き合わず、距離を詰めさせない動きを考えることで勝率を安定させることができる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "お互いの技が届く間合いで",
+    "source_video_id": "zwcYh6uaDT8",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド攻略 初級者・中級者向けの上達ポイント解説！",
+    "source_timestamp": "10:00",
+    "source_quote": "最後の上級編になるんだけど、運ゲーをしないように立ち回りましょう\n運ゲーというのは無敵の読み合いとかもあるんですがここで言いたいのはちょっと違いまして\nお互いの技が届く間合いで安易にボタンを押さないようにしてみましょう\nボタンを押すのを我慢できると何が起きるかというと相手が先にボタンを押してくれます\nこっちはそれに対する対応の動きをする選択ができて状況次第ではそこからリターンに繋げられます\nボタン押すのが大好きだと早押し勝負になります（運ゲー）\n相手より早ければ勝ち、一瞬でも遅れたら負けこのゲームではよくある光景ですが\n運ゲーで勝ちを狙いにいくのが必要になる場面もありますがエドはそこに頼らなくてもよいので\nエドの強い間合いをキープして戦い運ゲー間合いでは我慢することも選択肢に\n距離調節に使いやすい技も揃ってるので近づかせない動きを考えていくと相手の運ゲーに付き合わなくて済むので勝率が安定していきます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:31:17.795814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8b75e8704dff",
+    "category": "neutral",
+    "topic": "強フリッカーSA釣り",
+    "content": "横に長いSAを持つ相手に対して、強サイコフリッカーを出すことでSAを強く釣ることができる。相手側の視点ではフリッカーの初動が見えた時点でSAを打つ判断をするため、タメモーションがなくても引っかかりやすい。この強フリッカーのスカ後は-8Fであり、キャミィのSA3（発生9F）すらガードできるため、非常にノーリスクハイリターンで全キャラに有効。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手がSAを持っている時、SAを釣ってラインを維持したい場合",
+    "source_video_id": "ZxUzHYoFaaY",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド 最新攻略 新しい入れ替えコンボやスタンコンボや起き攻めなどを解説",
+    "source_timestamp": "03:49",
+    "source_quote": "最後にサイコ柔道の新しい武器を紹介。これはね、長いSA持ってるやつに対してサイコ柔道仕掛けると、まあこういうことになっちゃうじゃん。相手のSAを釣りつつラインを下げない方法があるのか…？強フリッカーに答えがありました。これね、相手側の視点に立つとフリッカーの初動が見えた時点でSAを打つ判断をするので強く釣られます。嬉しいことにこのスカ後は-8Fです。ということはキャミィの神SA3（発生9F）すらもガードできてしまうのです。この強フリッカー釣りに確定取れるキャラはいません。全キャラに対して有効です。舞の強SA2ですら無理。というわけでノーリスクハイリターンなのでおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:41:49.489130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb44993a5980",
+    "category": "neutral",
+    "topic": "垂直ジャンプ中K置き",
+    "content": "エドの垂直ジャンプ中Kは、相手の接近に対して置き技として機能し、対空や空間制御に利用できます。動画では、ルークの接近に対して垂直ジャンプ中Kがヒットしています。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "luke",
+    "situation": "相手が接近している状況",
+    "source_video_id": "SxL-XoF1TUo",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】エド 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ed Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "垂直ジャンプ中K置き",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:58:21.061164",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "53c013d1f765",
+    "category": "neutral",
+    "topic": "SA2でのドライブ削り",
+    "content": "エドのSA2（サイコスパーク・ディスチャージ）は、ガードされても相手のドライブゲージを大きく削ることができます。特に、相手がガードを固めている状況や、ドライブゲージを消耗させたい場面で有効です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手がガードを固めている時",
+    "source_video_id": "SxL-XoF1TUo",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】エド 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ed Combo Oki Setup",
+    "source_timestamp": "00:40",
+    "source_quote": "SA2削り",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:58:21.061164",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c8aec52480d",
+    "category": "neutral",
+    "topic": "ラッシュからの触り",
+    "content": "ドライブラッシュから立ち弱Pを繰り出すことで、素早く相手に接近してプレッシャーをかけられます。ヒットした場合は立ち弱Pからターゲットコンボ（立ち弱P > 立ち中P > 立ち強P）に繋げてダウンを奪い、起き攻めを展開できます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "遠距離から相手に接近する時",
+    "source_video_id": "SxL-XoF1TUo",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】エド 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ed Combo Oki Setup",
+    "source_timestamp": "01:22",
+    "source_quote": "ラッシュ立弱Pで触りに行く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:58:21.061164",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "35fdc259ee1f",
+    "category": "neutral",
+    "topic": "溜め立強Pでパリィ誘発",
+    "content": "溜め立ち強Pは多段ヒットする特性を活かし、相手のドライブパリィを誘発させることができます。パリィされてもドライブゲージを大きく削ることができ、パリィを途中で解除して攻撃しようとした相手にはパニッシュカウンターを奪えます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手がドライブパリィを狙っている時",
+    "source_video_id": "SxL-XoF1TUo",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】エド 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ed Combo Oki Setup",
+    "source_timestamp": "01:50",
+    "source_quote": "溜め立強Pでパリィを誘う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:58:21.061164",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e215f10c218",
+    "category": "neutral",
+    "topic": "有利フレーム後のラッシュ小パン",
+    "content": "Edが有利フレームを取ったら、とりあえずラッシュ小パンを打つのがおすすめ。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "有利フレーム後",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "00:20",
+    "source_quote": "もうイメージはパリー押したらとりあえずラッシュ入れるみたいな感じですかね？",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "02263f5b841f",
+    "category": "neutral",
+    "topic": "小パン刻みからの投げ連携",
+    "content": "Edの小パン2回刻みからの投げ連携は、ヒット確認がしやすいため強力。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "近距離での固め",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "00:49",
+    "source_quote": "小パ小パ投げとかすごい出来るんですよ。これ他のキャラと違うところで、だいたい2回刻むと投げれないんですよ。2回刻んでもこう投げが届くみたいな感じがあって。これやっぱすごい強いですね！ 特徴な部分ですね！ だからヒット確認が結構しやすいんですよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fc52c5ee4c20",
+    "category": "neutral",
+    "topic": "紐ガード後のラッシュ小パン",
+    "content": "Edの紐ガード（立ち弱Kのガード）後にラッシュ小パンを打つと、相手の反撃に勝ちやすい。これで攻撃を当てていけば相手のインパクトを抑制できる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "紐ガード後",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "03:00",
+    "source_quote": "これ対策でエドの紐ガードしたらラッシュ小パン撃つみたいなのがあって、これ撃たれると中Kは絶対勝てないっすね。だからインパクト多い相手にラッシュ撃つとかもあるんで。だからインパクの抑制になるんですよね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7a90e952be6e",
+    "category": "neutral",
+    "topic": "ラッシュ紐とラッシュ小パンの択",
+    "content": "Edはラッシュ小パンを打つか、ラッシュ紐を打つかの択で相手に触りに行くのが非常に強い選択肢。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "攻めの選択肢",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "03:48",
+    "source_quote": "だからラッシュ小パンを撃つかラッシュ紐撃つかみたいなのなんで、相手に触りに行くっていうのはすごい強い選択肢っすね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "96e12ef99c96",
+    "category": "neutral",
+    "topic": "離れた距離からのラッシュへの対応",
+    "content": "相手が離れた距離からラッシュしてきた際、中パンで対応すると相手が下がるため、Edのラッシュしゃがみ中パンなどが当たりやすくなる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "離れた距離での相手のラッシュ",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "04:10",
+    "source_quote": "離れてるところのラッシュしゃがみ中パンとかこうすごい強いんで。これ相手によってって感じですかね？ 中距離下がる人にはもう全然やりますねこういうの。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "23a731834488",
+    "category": "neutral",
+    "topic": "小パンでラッシュを止めてくる相手への対応",
+    "content": "相手がラッシュを見て小パン系で止めてくる場合、ラッシュ弱Pで対応できる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手がラッシュを見て小パン系で止めてくる場合",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "04:50",
+    "source_quote": "小パン系で止める人いるじゃないですかラッシュ見て。そういう人にはいやもう全然弱Pでもう終わりっす。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b90f595979c6",
+    "category": "neutral",
+    "topic": "紐後の相手のバックステップへの対応",
+    "content": "Edの紐の後に相手がバックステップするのを読んでラッシュすると、確定でコンボに繋げられるため強力。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "紐後、相手のバックステップ読み",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "05:55",
+    "source_quote": "紐の後にバックステップやってもらっていいですか。こうバックステップに確定したりするんですよ。だから今みたいにバックステップ読んでラッシュするっていうのも強いっすね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c7b3bc2f7c22",
+    "category": "neutral",
+    "topic": "ラッシュで攻める印象",
+    "content": "Edはラッシュを打つだけで「攻めている男」に見えるため、待つキャラであっても積極的にラッシュを使うことで相手にプレッシャーをかけられる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "09:51",
+    "source_quote": "ラッシュ撃つだけでなんか攻めてる男に見えます。実際全然攻めてないっす。当ててないのにこれだけでもなんか攻めてるように見えるじゃないですか。いや確かにお！前出てるな！って思いますもんね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "88af209ef6e9",
+    "category": "neutral",
+    "topic": "スカし下段からの択",
+    "content": "Edはスカし下段から択を仕掛けるのが有効。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "BfjWTwvTIY0",
+    "source_channel": "ふらんしすこ- CR -",
+    "source_video_title": "ふ～どさんにエドのコーチングを受けるシスコ。ドリームコンボの強みやインパクト対策、真の詐欺飛びなどを教わる【スト6/ふらんしすこ/切り抜き】",
+    "source_timestamp": "11:32",
+    "source_quote": "空かし下段しながらも択かけて。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:03:55.513500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b4aa257d523a",
+    "category": "neutral",
+    "topic": "モダンエドの空対空強化",
+    "content": "新技のジャンプ中攻撃が非常に強力な空対空技として機能する。コンボに繋がらなくても、ヒットさせることで起き攻め状況を有利に進めることができる。これまでのエドには遠距離対空が難しかったため、この改善は立ち回りに大きな影響を与える。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "空対空が必要な状況",
+    "source_video_id": "2JpHgT_rz1E",
+    "source_channel": "立川ちゃんねる",
+    "source_video_title": "A simple guide to fighting in the new environment! A summary of M Ed's new combos and strategies!...",
+    "source_timestamp": "06:39",
+    "source_quote": "そして空対空！待望の空対空用意されてますから！ほら！ジャンプ中パン。遠目の対空できたのはね、めちゃくちゃ全然違う。別にコンボにならなくたって起き攻めついてくるだけで全然違うんでマジ。超でかいこれ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:14:53.040505",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "234c0593e056",
+    "category": "neutral",
+    "topic": "モダンエドのODフリッカーの期待値",
+    "content": "ODフリッカーの性能が大幅に向上しており、ガードさせてからのバックステップなど、相手の行動を見てからODフリッカーを出すことで強力な読み合いを展開できる。現在のODフリッカーはヒット後の状況が非常に分かりやすく、強力な攻め継続に繋がりやすい。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、特にODフリッカーの活用場面",
+    "source_video_id": "2JpHgT_rz1E",
+    "source_channel": "立川ちゃんねる",
+    "source_video_title": "A simple guide to fighting in the new environment! A summary of M Ed's new combos and strategies!...",
+    "source_timestamp": "08:58",
+    "source_quote": "ガードしてバクステ見えたらOD紐みたいなさ。OD紐の期待値がやばすぎて今。分かりやすいよね今。もうこれ当てればいいんでしょみたいなキャラになった。それがなんか、結果として美味しい可能性ある今。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:14:53.040505",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "61f56f75df31",
+    "category": "neutral",
+    "topic": "溜めフリッカーからの択",
+    "content": "溜めフリッカーはヒットすると+4Fの投げ間合いになるため、ノーゲージで密着からの強力な二択を迫れる。相手が投げを嫌がって遅らせグラップをしてくる場合はバックステップで狩り、無敵技を打ってくる場合は遅らせグラップ（リバーサル）でガードする。または、弱Pで連続ガードにし、相手が無敵技を割り込めない状況を作ることもできる。弱Pをガードさせた後、後ろ歩きで投げ抜け狩りが可能となり、さらに様子見ができるため無敵技にも対応できる。溜めフリッカーをガードさせたい場合は遠目で発動するのがおすすめ。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "03:09",
+    "source_quote": "とにかフリッカー。+4F投げ間合い。エドはノーゲージで密着が作れる。バックステップ。遅らせグラップ。発生4F弱Pは連続ガード。溜めフリッカーをガードさせたい場合は基本的には遠め発動がおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "879952a92698",
+    "category": "neutral",
+    "topic": "溜めフリッカーへの対策とエドの対応",
+    "content": "相手が溜めフリッカーを見てからインパクトをしてきた場合、溜めを見せてから後ろキルステップで対応すると確定でパニッシュカウンターを取れる。相手が溜めを見せてからジャンプ攻撃をしてきた場合、飛びを見てから前ステップで抜けるか、あらかじめ飛びを読んで強フリッカーで迎撃する。エドはバックステップが短く、飛び攻撃が引っかかりやすいので、飛び攻撃に対しては入れ替わるのが良い。相手が溜め読みでラッシュで突っ込んできた場合、弱フリッカーや中フリッカーが刺さる。このフリッカーの強度選択が重要。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "溜めフリッカー使用時",
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "06:36",
+    "source_quote": "溜めを見せておいて後ろキルステップが有効。溜めっぱから飛びを見て前ステップで抜ける。あらかじめ飛びを読んで強フリッカーで捕まえる。エドはバクステが短く飛び攻撃が引っかかりやすい。飛び攻撃に対しては入れ替わった方が良い。溜め読みでラッシュ突っ込んでくる。逆に弱や中溜めが刺さる。この距離の読み合いが重要。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "167a3d85168f",
+    "category": "neutral",
+    "topic": "弾持ちキャラへの対応",
+    "content": "相手が弾持ちキャラの場合、ODフリッカーは弾属性を持ち、弾を打ち消した上でヒットするため強力。弾読みで飛び込むと対空のリスクを負うが、ODフリッカーの場合は引き寄せで有利になれる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "弾持ちキャラ相手",
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "08:59",
+    "source_quote": "フリッカーは弾属性を持っており弾を打ち消す。さらにOD版は打ち消した上でヒットするので強力。弾読みで飛び込むと対空のリスクを負うがODフリッカーの場合は引き寄せて有利。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ca4802c31b4d",
+    "category": "neutral",
+    "topic": "しゃがみ中Kの置き技",
+    "content": "しゃがみ中Kはリーチが長く、歩いている相手に当たりやすい。相手に当たるか微妙な距離で置いておき、同時にODフリッカーを仕込んでおくことで、ガードされた場合は引き寄せからの三択に、ヒットした場合はODフリッカーがコンボとなり2679ダメージと大きいリターンに繋がる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "09:34",
+    "source_quote": "しゃがみ中K。相手に当たるか微妙な距離で置いておくと、2中Kと同時にODフリッカーを仕込んでおく。ガード状態の相手に当たった場合はODフリッカーで引き寄せて三択にできる。2中Kがヒットした場合はODフリッカーがコンボになり大きいリターンに繋がる！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b2e182f4a9b0",
+    "category": "neutral",
+    "topic": "立ち中Kの置き技",
+    "content": "立ち中Kも同様に置き技として優秀。差し返しが非常に難しいため、置き技として活用するのが強い。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "10:11",
+    "source_quote": "立ち中K。差し返しが難しい。2中K同様に置き技として優秀。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a91ed7bca895",
+    "category": "neutral",
+    "topic": "ドライブゲージ管理",
+    "content": "ドライブゲージが少ない時は、ラッシュを仕込まずに立ち中K→立ち中Kでヒット確認する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "ドライブゲージが少ない時",
+    "source_video_id": "0xceiBiNy7Q",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Learn how to use Ed to win! We'll also introduce combos and wake-up attacks re...",
+    "source_timestamp": "10:36",
+    "source_quote": "自分のドライブゲージが少ない時はラッシュを仕込まずに中K→中Kでヒット確認。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:26:44.835039",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8eb225ad7bf4",
+    "category": "neutral",
+    "topic": "エドのキルステップ投げの入力",
+    "content": "エドでキルステップ投げを狙う際は、前ステップ中に投げコマンドを入力するのではなく、キルステップの硬直が明けてからニュートラル投げ（5P+K）または後ろ投げ（4P+K）を入力するべきです。前ステップ中に投げコマンドを入力すると、ODサイコブリッツが暴発するリスクがあります。ニュートラル投げにすることで、暴発を防ぎ、安全に投げを仕込めます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "キルステップ投げを狙う状況",
+    "source_video_id": "3A2AQGnRe8Y",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "【スト6】エドの起き攻めで将来発生する読み合いを8手先まで解説します「まだ時じゃない…」【ももち】",
+    "source_timestamp": "08:24",
+    "source_quote": "キルステップ投げをいく時にニュートラル投げにした方がいいんだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:15:52.792622",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "19c0095cb93b",
+    "category": "neutral",
+    "topic": "立ち弱Pと屈弱Pの使い分け",
+    "content": "エドの立ち弱Pと屈弱Pはリーチが短いものの、ドライブゲージが十分な状況でラッシュからヒットさせると+8Fの有利フレームを取れるため、攻め継続に活用できます。特に屈弱Pは下段攻撃から中攻撃に繋ぐことが可能です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "近距離、ドライブゲージがある時",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "00:18",
+    "source_quote": "立ち弱Pとしゃがみ弱Pですね。これは万能な小技なんですけど、まあリーチは他のキャラと違って短めに作られていますね。ですがラッシュでヒットすればまあプラス8フレーム取れたり、下段から中攻撃に行けたりと。で、フレームが優秀だったりする技ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "23a55530ad6f",
+    "category": "neutral",
+    "topic": "立ち中Kの差し返しと弱点",
+    "content": "エドの立ち中Kは非常にリーチが長く、差し返しや置き技、ターゲットコンボ、ドライブラッシュキャンセルからの連携に適しています。ただし、硬直が長く、技の出終わりに上半身の食らい判定が残るため、飛び込み攻撃に対して事故るリスクがあります。先端が当たるか当たらないかのギリギリの距離で使うのが効果的です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "中距離の差し合い",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "02:14",
+    "source_quote": "立ち中Kはリーチがとても長くてですね、差し返しやタゲコン、キャンセルラッシュ、リターンを取りやすい技になってます。が、硬直が長いの上半身のくらい判定も残るため事故ることが多い。相手に触れるきっかけとして対応する技ですので、先端が届くか届かないかの距離でこいつと戦っていきたいですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e6daa5a87238",
+    "category": "neutral",
+    "topic": "立ち大Pの強力な判定と連携",
+    "content": "エドの立ち大Pは非常に強力な判定を持ち、置き技や差し込みとして優秀です。ヒット時にはODブリッツやフリッカーに繋いで高いリターンを得られます。ガードされても弱フリッカーでキャンセルすれば連続ガードになり、相手のドライブゲージを0.8本ほど削ることができます。ヒット確認も一部可能で、将来性のある技です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "中距離の差し合い、対空、ガード後、ヒット確認時",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "03:04",
+    "source_quote": "立ち大Pはエドの最強の判定を持ってる技ですね。置き技として優秀なのはもちろんですね、差し返しが成功すればODブリッツやフリッカーに繋ぐことができる、リターンも高い技ですね。で、ガードされても弱フリッカーで連続ガードになりますので、相手のゲージをがっつり持っていくこともできますし、ヒット確認が一部可能なので、まあその辺も伸びしろを感じる技となっております。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8d51bf40fc63",
+    "category": "neutral",
+    "topic": "屈大P（大足）の基本性能",
+    "content": "エドの屈大Pは、他のキャラクターの大足と同様の性能を持つ下段攻撃です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "03:34",
+    "source_quote": "しゃがみ大Pは他のキャラの大足です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aaa6ca9e61b2",
+    "category": "neutral",
+    "topic": "立ち大Kの有利フレームと限定的な用途",
+    "content": "エドの立ち大Kは、エドが唯一有利フレーム（+4F）を取れる通常技です（ヒット時）。10Fの発生で対空技としても使えますが、昇龍拳の方が安定します。立ち状態の相手にしか当たらないため状況は限られますが、立ち限定コンボや画面端での詐欺飛びからの固めとして有効です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "対空、画面端の固め、立ち状態の相手",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "03:38",
+    "source_quote": "立ち大Kは唯一エドが有利を取れる通常技で10フレの対空技として使えるんですけども、まあ正直昇龍拳でいいです。立ち限定コンボや画面端の詐欺飛びから固めとして使える。立ち状態の相手にしか当たらないため、状況は決まっていますが、まあ良い技となっています。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7858fdabceac",
+    "category": "neutral",
+    "topic": "屈大Kのリーチとキャンセル性能",
+    "content": "エドの屈大Kは非常に長いリーチを持ち、わずかに前進します。フリッカー、ブリッツ、ドライブラッシュでキャンセル可能であり、ヒット確認も一部可能なため、攻めの選択肢を広げやすい技です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "中距離の差し合い、攻め継続",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "03:57",
+    "source_quote": "しゃがみ大Kはリーチが凄まじくですね、まあ前に若干進むのと、フリッカーやブリッツ、ラッシュのキャンセルができるため、優秀な技となっています。こちらもヒット確認が一部できるので、えー、伸びしろを感じる技ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f95efb567570",
+    "category": "neutral",
+    "topic": "距離に応じた通常技の使い分けと翻弄",
+    "content": "エドの立ち回りは距離によって使う通常技を使い分けることが重要です。開幕距離のような中距離では立ち中K、立ち大P、屈大Kを中心に使い、ド密着では弱P、少し離れた近距離では屈弱Kを使います。フリッカーのキャンセルや溜めを織り交ぜることで、相手を翻弄し、有利な状況を作り出しましょう。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "lAD46Y-fHgU",
+    "source_channel": "エドみや",
+    "source_video_title": "【エド】通常技の解説や強い距離や動き方を教えます【スト6】",
+    "source_timestamp": "04:11",
+    "source_quote": "開幕距離ぐらいでは立ち中Kと立ち大P、しゃがみ大Kで立ち回りまして、ド密着では弱P。少し離れた状況だとしゃがみ弱K。で、フリッカーをキャンセルしたりしなかったり、タメたりタメなかったりして相手を翻弄しながら有利に立ち回っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:59:03.898340",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "105",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b9725b946e5a",
+    "category": "neutral",
+    "topic": "差し返しからODフリッカー",
+    "content": "相手の技をしゃがみ中Kで差し返し、パニッシュカウンターを奪うと、ODフリッカーに繋げることができる。アシスト大よりも相手のしゃがみ中Pを狩るのが簡単で、差し返しが成功しやすい。ただし、間合いがいつもより近くないと繋がらないというデメリットもある。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手の技を差し返す時",
+    "source_video_id": "SeWM40XnT_Y",
+    "source_channel": "モダンエド専門学校",
+    "source_video_title": "[Modern Ed] Three new strategies and combos using crouching! Seriously strong! [SF6]",
+    "source_timestamp": "00:42",
+    "source_quote": "パニカンが+4を取ってくれるので、しゃがみ中Kで差し返しを成功するとODフリッカーにつなげることができるよ。よく差し返しに使う技としてアシスト大が多いけど、相手のしゃがみ中パンを狩るのはとっても難しい。だからしゃがみ中がとても簡単にしてくれるんだ。実戦でも決めまくってるよ。メリット：差し替えしが一番簡単にできる。デメリット：その代わりに間合いがいつもより近くないと繋がらない。でも使う頻度だったら第一位もある。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:54:36.127256",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "090647115e90",
+    "category": "neutral",
+    "topic": "エドの対しゃがみガード対策",
+    "content": "エドは中段技を持たないが、しゃがみガードをしている相手に対しては投げが非常に有効な崩し手段となる。ストリートファイター6では、中段技で崩す状況は他のキャラクターでもそれほど多くない。ガードを固めている相手には投げで崩すことが基本となる。特にエドは端での投げが非常に強く、キルステップからの追撃でプラス3フレームを取れるため、投げのリターンが非常に高い。これにより、画面端を非常に広く使うことができ、柔道のような間合い管理が強力なキャラクターである。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "相手がしゃがみガードしている状況",
+    "source_video_id": "hfTYg-U2hhU",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "【エド攻略】少なくなっていくエド、調整の話と初心者質問への回答【スト６】",
+    "source_timestamp": "04:35",
+    "source_quote": "初心者です！エドはしゃがみガードの相手に何をしたらいいですか？投げましょう。たしかにエドは中段がない。中段1個もないよ。ま一応なんかF式みたいなであるけど、ま基本中段はない。だけど他のキャラも相手がしゃがみガードしてるから中段で崩すって状況はそんなに多くない。こういう状況で「崩せないから中段打とう」とはならない。そもそも。まシいて言うならこのラッシュ中段がまあまあ割と強めなんだけど。あれですけど。要はエドって中段持ってないけど、中段持ってないことが弱点にはならないんですよ。なので、まあ、その、他のキャラも別に中段でガンガン崩してやってるわけじゃない。よねっていうのがまず前提にあるんで。なんで、まあ、相手がガードしてるなら基本は投げです。中下で崩すゲームではない。基本的に。ストリートファイター。その鉄拳とかだと逆に投げとかは見てから抜けられるけど、下段とかが見てからガードできないみたいなゲームなんで、結構中下で崩すゲームなんだけど、鉄拳はね。ストリートファイターは基本的には中段は。ま、これですらも別に見てたら、あの、立たれたり、ジャスパ取られたりするから。で、基本的にしゃがみガードしてるゲームなので、下段もまあ、基本その、そんなに通らない。ガード固めてる相手なのね。でもガード固めてる相手はこの投げ。むしろうこいつはやっぱり端の投げはすげえ強いのと。ちなみにここはもう端ですから。この辺。端と埋まるという前提で。もうここ余裕で端なんだ。ここ端だよ。ここが端ってことは、ま言うた反対側も端なわけ。もうここが端なわけ。だから中央ってここしかない。この間。ちょっとライン押して、中足ラッシュで触りましたつったらもう端なんだ。だからエドは投げののリターンはめちゃくちゃ高い。ケンの投げはすごい強いよという感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:20:06.233578",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "326",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

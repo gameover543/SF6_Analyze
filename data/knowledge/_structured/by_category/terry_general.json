@@ -1,0 +1,372 @@
+[
+  {
+    "id": "9f0dc6256e5e",
+    "category": "general",
+    "topic": "リリー戦の読み合いのコツ",
+    "content": "リリー戦の読み合いのコツは、リリー側の風ストック数を確認すること。スピアー前に風ストックが2個以上ある場合、リリーは打撃択に移行しやすいので、打撃を読んで対処する。風ストックが0か1個の時は、リリーの打撃をくらっても安く済むことが多いので、コマ投げを読んで垂直ジャンプやバックジャンプで回避し、リターンを取るのが有効。",
+    "characters": [
+      "lily",
+      "terry"
+    ],
+    "matchup": "terry",
+    "situation": "スピアー前の風ストック数確認時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:02",
+    "source_quote": "読み合いのコツはリリー側の風ストック数を見ること。スピアー前に風ストックが2個以上あるなら打撃を読め\n風ストックが0か1の時は打撃を喰らっても安く済むのでコマ投げを読んで飛ぶのがリターン大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "daab02aee4ec",
+    "category": "general",
+    "topic": "リリー戦の立ち回りのコツ",
+    "content": "テリーは、リリーのラッシュしゃがみ大Pが見えたらドライブリバーサル、しゃがみ大P以外の技からのウィンドにはドライブインパクトで対応するなど、対策ができれば立ち回りでかなり優位に立てる。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り全般",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:41",
+    "source_quote": "ラッシュしゃがみ大Pが見えたらDリバ、しゃがみ大P以外からのウィンドにインパクトといった対策が出来れば立ち回りでかなり優位に立てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a0d827ae347c",
+    "category": "general",
+    "topic": "テリーのキャラ特性",
+    "content": "テリーは地を這う弾（パワーウェイブ）や高性能な対空技（ライジングタックル）、リュウやケンに似た牽制技（立ち中P、しゃがみ中K）を持つスタンダードなキャラクターです。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Yqx-6N9d6PA",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【Mテリー】今夜勝てるようになるモダンテリーの使い方!！【スト６】",
+    "source_timestamp": "0:06",
+    "source_quote": "ついに出走された新キャラテリーは地を這うような玉や性能の良い対空技、リュウやケンのような牽制技をもっているスタンダード系のキャラクターとなっているよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:18:58.375570",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fb95112bbf5d",
+    "category": "general",
+    "topic": "強パワーチャージの重要性",
+    "content": "テリーのコンボの主軸は強パワーチャージです。コンボを組む上で「強チャージに繋げる」ことを一つの目標にしましょう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "xMJ83EBaCqE",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【スト6】全1テリーによるCテリーコンボ解説！①キャンセルラッシュを使わない基礎コンボ編【2025年3月版】",
+    "source_timestamp": "03:14",
+    "source_quote": "テリーの主軸技！これがないと始まらない\nコンボをする上で「強チャージに繋げる」のが１つのゴール",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:42:33.671584",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "12bb19e3e1a8",
+    "category": "general",
+    "topic": "強チャージが繋がる条件",
+    "content": "強チャージがコンボに繋がる条件は、①屈弱Pパニッシュカウンター、②屈中Pパニッシュカウンター、③ラッシュからの屈強P、④ラッシュからの立ち強P、⑤立ち強P1段目です。また、無敵技をガードした際には、屈強P始動から強チャージへ繋げると高いダメージが出ます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "特定の状況で強チャージへ繋ぐ際",
+    "source_video_id": "xMJ83EBaCqE",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【スト6】全1テリーによるCテリーコンボ解説！①キャンセルラッシュを使わない基礎コンボ編【2025年3月版】",
+    "source_timestamp": "03:30",
+    "source_quote": "強チャージが繋がる条件 ①屈弱Pパニカン ②屈中Pパニカン ③ラッシュ屈強P ④ラッシュ立強P ⑤立強P1段目\n無敵技ガード時に屈大P始動にするを◎",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:42:33.671584",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f535f0c07e0",
+    "category": "general",
+    "topic": "SA1に繋げる条件",
+    "content": "SA1は、①コンボ中に中チャージ、②コンボ中にラウンドウェイブの空中当て、③ODクラックや強クラックなどから繋げることができます。立ち強P1段から強チャージ、強クラックを経てSA1へ繋ぐコンボ（2880ダメージ）は汎用性が高く、まずは練習しましょう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "SA1へ繋ぐ際",
+    "source_video_id": "xMJ83EBaCqE",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【スト6】全1テリーによるCテリーコンボ解説！①キャンセルラッシュを使わない基礎コンボ編【2025年3月版】",
+    "source_timestamp": "06:27",
+    "source_quote": "SA1に繋げられる条件 ①コンボ中に中チャージ ②コンボ中にラウンドウェイブ空中当て ③OD/強クラック etc...\n立強P1段＞強チャージ＞強クラック＞SA1(2880)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:42:33.671584",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "302",
+      "400",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "78ef103a8ced",
+    "category": "general",
+    "topic": "SA2のダメージ保証とリーサル判断",
+    "content": "テリーのSA2は非常に重要で、ダメージ保証が非常に高いです。SA3が約2000ダメージ、CAが約2200ダメージであるのに対し、SA2（トリプルガイザー）は2450ダメージ（または2480ダメージ）を保証します。ザンギエフや本田など一部のキャラを除き、相手の体力が黄色になったら通常はリーサル（KO可能）です。Dゲージを消費しますが、これを基準にSA2を使用することを検討しましょう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "SA2使用時、リーサル判断",
+    "source_video_id": "xMJ83EBaCqE",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【スト6】全1テリーによるCテリーコンボ解説！①キャンセルラッシュを使わない基礎コンボ編【2025年3月版】",
+    "source_timestamp": "07:11",
+    "source_quote": "SA2の性能説明\nSA3:2000 CA:2200 SA2(トリプルガイザー):2450\n通常のキャラの場合は黄色になったらリーサル",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:42:33.671584",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401",
+      "405",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ec4cbc44133f",
+    "category": "general",
+    "topic": "コンボ締めの選択肢",
+    "content": "コンボの締めでは、スウェー締めも強いですが、最初はパワードダンク締めでも大丈夫です。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "コンボ締め",
+    "source_video_id": "Bha5BJX_qQA",
+    "source_channel": "いちじっち",
+    "source_video_title": "【スト6】初心者・中級者向けとりこれコンボ、セットプレイまとめ【テリー】",
+    "source_timestamp": "00:57",
+    "source_quote": "スウェー〆も強いが最初はパワードダンク〆で大丈夫！！スウェーの強いところはまた別の動画で解説します！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:22:34.185224",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d41d718cf838",
+    "category": "general",
+    "topic": "SA2リーサル判断",
+    "content": "相手の体力バーが黄色（体力ゲージが赤）になったら、SA2コンボでほとんどのキャラがリーサルになります（体力が高いキャラは例外）。覚えておくと良いでしょう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "相手の体力ゲージが黄色時",
+    "source_video_id": "Bha5BJX_qQA",
+    "source_channel": "いちじっち",
+    "source_video_title": "【スト6】初心者・中級者向けとりこれコンボ、セットプレイまとめ【テリー】",
+    "source_timestamp": "01:25",
+    "source_quote": "相手の体力カバーが黄色になったらほとんどがリーサルになる！(体力が多いキャラは別です！)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:22:34.185224",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f0dc6256e5e",
+    "category": "general",
+    "topic": "リリー戦の読み合いのコツ",
+    "content": "リリー戦の読み合いのコツは、リリー側の風ストック数を確認すること。スピアー前に風ストックが2個以上ある場合、リリーは打撃択に移行しやすいので、打撃を読んで対処する。風ストックが0か1個の時は、リリーの打撃をくらっても安く済むことが多いので、コマ投げを読んで垂直ジャンプやバックジャンプで回避し、リターンを取るのが有効。",
+    "characters": [
+      "lily",
+      "terry"
+    ],
+    "matchup": "terry",
+    "situation": "スピアー前の風ストック数確認時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:02",
+    "source_quote": "読み合いのコツはリリー側の風ストック数を見ること。スピアー前に風ストックが2個以上あるなら打撃を読め\n風ストックが0か1の時は打撃を喰らっても安く済むのでコマ投げを読んで飛ぶのがリターン大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "daab02aee4ec",
+    "category": "general",
+    "topic": "リリー戦の立ち回りのコツ",
+    "content": "テリーは、リリーのラッシュしゃがみ大Pが見えたらドライブリバーサル、しゃがみ大P以外の技からのウィンドにはドライブインパクトで対応するなど、対策ができれば立ち回りでかなり優位に立てる。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り全般",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:41",
+    "source_quote": "ラッシュしゃがみ大Pが見えたらDリバ、しゃがみ大P以外からのウィンドにインパクトといった対策が出来れば立ち回りでかなり優位に立てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e0927a13002",
+    "category": "general",
+    "topic": "困った時のドライブインパクト",
+    "content": "攻めや守りで状況に困ったら、ドライブインパクトも選択肢の一つとして考慮する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "困った時",
+    "source_video_id": "Upo3yyiY1vM",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのダルシム対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:58",
+    "source_quote": "困ったらインパクトもあり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:23:56.137369",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aa6b3ff97128",
+    "category": "general",
+    "topic": "テリーの強み",
+    "content": "テリーの最大の強みは、ヒットした際の`運び性能 (carry ability)`が非常に高い点にある。一度コンボを決め、投げに繋がれば画面端まで運ぶことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": null,
+    "situation": "ヒット時",
+    "source_video_id": "Jvpkgsap2ds",
+    "source_channel": "小路KOG",
+    "source_video_title": "【SF6】10分で分かる！新キャラ「テリー」初日完全攻略！【小路KOG】",
+    "source_timestamp": "07:12, 09:03",
+    "source_quote": "こいつの強みは運び。めっちゃ運んでますよこれ。何当たってもやたら運ぶ。1回コンボ決めて次の投げ入ったら端から端まで行きかねない。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:44:02.084368",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

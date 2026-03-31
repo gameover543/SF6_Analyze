@@ -1,0 +1,253 @@
+[
+  {
+    "id": "a2dcaf74fe9f",
+    "category": "neutral",
+    "topic": "ディージェイのラッシュコパ",
+    "content": "ディージェイの「ラッシュコパ」は最速15Fで攻撃が当たるため、見てから止めるのは困難である。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:04",
+    "source_quote": "DJのラッシュコパは最速15F目で当たるので見てから止めるのは困難",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "38fddb021a56",
+    "category": "matchup",
+    "topic": "ファンキースライサーの反撃",
+    "content": "ディージェイが不利フレームの状況から「ファンキースライサー」を出した場合、反撃を受けやすい。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ディージェイが不利フレーム時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:36",
+    "source_quote": "不利フレームからのファンキースライサーは無効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4ad610bd82fe",
+    "category": "matchup",
+    "topic": "ODエアスラのフレーム状況",
+    "content": "ディージェイの「ODエアスラッシュ」は大幅に有利フレームとなる技であり、テリーが「ダブルジャスパ」で返してもまだディージェイ側が有利な状況が続く。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ODエアスラッシュヒット/ガード後",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:26",
+    "source_quote": "ODエアスラはDJ大幅有利、ダブルジャスパしてもまだDJ有利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df6e73bbae97",
+    "category": "matchup",
+    "topic": "ディージェイの立ち中Pの性能",
+    "content": "ディージェイの「立ち中P」は発生7F、ガード時+2Fと有利で、投げ間合い外からの攻撃なので強力な牽制となる。この「立ち中P」からの「立ち中P」連打には、テリーの「小パン」で割り込んで勝つことができる。「立ち中P」からの「コパコパ」は繋がっていないため、割り込みのチャンスがある。「立ち中P」から「しゃがみ中K」の連携は、ガードしても確定反撃がない。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ディージェイの立ち中P使用時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:45",
+    "source_quote": "立ち中Pは発生7F、ガード時+2F、投げ間合い外。立ち中P→立ち中Pには小パンで勝てる。立ち中P→コパコパは繋がらない。立ち中P→しゃがみ中Kはガードして確反なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e12d5294e492",
+    "category": "matchup",
+    "topic": "ディージェイのラッシュ立ち中P後の投げ",
+    "content": "ディージェイの「ラッシュ立ち中P」をガードさせた場合、投げ間合い内になるため、投げの択に注意する。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ラッシュ立ち中Pガード後",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:02",
+    "source_quote": "ラッシュ立ち中Pはガードさせて投げ間合い内",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "098cc2d1e06a",
+    "category": "matchup",
+    "topic": "ディージェイの前中K後の展開",
+    "content": "ディージェイの「前中K」はガード時+1F有利で、距離によっては投げに移行できる。また、ガードさせた後に「コパコパ」に繋げることができる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ディージェイの前中K使用時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:34",
+    "source_quote": "前中Kはガードさせて+1F、距離によっては投げられる。ガードさせてコパコパが繋がる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a73f20609f8",
+    "category": "matchup",
+    "topic": "ディージェイのしゃがみ大P",
+    "content": "ディージェイの「しゃがみ大P」は持続が2Fしかないため、持続が長く見えるが実際には不利フレームである。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ディージェイのしゃがみ大P使用時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:44",
+    "source_quote": "しゃがみ大Pは持続が2Fしかないので持続っぽく見えても絶対不利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "043325f784c8",
+    "category": "matchup",
+    "topic": "ディージェイのODジョスクールのフレーム状況",
+    "content": "ディージェイの「ODジョスクール」は、下段ヒット時は+6F有利、中段ヒット時は+7F有利、どちらもガード時は-2Fとなる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ODジョスクール使用時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:49",
+    "source_quote": "ODジョスクールは下段がヒット時+6F、中断が+7F、どちらもガード時-2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "317",
+      "318"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "db09c3511b6b",
+    "category": "matchup",
+    "topic": "ディージェイのODソバット",
+    "content": "ディージェイの「ODソバット」はガード時-2Fであり、ヒット確認から「SA2」や「SA3」にキャンセルしてコンボを伸ばすことができる。ガードした後は投げ間合いになるため、テリーは投げで反撃を狙うことができる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "terry",
+    "situation": "ODソバット使用時",
+    "source_video_id": "h2HxvycJLQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのディージェイ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:01",
+    "source_quote": "ODソバットはガード時-2F、ヒット確認でSA2とSA3にキャンセル出来る。ガード時は投げ間合い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:58:04.345261",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "432"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

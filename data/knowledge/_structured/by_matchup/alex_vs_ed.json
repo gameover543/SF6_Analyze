@@ -1,0 +1,116 @@
+[
+  {
+    "id": "00e4e93e2a5b",
+    "category": "matchup",
+    "topic": "EdのEXアッパーへの対策",
+    "content": "EdのEXアッパーに対して、Alexは立ち強Pでパニッシュカウンターを取り、ストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ed",
+    "situation": "EdのEXアッパーをガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "04:51",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1207510f2c40",
+    "category": "matchup",
+    "topic": "Edのドライブインパクト対策",
+    "content": "Edのドライブインパクトに対して、Alexはドライブインパクトを返し、しゃがみ中Pからのコンボで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ed",
+    "situation": "Edがドライブインパクトを仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "04:54",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89569c0e239f",
+    "category": "matchup",
+    "topic": "Edの地上牽制技への対策",
+    "content": "Edのしゃがみ強Kに対して、Alexは立ち強Pでパニッシュカウンターを取り、ODラリアットで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ed",
+    "situation": "Edのしゃがみ強Kをガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "04:58",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "218"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8c8be2e79b6",
+    "category": "matchup",
+    "topic": "Edのドライブラッシュ攻撃への対策",
+    "content": "Edのドライブラッシュからの立ち中Kに対して、Alexは投げでパニッシュカウンターを取り、ストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ed",
+    "situation": "Edのドライブラッシュ立ち中Kをガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "05:06",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

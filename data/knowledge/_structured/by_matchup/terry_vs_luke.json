@@ -1,0 +1,694 @@
+[
+  {
+    "id": "73d85a699441",
+    "category": "defense",
+    "topic": "前投げ後のラッシュ対策",
+    "content": "相手のルークが前投げ後にラッシュを仕掛けてきた場合、ドライブパリィ（場受け）でガードし、OD無敵技をパニッシュカウンターさせてスーパーアーツ1（SA1）を確定させる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの前投げ後の起き攻めでラッシュを仕掛けてきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:01",
+    "source_quote": "前投げ後のラッシュは場受けでOD無敵 SA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "679c5bd109be",
+    "category": "defense",
+    "topic": "後ろ投げ後のラッシュ対策",
+    "content": "相手のルークが後ろ投げ後にラッシュを仕掛けてきた場合、ドライブパリィ（場受け）でガードし、OD無敵技をパニッシュカウンターさせてスーパーアーツ1（SA1）を確定させる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの後ろ投げ後の起き攻めでラッシュを仕掛けてきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:08",
+    "source_quote": "後ろ投げ後のラッシュは場受けでOD無敵 SA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "40b0433add78",
+    "category": "defense",
+    "topic": "ルーク立ち大Kの確定反撃",
+    "content": "ルークの立ち大Kをガードすると-9F不利なので、テリーはしゃがみ中Kが99%確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち大Kをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:20",
+    "source_quote": "大足：-9F、99%中足確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "47e44e121a4e",
+    "category": "defense",
+    "topic": "ルーク立ち大Pの確定反撃",
+    "content": "ルークの立ち大Pをガードすると-5Fから-6F不利なので、テリーは立ち弱Kが99%確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち大Pをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:25",
+    "source_quote": "大P：-5Fから-6F、99%小K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d8656a9ee94f",
+    "category": "defense",
+    "topic": "ルーク中パンチフラッシュナックルの確定反撃",
+    "content": "ルークの中パンチフラッシュナックルをガードすると-8F不利だが、先端ガードだと確定反撃はない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの中パンチフラッシュナックルをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:31",
+    "source_quote": "中フラ：-8F、先端だと確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "07383c4af8f8",
+    "category": "defense",
+    "topic": "ルーク最大溜め中パンチフラッシュナックルの確定反撃",
+    "content": "ルークの最大溜め中パンチフラッシュナックルをガードすると-3F不利なので、確定反撃はない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの最大溜め中パンチフラッシュナックルをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:36",
+    "source_quote": "中フラは最大溜めだと-3Fで確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9920f86c5702",
+    "category": "defense",
+    "topic": "SA3がない時のルーク中フラッシュナックルへの対応",
+    "content": "相手にスーパーアーツ3（SA3）がない時、ルークが中パンチフラッシュナックルを撃ったのを見てからドライブインパクトを確定させることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "相手にSA3がなく、ルークが中パンチフラッシュナックルを撃ってきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:40",
+    "source_quote": "相手にSA3がない時、中フラは見てからインパクトが確定する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "405",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3532400d1e94",
+    "category": "defense",
+    "topic": "ルーク強パンチフラッシュナックルの確定反撃",
+    "content": "ルークの強パンチフラッシュナックルをガードすると-4F不利だが、先端ガードだと確定反撃はない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの強パンチフラッシュナックルをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:45",
+    "source_quote": "強フラ：-4F、先端だと確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7354cda2ae89",
+    "category": "defense",
+    "topic": "ルークアベンジャーのフレーム状況",
+    "content": "ルークのアベンジャーを持続当てでガードすると有利だが、普通に当てると-6F不利。ODアベンジャーもガードすると-6F不利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのアベンジャーまたはODアベンジャーをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:49",
+    "source_quote": "アベンジャー：持続当てだと有利、普通に当てると-6F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b76e718d23f4",
+    "category": "defense",
+    "topic": "ルークインパラーのフレーム状況",
+    "content": "ルークのインパラーをガードすると通常-8F不利だが、持続気味に当てると-7F不利。ODインパラーは-3F不利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのインパラーまたはODインパラーをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:58",
+    "source_quote": "インパラー：通常-8Fだが持続気味に当てると-7F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f72c5dd39e1",
+    "category": "defense",
+    "topic": "ルークサンブラストへの対応",
+    "content": "ルークのサンブラストはとにかくジャストパリィで対処する。近い距離なら立ち大Kで確定反撃、遠い距離でもドライブインパクトが有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークがサンブラストを撃ってきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:07",
+    "source_quote": "サンブラはとにかくジャスパ。近いと大K、遠くても中バーンが有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "222b1cf78906",
+    "category": "defense",
+    "topic": "ルーク弱・中フラッシュナックルのパリィ釣り対策",
+    "content": "ルークの弱パンチ・中パンチフラッシュナックルは遠距離だとパリィ釣りになることがあるが、ドライブラッシュから確定反撃が取れる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが弱・中パンチフラッシュナックルを遠距離で撃ってきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:14",
+    "source_quote": "弱・中フラが届かずパリィ釣りになることがあるが、ラッシュから確定が取れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5957730ae839",
+    "category": "defense",
+    "topic": "ルーク溜め強フラッシュナックルへの対応",
+    "content": "ルークの溜め強パンチフラッシュナックルには、遅らせドライブパリィ、バックジャンプ、または立ち中Pを置いて対応する。相手にスーパーアーツ3（SA3）がない場合はドライブインパクトが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが溜め強パンチフラッシュナックルを撃ってきた時、またはSA3がない時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:23",
+    "source_quote": "溜め強フラは遅らせパリィ・バックジャンプ・中P置きで対応",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "405",
+      "602",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e2b47bba3a6",
+    "category": "defense",
+    "topic": "ルーク弱パンチ連打コンボへの対応",
+    "content": "ルークの弱パンチ連打コンボに対しては、ジャストパリィや溜め強パンチフラッシュナックルへの対応（遅らせドライブパリィ、バックジャンプ、立ち中P置き）で対処できる。ただし、無敵技での切り返しは安定しない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが弱パンチ連打コンボを仕掛けてきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:32",
+    "source_quote": "小パンタグコンもサンブラにジャスパ・溜め強フラに各種対応でOK",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "605",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "984bb57f3063",
+    "category": "defense",
+    "topic": "ルークしゃがみ中P後のフレーム状況と対応",
+    "content": "ルークのしゃがみ中Pはガード後+1F有利だが、投げ間合い外であり、しゃがみ弱Pやしゃがみ弱Kも届かない。しゃがみ中Kも発生8Fと遅いため、暴れにくい状況となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのしゃがみ中Pをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:52",
+    "source_quote": "しゃがみ中Pは+1Fだが投げ間合い外、コアコパも届かず、中足も発生8F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "107",
+      "108",
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b3da266586c",
+    "category": "neutral",
+    "topic": "ルークの歩き投げ対策",
+    "content": "ルークの歩き投げに対しては、5F程度の微下がりや後ろ下がりでスカすことができる。小足（立ち弱K）は当てて良く、しゃがみ中Kはガードで対処するのが完全な回答となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが歩き投げを狙ってきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:59",
+    "source_quote": "5F程度の微下がり後しり下がりで歩き投げをスカし、小足は当ててOK、中足はガードの完全回答",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "166484f0b07f",
+    "category": "defense",
+    "topic": "ラッシュしゃがみ中Pガード後の対応",
+    "content": "ルークのドライブラッシュしゃがみ中Pをガードした後は、下がり入力ができないため、しゃがみガードで対応する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのドライブラッシュしゃがみ中Pをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:07",
+    "source_quote": "ラッシュしゃがみ中Pの後は下れないのでしゃがみガード",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "671f749fe451",
+    "category": "defense",
+    "topic": "ルーク前投げ後の防御",
+    "content": "ルークの前投げ後の打撃起き攻めはダメージがかなり安いため、割り切って前ジャンプで逃げるのも有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの前投げ後の起き攻め時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:10",
+    "source_quote": "前投げの後の打撃択がかなり安いいため、割り切って前ジャンプも有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d92dda724996",
+    "category": "defense",
+    "topic": "ルーク立ち大Kの起き攻め対策",
+    "content": "ルークの立ち大Kは持続当てだと+1F有利だが、通常ガードだと-5F不利。ドライブラッシュ立ち大Kはめり込むことが多いため、明らかな持続当て以外は立ち弱Pで差し返すのが安定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち大Kまたはドライブラッシュ立ち大Kをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:20",
+    "source_quote": "大Kは持続当てだと+1F、通常だと-5F、とりあえず小パンを押すのが安定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "48c0ed1fcd53",
+    "category": "defense",
+    "topic": "ルーク小パンチ・小キックドライブラッシュへの対応",
+    "content": "ルークの小パンチドライブラッシュは立ち弱Pで割ることができ、小キックドライブラッシュは相打ちとなる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの小パンチドライブラッシュまたは小キックドライブラッシュを仕掛けてきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:35",
+    "source_quote": "ルークのコバラッシュは小パンで割れる、小Kラッシュは相打ち",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93337b724917",
+    "category": "defense",
+    "topic": "ルーク立ち弱Kの差し返し",
+    "content": "ルークの立ち弱Kはガードバックが大きいため、立ち大Kで差し返すポイントになる。ただし、先端ガードだとしゃがみ中Kも届かない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち弱Kをガードした時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:40",
+    "source_quote": "小Kはガードバックが大きく、大Kでの差し返しポイント",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "105",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f7ce5059e26d",
+    "category": "defense",
+    "topic": "ルークのジャストフラッシュナックル起き攻め対策",
+    "content": "ルークの中ジャストフラッシュナックル→弱ジャストフラッシュナックル→アベンジャーによる起き攻めは、ジャスト失敗時のみドライブパリィ（場受け）でシミー（投げと打撃の二択）を崩せない。ジャスト成功時は下がる。強フラッシュナックル後のアベンジャー持続当て起き攻めに対してはOD無敵技が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのジャストフラッシュナックル連携からの起き攻め時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:06",
+    "source_quote": "中ジャスト→弱ジャスト→アベンジャーの起き攻めはジャスト失敗時のみ場受けでシミー不可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d2cac14e7497",
+    "category": "defense",
+    "topic": "ルーク弱ジャストフラッシュナックルからの起き攻め対策",
+    "content": "ルークの弱ジャストフラッシュナックルから前ステップしてきた場合、ドライブインパクトが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが弱ジャストフラッシュナックルから前ステップしてきた時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:21",
+    "source_quote": "弱ジャスト→前ステで汚インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a90847ce03a5",
+    "category": "defense",
+    "topic": "画面端でルークがジャンプエリアルフラッシュナックルで脱出する時の対応",
+    "content": "画面端でルークに攻められている際、ルークがジャンプエリアルフラッシュナックルで画面端から脱出しようとしてきた場合、落ち着いてバックジャンプで落とすか、ルークの着地を狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "luke",
+    "situation": "画面端でルークがジャンプエリアルフラッシュナックルで脱出してくる時",
+    "source_video_id": "mqnhSaOICM0",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのルーク対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:26",
+    "source_quote": "掴み状態の際、ジャンプエアフラで画面端を脱出する場合があるが、落ち着いてバックジャンプで落とすか着地を狙う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:00:12.839045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

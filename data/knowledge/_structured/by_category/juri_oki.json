@@ -1,0 +1,872 @@
+[
+  {
+    "id": "3bdf3aba4ef1",
+    "category": "oki",
+    "topic": "連ガの強みと崩し",
+    "content": "連ガ（連続ガード）の強みは主に2つ。1つは、連ガ中に中下段の二択を迫ることで、相手が無敵技で割り込もうとすると連ガでガードされてしまうため、リスクなく崩しを仕掛けられる。例えば、【飛び込み→小足】の連ガ連携に昇龍拳で割り込もうとすると、小足が連続ガードになるため昇龍拳が潰れてしまう。2つ目は、連ガ中は無敵技を食らわない。これにより、相手の無敵技による割り込みを気にせず攻めを継続できる。",
+    "characters": [
+      "juri",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "相手をダウンさせた後の起き攻め、またはガードを固めている相手に対して",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "04:22",
+    "source_quote": "連ガの強みってなんですか？まあ一つは、例えば 【飛び込み→小足】 の連打連係に対して623入力で昇龍拳を打つと連ガの小足で崩れてしまう。ちゃんとガチャったら大丈夫なんすけど、これ623っていれると、ここの小足食らったりするんすよ。だから、そういう崩しがあったりするっていうのと。連ガの間は無敵技を食らわないっていうのがある。例えばやけど連ガ中に中段攻撃。まーこれは中段じゃないけど、他のキャラ中段あるやんリュウの鎖骨とか。連ガかつ、中下段の二択を迫れる状況を作れば相手の無敵技での割り込みを気にせず二択を迫れる。連ガの強みはだから、あの無敵技を考慮しないといけないところが。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "114"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "97c9dc840a1b",
+    "category": "oki",
+    "topic": "ジュリの有利フレームからの起き攻め",
+    "content": "ジュリの連係では、【歳破衝→ラッシュ中段】や【歳破衝→ラッシュ小足】が連続ガードになるため、リスクなく中下段の二択を仕掛けられる。また、ジュリの立ち中Pはガードさせて+2Fと有利フレームが取れる。このゲームの最速発生技は4Fなので、立ち中Pから立ち弱K（発生5F）を出すと、実質3Fで動いていることになり、相手の4F暴れに勝つことができる。この【コパン→ガードさせて有利技】の連係で暴れ潰しをし、相手が動かなくなったところを投げに行くのが、ジュリの起き攻めの基本である。有利フレームを取って暴れ潰しか投げの二択を仕掛けることを目指す。",
+    "characters": [
+      "juri",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "ジュリがダウンを取った後、または有利フレーム状況での起き攻め",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "05:13",
+    "source_quote": "連ガの概念 ジュリがめっちゃ関係ありますわ。ジュリの連係でめちゃよくあるのが…【歳破衝→ラッシュ中段】が連ガ。これ連ガ中断なんすよ。で【歳破衝→ラッシュ小足】も連ガ。これ。これ連ガ下段なんすよ。だからこれが連続ガードの強みっすよね。連続ガードにしてるからほらこれ…二択できるんすよ昇龍拳のリスクなく！っていう感じっすわ。でちょっと脱線したんすけど起き攻めはどんな風にしたらいいのかってのはコパン…【コパン→投げ】と【コパン連キャン暴れ潰し】この2つを軸にするのとキャラによっては、ガードさせて有利な技がキャラによってはある。ジュリとかはガードさせて、中パン2F有利なんすけど…このゲーム、最速発生技は4Fなんすよ基本的に。4Fなんですけど立中Pってガードさせて+2Fなんすよ。つまりジュリが2F相手より早く動く。でこれ立弱K発生5Fなんすけど…これ+2Fから動いてるからジュリが相手の4F暴れに勝ってるんすよ。そう実質3Fで動けるってことであってます？そう実質3Fで動けるってことで合ってます。さっきのコパン連キャンを匂わせて投げるのと似た話ですが、まずは連キャンを匂わせて…【コパン→ガードさせて有利技】の連係で暴れ潰し。これで相手が動かなくなったところを投げにいく。だからもう起き攻めはこれにつきます。有利フレームを取って暴れ潰しか投げの二択。もうこれでだいたい完結する基本。っていう感じですねわかりやすいのはこれです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "102",
+      "104",
+      "107",
+      "114",
+      "304"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b2d69ffb5aef",
+    "category": "oki",
+    "topic": "マリーザの起き攻め対策（基本）",
+    "content": "マリーザの起き攻めの多くは、後ろ受け身を取っていれば択になっていない。投げた後やグラディウス/ファランクスをヒットさせた後の起き攻めは打撃しか埋まらない。投げの選択肢はないので、防御も焦る必要はない。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザの起き攻め時（パニカン以外）",
+    "source_video_id": "vPdrBCK5P_4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "【スト6】マリーザ対策【最新版】苦手な人必見！立ち回りや攻め方、強みや弱みまで徹底解説｜初心者～マスター対応｜トレモ解説付きキャラ対策シリーズ#22",
+    "source_timestamp": "06:40",
+    "source_quote": "マリーザの起き攻めの多くはちゃんと後ろ受け身を取っていれば択になってないのがほとんどです。例えば、投げは後はラッシュして起き攻めに来ますががこれは打撃しか埋まりません。グラディウスやファランクスをヒットした時も同じで、埋まるのは打撃のみです。投げの選択肢はないの防御も焦る必要はありません。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:12:17.003084",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8ab73181a189",
+    "category": "oki",
+    "topic": "マリーザの起き攻め対策（パニカン時）",
+    "content": "パニカンヒットで受け身が取れない場合は、投げも起き攻めの選択肢に入ってくる。特にコマ投げが厄介なので、しっかり読み合いをするしかない。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "marisa",
+    "situation": "パニカンヒットで受け身が取れない時",
+    "source_video_id": "vPdrBCK5P_4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "【スト6】マリーザ対策【最新版】苦手な人必見！立ち回りや攻め方、強みや弱みまで徹底解説｜初心者～マスター対応｜トレモ解説付きキャラ対策シリーズ#22",
+    "source_timestamp": "07:09",
+    "source_quote": "ただ、パニカンでの投げやファランクスで受け身を取れない時は状況が変わります。この時の起き攻めは、打撃と様子見以外にも投げが選択肢に入ってきます。特にコマ投げが厄介です。しっかり読み合いをするしかありません。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:12:17.003084",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c11a2709dd04",
+    "category": "oki",
+    "topic": "マリーザの起き攻め対策（アップデート後）",
+    "content": "アップデートでマリーザのSA1に投げに対する当て身が追加されたため、安易に投げ重ねするとSA1で当て身を取られて2400ダメージ+起き攻めまで付いてくる。これは大きなリターンを取られるので、マリーザ相手に投げておけば良いという対策は使えなくなった。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザの起き攻め時",
+    "source_video_id": "vPdrBCK5P_4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "【スト6】マリーザ対策【最新版】苦手な人必見！立ち回りや攻め方、強みや弱みまで徹底解説｜初心者～マスター対応｜トレモ解説付きキャラ対策シリーズ#22",
+    "source_timestamp": "07:45",
+    "source_quote": "それががアップデートでSA1に投げに対する当て身も追加されました。なので、今のマリーザに安易に投げ重ねするとSA1で当て身を取られて2400ダメージ、さらに起き攻めまでついてくるという大きなリターンを取られます。マリーザに対しては、とりあえず投げておけば良いという対策は使えなくなりました。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:12:17.003084",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "efcc9412a0b8",
+    "category": "oki",
+    "topic": "マリーザの起き攻め対策（垂直ジャンプ）",
+    "content": "マリーザの現状の強い起き攻めには、垂直ジャンプ（原人狩り）が有効。マリーザの投げ抜けを狩れるのはもちろん、起き上がりに多いスクトゥムやODグラディウス、さらに全てのSAをかわすことができる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザの起き攻め時",
+    "source_video_id": "vPdrBCK5P_4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "【スト6】マリーザ対策【最新版】苦手な人必見！立ち回りや攻め方、強みや弱みまで徹底解説｜初心者～マスター対応｜トレモ解説付きキャラ対策シリーズ#22",
+    "source_timestamp": "08:08",
+    "source_quote": "そんなマリーザに対しての現状の強い起き攻めは起き攻めに垂直ジャンプ、いわゆる原人狩りですね。マリーザの投げ抜けを枯れるのはもちろん起き上がりに多いスクトゥムやODグラディウス、さらに全てのSAをかわすことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:12:17.003084",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "680834892085",
+    "category": "oki",
+    "topic": "ジュリ立ち大P起き攻め3F目重ね",
+    "content": "ダウンを奪った後、ジュリの立ち大P(発生15F)を相手の起き上がりの3F目に重ねるセットプレイ。相手が暴れればパニッシュカウンターになり、ドライブリバーサルやSAも潰せる。また、相手がドライブパリィを選択しても、ジュリ側は有利な読み合いに持ち込める。立ち大Pガード時の硬直差は+20Fなので、相手の起き上がりの3F目に当てるためには、-12Fになるようなフレーム消費行動を挟む必要がある。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "ダウンを奪った後の起き攻め",
+    "source_video_id": "5kCobr2_cSU",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】パリィにも対応！？ファイナルあつしが考える強い起き攻めと考え方を徹底解説！",
+    "source_timestamp": "00:39",
+    "source_quote": "これをやると起き上がりにパリィされてもジャスト取られづらいし、暴れしっかり潰せるし、確認ができるし、みたいなパナシ以外には勝ちみたいなもん。相手は起き上がってから1Fだかガードしてパリィ押さないといけない。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:48:14.102527",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b6ab2fcc50aa",
+    "category": "oki",
+    "topic": "ジュリ天穿輪からの起き攻め調整",
+    "content": "ジュリの強天穿輪で相手を浮かせた際、硬直差は+27Fとなる。これを立ち大Pの3F目重ねに利用する場合（着地硬直差+12F）、+27Fから25Fを消費する行動を繋げる必要がある。しゃがみ弱Pから連キャンセルでしゃがみ弱Kを出すと、合計25Fのフレームを消費できる。この2つの技を当てることで、続く立ち大Pが起き上がりの3F目に重なり、相手の暴れやパリィに対して有利な状況を作り出せる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "強天穿輪ヒット後の起き攻め",
+    "source_video_id": "5kCobr2_cSU",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】パリィにも対応！？ファイナルあつしが考える強い起き攻めと考え方を徹底解説！",
+    "source_timestamp": "01:03",
+    "source_quote": "浮かせた時、天穿輪当てると+27Fなんすよ。…で、この28Fの差を+12Fっていう状況に調整すれば15Fの前の大P出しても3F目に重なるんすよ。…しゃがみ弱Pから連キャンでしゃがみ弱Kって出すと、これがぴったり25Fになってる。25F消費ができたじゃないですか。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:48:14.102527",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "112",
+      "114",
+      "315",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1862054029d4",
+    "category": "oki",
+    "topic": "ジュリの立ち中Pによる起き攻め",
+    "content": "ジュリがダウンを奪った後、前ステップ(硬直差+3F)から立ち中P(発生6F)を最速で出すと、相手の起き上がりの3F目に重なる。このセットプレイは、相手の4F暴れに勝ち、起き上がりのパリィもスルーできるため、非常に強力な選択肢となる。前ステップの調整により、安全な3F目重ねが可能になったのは、ジュリの起き攻めにおいて大きなメリットである。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "ダウンを奪った後の起き攻め",
+    "source_video_id": "5kCobr2_cSU",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】パリィにも対応！？ファイナルあつしが考える強い起き攻めと考え方を徹底解説！",
+    "source_timestamp": "06:38",
+    "source_quote": "弱Pを中Pにすれば3F目に重なるということとで合ってますか？大正解です！…前ステって+3F出るじゃないですか。で、これ立ち中P発生6Fなので。…+3Fから発生6Fを出せば相手が起き上がってから3F目で当たるってことね。…4F目の暴れにしっかり勝って、起き上がりのパリィもスルーできるっていう。だからね、前ステ+3にしてくれたの神。これ神。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:48:14.102527",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ada7fa178b10",
+    "category": "oki",
+    "topic": "死蹴閃を使った起き攻め",
+    "content": "ジュリで相手に困っている場合、密着状態の起き攻めで死蹴閃（ターゲットコンボ）を打つ戦術が有効です。もし1段目がヒットしていれば、最終段まで出してSAキャンセルに繋ぐことで、高いダメージを与えることができます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "密着の起き攻め時",
+    "source_video_id": "0HNo1Vr-qQA",
+    "source_channel": "ストーム久保",
+    "source_video_title": "ジュリのコンボ用タゲコンを全く違う使い方をしてみたら魅力的な部分がたくさんでてきた【スト6/ストーム久保】",
+    "source_timestamp": "10:29",
+    "source_quote": "ジュリで困ってる人は密着の起き攻めでタゲコン打って 1段目が当たってたら最終段まで打ってSAキャンセルとか結構強いかもね",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:30:32.789176",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3bdf3aba4ef1",
+    "category": "oki",
+    "topic": "連ガの強みと崩し",
+    "content": "連ガ（連続ガード）の強みは主に2つ。1つは、連ガ中に中下段の二択を迫ることで、相手が無敵技で割り込もうとすると連ガでガードされてしまうため、リスクなく崩しを仕掛けられる。例えば、【飛び込み→小足】の連ガ連携に昇龍拳で割り込もうとすると、小足が連続ガードになるため昇龍拳が潰れてしまう。2つ目は、連ガ中は無敵技を食らわない。これにより、相手の無敵技による割り込みを気にせず攻めを継続できる。",
+    "characters": [
+      "juri",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "相手をダウンさせた後の起き攻め、またはガードを固めている相手に対して",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "04:22",
+    "source_quote": "連ガの強みってなんですか？まあ一つは、例えば 【飛び込み→小足】 の連打連係に対して623入力で昇龍拳を打つと連ガの小足で崩れてしまう。ちゃんとガチャったら大丈夫なんすけど、これ623っていれると、ここの小足食らったりするんすよ。だから、そういう崩しがあったりするっていうのと。連ガの間は無敵技を食らわないっていうのがある。例えばやけど連ガ中に中段攻撃。まーこれは中段じゃないけど、他のキャラ中段あるやんリュウの鎖骨とか。連ガかつ、中下段の二択を迫れる状況を作れば相手の無敵技での割り込みを気にせず二択を迫れる。連ガの強みはだから、あの無敵技を考慮しないといけないところが。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "114"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "97c9dc840a1b",
+    "category": "oki",
+    "topic": "ジュリの有利フレームからの起き攻め",
+    "content": "ジュリの連係では、【歳破衝→ラッシュ中段】や【歳破衝→ラッシュ小足】が連続ガードになるため、リスクなく中下段の二択を仕掛けられる。また、ジュリの立ち中Pはガードさせて+2Fと有利フレームが取れる。このゲームの最速発生技は4Fなので、立ち中Pから立ち弱K（発生5F）を出すと、実質3Fで動いていることになり、相手の4F暴れに勝つことができる。この【コパン→ガードさせて有利技】の連係で暴れ潰しをし、相手が動かなくなったところを投げに行くのが、ジュリの起き攻めの基本である。有利フレームを取って暴れ潰しか投げの二択を仕掛けることを目指す。",
+    "characters": [
+      "juri",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "ジュリがダウンを取った後、または有利フレーム状況での起き攻め",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "05:13",
+    "source_quote": "連ガの概念 ジュリがめっちゃ関係ありますわ。ジュリの連係でめちゃよくあるのが…【歳破衝→ラッシュ中段】が連ガ。これ連ガ中断なんすよ。で【歳破衝→ラッシュ小足】も連ガ。これ。これ連ガ下段なんすよ。だからこれが連続ガードの強みっすよね。連続ガードにしてるからほらこれ…二択できるんすよ昇龍拳のリスクなく！っていう感じっすわ。でちょっと脱線したんすけど起き攻めはどんな風にしたらいいのかってのはコパン…【コパン→投げ】と【コパン連キャン暴れ潰し】この2つを軸にするのとキャラによっては、ガードさせて有利な技がキャラによってはある。ジュリとかはガードさせて、中パン2F有利なんすけど…このゲーム、最速発生技は4Fなんすよ基本的に。4Fなんですけど立中Pってガードさせて+2Fなんすよ。つまりジュリが2F相手より早く動く。でこれ立弱K発生5Fなんすけど…これ+2Fから動いてるからジュリが相手の4F暴れに勝ってるんすよ。そう実質3Fで動けるってことであってます？そう実質3Fで動けるってことで合ってます。さっきのコパン連キャンを匂わせて投げるのと似た話ですが、まずは連キャンを匂わせて…【コパン→ガードさせて有利技】の連係で暴れ潰し。これで相手が動かなくなったところを投げにいく。だからもう起き攻めはこれにつきます。有利フレームを取って暴れ潰しか投げの二択。もうこれでだいたい完結する基本。っていう感じですねわかりやすいのはこれです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "102",
+      "104",
+      "107",
+      "114",
+      "304"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2b0daafb322",
+    "category": "oki",
+    "topic": "ザンギエフへの起き攻め",
+    "content": "ザンギエフのSA3が溜まっていない限り、起き上がりの打撃重ねはほとんど安全択であり、投げ重ねは効果を発揮します。打撃重ねを意識させられれば、ジャンプやバクステがやりにくくなり、投げ抜けを意識させられればそこからのシミーも刺さります。ザンギエフの投げ間合いは通常キャラよりも広いため、シミーをする時はいつもより少し遠目に間合いを取るようにしましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの起き上がり時（SA3がない場合）",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "07:47",
+    "source_quote": "つまり、SA3が溜まっていない限り、ザンギ側にはほとんど強力な切り返し手段は存在しません。せいぜいあるのはDリバ程度。だからこそ、SA3がないタイミングではガンガン攻めていきましょう。起き攻めで打撃重ねを選択する場合、ザンギエフには特に強く機能します。というのも、打撃択へのザンギ側の切り返しはドライブリバーサルかガード（パリィ）の二つしか選択肢がないからです。バクステもジャンプも打撃に潰される。SA2ですら、中攻撃重ねでガードが間に合う。ザンギに対しての起き攻め打撃択はほとんど安全択といっても過言ではないです。次に投げ重ね。打撃重ねを意識させられれば、ジャンプやバクステがやりにくくなり、投げ重ねが効果を発揮します。そうすると遅らせ投げ抜けせざるを得なくなる。そこからのシミーもバッチリ刺さります。ただし、ここで一点注意。ザンギの投げ間合いは通常キャラよりも広い。普段と同じ感覚でシミーをすると逆に投げられる危険があります。なので、シミーをするときはいつもより少し遠目に間合いを取るようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "006d40883f84",
+    "category": "oki",
+    "topic": "天穿輪締めの起き攻め選択",
+    "content": "弱天穿輪でコンボを締めると、相手がダウンした後にドライブラッシュ(DR)で中段を重ねられる起き攻めが可能。強天穿輪で締めると、相手にDR中段が重ならないため、相手の弱Pなどでカウンターヒットする可能性がある。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "コンボ後の起き攻め",
+    "source_video_id": "-3j3mV_PSh4",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】3つだけで勝てる！ジュリのおすすめコンボを解説！初心者が練習するべきはこれ！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "01:01",
+    "source_quote": "弱天穿輪の場合は起き攻めでDR中段が重なる。強天穿輪の場合は起き攻めでDR中段が重ならない。相手が弱Pを押していたらカウンターヒットしてしまいます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:28:03.107992",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb1ddd62d98f",
+    "category": "oki",
+    "topic": "E.本田への起き攻め",
+    "content": "E.本田の起き上がりOD頭突きは打撃アーマーがあるが、投げには無防備。OD頭突きをパナしてくる読みで投げを仕掛けることができれば、パニカン投げ+ドライブゲージ3本削りという大きなリターンが得られるため、打撃よりも投げを多めに仕掛けるのがおすすめ。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "honda",
+    "situation": "E.本田の起き上がりに対して",
+    "source_video_id": "nJADIEtuTZo",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Honda Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good at...",
+    "source_timestamp": "13:30",
+    "source_quote": "本田に対する起き攻めは 本田はOD頭突きを起き上がりにパナしてくることがありますかこれは打撃アーマーのみで投げに対しては無防備です OD頭突きをパナそうとしたところを投げることでができれば本田はパニカン投げプラスドライブゲージを3本削られるのでかなり痛い目に会います なので、本田に対しての起き攻めは打撃よりも投げを多めにすることがおすすめです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:05:39.299979",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c361353f9eda",
+    "category": "oki",
+    "topic": "エレナの起き攻め対処",
+    "content": "エレナはシミーからの強P（立ち強P）を狙ってくることが多く、ノーゲージでも高火力が出るため、投げ抜けをしようとせず、前ジャンプで入れ替えることを意識しましょう。前ジャンプは、相手の入れ込み強Pに対して大きなリターンを取れるため、エレナの起き攻め対策として非常に有効です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "elena",
+    "situation": "エレナの起き攻めに対して",
+    "source_video_id": "Pu5kXU92rJ0",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Elena Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good at...",
+    "source_timestamp": "10:12",
+    "source_quote": "エレナの起き攻めに対しては、とにかくシミー警戒ということも踏まえて前ジャンプがかなり強いです。打撃重ねが火力出にくいことに加えて、エレナはシミーに強Pを入れ込んでくる場合が多いです。それに対して、前ジャンプで入れ替えつつ入れ込み強Pに大きなリターンを取ることが可能です。ぜひ試してみてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:44:35.829493",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d3aa7149f465",
+    "category": "oki",
+    "topic": "起き攻め（相手受け身時）",
+    "content": "相手が受け身を取った場合、前ステ微歩きから投げ、打撃、シミーの三択を仕掛けられます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "相手が受け身を取った場合",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "05:54",
+    "source_quote": "ジュリの起き攻め相手が受け身を取った場合前ステ微歩き→投げ、打撃、シミーの3択",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b88e73023c31",
+    "category": "oki",
+    "topic": "起き攻め（相手受け身なし時）",
+    "content": "相手が受け身を取らなかった場合、前ステ微歩きからの投げや打撃は可能ですが、後ろ下がりシミーはできません。代わりに垂直ジャンプやバックステで投げ抜けを狩る動きができると強力です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "相手が受け身を取らない場合",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "06:06",
+    "source_quote": "相手が受け身を取らない場合前ステ微歩きで投げ打撃択後ろ下がりシミーは出来ない。垂直ジャンプやバクステで投げ抜けを狩る動きができると最高です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7f23f1634bd",
+    "category": "oki",
+    "topic": "SA1ヒット後の起き攻め",
+    "content": "SA1ヒット後は前ステ→ラッシュで起き攻めに行けます。相手が受け身を取らなければ前ステ前ステで+5Fの有利フレームが得られます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "SA1ヒット後",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "09:02",
+    "source_quote": "SA1ヒット後前ステ→ラッシュで起き攻めSA1ヒット後受け身を取らない相手には前ステ前ステで+5Fになります",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bebee1b7e19a",
+    "category": "oki",
+    "topic": "画面端起き攻め（中風破/五黄締め後）",
+    "content": "画面端で中風破や五黄殺でコンボを締めた後、中足でフレームを消費するとヒットで+10F取れるため、大Pが繋がるようになります。五黄殺締め後のフレーム消費は密着ではなく、シミーの間合いになります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "画面端、中風破/五黄殺締め後",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "10:43",
+    "source_quote": "画面端画面端中風破や五黄殺つで締めた後中足フレーム消費→中P。ヒットで+10F取れるので大Pが繋がる。さらに五黄殺つ締め後は密着なのですが中足フレーム消費することによって距離が離れて投げ間合い外になってます。そのまましゃがんでるとシミーの間合いになってます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e9ed5c1b613",
+    "category": "oki",
+    "topic": "画面端起き攻め（中足フレーム消費からの持続中P/微歩き投げ）",
+    "content": "画面端で中足フレーム消費をした後、持続中Pや微歩き投げ、微歩き打撃、シミーといった強力な起き攻めを仕掛けることができます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "画面端、中足フレーム消費後",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "11:05",
+    "source_quote": "中足フレーム消費からの持続中P。微歩き投げ。シミーという強い起き攻めを仕掛けることができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60bbc8bbbf37",
+    "category": "oki",
+    "topic": "画面端投げ後の起き攻め（画面端柔道）",
+    "content": "ジュリが画面端で投げた後、前ステで+3Fになるため柔道が成立します。前ステからの投げ、打撃の二択が可能です。\nただし、投げから後ろ歩きシミーをすると相手のグラップやドライブリバーサルに負けてしまうため、代わりにバックステシミーで相手の投げ抜けを誘うのが強力です。投げた後、ラッシュ投げ、ラッシュ打撃、ラッシュ小足で急停止シミーをすることで、ドライブゲージを使ってより強力な起き攻めが可能です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "画面端投げ後",
+    "source_video_id": "_b4UFtonuT8",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "11:16",
+    "source_quote": "画面端柔道ジュリは画面端で投げた後前ステで+3Fになるので柔道が成立します。画面端投げの後前ステから投げ。前ステから打撃と択を仕掛けることができますが前ステから後ろ歩きシミーは相手のグラップに投げられてしまうので後ろ歩きシミーはできません。なので、代わりにバクステシミーをするのですがこの前ステからの投げ、打撃、バクステシミー。相手の無敵やDリバにすべて負ける選択肢になります。これがジュリの柔道の弱点なのですがこれを補う方法があります。それが投げの後にラッシュ起き攻めです。投げの後、ラッシュから投げ、ラッシュから打撃、さらにラッシュから最速小足これをすると、シミーに最適な位置で急停止ができます。ドライブゲージを使った起き攻めにはなりますが、より強力な択を仕掛けることができる起き攻めです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:55:08.683166",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a83e2c3b8e0a",
+    "category": "oki",
+    "topic": "五黄殺→暗剣殺後の起き攻め",
+    "content": "五黄殺から暗剣殺に繋げた後の起き攻め状況が変化。以前は前ステップから+1フレームだったため投げが小Pに負けていたが、今後は前ステップから投げが埋まるようになった。このことで前ステップから投げとシミーが可能な起き攻め状況となる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "五黄殺→暗剣殺後の起き攻め",
+    "source_video_id": "3eXN6H0o6-k",
+    "source_channel": "ねこま",
+    "source_video_title": "【アプデ後最新版】これ1本ですべてがわかる！MR2100↑が教えるジュリの新コンボ・起き攻め完全解説！ 【スト6】",
+    "source_timestamp": "00:56",
+    "source_quote": "また五黄殺から暗剣殺に繋げた後の起き攻め状況も変わりました。以前は前ステップから+1フレームだったので投げが小Pに負けていましたが、今回からは前ステップから投げが埋まるようになりました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:20:37.638940",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ed8fb7fa3e5",
+    "category": "oki",
+    "topic": "立ち中P始動 OD風破刃コンボ後の起き攻め",
+    "content": "立ち中P始動OD風破刃コンボ後の締め技によって起き攻め状況が変化する。\n- 強天穿輪締めの場合は生ラッシュからの打撃重ねは埋まるが、投げ重ねはできない。ただし風破ストックを1つ保持できる。\n- 五黄殺締めの場合は生ラッシュからの打撃と投げの両方が埋まり、シミーも可能。\n- 五黄殺締めで前ステップから打撃を埋めることも可能。前ステップから投げも一応埋まるがタイミングがかなりシビアで、相手が後ろ下がりだとほぼスカすため実戦での安定は難しい。\n基本的には五黄殺締めからラッシュで投げ・シミーを狙うのが安牌。ドライブゲージを節約したい場合は強天穿輪締めで風破ストックを維持し、前ステップで打撃重ねを狙うと良い。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "立ち中P始動OD風破刃コンボ後の起き攻め",
+    "source_video_id": "3eXN6H0o6-k",
+    "source_channel": "ねこま",
+    "source_video_title": "【アプデ後最新版】これ1本ですべてがわかる！MR2100↑が教えるジュリの新コンボ・起き攻め完全解説！ 【スト6】",
+    "source_timestamp": "02:18",
+    "source_quote": "最後の締めは五黄殺と強天穿輪でダメージは変わりませんが、その後の起き攻め状況が変わってきます。強天穿輪で締めた場合はラッシュから打撃は埋まりますが、投げを重ねることはできません。その代わり風破ストックを1つ保持することができます。五黄殺で締めた場合はラッシュから打撃と投げの両方が埋まってシミーをすることも可能です。もしくは前ステップから打撃を埋めることができます。前ステップから投げも一応埋まることは埋まるんですけど、タイミングがかなりシビアで相手が後ろ下がりだとほぼ投げがスカってしまうので、実戦で安定させるのははかなり難しいと思います。なので基本的には五黄殺締めからラッシュをするのが安牌で、ドライブゲージを節約したい場合は前ステップで打撃重ねを狙いに行く。そして風破ストックを保持したいなら、強天穿輪で締めてラッシュで起き攻めに行くという風に使い分けるのが良さそうです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:20:37.638940",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "303",
+      "310",
+      "315",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3003c1e7c50b",
+    "category": "oki",
+    "topic": "画面端 強天穿輪締め後の起き攻め",
+    "content": "画面端で強天穿輪で締めた後の起き攻めは、立ち中Pフレーム消費で+6フレームとなり、シミーが可能な投げ間合いとなる。+6フレームからの立ち中Pは持続重ねになり、+3フレームが取れるため、相手の小P暴れをしゃがみ中Pで潰すことが可能。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "画面端、強天穿輪締め後",
+    "source_video_id": "3eXN6H0o6-k",
+    "source_channel": "ねこま",
+    "source_video_title": "【アプデ後最新版】これ1本ですべてがわかる！MR2100↑が教えるジュリの新コンボ・起き攻め完全解説！ 【スト6】",
+    "source_timestamp": "06:31",
+    "source_quote": "強天穿輪で締めた後は立ち中Pフレーム消費でシミーが可能な投げ間合いの+6フレームを取ることができます。+6フレームからの立ち中Pは持続重ねになって+3フレームを取ることができるので、相手の小P暴れをしゃがみ中Pで潰すことが可能です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:20:37.638940",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "116",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f600c790a519",
+    "category": "oki",
+    "topic": "小ネタ OD風破刃→弱風破→弱風破",
+    "content": "前中P→OD風破刃→弱風破→弱風破で、シミーが可能な投げ間合いの+3フレームを取るコンボルートがある。これは風破ストックを3つ貯めることができるため、五黄殺から風破ストックを3つ使うルートをした後に、OD風破刃からこのコンボを選択するのが個人的にはかなり強い。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "OD風破刃ヒット後",
+    "source_video_id": "3eXN6H0o6-k",
+    "source_channel": "ねこま",
+    "source_video_title": "【アプデ後最新版】これ1本ですべてがわかる！MR2100↑が教えるジュリの新コンボ・起き攻め完全解説！ 【スト6】",
+    "source_timestamp": "08:10",
+    "source_quote": "小ネタとして前中PからOD風破刃、弱風破、弱風破でシミーが可能な投げ間合いの+3フレームを取るコンボルートがあります。風破ストックを3つ貯めることができるので、五黄殺から風破ストックを3つ使うルートをした後に、OD風破刃からこのコンボを選択するのが個人的にはかなり強いと思っています。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:20:37.638940",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4ed1d31e13b3",
+    "category": "oki",
+    "topic": "中足ラッシュ立ち中Pガード後の択",
+    "content": "ジュリの中足ラッシュ後に立ち中Pをガードさせると、+6Fの有利状況になります。この状況から相手の行動を見て、以下の択を仕掛けられます。\n1. 遅らせ投げ：相手の暴れを潰します。最速投げはスカってしまうため注意が必要です。\n2. 遅らせ立ち中P：相手の暴れを潰しつつ、投げより高ダメージを狙えます。\n3. シミー（後ろに下がる）：相手が投げ抜けを狙っていると読んだ場合に有効です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "中足ラッシュ立ち中Pが相手にガードされた後、密着状態 (+6F有利)",
+    "source_video_id": "wYl92j9CM0s",
+    "source_channel": "さにてぃチャンネル",
+    "source_video_title": "【スト6/ジュリ】ジュリの必須ワザ！5分でわかる中足ラッシュについての解説【初・中級者向け】【スト6攻略メモ】",
+    "source_timestamp": "02:44",
+    "source_quote": "中足ラッシュの後はとりあえず立中Pまで入れ込むことをお勧めします。相手にガードされていた場合は+6Fの有利が取れるので、その状況を利用して以下の3つの行動に出られます。1つ目は遅らせ投げです。相手の暴れを潰すことができます。最速投げはスカってしまうので注意しましょう。2つ目は遅らせ立中Pです。こちらも同じように相手の暴れを潰すことができます。打撃なのでダメージも高くなりますね。3つ目は後ろに下がってのシミーです。投げ抜けが多いなと感じたら使っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:38:07.454273",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "118",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81acc91a99a2",
+    "category": "oki",
+    "topic": "中足ラッシュしゃがみ弱Pガード後の択",
+    "content": "ジュリの中足ラッシュからしゃがみ弱Pをガードさせると、+3Fの有利状況になります。この状態から、相手の行動を見て以下の択を仕掛けられます。\n1. 最速投げ：相手の暴れを潰したり、ガード崩しを狙います。\n2. 最速立ち中P：連携を継続したり、相手の暴れ潰しを狙います。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "中足ラッシュしゃがみ弱Pが相手にガードされた後、密着状態 (+3F有利)",
+    "source_video_id": "wYl92j9CM0s",
+    "source_channel": "さにてぃチャンネル",
+    "source_video_title": "【スト6/ジュリ】ジュリの必須ワザ！5分でわかる中足ラッシュについての解説【初・中級者向け】【スト6攻略メモ】",
+    "source_timestamp": "04:12",
+    "source_quote": "この状態でも、①最速投げ、②最速立中Pによる択を仕掛けていくことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:38:07.454273",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "112",
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ace324f067d7",
+    "category": "oki",
+    "topic": "中足からの起き攻め連携",
+    "content": "相手との距離がある睨み合いの状況で、屈中Kから中風破刃を出すことで、相手にダメージを与えつつ、風破ストックを溜めたり起き攻めを継続できます。相手に確反を受けないよう、距離によっては弱風破刃を使い分けましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "睨み合いの状況、置き攻め",
+    "source_video_id": "XmDrbA8UaPo",
+    "source_channel": "しあ",
+    "source_video_title": "[Latest Edition] Introducing Juri's Must-Have & Super Powerful Combos",
+    "source_timestamp": "01:29",
+    "source_quote": "中足→中風破刃です。これはいつ使うかっていうと、こうやって睨み合ってる時にふと使ってこうやって置き攻めできます。風破貯めするともちろんのこの風破が貯まるんで、風破とかがなくて、ま、気軽にガードされてもいい技としてこれをよく使いますね。しかも置き攻めついてるんでめっちゃめちゃ使えます。距離によっては弱風破刃にしましょう。じゃないと確反を絶対取られるんで、そこは気をつけてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:54:55.041876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f0e2ee4288df",
+    "category": "oki",
+    "topic": "ジャンプ大Pでの起き攻め",
+    "content": "ジュリのジャンプ大Pは非常に強力な起き攻め技です。この技はアイアン帯からマスター帯まで、あらゆるレベルで有効に機能します。ただし、対人戦で多用しすぎると友人を失う可能性があるため、使う場面をよく考えて使いましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "XmDrbA8UaPo",
+    "source_channel": "しあ",
+    "source_video_title": "[Latest Edition] Introducing Juri's Must-Have & Super Powerful Combos",
+    "source_timestamp": "06:20",
+    "source_quote": "そして最後、最強技です。多分ね、皆さん1回はね食らったことあると思います。それがジャンプ大Pです。もう結局これが一番強いです。これはもうね、断言できます。アイアンから多分マスターまでも絶対にこれ刺さるんで、絶対に使ってください。でも友達にやると、その友達がいなくなる可能性があるので、使いどころはね、ちゃんと考えて、ランクマとかに置き攻めに結構擦っちゃうぐらいでいいと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:54:55.041876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

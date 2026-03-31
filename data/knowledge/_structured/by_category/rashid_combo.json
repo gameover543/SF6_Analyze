@@ -1,0 +1,3504 @@
+[
+  {
+    "id": "705d50aae5ff",
+    "category": "combo",
+    "topic": "中アシストコンボの強さ",
+    "content": "ラシードのモダン中アシストコンボは全キャラ中最強であり、アシスト中攻撃を連打で出す。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "00:23",
+    "source_quote": "中アシストコンボがこれはもう全キャラ中最強。アシストコンボが全キャラ最強。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5dbeebb0a45a",
+    "category": "combo",
+    "topic": "基本中アシストコンボ",
+    "content": "ラシードで最初に覚えるべきは、アシストを押しっぱなしで中攻撃を連打して出る中アシストコンボ。これをどれだけ当てるかが重要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "00:52",
+    "source_quote": "まず一番最初に覚えるのはアシストを押ししながら中攻撃を連打して出るこの中アシストコンボ。これがとにかく肝です。これをどれだけ当てるかの勝負。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "17625f88f89f",
+    "category": "combo",
+    "topic": "画面端での締め",
+    "content": "中アシストコンボが画面端に到達した場合は、最後を前方向＋SPボタンで出す強ミキサーで締める。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端到達時",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "01:04",
+    "source_quote": "でこれめちゃくちゃ画面運ぶから大体画面端行くんだけど、画面端に行った場合には最後を前とSPの強ミキサーで締め",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "540fef87e1c9",
+    "category": "combo",
+    "topic": "画面端に届かない場合の締め",
+    "content": "中アシストコンボが画面端に届かない時は、コマンド入力で出す中ミキサー（236+中攻撃）で締める。ラシードで使うコマンド技はこれだけで良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端に届かない時",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "01:14",
+    "source_quote": "で画面端に届かない時は中ミキサー。ここだけねコマンド必要なんだ。逆に言うとコマンドはここだけでいい。この中ミキサー、下前斜め下前の、中ミキサー。とりあえずラシードで使うコマンド技はこれだけで良い一旦。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1c2b71d1cfc7",
+    "category": "combo",
+    "topic": "コンボ始動 - ジャンプ攻撃",
+    "content": "中アシストコンボを決める最も分かりやすい方法はジャンプ攻撃。ジャンプ中攻撃は正面でも裏回り攻撃でも使える。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "01:37",
+    "source_quote": "でこの中アシストコンボをどうやって決めるかというと、まず一番分かりやすいのがジャンプね。でこのキャラジャンプ攻撃もジャンプ中で良いから、正面でも中で良いし、相手の後頭部にめくり攻撃、相手の裏側に攻撃する場合も中で良いから、ずっと中で良い。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "734923f349aa",
+    "category": "combo",
+    "topic": "画面端ループコンボ",
+    "content": "画面端で強ミキサー（前SP）をヒットさせた後、すぐ前ジャンプして強攻撃（J.HK）を当てるとラシードが跳ねる。跳ねた後にもう一度ジャンプ攻撃（J.HKまたはJ.MK）を出して、中アシストコンボにつなげるループが可能。これを3回決めれば相手を倒せる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "02:24",
+    "source_quote": "で、画面端に到達した場合…ここから前SPで強ミキサーやって、この後にやることはここからもう1回前ジャンプ。まずすぐに前ジャンプしてジャンプ強。ジャンプ強をするとこうピョンって跳ねるんだけど。その後に１回ジャンプ攻撃を出せるんで。ジャンプ強からジャンプ中。でまたこう。このループ。このループコンボで3回ぐらい決めればね、相手倒せるんで。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1c0b542fe7c4",
+    "category": "combo",
+    "topic": "SA3（スーパーラシードストリーム）コンボ",
+    "content": "中アシストコンボをヒットさせた後、SA3（スーパーラシードストリーム）でダメージを取ることができる。中アシストコンボの叩きつけまで行った後にSA3に繋げると3ゲージを使って高ダメージを狙える。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "13:08",
+    "source_quote": "SAの使い方はSA1は今言った感じで防御で使うのと、あとSA3は、この中アシストコンボでこのドンドシという叩き付けまで行った後にここで3ゲージ繋げる事が出来るんで。自分が3ゲージ溜まっていたら中アシストコンボの後にSA3でダメージを取っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a186f4b3efc3",
+    "category": "combo",
+    "topic": "弱アシストコンボ",
+    "content": "ラシードの弱アシストコンボはかなり強力なので、積極的に使いましょう。相手が近い時に有効です。自動でヒット確認してくれるので、とりあえず連打するだけで大丈夫です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手が近い時",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "01:52",
+    "source_quote": "ラシードのアシストコンボはかなり強いので有効活用しましょう。相手が近い時に使います。自動ヒット確認してくれるので、とりあえず連打していいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "270da2edb496",
+    "category": "combo",
+    "topic": "中アシストコンボ",
+    "content": "ラシードの中アシストコンボはかなり強いですが、ガードされると弱いため、コンボ用として使いましょう。確定反撃や、ジャンプ攻撃からのコンボを狙えるときに使いましょう。コンボの締めには中ミキサー（N中K SP）を使うのが最適です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボ、確定反撃、ジャンプ攻撃ヒット時",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "02:07",
+    "source_quote": "このコンボもかなり強いぞ！でも、この技はガードされたときは弱いのでコンボ用として使いましょう。狙えるときは、ジャンプからのコンボ。確定反撃の時です。コンボの締めに中ミキサーを使えれば最高！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d31e341a7c67",
+    "category": "combo",
+    "topic": "強アシストコンボ",
+    "content": "ラシードの強アシストコンボは、ダメージがそれほど高くないため、コンボを忘れてしまった時に使うと良いでしょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボルートを忘れた時",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "02:27",
+    "source_quote": "残念ながら、このコンボはそんなに強くありません。コンボを忘れちゃったときに使いましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "73ef543c6188",
+    "category": "combo",
+    "topic": "ヒット確認簡単なキャンセルラッシュコンボ",
+    "content": "ラシードのキャンセルラッシュ（N中Kラッシュ）を使ったコンボは、ヒット確認が簡単です。積極的に使っていきましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボ全般",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "02:38",
+    "source_quote": "コンボはヒット確認が簡単な、キャンセルラッシュを使ったコンボを使いましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6be60a84fd32",
+    "category": "combo",
+    "topic": "インパクトのコンボルート",
+    "content": "ラシードのインパクトからのコンボは、N中P→ODスピニングミキサー（AUTO SP）が基本ルートです。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトヒット時",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "02:44",
+    "source_quote": "インパクトのコンボルートです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ebb43e09d2f0",
+    "category": "combo",
+    "topic": "モダン中アシコンからのSA3コンボ",
+    "content": "モダン操作のラシードで、強化ジャンプ攻撃(9入力)からのJ中K、中アシコンを繋げ、ヒット確認後にSA3へ繋ぐと大ダメージを与えられる。中アシコンのSA3への派生は手動で入力するとダメージがさらに上がる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ攻撃ヒット時",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "08:40",
+    "source_quote": "まずはこの強化9ジャンプ＞J中K＞中アシコンの連携です。ヒット時はもちろんSA3につないでくれるので大ダメージをとることができます。中アシコンの〆を手動でSA3にした方がダメージ自体は上がることも合わせて覚えておきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "993feb2066cf",
+    "category": "combo",
+    "topic": "中Pターゲットコンボヒット時のノーゲージ起き攻め",
+    "content": "中Pターゲットコンボヒット後のノーゲージコンボとして、強サイクロン〜空ダJ強Kで〆、その後に最速で前転（中+強）を入力し、4（後ろ）に入れながら宙返り（レバー+中+強）に派生。その後、相手に当たるように空中Kを出す連携を覚える。この連携は相手がその場受け身を取っていればめくりとなり、ジャンプ逃げ以外には強い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中Pターゲットコンボヒット時",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "12:56",
+    "source_quote": "というわけで中Pタゲコンヒット時のノーゲージコンボとそこから可能な強力な起き攻めを一つ覚えてみましょう。それがこの強サイクロン～空ダJ強K〆からの前転起き攻めです。コンボを完走したら最速で前転を入力し4に入れながら宙返りに派生します。そうしたら相手に当たるように空中Kを出しましょう。この連携は相手がその場受け身をとっていればめくりとなり諸々の説明は省きますがジャンプ逃げ以外には強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "55371c6738f8",
+    "category": "combo",
+    "topic": "弱攻撃からのコンボ",
+    "content": "弱攻撃からの基本コンボです。距離によって、弱攻撃のヒット数を2回にするか3回にするか調整しましょう。\nレシピ: 弱P (LP) × 2〜3発 → 中ミキサー。\nまた、中ミキサーからドライブラッシュで追撃して起き攻め択を仕掛けることも可能です。\nレシピ: 弱P (LP) × 2〜3発 → 中ミキサー → ドライブラッシュ (DR) → 立ち強P (6HP) → 立ち中P (5MP) → 中スパイク (Mスパイク)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "01:24",
+    "source_quote": "弱攻撃からのコンボです 距離によって弱攻撃の回数を2回にしましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "204",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80224e336550",
+    "category": "combo",
+    "topic": "中足ラッシュからのコンボ",
+    "content": "中足ラッシュからの中距離最強コンボです。このコンボはアマチュアからプロまで多くのプレイヤーが使用します。\nレシピ: しゃがみ中K (2MK) → ドライブラッシュキャンセル (DRC) → 立ち中K (5MK) → 立ち強P (5HP) → 中スパイク (Mスパイク)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "01:58",
+    "source_quote": "続いていわゆる中足ラッシュコンボです アマからプロまで全員使う最強コンボです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d919f4c4f91c",
+    "category": "combo",
+    "topic": "中足ラッシュからの倒し切りSA1",
+    "content": "コンボ中に相手を倒し切れると判断した場合、中足ラッシュコンボからSA1に繋げると勝率が大きく上がります。SA1で約28%のダメージを与えられます。\nレシピ: しゃがみ中K (2MK) → ドライブラッシュキャンセル (DRC) → 立ち中K (5MK) → 立ち強P (5HP) → ドライブラッシュキャンセル (DRC) → しゃがみ強P (2HP) → 立ち強P (5HP) → SA1。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "倒し切りが可能な状況",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "02:08",
+    "source_quote": "コンボ中に倒し切りの判断ができてたら SA1につなげられると勝率がぐっと上がります SA1は28%",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "109",
+      "110",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3adf188f76be",
+    "category": "combo",
+    "topic": "中足ラッシュからの倒し切りSA3",
+    "content": "中足ラッシュコンボからSA3に繋げると、より高いダメージで倒し切ることができます。SA3で約45%のダメージを与えられます。\nレシピ: しゃがみ中K (2MK) → ドライブラッシュキャンセル (DRC) → 立ち中K (5MK) → 立ち強P (5HP) → ドライブラッシュキャンセル (DRC) → しゃがみ強P (2HP) → 立ち強P (5HP) → 弱スパイク (Lスパイク) → SA3。\nトレーニングモードでダミーの体力を調整して、倒し切りの判断に目を慣らしておくことを推奨します。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "倒し切りが可能な状況",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "02:21",
+    "source_quote": "SA3は45% トレーニングモードでダミーの体力をいじって 目を慣らしておくと だんだんと実戦でも 判断できるようになってきます 練習して挑戦してみましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "109",
+      "110",
+      "402",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f9f145890e2",
+    "category": "combo",
+    "topic": "ジャンプ攻撃からのコンボ",
+    "content": "ジャンプ攻撃がヒットした際のコンボです。地上でリーチの長い技を使う相手や弾キャラに対して、積極的に使っていきましょう。\nレシピ: ジャンプ強K (JHK) → 立ち中K (5MK) → 立ち中P (5MP) → 中スパイク (Mスパイク)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "02:39",
+    "source_quote": "ジャンプ攻撃からのコンボです 地上でリーチの長い技を使う相手や 弾キャラに積極的に使いましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "117",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81ac6ffdbf4e",
+    "category": "combo",
+    "topic": "ジャンプ攻撃からの倒し切りSA3",
+    "content": "ジャンプ攻撃からの倒し切りコンボです。SA3に繋げることで57%と凄まじいダメージを与えられ、無敵技への反撃など使えるタイミングが多いので練習して習得することをおすすめします。\nレシピ: ジャンプ強K (JHK) → 立ち中K (5MK) → 立ち中P (5MP) → ドライブラッシュキャンセル (DRC) → しゃがみ強P (2HP) → 立ち強P (5HP) → 弱スパイク (Lスパイク) → SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "倒し切りが可能な状況、無敵技への反撃",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "02:49",
+    "source_quote": "こちらはジャンプ攻撃からの 倒し切りコンボです 57%と凄まじいダメージなので 使えるタイミングは多いです 無敵技への反撃にも 同じようなコンボができるため 練習してみるのもいいでしょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "104",
+      "110",
+      "117",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d48c7c88464f",
+    "category": "combo",
+    "topic": "インパクトヒット時のコンボ",
+    "content": "ドライブインパクトがヒットした時のコンボです。垂直ジャンプ強K (J8HK)を低めの位置で出したり、前中P (6MP)の後に少し歩く必要があるため、慣れが必要です。\nレシピ: インパクトヒット → 垂直ジャンプ強K (J8HK) → 立ち強K (5HK) → 前中P (6MP) → 弱スパイク (Lスパイク)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトヒット時",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "03:09",
+    "source_quote": "インパクトがヒットした時のコンボです J8HKを低めの位置で出したり 6MPの部分で少し歩かなければいけないので コツをつかむまでは 結構難しいかもしれません",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "117",
+      "203",
+      "208",
+      "602",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "21a14d56ab61",
+    "category": "combo",
+    "topic": "無敵技反撃/空振りへの確定反撃",
+    "content": "無敵技への反撃や、相手の空振りへの確定反撃に使うコンボです。\nレシピ: パニッシュカウンター (立ち強P (5HP)で取る) → 強スパイク (Hスパイク)。\n強スパイク (Hスパイク) からの弱P (LP) → ジャンプ強K (JHK) はコンボとしては繋がりませんが、安全飛びのフレーム消費として機能するため、起き攻めのセットプレイとして覚えておきましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター、無敵技への反撃",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "03:41",
+    "source_quote": "最後に無敵技への反撃や 相手の空振りへのおしおきに使うコンボです 大スパイクからのLP JHKは コンボでははありませんが 安全飛びのフレーム消費となっているので セットで覚えておきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "117",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d871ee8c0781",
+    "category": "combo",
+    "topic": "フロント・フリップ起き攻めの利点",
+    "content": "ラシードのフロント・フリップ起き攻めは、ウィング・ストローク起き攻めと比較して、コンボダメージが約130高く、有利フレームも多い。これにより、より様々なセットプレイを組むことができ、自由度が高い。例えば、しゃがみ中Kドライブラッシュキャンセル始動のコンボでは、ウィング・ストロークは1847ダメージだが、フロント・フリップは1976ダメージとなる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボ後の起き攻め連携",
+    "source_video_id": "UD9cWsgcZNs",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】Explain NEW Powerful Rashid's OKI: Front Flip OKI !!!【Street Fighter 6】",
+    "source_timestamp": "01:34",
+    "source_quote": "フロント・フリップ起き攻めをするためのコンボパーツはウィング・ストローク起き攻めのものよりもダメージがほんの少し高くなります。例えばよくある2MK DR始動のコンボだとご覧の通り、ウィング・ストローク 1847DMGに対しフロント・フリップ 1976DMGと約130ほどダメージが高くなっています。さらにウィング・ストローク起き攻めよりも有利フレームが多いため様々なセットプレイをする事もでき自由度でも勝っています。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:05:15.682387",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "211",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d43b6e7fa070",
+    "category": "combo",
+    "topic": "小技コンボ",
+    "content": "小技からのコンボは、立ち弱Pを2回刻んで弱版ミキサーに繋ぐのが基本。または立ち弱Pを2回刻んで中版ミキサーに繋ぎ、中版ミキサーの後に埋まる6大Pまで入れる。弱版ミキサー後は+2Fだが、相手が下がっていると投げが届かないため、しゃがみ中Kから弱版ミキサーに繋ぐのも有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "立ち弱Pヒット時",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "02:04",
+    "source_quote": "まずは小技コンボ。小P2回弱ミキサーか。小P2回中ミキサーが基本なのだ。中ミキサーの後はR6大Pが埋まってるのだ。弱ミキサーの後は+2Fだけど。相手が下がっているとつかめないので注意なのだ。なので下がる人には2中K弱ミキサーがおすすめなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2355b2bc2048",
+    "category": "combo",
+    "topic": "しゃがみ中Kキャンセルラッシュからのコンボ",
+    "content": "しゃがみ中Kキャンセルラッシュからは、中K→中P→大Kターゲットコンボ→強サイクロン4K派生→弱スカイハイに繋ぐルートがある。弱スカイハイ後は6大Pが持続当てになり、そこから立ち弱Pが繋がる。また、弱スカイハイ後は前ステップで+5Fの有利を取れる。別のルートとして、しゃがみ中Kキャンセルラッシュから大P→中スパイクに繋ぐと、中スパイク後にワール最大溜めが埋まる。相手が飛んでくる場合は強ワールを使用する。画面端ではしゃがみ中Pを3回刻むことで持続当てになるコンボもある。中K始動のコンボとしては、中K→中P→中スパイクに繋ぎ、その後ワールを溜めるルートや、中K→中Pターゲットコンボ→ODサイクロン→ラン→派生強ミキサーに繋ぐルートがある。派生強ミキサーの後は6KKでドライブゲージを消費する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Kキャンセルラッシュヒット時、画面端、中Kヒット時",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "02:26",
+    "source_quote": "次が2中KCRのコンボなのだ。まず2中KCR中K中P大KTC強サイクロン4K派生弱スカイハイ。弱スカイハイの後は6大Pが持続当てになるのだ。持続当てから小Pが繋がるのだ。あと弱スカイハイのあと前ステで+5Fなのだ。次が2中KCR大P中スパイク。中スパイクの後はワール最大溜めが埋まってるのだ。ただ中段と弱ワールは跳ねるので。飛んでくる人には強ワールにするのだ。で画面端なら2中P3回で持続当てになるやつもあるのだ。2中Kコンボは好きな方を使えばいいのだ。次が中Kからのコンボなのだ。中K中P中スパイクか。中スパイク後はワール溜め。中K中P TCODサイクロンランK派生強ミキサーなのだ。で強ミキサーの後は6KKでF消費なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "108",
+      "109",
+      "200",
+      "210",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3c968c6eaffa",
+    "category": "combo",
+    "topic": "インパクト/スタンからのコンボ",
+    "content": "パニッシュカウンターのドライブインパクトヒット時は、ジャンプ大K→6中P→強スパイクに繋ぎ、強スパイク後はワールを溜めるのがおすすめ。中Pターゲットコンボ→強サイクロン4K派生→弱スカイハイに繋ぐルートも2中KCRのルートと同じで有効。入れ替えコンボとしては、大PODスパイク→ラッシュ6中P→6中P→弱サイクロンがある。\nスタン時のコンボは、ワール最大溜め→中P→ODミキサー→ODスカイハイ→派生中ミキサー→SA1が火力の出るルート。またはワール最大溜め→中P→ODミキサー→強スカイハイ→J2大Pで3000ダメージの高コスパコンボとなる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトパニッシュカウンター時、スタン時",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "03:55",
+    "source_quote": "まずはJ大K6中P強スパイク。強スパイクの後はワール溜めがおすすめなのだ。次が中P TC強サイクロン4K派生弱スカイハイ。2中KCRのルートと同じなのだ。で最後が。大PODスパイクR6中P6中P弱サイクロン。入れ替えコンなのだ。次がスタンコンボの紹介なのだ。まず。ワール最大溜め中PODミキサーODスカイハイ派生中ミキサーSA1。そこそこ火力が出るコンボなのだ。で次がワール最大溜め中PODミキサー強スカイハイJ2大P。3000でコスパが良いコンボなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b315c4c59522",
+    "category": "combo",
+    "topic": "前ステ5LK>6HP相打ちコンボ",
+    "content": "ラシードが前ステップからの立ち弱K（5LK）から立ち強P（6HP）連携後、4F技を重ねると相手の技と相打ちになり、そこからコンボに繋げることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "前ステップからの立ち弱K（5LK）から立ち強P（6HP）連携後、4F技を重ねた時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "07:58",
+    "source_quote": "前ステ>5LK>6HP 4F目重合打ちからコンボ可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "104",
+      "204",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "16ad4f2bc95a",
+    "category": "combo",
+    "topic": "中央コンボ基本",
+    "content": "中央で相手を吹き飛ばす連携として、2中Pから弱Kに繋ぎ、弱スピニングミキサーで締めるコンボを使用する。このコンボは起き攻めや飛びが当たった際にも有効で、ノーゲージで起き攻めを狙いたい場合に狙う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "00:31",
+    "source_quote": "1、2中P＞弱K＞弱スパイク\n一生使います、クラシックラシードといえばこれじゃない？！といった代表的なコンボです\n起き攻めや飛びが入った場合に使用します\nノーゲージで起き攻めいきたい場合まずはこれを狙いましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "144e29e13f1a",
+    "category": "combo",
+    "topic": "中央コンボ（運搬）",
+    "content": "中央で相手を運びたい場合、2中Pから弱Kに繋ぎ、キャンセルラッシュP、立ち中K、中P、中スピニングミキサーと繋げる。Dゲージが5本以上ある時は特に使いやすく、運び距離を増やしつつ相手の暴れを咎めるのに有効である。ガードされた場合は立ち中Kがめくりになる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、Dゲージ5本以上",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "00:49",
+    "source_quote": "2、2中P＞弱K＞ラッシュP＞立中K＞中P＞中スパイク\n運び距離を増やしつつ相手の暴れを咎めたい用です\nDゲージ5本以上持ってる時はとりあえず感覚で使うこと多いです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7332aed16370",
+    "category": "combo",
+    "topic": "中央コンボ（飛び込みから）",
+    "content": "飛び込みからのコンボとして、飛び中PからODサイクロン、前中P、弱スピニングミキサーと繋げる。運び距離と起き攻め状況の両方に優れており、前ステ2回で+5F取れるため持続中段にできる。密着+5Fなので垂直ジャンプから一部キャラの昇龍をすかして投げも狙える。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、飛び込み後",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "01:04",
+    "source_quote": "3、飛び中P＞ODサイクロン＞前中P＞弱スパイク\n運び距離+起き攻め状況共にイケてるレシピです\n前ステ2回で＋５F取れたり、前ステ中段で持続中段になったりします\n密着＋５Fなので垂直ジャンプもオススメ、一部キャラの昇竜すかせつつグラプりできます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8f5a56176b21",
+    "category": "combo",
+    "topic": "中央コンボ（ラッシュ始動）",
+    "content": "ラッシュ始動のコンボとして、ラッシュ弱P(P)から中P、中スピニングミキサーと繋げる。このコンボはガードされてもリスクが低く、ヒット時は相手をダウンさせ、起き攻め状況を有利にする。当たれば当てるほど勝率が上がるため積極的に狙う。ガード時、ヒット時に関わらず立ちPで連打できる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ラッシュ始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "01:25",
+    "source_quote": "4、ラッシュ弱Pork＞中P＞中スパイク\n一生使うコンボその２です\nぶっちゃけラシードはこれ当ててれば勝てます\n当てれば当てるほど勝率上がります\nこれぶちこむ布石としてワールやら地上戦は全て茶番行動やっているといっても過言では無いと思ってます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dda26e57c67b",
+    "category": "combo",
+    "topic": "中央コンボ（ラッシュ2弱K始動）",
+    "content": "ラッシュ2弱Kから中足、弱スピニングミキサーと繋げる。なるべく先端を当てるように意識する。ジャスパ後の仕様変更により強力になった。めり込んだ場合は中Pから中スピニングミキサーでOKだが、微妙な場合は大人しく中足で締める。中Pは非常に短いため、中足を使用する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ラッシュ2弱K始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "01:45",
+    "source_quote": "5、ラッシュ2弱K＞中足＞弱スパイク\nなるべく先端を当てる用に意識しましょう\nジャスパの仕様変更によりやばい技へと変貌しました\nめり込んだ場合は中P＞中スパイクでOKですが、微妙な場合は大人しく中足にしておきましょう\n中Pはビビるほど短いです、たわけています",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "01672d03a34b",
+    "category": "combo",
+    "topic": "中央コンボ（ラッシュ6大P始動）",
+    "content": "ラッシュ6大Pから中P、中スピニングミキサーと繋げる。これは説明不要の強力な実質中段技である。ヒット時のリターンが大きいため、積極的に狙う。スト6の中段は特に強力である。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ラッシュ6大P始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "02:08",
+    "source_quote": "6、ラッシュ6大P＞中P＞中スパイク\n説明不要の実質中段\nやはりスト6は中段が強いです\n通る！と閃きを感じたらその感性を信じて飛び込んでいきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7742fcaa7532",
+    "category": "combo",
+    "topic": "中央コンボ（ラッシュ6大K始動）",
+    "content": "ラッシュ6大Kから中P、中スピニングミキサーと繋げる。このコンボは画面の6割近くを移動させる非常に強力な技である。JP戦などで相手がラシードの弱Pを嫌がって距離を離そうとする場合にも有効である。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ラッシュ6大K始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "02:23",
+    "source_quote": "7、ラッシュ6大K＞中P＞中スパイク\n画面6割程移動する結構すごい技\nJP戦で主に主に使用しますが、ラシードのラッシュ弱Pを嫌がって距離を離す相手にも重宝します",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "49dfc153a472",
+    "category": "combo",
+    "topic": "中央コンボ（中足ラッシュ）",
+    "content": "中足ラッシュからのコンボとして、立ち中K、大P、中スピニングミキサーと繋げる。またはヒット確認が難しい場合は立ちP、立ち中K、中P、中スピニングミキサーでも良い。ガード時、ヒット時に関わらず立ちPで連打できるため使いやすい。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、中足ラッシュ始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "02:39",
+    "source_quote": "8、中足ラッシュ＞立中K＞大P＞中スパイク\n中足ラッシュ＞立P＞立中K＞中P＞中スパイク\n定番の中足ラッシュコンです\nヒット確認難しければ立P＞立中K＞中P＞中スパイクでもOKです\nガード時、ヒット時問わず立Pで連打にできます\n自分はMR2000まで立P一本でやっていました",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d4db7a4821f9",
+    "category": "combo",
+    "topic": "中央コンボ（始動技から）",
+    "content": "始動技から中Pまたは大P、キャンセルラッシュ、2大P、大P、中スピニングミキサーと繋げる。これはダメージ補強用のコンボである。中央では距離を運ぶことが目的のため、Dゲージ6本以外ではあまり使わない。ただしリーサルを狙える時は積極的に狙う。大PからSA1に繋ぐのは非常に難しいため、練習が必要である。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、始動技から",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "03:00",
+    "source_quote": "9、始動技＞中Por大P＞ラッシュ2大P＞大P＞何か\n始動技＞中Pか大P＞キャンセルラッシュ＞2大P＞大P＞中スパイク\nダメージ補強用です\n元々中央は距離を運ぶ事が目的なのででDゲージ６本以外ではあまり使わないです\nただリーサル取れる時ははしっかり狙いましょう\n大P＞SA1はかなり難しいので要練習です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "14ec07b666f3",
+    "category": "combo",
+    "topic": "中央コンボ（コパ刻み）",
+    "content": "コパからしゃがみコパ、コパ、中ミキサーと繋げる。これは主に大サイクロンをぶっ通した時に使用する。端以外では起き攻めに行けないため、あまり使いたくないルートだが、使わざるを得ない状況も多い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、大サイクロンヒット後など",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "03:23",
+    "source_quote": "10、コパ＞しゃがコパ＞コパ＞中ミキ\n主に大サイクロンぶっ通した時に使用します\n端以外は起き攻めに行けないのでなるべく使いたくないルートではありますが、使わざるを得ない状況も多いです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c7b5d3f913db",
+    "category": "combo",
+    "topic": "端コンボ（弱スピニングミキサー後）",
+    "content": "弱スピニングミキサーで締め、2中Pから立ち中P、中サイクロン、弱K、弱スピニングミキサーと繋ぐ。これはノーゲージでダメージ3000近く出る強力なコンボである。中Pから中Pで持続当てが可能である。この中P＞中サイクロン＞弱Kというルートは非常に重要であり、習得することでラシードの火力を高める。端限定だが頻繁に使用できるため、手癖にする。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、弱スピニングミキサーヒット後",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "04:08",
+    "source_quote": "11、弱スパイクアメ後\n2中P＞立中P＞中サイクロン＞弱K＞弱スパイク\n主に弱スパイクで端コンボを締めた後に使用します\n2中P＞中Pで持続当てが可能です\nノーゲージでダメージ3000近くでマリーザもびっくりの火力です\nこの中P＞中サイクロン＞弱Kというルートは超大事です\n端限定ですが頻繁にこのレシピは出てきます\nしっかりと手癖として身につけておきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b9ad78ca1e1d",
+    "category": "combo",
+    "topic": "端コンボ（弱K始動）",
+    "content": "弱Kからキャンセルラッシュ立ちP、立ち中K、中大TC、大スピニングミキサーと繋ぐ。このコンボは、弱スピニングミキサーからの起き攻め状況重視のセットプレイを作る際に使用する。大スピニングミキサーからのセットプレイは面白く、色々なバリエーションがある。このコンボは難易度が高めであるため、中央で使っていた中P＞中スピニングミキサーの部分を中P＞中サイクロン、または中大TC＞大スピニングミキサーに変える。SAゲージがあれば伸ばして起き攻め状況を強化する。SAゲージがない場合は弱スピニングミキサーで締めて2中P持続当てを狙う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、弱K始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "04:38",
+    "source_quote": "12、弱K＞キャンセルラッシュ立P＞立中K＞中大TC＞大スパイク\n先程のコンボの弱K部分から起き攻め状況重視を作る際に使用します\n大スパイクからのセットプレイは面白いものたくさんあります\nこちらはすでに動画化してますので概要欄からどうぞ\nただ難易度激高です、個人的には１２のコンボで上げたTC＞大スパイクの流れが簡単で強いのでオススメしたい所",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46aa635b78be",
+    "category": "combo",
+    "topic": "端コンボ（中大TC始動の詐欺飛び）",
+    "content": "中大TCから弱ミキサー、前中P、弱サイクロン派生、詐欺飛びと繋ぐ。文句なしに最強クラスの端攻めである。端でラッシュが入った場合やキャンセルラッシュで伸ばす場合に使う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、中大TC始動",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "04:59",
+    "source_quote": "13、中大TC＞弱ミキサー＞前中P＞弱サイクロン派生＞詐欺飛び\nラシードといえばこれ！といえるべきコンボ\n文句なく最強クラスの端攻めです\n端でラッシュが入った場合やキャンセルラッシュで伸ばす場合に使用しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c221a2414f86",
+    "category": "combo",
+    "topic": "インパクト始動（垂直8大K）",
+    "content": "インパクト始動のコンボとして、垂直8大Kから大スピニングミキサーと繋ぐ。中央付近であればこれでOK。相手を大きく運ぶ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトヒット時、中央付近",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "06:09",
+    "source_quote": "14、垂直８大K＞大スパイク\nここからしゃがコパ＞前飛びで安全飛びへ\n中央付近ならこれでOKです、めっちゃ運びます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0371c3629ddb",
+    "category": "combo",
+    "topic": "インパクト始動（前ステ前ステ/フリップ）",
+    "content": "インパクト始動のコンボとして、前ステ前ステまたはフリップからTC、ODサイクロン、前中P、弱スピニングミキサー、前中P、弱サイクロンネイルと繋ぐ。このコンボは難易度が高いが、Dゲージ効率が非常に良く、強力である。めくりに行きたい場合はフリップから同じルートで端まで運べるため、どこにいても端まで持っていけるのが強み。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトヒット時",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "06:21",
+    "source_quote": "15、前ステ前ステorフリップ＞TC＞ODサイクロン＞前中P＞弱スパイク＞前中P＞弱サイクロンネイル\n難易度が高いですがDゲージ効率も良くめっちゃ強いです\nめくりに行きたい場合はフリップから同じルートで端まで持っていけます\n画面のどこにいても必ず端まで持っていけるのははかなりすごいです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b080f4fa8bf4",
+    "category": "combo",
+    "topic": "インパクト始動（垂直大K）",
+    "content": "インパクト始動のコンボとして、垂直大Kから大K、J中P、大スカイハイ、J2強Pと繋ぐ。これは端付近でのインパクトコンボであり、火力と拘束時間に優れている優秀なルートである。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトヒット時、端付近",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "06:43",
+    "source_quote": "16、垂直大K＞大K＞J中P＞大スカイハイ＞J2強P\n端付近のインパクトコンボです\n火力と拘束時間に優れている優秀なルートです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cbea91227afd",
+    "category": "combo",
+    "topic": "スタンコンボ基本",
+    "content": "スタン始動のコンボとして、J2強PからJ大K、立ち中K、TC、大スピニングミキサーと繋ぐ。基本的にはこれでOKである。SAゲージ増加コンボは難しいが、できるとリーサル能力が高まるため狙う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "スタン時",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "06:57",
+    "source_quote": "17、J2強P＞J大K＞立中K＞TC＞大スパイク\n基本はこれでOKです\nSAゲージ増加コンボは難しいですが出来るとリーサル力高まります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7e88eca7fbbf",
+    "category": "combo",
+    "topic": "スタンコンボ（SAゲージ増加）",
+    "content": "SAゲージ増加を狙うスタンコンボとして、J2強PからJ大K、立ち中K、中P、中サイクロン、弱K、ラッシュ弱P、立ち中K、中大TC、微溜めワール、前中P、弱サイクロンネイル、SA3と繋ぐ。Dゲージ3本以上あれば、立ち中Kから弱K、キャンセルラッシュで伸ばせるため、SAゲージ1本分が貯まりリーサル判断も狙いやすい。ラシードは湯浅の性質上、相手をスタンさせる展開に持ち込みやすいため、ここを逃さないようにする。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "スタン時、Dゲージ3本以上",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "07:05",
+    "source_quote": "18、SAゲージ増加コンボ\nJ2強P＞J大K＞立中K＞中P＞中サイクロン＞弱K＞ラッシュ弱P＞立中K＞中大TC＞微溜めワール＞前中P＞弱サイクロンネイル＞SA3\nDゲージ３本以上あればは立中Kから弱K＞キャンセルラッシュで伸ばす事により\nほぼSAゲージ１本溜まるのでリーサル判断も狙いやすい\nラシードはイウサールの性質上相手をスタンさせる展開に持ち込みやすいためここはミスらないように",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1a3108a9aee4",
+    "category": "combo",
+    "topic": "スタンコンボ（簡易版）",
+    "content": "スタンからの簡易コンボとして、溜めワール、気流ODミキサー、ODスカイハイ、前中P、ODサイクロン、SA1と繋ぐ。これは簡単でありながらダメージが出る火力コンボである。1ゲージでリーサルを狙えるが、SAゲージ増加量は少ない。Dゲージの都合で最後のODサイクロンを省く場合は、中ミキサーからSA1に繋ぐ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "スタン時、ODゲージの都合による",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "07:23",
+    "source_quote": "18、溜めワール＞気流ODミキサー＞ODスカイハイ＞前中P＞ODサイクロン＞SA1\n簡単でいてダメージが出る火力コンボです\n１ゲージでリーサルいける場合ははこちらを使用しましょう、大体４０００程減ります\nDゲージの都合で最後のODサイクロンを省く場合は\n中ミキサー＞SA1のルートを使います、ダメージもそこそこです\nただしこのレシピはSA増加量乏しいです\nノーゲージで明らかににいける場合はは先程のレシピを使用しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70ad5eb436cd",
+    "category": "combo",
+    "topic": "中スパイクからの派生",
+    "content": "中スパイク後は中Kを消費して持続を中断できます。また、小足と大Pを消費して後ろに下がることも可能で、その場合の硬直差は+5Fです。さらに、小足を消費してODインパクトを出したり、小足を2回重ねてインパクトを重ねることもできます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後",
+    "source_video_id": "8HoDt0ln8sc",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのラシード対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:11",
+    "source_quote": "中スパイク→中K消費で持続中断 中スパイク後に小足大P消費で下れる+5F 中スパイク後に小足消費でODインパクト、小足2回でインパクト重ね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:22:04.408794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "87770b33f87f",
+    "category": "combo",
+    "topic": "ODサイクロンからの持続中断",
+    "content": "ODサイクロンからフリップ弱スパイクを経由し、前ステップで持続を中断することができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ODサイクロン後",
+    "source_video_id": "8HoDt0ln8sc",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのラシード対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:45",
+    "source_quote": "ODサイクロン→フリップ弱スパイク→前ステで持続中断",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:22:04.408794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e1ab62f1f0d8",
+    "category": "combo",
+    "topic": "5ゲージ中足CDRコンボ(強)",
+    "content": "ラシードが相手にしゃがみ中Kドライブキャンセルラッシュがカウンターヒットした場合、5ゲージを使用して中アシストコンボ連打から強ワールウインドショットに繋ぎ、2048ダメージを与えることができます。攻撃後の硬直差は-35Fです。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "5ゲージ消費、しゃがみ中Kドライブキャンセルラッシュがカウンターヒット時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:05",
+    "source_quote": "5ゲージ 中足CDR 中アン中連打 強ミキサー 2048",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d2c1b1585563",
+    "category": "combo",
+    "topic": "5ゲージ中足CDRコンボ(中)",
+    "content": "ラシードが相手にしゃがみ中Kドライブキャンセルラッシュがカウンターヒットした場合、5ゲージを使用して中アシストコンボ連打から中ワールウインドショットに繋ぎ、1992ダメージを与えることができます。攻撃後の硬直差は-32Fです。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "5ゲージ消費、しゃがみ中Kドライブキャンセルラッシュがカウンターヒット時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:13",
+    "source_quote": "5ゲージ 中足CDR 中アシ中連打 中ミキサー 1992",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6297ebc288a9",
+    "category": "combo",
+    "topic": "3ゲージ中足CDRコンボ",
+    "content": "ラシードが相手にしゃがみ中Kドライブキャンセルラッシュがカウンターヒットした場合、3ゲージを使用して中アシストコンボを2回繋ぎ、強アラビアンサイクロンからサイクロンストローク、さらに空中強Kで追撃し、1870ダメージを与えることができます。攻撃後、前飛びで+9Fの有利フレームが取れます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "3ゲージ消費、しゃがみ中Kドライブキャンセルラッシュがカウンターヒット時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:21",
+    "source_quote": "3ゲージ 中足CDR 中アシ中x2 強サイクロン ストローク派生 空中強 1870 前飛びで+9F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9c3afbbf9205",
+    "category": "combo",
+    "topic": "投げ抜けからの高ダメージコンボ",
+    "content": "ラシードが相手の投げ抜けをパニッシュカウンターで取った場合、ジャンプ強Kから中アシストコンボ連打、強ワールウインドショットに繋ぐことで、合計5050ダメージ（ベースダメージ1870+SA3ダメージ3180）を与えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "投げ抜けをパニッシュカウンターで取った時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:34",
+    "source_quote": "投げを狙われた場合 ジャンプ強 アン中連打 強ミキサー 1870+3180 5050",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "96649a1cfb85",
+    "category": "combo",
+    "topic": "無敵技ガードからの0ゲージコンボ",
+    "content": "ラシードが相手の無敵技をガードした後、0ゲージで強アシストコンボから強アラビアンサイクロン、ロール派生、強ワールウインドショットに繋ぐと、2920ダメージを与えることができます（パニッシュカウンター時）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "無敵技ガード時、0ゲージ消費、パニッシュカウンター時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:43",
+    "source_quote": "無敵技ガード時 0ゲージ アシ強 強サイクロン ロール派生 強ミキサー 2920",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d05ef557a8e7",
+    "category": "combo",
+    "topic": "無敵技ガードからの6ゲージSA3コンボ",
+    "content": "ラシードが相手の無敵技をガードした後、6ゲージを使用して強アシストコンボドライブキャンセルラッシュ、しゃがみ強K、強アシストコンボドライブキャンセルラッシュ、しゃがみ強K、強アシストコンボ、特殊技(DPRP)、スーパーアーツ3 (アラビアン・スカイハイ)に繋ぐと、5582ダメージを与えることができます（パニッシュカウンター時）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "無敵技ガード時、6ゲージ消費、パニッシュカウンター時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "00:49",
+    "source_quote": "無敵技ガード時 6ゲージ アシ強CDR 下強→アシ強CDR→下強→アシ強 下SP→SA3 5582",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "206",
+      "402",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9dd119a8e942",
+    "category": "combo",
+    "topic": "インパクト返しからのコンボ",
+    "content": "ラシードがインパクトを返した場合、0ゲージでジャンプ強K、立ち強K、微歩き、前中K (1段目)、後方特殊技に繋ぐことで、2780ダメージを与えることができます。スーパーアーツ3 (アラビアン・スカイハイ)まで繋げると4780ダメージになります。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトを返した時、0ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:01",
+    "source_quote": "インパクト返した時 0ゲージ ジャンプ強 強 微歩き 前中1段 後ろSP 2780",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "117",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ef71052a717",
+    "category": "combo",
+    "topic": "スタンからの高ダメージコンボ",
+    "content": "ラシードが相手をスタンさせた時、4ゲージを使用して溜めワールウインドショットからODワールウインドショット、ODスカイハイアルティテュード、弱ワールウインドショット、スーパーアーツ3 (アラビアン・スカイハイ)に繋ぐと、5470ダメージを与えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手をスタンさせた時、4ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:19",
+    "source_quote": "スタンさせた時 4ゲージ 最大溜めツール ODミキサー ODスカイハイ 弱ミキサー→SA3 5470",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c5876314255b",
+    "category": "combo",
+    "topic": "スタンからの0ゲージコンボ",
+    "content": "ラシードが相手をスタンさせた時、0ゲージでジャンプ強P、強アシストコンボ、強ワールウインドショットに繋ぐと、2720ダメージを与えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手をスタンさせた時、0ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:31",
+    "source_quote": "スタンさせた時 0ゲージ ジャンプパン強 アシ強 強ミキサー 2720",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8cb858e01a43",
+    "category": "combo",
+    "topic": "差し返しからのコンボ",
+    "content": "ラシードが相手の技を差し返す時、0ゲージで立ち強Kから強ワールウインドショットに繋ぐと、2160ダメージを与えることができます（パニッシュカウンター時）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "差し返しを狙う時、0ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:37",
+    "source_quote": "差し替えし狙う時 0ゲージ 強 強ミキサー 2160",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d49fe1226e7",
+    "category": "combo",
+    "topic": "位置入れ替えコンボ",
+    "content": "ラシードが位置を入れ替えたい時、3ゲージを使用してしゃがみ中Kドライブキャンセルラッシュから中アシストコンボを2回、弱ワールウインドショット、サイクロンストローク、空中弱Kに繋ぐと、1446ダメージを与えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "位置を入れ替えたい時、3ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:44",
+    "source_quote": "入れ替えたい時 3ゲージ 中足CDR 中アシ中x2 弱ワール ストローク派生 空中弱 1446",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "21b4d4ca0460",
+    "category": "combo",
+    "topic": "0ゲージ緊急コンボ",
+    "content": "ラシードが苦しい状況で0ゲージしかない場合、しゃがみ弱Kを2回から弱ワールウインドショットに繋ぐと、930ダメージを与えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "苦しい時、0ゲージ消費",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:51",
+    "source_quote": "苦しい時 0ゲージ 下弱x2 弱ミキサー 930",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1a8d04581d5c",
+    "category": "combo",
+    "topic": "中央パニカン運搬コンボ",
+    "content": "ラシードが画面中央でインパクトパニッシュカウンターを取った際、ノーゲージで相手を画面端まで運搬したい場合は、ジャンプ強キックからイーグル・スパイク（大）に繋げるコンボが定番です。このコンボはほとんどの場合、相手を画面端まで到達させるため、その後はしゃがみ弱Pからジャンプ強キックで安全飛び（安全な飛び込み）を仕掛けることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面中央、インパクトパニッシュカウンター、ノーゲージ、相手を画面端へ運びたい時",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "00:09",
+    "source_quote": "画面中央の定番コンボ ノンゲージで運びたい時はまずこれ\n大抵画面端到達するのでそのあとは しゃがコパ>J大Kで安全飛びいけます\n自分は安飛び大好き人間なので このルート使うこと多いです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aee712a25495",
+    "category": "combo",
+    "topic": "中央パニカン高火力コンボ",
+    "content": "ラシードがインパクトパニッシュカウンターを取った際、よりダメージを優先したい場合は、ジャンプ強キックから立ち中P、そしてイーグル・スパイク（大）に繋げるコンボを使用します。このルートは上記の運搬コンボよりもダメージが若干高いですが、コンボ後のフレーム状況が異なるため、安全飛びには移行できません。代わりに、投げ消費を伴いますが、持続中段攻撃を仕掛けるセットプレイに移行できます。どちらのセットプレイへ行きたいかに応じて、このコンボと上記の運搬コンボを使い分けましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトパニッシュカウンター、よりダメージを優先したい時",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "00:30",
+    "source_quote": "定番その2 ダメージはこちらの方が少し高いが\nフレームが少し変わってくるので注意 このコンボでは安全飛びへいけません\nその代わり投げ消費で持続中段へいけます どのセットプレイへ行きたいかで1.2のコンボを使い分けましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1aeeec4622fc",
+    "category": "combo",
+    "topic": "端パニカン高火力コンボ",
+    "content": "ラシードが画面端付近でインパクトパニッシュカウンターを取った際、ノーゲージで最も火力の高いルートは、ジャンプ強キックから立ち強キック、ジャンプ中P、アラビアン・スカイハイ（大）、ジャンプ強Pと繋げるコンボです。このコンボを狙える状況では積極的に使用しましょう。コンボ後の位置にもよりますが、前ステップで+7Fまたは+8Fの有利フレームが取れるため、そこから持続中Pを狙うのが強力なセットプレイとなります。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端付近、インパクトパニッシュカウンター、ノーゲージ",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "00:50",
+    "source_quote": "画面端付近の定番 ノンゲージで一番火力高いルートなので 狙える時はこちらを使いましょう\n位置にもよりますが前ステで+7For8F取れます そこから持続中P狙うのが熱い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "116",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dad561ea2b35",
+    "category": "combo",
+    "topic": "中央長距離運搬コンボ",
+    "content": "ラシードが画面中央でインパクトパニッシュカウンターを取った際、ドライブゲージを消費しても良い場合は、ストライダーステップからターゲットコンボ（立ち中P強P）、ODワールウインド・ショット、立ち中P、イーグル・スパイク（弱）、立ち中P、ワールウインド・ストローク（弱）と繋げる非常に長いコンボが有効です。このコンボは相手を画面のどこからでも運び、高いリターンを得られます。相手の裏に回りたい場合は、ストライダーステップをフリップ（反転）させることで位置を入れ替えることができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面中央、インパクトパニッシュカウンター、ドライブゲージ消費可能",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "01:07",
+    "source_quote": "やたら長いが強さは折り紙付き\n裏へ運ぶ場合はステステをフリップにして位置変え 画面どこからでももによれる強いコンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cfed95132be2",
+    "category": "combo",
+    "topic": "パニカンノーゲージ入れ替えコンボ",
+    "content": "ラシードがインパクトパニッシュカウンターを取った際、ノーゲージで高火力を出しつつ相手と位置を入れ替えたい場合は、フリップ（空中投げ）から立ち中P、サイクロン・ネイル（中）、アラビアン・ミキサー（大）と繋げるコンボが有効です。このコンボは見た目以上に難易度が高いので注意が必要です。アラビアン・ミキサー（大）後は、しゃがみ中Kで+6F有利、立ち中Kで+4F有利が取れるため、どちらの選択肢も強力な起き攻めに繋がるので、お好みで使い分けましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "インパクトパニッシュカウンター、ノーゲージ、高火力と位置入れ替えを狙う時",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "01:25",
+    "source_quote": "ノンゲージ高火力の入れ替えコン 見た目以上に難易度シビアな点だけは注意\n大ミキサーの後は中足で+6F 立中Kで+4F取れます どちらかはお好みでいきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "109",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "69ca9417ac50",
+    "category": "combo",
+    "topic": "中央空中パニカンコンボ",
+    "content": "ラシードが画面中央で空中パニッシュカウンターを取った際、立ち中Pからイーグル・スパイク（大）に繋げるコンボが有効です。このコンボでは、中スパイクではなくイーグル・スパイク（大）が入るのがポイントで、相手がかなり低めにいてもヒットさせることができます。コンボ後、投げ消費を伴いますが、持続中段攻撃を仕掛けるセットプレイに移行することができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面中央、空中パニッシュカウンター",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "01:41",
+    "source_quote": "中央の空中パニカンコンボ 中スパイクではなくだスパイクが入るのがポイント かなり低めでも当たります\n投げ消費で持続中段可能です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "35b946c373b2",
+    "category": "combo",
+    "topic": "端付近空中パニカンコンボ",
+    "content": "ラシードが画面端付近で空中パニッシュカウンターを取った際、ワールウインド・ショット（中）から立ち強キック、立ち中P、イーグル・スパイク（弱）に繋げるコンボが有効です。ワールウインド・ショット（中）での拾い方が特徴的です。ただし、相手が端に密着している場合はヒットしないため注意が必要です。もう少し近い距離であれば、ワールウインド・ショット（大）でも拾うことができます。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端付近、空中パニッシュカウンター",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "01:53",
+    "source_quote": "端付近の空中パニカンコンボ 中ワールでひろう当たりがかなり洒落ている\n端密着だと当たらないので注意 もうちょい近い距離だと大ワールでもひろえます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ca911b905ec5",
+    "category": "combo",
+    "topic": "端密着空中パニカン高火力コンボ",
+    "content": "ラシードが画面端密着で空中パニッシュカウンターを取った際、ジャンプ強キックから立ち強キック、ジャンプ中P、アラビアン・スカイハイ（大）、ジャンプ強Pと繋げるコンボが非常に火力が高いです。このルートは3番の画面端付近コンボと同じ構成です。発生頻度は低いですが、コンボ自体は簡単なので、落ち着いて確実に決めることが重要です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端密着、空中パニッシュカウンター",
+    "source_video_id": "Or5a5psBjZ8",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：インパクトパニカンコンボ８選",
+    "source_timestamp": "02:09",
+    "source_quote": "端密着空中パニカンコンボ 3のルートとコンボ構成は同じです とても火力が高い\n発生頻度は低いですがコンボ自体は簡単なので 落ち着いて決めたい所です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:17:05.826631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7b7fc985cbc",
+    "category": "combo",
+    "topic": "初心者向け基本コンボ",
+    "content": "「立ち弱P」を2〜3回入力後、「中スピニングミキサー」に繋げるコンボ。簡単に入力できる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "初心者向け",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "03:09",
+    "source_quote": "初心者でもね、すぐに使えそうなコンボを色々調べてきましたんで、そちらをご紹介します。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "49172f00259a",
+    "category": "combo",
+    "topic": "初心者向けジャンプ攻撃からのコンボ",
+    "content": "「ジャンプ中K」から、「しゃがみ中P」、「立ち弱K」、「弱イーグルスパイク」に繋げるコンボ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "初心者向け",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "03:22",
+    "source_quote": "",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "108",
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c239b0016ae6",
+    "category": "combo",
+    "topic": "初心者向けSA3連携コンボ",
+    "content": "「しゃがみ中K」から「弱アラビアンサイクロン」に繋げ、スーパーアーツレベル3の「アルタイル」を発動するコンボ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "SA3ゲージがある時、初心者向け",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "03:37",
+    "source_quote": "",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f4e1805b53a",
+    "category": "combo",
+    "topic": "中級者向け通常技からOD必殺技へのコンボ",
+    "content": "「立ち中K」からのターゲットコンボ【中P→強K】、続けて「ODアラビアンサイクロン」、さらに「6+中P」、「強スピニングミキサー」に繋げるコンボ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中級者向け",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "03:49",
+    "source_quote": "",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "00bdae802fc2",
+    "category": "combo",
+    "topic": "中級者向けドライブラッシュからのコンボ",
+    "content": "「しゃがみ中K」をキャンセルしてドライブラッシュに繋ぎ、「立ち中P」、「立ち強P」、「中イーグルスパイク」に繋げるコンボ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中級者向け、ドライブゲージがある時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "04:06",
+    "source_quote": "",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "948c7488b54d",
+    "category": "combo",
+    "topic": "画面端インパクトガード時コンボ",
+    "content": "画面端で相手のドライブインパクトをガードした際、【中P→強K】のターゲットコンボから「弱ワール溜め」、「6+中P」、「強スピニングミキサー」に繋げる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトガード時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "04:15",
+    "source_quote": "画面端インパクト(ガード) > 【中P→強K】 > 弱ワール溜め > 6+中P > 強ミキサー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "659420095ed8",
+    "category": "combo",
+    "topic": "画面端インパクトガード時コンボ(簡易版)",
+    "content": "画面端で相手のドライブインパクトをガードした際、【中P→強K】のターゲットコンボから「中イーグルスパイク」に繋げる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトガード時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "04:28",
+    "source_quote": "画面端インパクト(ガード時)>【中P→強K】>中スパイク",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6fe252151bc9",
+    "category": "combo",
+    "topic": "画面端インパクト返しからのコンボ",
+    "content": "画面端で相手のドライブインパクトにインパクト返しをした際、「サイドフリップ」から【中P→強K】のターゲットコンボ、「中イーグルスパイク」に繋げる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクト返し時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "04:40",
+    "source_quote": "(被画面端)インパクト返し>サイドフリップ>【中P→強K】>中スパイク",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d34af32f2d7a",
+    "category": "combo",
+    "topic": "ドライブインパクト・パニッシュカウンター時コンボ",
+    "content": "ドライブインパクトがパニッシュカウンターになった際、「垂直ジャンプ強K」から「6+中P」、「強イーグルスパイク」に繋げる。強イーグルスパイク後は「サイドフリップ」や「ドライブインパクト」が重なる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクト・パニッシュカウンター時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "04:56",
+    "source_quote": "インパクト(パニッシュカウンター時)>垂直ジャンプ強K>6+中P>強スパイク",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a6222c324fb0",
+    "category": "combo",
+    "topic": "高火力SA3連携コンボ",
+    "content": "「ジャンプ強K」から、「立ち強P」、「中アラビアンサイクロン」、「立ち弱K」、「弱アラビアンサイクロン」に繋げ、スーパーアーツレベル3の「アルタイル」を発動するコンボ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "SA3ゲージがある時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "05:10",
+    "source_quote": "ジャンプ強K>立ち強P>中サイクロン>立ち弱K>弱サイクロン>アルタイル",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "104",
+      "117"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c46aeda16599",
+    "category": "combo",
+    "topic": "中央基本コンボ（ガード時）",
+    "content": "ラシードの立ちアシスト弱攻撃（AL）からの3段コンボは、もしガードされた場合、3段目のラッシュキックが出ないが、ヒットした場合はダウンを奪い起き攻めに移行できる。キャンセル可能なため、ガード時には入れ込んでしまって良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、相手ガード時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "00:04",
+    "source_quote": "ガードされていると出ない上、キック〆のため起き攻め状況が良い。入れ込もう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2ece1d8bf41",
+    "category": "combo",
+    "topic": "中央基本コンボ（ダウンなし）",
+    "content": "ラシードの立ち弱攻撃3段から弱ミキサー（236L）に繋ぐコンボは、相手をダウンさせられないが、ヒット時に2F有利な状況を作れる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "00:17",
+    "source_quote": "ダウンは取れないが2F有利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b54030499a5f",
+    "category": "combo",
+    "topic": "中央アシストコンボからの起き攻め",
+    "content": "ラシードのアシスト中攻撃（AM）を連続で出し、弱ミキサー（236L）に繋ぐアシストコンボは、ガードされた場合2段目で止まり-20Fと不利になる。このため、弱ミキサー（236L）を保険で入力しておくと良い。起き攻めは弱ミキサーでないと繋がらないため、弱ミキサーに繋ぐ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ガード時、起き攻め狙い",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "00:28",
+    "source_quote": "アシストコンボ。こちらもガードされていると2段目で止まるが+20Fととんでもなく不利なので、保険で弱ミキサーを入れておこう。また、〆は弱ミキサーでないと起き攻めがつかない。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "83917225c513",
+    "category": "combo",
+    "topic": "中央ノーゲージ起き攻め重視コンボ",
+    "content": "ラシードのアシスト中攻撃（AM）からODイーグルスパイク（214K）に繋ぎ、さらに追撃としてチャージアラビアンサイクロン（214HH）で締めることで、ノーゲージで起き攻めに移行できる。ツールを重ねるのも選択肢として有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ノーゲージ、起き攻め重視",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "00:49",
+    "source_quote": "ノーゲージ起き攻め重視。ツールを重ねるのも面白そう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2f7ae35a23e",
+    "category": "combo",
+    "topic": "中央ノーゲージダメージ重視コンボ",
+    "content": "ラシードのアシスト中攻撃（AM）からODイーグルスパイク（214K）に繋ぎ、さらに前強パンチ（6H）で追撃し、弱ミキサー（236L）で締めることで、ノーゲージながらダメージを重視したコンボになる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ノーゲージ、ダメージ重視",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:00",
+    "source_quote": "ノーゲージダメージ重視",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1ef91434342a",
+    "category": "combo",
+    "topic": "中央アシストコンボのヒット確認",
+    "content": "ラシードのアシスト中攻撃（AM）をガードされた場合、2段目まで出すと弱ミキサー（236L）で誤魔化すしかないが、初段で止めれば有利状況を維持できる。攻めを途切れさせたくない場合は、初段でヒット確認してコンボを続行するか判断すると良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ヒット確認",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:09",
+    "source_quote": "AMはガードされている場合、2段目まで出すと236Lで誤魔化すしか無いが、初段で止めれば有利。攻めを途切れさせたくない場合はこれを使ってヒット確認しよう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "687cc6bb9858",
+    "category": "combo",
+    "topic": "中央密着時アシスト中攻撃始動コンボ",
+    "content": "ラシードが相手に密着している状況で、立ち中攻撃（M）からアシスト中攻撃（AM）を繋ぐと、ODイーグルスパイク（214H）が繋がりにくいため、アシスト中攻撃（AM）を3回繋いで弱ミキサー（236L）で締めるコンボを使う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、密着時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:15",
+    "source_quote": "MからAMをつなぐと基本的に214Hが入らないためこちら",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "011cc4d9e7f5",
+    "category": "combo",
+    "topic": "中央中足からのコンボ",
+    "content": "ラシードのしゃがみ中攻撃（2M）から弱ミキサー（236L）に繋ぐコンボは、合計4ヒットでドライブインパクトに耐性があるため便利。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:29",
+    "source_quote": "中足から入れ込む場合はこれ。計4ヒットとインパクト耐性あるのが便利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb2f359f4be9",
+    "category": "combo",
+    "topic": "中央中足からのガード時反撃",
+    "content": "ラシードのしゃがみ中攻撃（2M）からヘビースピニングミキサー（4SP）に繋ぐのはガードされた場合確定反撃となるため注意が必要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ガード時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:34",
+    "source_quote": "4SPはガード時反撃確定なので注意。確定どころなしに。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "56b164d3ca43",
+    "category": "combo",
+    "topic": "中央アシスト強攻撃からのヒット確認と択",
+    "content": "ラシードのアシスト強攻撃（AH）は、ガードされても3段目が出ず-3Fなので入れ込みが許容される。状況も良く、ヒット確認も可能だが、確認できる場合はパリィボタンでのドライブラッシュに繋ぐ方がより良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ヒット確認",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "01:40",
+    "source_quote": "ガードされていると3段目が出ず、-3Fなので入れ込みOK。最も状況が良く、一応ヒット確認もできるつぼい。ただ、確認できるならこれよりパリィボタンでのラッシュがオススメ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "19a0dc7471f5",
+    "category": "combo",
+    "topic": "中央ドライブラッシュ始動基本コンボ",
+    "content": "ラシードのドライブラッシュ弱攻撃（DR > L）は、ガードされても+3Fの有利フレームを取れるため、出番が多くなる。そこからアシスト中攻撃（AM）へ繋ぎ、ヘビースピニングミキサー（4SP）で締めることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブラッシュ始動",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "02:00",
+    "source_quote": "ラッシュLはガードさせて+3ということもあり出番が多そう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8de3e730739",
+    "category": "combo",
+    "topic": "中央ドライブラッシュ中攻撃始動コンボ",
+    "content": "ラシードのドライブラッシュ中攻撃（DR > M）は、ガードされても+1Fの有利フレームを取れ、リーチが長くヒット時のリターンも高い。そこからアシスト強攻撃（AH）へ繋ぎ、ヘビースピニングミキサー（4SP）で締めることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブラッシュ始動",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "02:21",
+    "source_quote": "ラッシュMもガード時+1。リーチが長くヒット時のリターンが高い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f704687c67fd",
+    "category": "combo",
+    "topic": "中央中段攻撃からのドライブラッシュコンボ",
+    "content": "ラシードのドライブラッシュ前強攻撃（DR > 6H）のような中段攻撃からは、アシスト中攻撃（AM）を2回繋ぎ、ODイーグルスパイク（214K）からチャージアラビアンサイクロン（214HH）で締めることで、ダメージと状況が両立したコンボになる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、中段攻撃始動",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "02:40",
+    "source_quote": "中段から。ダメージ・状況共に良い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dbc48ced284d",
+    "category": "combo",
+    "topic": "中央小技ヒット確認からの最大コンボ",
+    "content": "ラシードの小技やアシスト中攻撃（AM）のヒット確認から、ドライブラッシュ（DR）を絡めて最大ダメージを狙うコンボ。ルートは、弱攻撃（L）> DR > 弱攻撃（L）> 中攻撃（M）> アシスト中攻撃（AM）> DR > しゃがみ強攻撃（2H）> アシスト強攻撃（AH）> ODイーグルスパイク（214K）> SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、小技またはAMヒット確認",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "02:50",
+    "source_quote": "小技やAMヒット確認からの最大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3b5e9a904956",
+    "category": "combo",
+    "topic": "中央中足からのドライブラッシュ連携",
+    "content": "ラシードのしゃがみ中攻撃（2M）からドライブラッシュ（DR）に繋ぎ、アシスト強攻撃（AH）からヘビースピニングミキサー（4SP）で締める連携は、中足からのラッシュ入れ込み時に有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、中足からのラッシュ入れ込み",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "03:08",
+    "source_quote": "中足からラッシュ入れ込み時に",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fcf07434bdad",
+    "category": "combo",
+    "topic": "中央中足始動最大コンボ",
+    "content": "ラシードのしゃがみ中攻撃（2M）始動の最大ダメージコンボは、2M > DR > AH > DR > 2H > AH > ODイーグルスパイク（214K）> SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、中足始動",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "03:25",
+    "source_quote": "中足からの最大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "85eeeba9d924",
+    "category": "combo",
+    "topic": "中央アシスト攻撃始動最大コンボ",
+    "content": "ラシードのアシスト中攻撃（AM）またはアシスト強攻撃（AH）始動の最大ダメージコンボは、AM or AH > DR > 2H > AH > SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、AMまたはAH始動",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "03:42",
+    "source_quote": "アシスト中、アシスト強からの最大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "506ad4956f40",
+    "category": "combo",
+    "topic": "中央ODワール入れ込みからの有利フレーム確保",
+    "content": "ラシードのODワールウィンドショット（236PP）は、ガードされても遠い位置であれば有利フレームを取れるため、入れ込みやすい。ここからSA3へ繋ぐコンボとして、2M or AH > ODワールウィンドショット > SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ODワールヒット時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "04:00",
+    "source_quote": "ODフール入れ込みから。ガードされていても遠ければ有利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "937c57ad0a4d",
+    "category": "combo",
+    "topic": "中央入れ替えコンボ",
+    "content": "ラシードのアシスト中攻撃（AM）またはアシスト強攻撃（AH）からヘビースピニングミキサー（4SP）を2回繋ぐことで、相手と位置を入れ替えるコンボが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "04:11",
+    "source_quote": "入れ替えコンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "144f4343d524",
+    "category": "combo",
+    "topic": "中央キャラ運びコンボ",
+    "content": "ラシードのアシスト中攻撃（AM）またはアシスト強攻撃（AH）からODイーグルスパイク（214K）に繋ぎ、中ミキサー（236M）で締めることで、相手をかなり遠くまで運ぶことができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "04:20",
+    "source_quote": "めちゃ運ぶ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "748e97104f73",
+    "category": "combo",
+    "topic": "中央高火力キャラ運びコンボ（4ゲージ使用）",
+    "content": "ラシードの4ゲージを使った高火力かつキャラ運び性能の高いコンボは、アシスト中攻撃（AM）またはアシスト強攻撃（AH）から、ODイーグルスパイク（214K）> 強ミキサー（236H）> ジャンプODイーグルスパイク（J214K）> ジャンプ強攻撃（JH）と繋ぐ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、4ゲージ使用",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "04:31",
+    "source_quote": "4ゲージ使うが高火力かつ鬼運ぶ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "54c9f6cc48de",
+    "category": "combo",
+    "topic": "中央パニッシュカウンターからの基本コンボ",
+    "content": "ラシードが相手の差し返しや牽制をパニッシュカウンターした際、強攻撃（H）から強ミキサー（236H）に繋ぐコンボが有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、パニッシュカウンター",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "05:03",
+    "source_quote": "差し返しや牽制が噛み合った場合に",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "55d60bf4ede9",
+    "category": "combo",
+    "topic": "中央パニッシュカウンターからの最適コンボ（補正考慮）",
+    "content": "ラシードが反撃として、しゃがみ強攻撃（2H）をパニッシュカウンターした際、アシスト強攻撃（AH）からヘビースピニングミキサー（4SP）へ繋ぐコンボがある。ただし、2Hは初段に補正がかかるため、ラッシュなどでコンボを伸ばさない場合は、次の（投げ抜け狩り推奨）コンボの方がダメージが伸びる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、パニッシュカウンター",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "05:12",
+    "source_quote": "反確などに。ただし2Hは初段に補正が乗ってしまうので、ラッシュなどでコンボを伸ばしない場合は次の方が減る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ffc02dfdfcb0",
+    "category": "combo",
+    "topic": "中央パニッシュカウンターからの高補正コンボ",
+    "content": "ラシードの投げ抜け狩りや反撃時に、アシスト中攻撃（AM）または立ち中攻撃（M）からアシスト強攻撃（AH）へ繋ぎ、ヘビースピニングミキサー（4SP）で締めるコンボは、補正が良いためダメージが伸びやすい。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、パニッシュカウンター",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "05:20",
+    "source_quote": "投げ抜け狩りや反確などにも。こちらのほうが補正が良いのでダメージが伸びやすい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d36bb8226d6c",
+    "category": "combo",
+    "topic": "中央無敵技反撃からの最大コンボ",
+    "content": "ラシードが無敵技にパニッシュカウンターを取った場合、ドライブラッシュアシスト強攻撃（DR > AH）始動で、ODイーグルスパイク（214K）、ODミキサー（236K）、ジャンプODイーグルスパイク（J214K）、強ミキサー（236H）へ繋ぎ、SA3で締める最大ダメージコンボが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、無敵技パニッシュカウンター",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "05:31",
+    "source_quote": "無敵技の反撃に。最大始動なので前述のゲージ使用コンボやラッシュで伸ばしたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c1c60119bef9",
+    "category": "combo",
+    "topic": "中央ラン派生ミキサーの投げ無敵活用",
+    "content": "ラシードのラン派生中攻撃（M）または強攻撃（H）のミキサーには投げ無敵があるため、ドライブインパクトからのコンボをキャンセル投げ（ラン派生M > H (PC) > AM > AM > ODイーグルスパイク (214K) > チャージアラビアンサイクロン (4HH)）として使うことで、投げ抜け狩りへの対策としても機能する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、投げ抜け狩り対策",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "05:55",
+    "source_quote": "ラン派生MHには投げ無敵が付いているため、ランキャンセル投げの対の択として",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4f9fc78ef1e6",
+    "category": "combo",
+    "topic": "中央ドライブインパクト基本コンボ",
+    "content": "ラシードのドライブインパクトヒットからの基本コンボは、アシスト中攻撃（AM）からODイーグルスパイク（214K）に繋ぎ、チャージアラビアンサイクロン（4HH）で締めることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブインパクトヒット",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "06:14",
+    "source_quote": "基本コンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c91b90b2cbf",
+    "category": "combo",
+    "topic": "中央ドライブインパクトからの高火力コンボ（距離注意）",
+    "content": "ラシードのドライブインパクト（DI）が遠い位置でヒットした場合、垂直ジャンプ強攻撃（垂直J8H）からの追撃はタイミングが難しい。成功すれば高火力だが注意が必要。コンボルートは、DI > 垂直J8H > 強攻撃（H）> バック中攻撃（4M、1ヒット目）> ヘビースピニングミキサー（4SP）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブインパクト遠距離ヒット",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "06:26",
+    "source_quote": "高火力だが、インパクトが遠い位置で当たっているとJ8HOのタイミングが難しくなるので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e4efff21ca5",
+    "category": "combo",
+    "topic": "中央ドライブインパクトからのSA3効率コンボ",
+    "content": "ラシードのドライブインパクト（DI）からドライブゲージを消費せずにSA3に繋ぐ場合、しゃがみ強攻撃（2H）から直接SA3に繋ぐのが最も効率が良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブインパクトヒット",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "06:41",
+    "source_quote": "ドライバ消費無しでSA3に繋ぐ場合、これが一番効率が良い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "96b253bf24f5",
+    "category": "combo",
+    "topic": "中央ドライブインパクトからの最大ダメージコンボ",
+    "content": "ラシードのドライブインパクト（DI）ヒットからの最大ダメージコンボは、DI > アシスト強攻撃（AH）> ドライブラッシュ（DR）> しゃがみ強攻撃（2H）> アシスト強攻撃（AH）> しゃがみ強攻撃（2H）> アシスト強攻撃（AH）> 中イーグルスパイク（214M）> SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、ドライブインパクトヒット",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "06:57",
+    "source_quote": "インパクトからの最大ダメージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "354dd4579fb6",
+    "category": "combo",
+    "topic": "中央最大溜めワールからのコンボ",
+    "content": "ラシードの最大溜めワールウィンドショット（5SP）がヒットした場合、弱ミキサー（236L）> 弱攻撃（L）> 弱ミキサー（236L）と繋ぐ。強化236Lはガードさせて密着+2Fと優秀なため、とりあえず入れ込みしても良いが、パリィされると相手のODゲージが回復する点に注意。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、最大溜めワールヒット時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "07:22",
+    "source_quote": "最大溜めワールが当たったときなどに。また強化236Lはガードさせて密着+2と非常に優秀なので、とりあえず入れ込んでも良さそうだが、パリィされると相手のODドライブが回復する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "20329a118ae6",
+    "category": "combo",
+    "topic": "中央SA2（イウサール）ヒット時ノーゲージコンボ",
+    "content": "ラシードのSA2（イウサール）がヒットした場合のノーゲージコンボ。風に乗れない状況（例：めくり）でも可能で、強攻撃（H）> 前中攻撃（6M、1ヒット目）> ヘビースピニングミキサー（4SP）と繋ぐ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央、SA2ヒット時、ノーゲージ",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "07:32",
+    "source_quote": "イウサールヒット時のとりあえずノーゲージコンボ。めくりなど風に乗れないところからも可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ef43862bf70",
+    "category": "combo",
+    "topic": "画面端SA2（イウサール）ヒット時ドライブ消費コンボ",
+    "content": "ラシードが画面端でSA2（イウサール）を当て、風に乗れる場合のコンボ。2ドライブゲージを使うだけでかなりダメージが伸びる。ルートは、SA2 > 強攻撃（H）> ODミキサー（236K）> ジャンプODイーグルスパイク（J214K）> ジャンプ強攻撃（JH）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、SA2ヒット時、風に乗り",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "07:56",
+    "source_quote": "端の崩しなど、イウサール直下で風に乗れる場合をのコンボ。2ドライブ使うだけでかなり伸びる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a5139b573a0c",
+    "category": "combo",
+    "topic": "画面端中ミキサー拾い直しコンボ",
+    "content": "ラシードが画面端で中ミキサー（236M）に繋いだ後、相手を拾い直しできるコンボ。ルートは、弱攻撃（L）> 弱攻撃（L）> 弱攻撃（L）> 中ミキサー（236M）> OD中ミキサー（236M、アシスト中攻撃同時押し）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、中ミキサーヒット後",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "08:19",
+    "source_quote": "端の中ミキサーからは拾い直しが可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "986a5c0bc00c",
+    "category": "combo",
+    "topic": "画面端ODワールからの詐欺重ねルート",
+    "content": "ラシードのODワールウィンドショット（236PP）入れ込みからの詐欺重ねルート。ルートは、しゃがみ中攻撃（2M）> ODワールウィンドショット（236PP）> 前中攻撃（6M、1ヒット目）> 中イーグルスパイク（214M）> 前中攻撃2ヒット（6MM）> ジャンプ強攻撃（JH）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ODワールヒット時",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "08:33",
+    "source_quote": "ODワール入れ込みからの詐欺重ねルート",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6cf6fc45916e",
+    "category": "combo",
+    "topic": "画面端2ドライブ使用高火力コンボ",
+    "content": "ラシードが画面端で2ドライブゲージを使用する簡単な高火力コンボ。アシスト中攻撃（AM）またはアシスト強攻撃（AH）から中イーグルスパイク（214M）へ繋ぎ、強ミキサー（236H）で締める。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、2ドライブ使用",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "08:59",
+    "source_quote": "2ドライバ使用の簡単高火力コンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "25e256aa9826",
+    "category": "combo",
+    "topic": "画面端4ドライブ使用高火力詐欺重ね（SA3可）",
+    "content": "ラシードが画面端で4ドライブゲージを使用する高火力詐欺重ねコンボ。SA3にも繋がる。ルートは、アシスト中攻撃（AM）またはアシスト強攻撃（AH）からODイーグルスパイク（214K）> ODミキサー（236K）> 前中攻撃（6M、1ヒット目）> 中イーグルスパイク（214M）または2SP > SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、4ドライブ使用",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "09:14",
+    "source_quote": "4ドライバ使用の高火力詐欺重ね。SA3も繋がる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "55b1547c5a89",
+    "category": "combo",
+    "topic": "画面端ドライブインパクトからのノーゲージコンボ",
+    "content": "ラシードが画面端でドライブインパクトを当てた際のノーゲージコンボ。ルートは、DI（壁張り付き）> 強攻撃（H）> 前中攻撃（6M、1ヒット目）> 強ミキサー（236H）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトヒット、ノーゲージ",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "09:31",
+    "source_quote": "ノーゲージ最大? あまり良いパーツが見つからず",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "179be95067b0",
+    "category": "combo",
+    "topic": "画面端ドライブインパクトスタンからの基本コンボ",
+    "content": "ラシードが画面端でドライブインパクトによるスタンを奪った際のノーゲージ基本コンボ。ルートは、DI（スタン）> ジャンプしゃがみ強攻撃（J2H）> ジャンプ強攻撃（JH）> 中イーグルスパイク（214M）> 立ち弱攻撃（5L）> 中ミキサー（236M）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトスタン",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "10:24",
+    "source_quote": "スタン始動ノーゲージ基本。画面端では密着AMやAHから214M>5Lと繋がる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b0efc143ae3",
+    "category": "combo",
+    "topic": "画面端ドライブインパクトスタンからのODワールコンボ",
+    "content": "ラシードが画面端でドライブインパクトスタンを奪った際、ドライブゲージを使う場合は最大溜めワールウィンドショット（5SP）が効率が良い。ルートは、DI（スタン）> 最大溜めワールウィンドショット（5SP）> ODミキサー（236K）> ジャンプODイーグルスパイク（J214K）> 前中攻撃（6M、1ヒット目）> 強ミキサー（236H）。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトスタン、ゲージ使用",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "10:43",
+    "source_quote": "ドライバやゲージを使う場合は溜めワールのほうが効率が良さそう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9de3451a27e1",
+    "category": "combo",
+    "topic": "画面端ドライブインパクトスタンからのODワールコンボ（SA3連携）",
+    "content": "ラシードが画面端でドライブインパクトスタンを奪った際、ドライブゲージを使う場合は最大溜めワールウィンドショット（5SP）が効率が良い。SA3への連携ルートは、DI（スタン）> 最大溜めワールウィンドショット（5SP）> ODミキサー（236K）> ジャンプODイーグルスパイク（J214K）> 前中攻撃（6M、1ヒット目）> 中イーグルスパイク（214M）> SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトスタン、ゲージ使用、SA3連携",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "11:08",
+    "source_quote": "ドライバやゲージを使う場合は溜めワールのほうが効率が良さそう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "602",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ae3844c0bc7",
+    "category": "combo",
+    "topic": "最大反撃コンボ（6360ダメージ）",
+    "content": "ラシードの最大反撃コンボで6360ダメージを出すルート。通常のキャンセルドライブラッシュルートよりもダメージが高い。ルートは、ドライブラッシュアシスト強攻撃（DR > AH、パニッシュカウンター）> アシスト強攻撃（AH）> ODイーグルスパイク（214K）> ODミキサー（236K）> ジャンプODイーグルスパイク（J214K）> 弱ミキサー（236L）> SA3。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "最大反撃",
+    "source_video_id": "L8Po9sf8_es",
+    "source_channel": "東和正 / AzumaKazumasa",
+    "source_video_title": "【スト6】モダン操作ラシード 各状況別60個！コンボ解説 【Rashid】Explanation of combos for all situations of modern Rashid",
+    "source_timestamp": "11:28",
+    "source_quote": "6360ダメージ！たぶん最大。通常のキャンセルラッシュルートより減ります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:54:45.065641",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "609",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7d5925dd6cf5",
+    "category": "combo",
+    "topic": "ラシードのODイーグル・スパイク",
+    "content": "ラシードのODイーグル・スパイクは、ヒットさせると相手が浮き上がって追撃できるようになる。位置を入れ替えられるため、追い詰められた時に狙うのも有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ヒット後、追撃時、位置入れ替え時",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "01:40",
+    "source_quote": "ヒットさせたら、相手が浮き上がって追撃できるようになる。位置も入れ替わるし、追い詰められた時に狙ってみるのもいいな。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "017da7e417a0",
+    "category": "combo",
+    "topic": "ラシードのSA1（スーパー・ラシード・キック）",
+    "content": "ラシードのSA1は、斜め前方に上昇しながら強力な蹴り技を繰り出す。地上の相手に初段ヒットさせるとダメージが上がる。コンボの最後や対空攻撃として使うのがおすすめ。切り返しや地上でのけん制ヒット後の裏択としても有効。コンボで決めた時は入れ替わらないが、切り返しで使った時は入れ替わる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボの締め、対空攻撃、切り返し、地上けん制後",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "06:00",
+    "source_quote": "コンボの最後で決めたり、対空攻撃として使うのもいいけど……オススメは、切り返しや地上のけん制ヒット後の裏択だな。クリーンヒットでダメージアップ！バッチリだろ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

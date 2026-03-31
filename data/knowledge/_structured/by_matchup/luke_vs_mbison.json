@@ -1,0 +1,116 @@
+[
+  {
+    "id": "0716384ac12e",
+    "category": "oki",
+    "topic": "Vega's oki after 中足ラッシュ>中P>屈大P>大マイン",
+    "content": "Vega's oki sequence (中足ラッシュ>中P>屈大P>大マイン) is strong but costs 4 drive gauge. To counter it, you can either attempt a Just Parry (ジャスパ) on the follow-up attack or perform a Delayed Throw Escape (遅らせ投げ抜け). Spot rise (その場起き) is very important here. If Vega tries to punish throw escape with ラッシュ中P, it can be Just Parried, leading to a combo for you.",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "mbison",
+    "situation": "After Vega's 中足ラッシュ>中P>屈大P>大マイン oki",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "01:06",
+    "source_quote": "まずその場起きから遅らせ投げ抜け、もしくはジャスパってやると相手は正直言ってドライブゲージを使うだけの価値がそこにあるのか？っていう風に思います。 で、ここ行ってるのは仕方なく行ってるのはあるんですけど、割と勝負です。勝負なんでここにに対して有効な被起き攻めをすることによって相手って困ったりとかしますね。だからここにに関してはジャスパ狙ってください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "26b7a2033366",
+    "category": "oki",
+    "topic": "Spot rise vs. back rise after throw",
+    "content": "Only use spot rise (その場起き) after Vega's 大マイン (Heavy Mine). Do NOT use spot rise after a normal throw. After a normal throw or if you back rise (後方受け身) after 大マイン, Vega's ラッシュ中P or ラッシュしゃがみ弱P are very weak options, consuming their Drive Gauge for minimal reward. Therefore, generally prefer back rise (後方受け身) as your primary wake-up option after any throw.",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "mbison",
+    "situation": "After being knocked down by Vega",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "01:41",
+    "source_quote": "その場起きしていいのは大マイン後のみです。通常投げの後はしないでください。大マインの時だけやってください。そうすると相手ってその場起き読みでこういうのやってくんの(立ち小K)。大マインの時だけ。これね見てもらえればわかると思いますけど後方受け身でこれやった時に投げ抜けも絡れないし、なんならゲージを4本消費してるのにもかかわらずリセット。ただマインついてるだけ の状態になっててめちゃくちゃ弱いの。だからここから近づくのにも結構リスクは伴ってくるから通常技貰っちゃったりとかして。だからこれをやってくるんだったら美味しい正直。このラッシュ立ち小Kもしくはラッシュしゃがみ小Pっていう選択肢はめちゃめちゃ弱い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6f9e211d6c9e",
+    "category": "defense",
+    "topic": "Countering Vega's knee (膝) pressure",
+    "content": "Vega's sustained stacked knee (持続重ねの膝) is very strong and cannot be directly countered. However, after guarding the first knee, if Vega attempts a second knee, you can try to Just Parry (ジャスパ) it. Alternatively, after guarding the first knee, perform a backstep (後方ステップ) to create distance. If Vega hits with a knee and follows up with another knee, you only concede +4 frames, which is a very low reward for Vega's Drive Gauge. This situation is cheap for Vega, as they can't establish strong pressure. If Vega attempts OD to link knees, it is still low damage and has restrictions. The only guaranteed block string (連ガ) is 立ち中P into ODサイコクラッシャー。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "mbison",
+    "situation": "Against Vega's knee pressure",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "04:32",
+    "source_quote": "膝膝膝とかどうすればいいかわからん。説明しましょう。持続重ねの膝はどうすることも出来ないですこれまじで強い。強いんですけどその後の選択肢ガードした後の選択肢はベガ実はあんま強くないです。まず膝自体が膝>膝が割られてしまうっていうのが1点と膝がもし当たったとして、じゃあ膝膝ってやった時に後方ステップやりますよね。バックステ当たりましたでも+4しか取れてないんすよ。これで終わり。安い。これ正直マインをつけて重ねるっていうことをやったにもかかわらずこれは正直ベガ側にとってはかなり安い。単価の安いキャラになっちゃう。でもこれマインついてる状態だとこれこれこれこれ安くね？そう。安いんすよ。マインループができないの実は。一応出来るんだけどODを使わなきゃいけない制限があったりとかするんであんまり強くないです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105",
+      "601"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98e8be12c374",
+    "category": "defense",
+    "topic": "Countering Vega's `膝` (knee) after opponent's `暴れ`",
+    "content": "If you are `暴れ` (raw attacking) with `しゃがみ弱P` (crouching light punch) and Vega counters with a `膝` (knee), it results in a `相打ち` (trade) on block. If you block `膝` (knee) and Vega follows up with `ラッシュ中P` (rush mid punch), they risk losing drive gauge and getting low damage. If `膝` (knee) is guarded, there's no strong mix-up for Vega without spending drive gauge. Your `しゃがみ弱P` is safe on block against a blocked `膝` (knee).",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "mbison",
+    "situation": "After blocking Vega's `膝` (knee)",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "05:42",
+    "source_quote": "で暴れられた場合、しゃがみ弱P。これで暴れられた場合はまずしゃがみ弱Pでしか狩ることができません。で、しゃがみ弱P。カウンター取って、まもちろんこういうの行けたりとかするんだけど、ただこの弱Pをまずジャスパ取られる可能性がかなり高いし、小Pをガードさせた後にあんまり有効な選択肢がない。しかもノーマルヒットは結局これ。ノーマルヒットが安すぎる。でこれも空中ヒット。だからこれこれこれこれ結構ぼったくりに近い。まあ一応空中食らいをすればとりあえずオッケーっていう。だからガードした後に前ジャンプするのがめっちゃ強い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

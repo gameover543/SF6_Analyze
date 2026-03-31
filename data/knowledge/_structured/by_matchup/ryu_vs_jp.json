@@ -1,0 +1,58 @@
+[
+  {
+    "id": "794c51ba43fd",
+    "category": "matchup",
+    "topic": "JP弱ストリボーグへのSA1反撃",
+    "content": "JPの弱ストリボーグに対して、リュウのSA1（真空波動拳）は確定反撃として機能する。相手がこの技をガードされた（またはパニッシュカウンター可能な）際に使うと反撃のチャンス。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "jp",
+    "situation": "JPの弱ストリボーグがガードされた（またはパニッシュカウンター可能な）状況",
+    "source_video_id": "fCAKTcJW8a0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】リュウ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ryu Combo Oki Setup",
+    "source_timestamp": "01:49",
+    "source_quote": "SA1での確定反撃 弱ストリーボーグ等",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:40:16.635026",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "effb8179256e",
+    "category": "oki",
+    "topic": "OD昇龍拳後の神の投げ間合い起き攻め",
+    "content": "リュウのOD昇龍拳後の+46フレームは非常に強力。前ダッシュから投げ（投げ消費）に行くと、相手がガードしても+8フレームの有利が取れ、投げ間合いをシミーできる。これは特にJP戦のような相手に対して有効。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "jp",
+    "situation": "OD昇龍拳ヒット後",
+    "source_video_id": "LJbm1idIekc",
+    "source_channel": "cosazeku",
+    "source_video_title": "リュウの新視点コンボ！端背負わせジャスパから最大効率で起き攻め【スト6/ストリートファイター6】",
+    "source_timestamp": "05:07",
+    "source_quote": "大足刀から弱昇龍に換えると、同じのにできますと。OD昇龍の後は立ち大K消費で、OD昇龍で締めると3514。弱昇龍締めだと3514だから、投げ消費で+8なんだ。マジ見たことなくない？俺あんま意識できてないんだけど。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:56:57.134414",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "205",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

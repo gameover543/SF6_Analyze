@@ -1,0 +1,716 @@
+[
+  {
+    "id": "04dfed4cbbd6",
+    "category": "neutral",
+    "topic": "距離調整の重要性",
+    "content": "遠距離で相手がガードしている場合、むやみにシャドーライズに頼るのではなく、歩きで距離を詰めることで技の選択肢が格段に増える。相手との距離に応じて適切な技を使い分けられるようになるため、非常に重要。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手がガードしている遠距離時",
+    "source_video_id": "Y0nqKbQnfEk",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "This is the first attack you should learn with Vega! Attack with combos you can use for the rest ...",
+    "source_timestamp": "06:55",
+    "source_quote": "自分でちゃんと距離を変えることで選択肢がバッと増える！ 歩きっていう、自分でちゃんとキャラクターを歩かせて移動させる。これで距離を詰めるっていうのがものすごい大事。これであるだけで全然世界変わるから。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:50:19.601703",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "713a421246e1",
+    "category": "neutral",
+    "topic": "牽制の振り方",
+    "content": "ベガはサイコクラッシャー(弱)を牽制で振る。遠距離ではドライブインパクト(強P)やラッシュ立ち強P、ラッシュ立ち弱Pを振り、歩いてしゃがみ中Kを当てる立ち回りが強い。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "00:14",
+    "source_quote": "えっとまず ベガ…もうあのダブルーニーが最強すぎるからダブルーニーを牽制で振ろう。牽制でやることはダブルーニー。あとはラッシュコパン、遠かったらラッシュ大P。で歩いて中足これ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "86000e431e93",
+    "category": "neutral",
+    "topic": "デビルリバースを使った攻め込み",
+    "content": "遠距離から攻め込みたい、めんどくさい時はデビルリバースで適当に突っ込む。ガードで有利フレームを取れる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "遠距離からの攻め込み時",
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "01:18",
+    "source_quote": "「めんどくさいけど遠距離から攻め込みたいなぁ」ってなったらデビルリバースで適当に突っ込むガードで有利。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3894cf2ca4bc",
+    "category": "neutral",
+    "topic": "対空を誘う行動",
+    "content": "相手が対空攻撃をしてくる場合は、デビルリバースの超手前落ちや裏落ちを使い、位置調整をして対空を釣る。昇龍拳を釣ったら適当に確定反撃を入れる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手が対空を狙っている時",
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "01:25",
+    "source_quote": "で「こいつ対空してきやがる！！」ってなったらこういうので釣ってもいいです。デビルリバ超手前落ちや、裏落ちでうまく位置調整すれば対空を釣れます。でいいと思います。立ち回りはこれ！昇龍龍釣ったら適当に確反でいいと思う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7bd2809d517f",
+    "category": "neutral",
+    "topic": "ニープレス(強)ガードからの連携",
+    "content": "ベガのニープレス(強)をガードさせると+1Fの有利フレームが取れる。相手が立ち弱Pで暴れてくる場合、ベガの立ち弱Pで打ち勝てる。立ち弱Pがカウンターした場合は「しゃがみ中P→バックフィスト(中)」に繋がる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "ニープレス(強)ガード時",
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "02:50",
+    "source_quote": "で連係、ヒザ(4大K)ガードさせるこれ+1Fです。なのでこれ相手がコパン暴れしてくる。こっちのコパンで勝てます！でコパンがカウンターしたらしゃがみ中P繋がるのでバックフィスト！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81eca9461f61",
+    "category": "neutral",
+    "topic": "ODサイコクラッシャーでの攻め込み",
+    "content": "攻め込むのが面倒な時や状況がわからない時はODサイコクラッシャーで突っ込む。ガードさせると有利フレームを取れ、その有利フレームを活かして攻め込む。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "攻め込みに迷った時",
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "04:19",
+    "source_quote": "で自動起爆こんな感じで「攻めんのもアレやしな〜、いや〜どうしようかな〜」ってなったらこうやって…この有利を活かして攻め込むこれでいいと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81e1aec5ef99",
+    "category": "neutral",
+    "topic": "立ち回りのサイコクラッシャー(弱)先端",
+    "content": "立ち回りでサイコクラッシャー(弱)を先端当てすることが強い。近いと確定反撃をもらう可能性があるが、先端であれば強い牽制になる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "04:42",
+    "source_quote": "でやってて強いなと思った連係が…中足先端弱ダブルーニーこれが強い！近いとこやってて確反受けるんですけど中足先端…ごめん豪鬼の立弱K長いわ。立ち回りのダブルーニー先端はマジで強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3044956fbd31",
+    "category": "neutral",
+    "topic": "ニープレス(弱)先端と立ち強Pの使い分け",
+    "content": "ベガの立ち回りで歩いて立ち強Pをガードさせずに行きたい場面でも、サイコクラッシャー(弱)のほうが強く感じる場面があった。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "05:12",
+    "source_quote": "実際今日僕がよくあったのが歩いて立大Pをガードさせずに行きたいなと思ったら「いやこれ弱ニーの方が強くね？」ってのが結構ありました。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b71788ee100e",
+    "category": "neutral",
+    "topic": "立ち強Pの活用法",
+    "content": "ベガの立ち強Pはガードされても+1Fの有利フレームが取れるため、適当にゴリゴリ振って良い技として活用できる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "06:14",
+    "source_quote": "で立大Pこれも強いですガードで+1Fなんで…適当にゴリゴリ振っていいよ。大ゴスみたいなもんやと思ってマジで。ほら 有利やから。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "295332c0b70f",
+    "category": "neutral",
+    "topic": "牽制立ち中Kの活用",
+    "content": "ベガの牽制立ち中Kはリーチが長く使いやすいため、強力な牽制として機能する。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mgMWcwvpF_M",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】今すぐベガを使いたいあなたへ！ 歴戦のベガ使い・どぐらの超簡単ベガ講座",
+    "source_timestamp": "08:08",
+    "source_quote": "他にも立大Kとか牽制立中Kも強いわ長くて使いやすい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:11:10.371034",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e7e638488ae3",
+    "category": "neutral",
+    "topic": "立ち回りでのダブルニープレス",
+    "content": "ベガの立ち回りの基本は、弱と中のダブルニープレスの先端を相手に当てることを意識する。先端ガード時はリスクがほぼなく、ヒット時はしゃがみ弱K→しゃがみ弱P→弱ダブルニープレスでループしたり、投げに移行したりと強力な展開を生み出せる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般、ダブルニープレス先端ヒット/ガード時",
+    "source_video_id": "qxScGvxo-90",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ベガの立ち回りから必須コンボまで！ベガの使い方解説 基本編【スト6】",
+    "source_timestamp": "00:27",
+    "source_quote": "ベガの立ち回りは「とりあえずこれ」というとにかく覚えておいてほしい技があるのだ\nそれがこのダブルニープレスなのだ ダブルニーは先端をガードさせた時のリスクがほぼ無くて、ヒットしていた時は小足小パン弱ダブルニーでループさせたり、投げにいくこともできる強力な展開を生み出せるのだ\n基本は弱と中のダブルニーの先端を相手に当てることを意識して立ち回ろう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:01:50.376376",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "107",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "03ce5b73a8aa",
+    "category": "neutral",
+    "topic": "相手の攻めを止める置き技",
+    "content": "相手が攻めやラッシュを仕掛けてきた場合は、立ち中Kやしゃがみ中Pを置き技として振ることで止めることができる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手の攻めやラッシュを止めたい時",
+    "source_video_id": "qxScGvxo-90",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ベガの立ち回りから必須コンボまで！ベガの使い方解説 基本編【スト6】",
+    "source_timestamp": "00:55",
+    "source_quote": "相手の攻めやラッシュを止めるなら立ち中Kやしゃがみ中Pの置き技を振りつつ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:01:50.376376",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a3fb260bb53",
+    "category": "neutral",
+    "topic": " Drive Rushによる接近戦",
+    "content": "ジャンプなどで様子見をする相手には、ドライブラッシュ攻撃（例：立ち強Pやしゃがみ中K）を使って相手に触りに行こう。近距離ではドライブラッシュしゃがみ弱Pやドライブラッシュ4強Kがおすすめ。どちらも投げやシミー（投げ抜け狩り）に繋げられる。遠距離からのドライブラッシュは立ち中Pや立ち強Pがおすすめで、これらは後述の立ち中P始動コンボに繋がる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "ジャンプで様子見する相手に接近したい時",
+    "source_video_id": "qxScGvxo-90",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ベガの立ち回りから必須コンボまで！ベガの使い方解説 基本編【スト6】",
+    "source_timestamp": "01:03",
+    "source_quote": "ラッシュ攻撃や立ち強Pや中足を使って相手に触りに行こう。ラッシュ攻撃でおすすめの技は\n近い相手にはラッシュしゃがみ弱Pとラッシュ引き強K。これはどっちとも投げに行けるしシミー（投げ抜け狩り）をすることもできるのだ\nもし遠い距離にいる相手を触りに行きたい時は、ラッシュ立ち中Pやラッシュ立ち強Pを使おう。どれもこの後教える立ち中Pからのコンボを重ねることができるので覚えておこう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:01:50.376376",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "106",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c4cdfb9af1c1",
+    "category": "neutral",
+    "topic": "デビルリバースを使った対空崩し",
+    "content": "P派生デビルリバースを一度見せておくことで、相手の対空反応を鈍らせ、他のジャンプ攻撃を通しやすくすることができる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手の対空反応を鈍らせたい時",
+    "source_video_id": "qxScGvxo-90",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ベガの立ち回りから必須コンボまで！ベガの使い方解説 基本編【スト6】",
+    "source_timestamp": "01:40",
+    "source_quote": "シャドウライズは一度P派生のデビルリバースを見せておくことで、相手の対空の反応を鈍らせることができるからおすすめなのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:01:50.376376",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5e1e7be4a699",
+    "category": "neutral",
+    "topic": "立ち強Kからの択",
+    "content": "ベガの立ち強Kがガードされた場合、投げ、またはシミー（投げ抜け誘発）に移行できます。相手がガードを固めている場合は、再度立ち強Kを出すのも強力な選択肢です。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "ベガの立ち強Kガード時",
+    "source_video_id": "DjckSOVmQVM",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ベガ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 M.Bison Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "引強Kから屈弱P Or 投げ Or シミー ※ガードが多ければ再度引強Kも強力",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:15:46.780603",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "43db38694314",
+    "category": "neutral",
+    "topic": "ニープレッシャー中Pからの連携",
+    "content": "ベガのニープレッシャー（中）から立ち強Pに繋げると、ヒット時はしゃがみ中Pに繋いでコンボに、ガード時はベガ側が+3フレーム有利となり、投げと打撃の二択を仕掛けることができます。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "ニープレッシャー(中)後の連携",
+    "source_video_id": "DjckSOVmQVM",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ベガ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 M.Bison Combo Oki Setup",
+    "source_timestamp": "02:53",
+    "source_quote": "中フィストから立強Pでヒット時屈中P, ガード時+3F投げ間合い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:15:46.780603",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "822b692971e5",
+    "category": "neutral",
+    "topic": "立ち中Kからの対空・連携",
+    "content": "ベガは立ち回りにおいて、立ち中Kから弱ニープレッシャー（弱ニー）を連携したり、相手のジャンプに対してサイコフリッカーで対空することができます。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "DjckSOVmQVM",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ベガ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 M.Bison Combo Oki Setup",
+    "source_timestamp": "03:28",
+    "source_quote": "立ち回りで立中Kから弱ニーorジャンプにサイコ対空",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:15:46.780603",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8eac198d53e",
+    "category": "neutral",
+    "topic": "ラウンド開始距離での生ラッシュ",
+    "content": "ラウンド開始くらいの距離になったら、とりあえず生ラッシュを仕掛ける。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "ラウンド開始距離（中距離）",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "00:44",
+    "source_quote": "とりあえず最初のラウンド開始くらいの距離になったと思ったらとりあえずラッシュしてください",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "48b89d328c18",
+    "category": "neutral",
+    "topic": "生ラッシュからの選択肢",
+    "content": "生ラッシュ後は立ち中K（膝）が最も無難。ヒット時はコンボへ、ガード時はもう一度立ち中Kを出すか、中パンチターゲットコンボで崩す。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "生ラッシュ後",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "00:48",
+    "source_quote": "無難なのはラッシュ膝です。当たったらコンボ、ガードされたらもう一回膝か中パンタゲコンで崩しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "24498ee9425a",
+    "category": "neutral",
+    "topic": "生ラッシュ中パンチターゲットコンボ",
+    "content": "相手が対応できなさそうだと判断した場合、直接生ラッシュから中パンチターゲットコンボを仕掛ける。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手の対応力に応じて",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "00:54",
+    "source_quote": "相手が対応できなさそうなヘタクソだと思ったら直接ラッシュ中パンタゲコンもおすすめです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b7e448f0500",
+    "category": "neutral",
+    "topic": "生ラッシュのリスク管理",
+    "content": "置き技が置かれがちな近距離での生ラッシュはリスクが高いので控え、ラウンド開始時の距離（中距離）を意識して打つ。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "生ラッシュを使用する際",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "01:23",
+    "source_quote": "そのためのこういった置き技が置かれがちな距離での生ラッシュは割とリスクのある選択肢になってしまいます。なので生ラッシュを打つときはラウンド開始時くらいのこの距離を意識して打つようにしてみてください",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "522f033a06ce",
+    "category": "neutral",
+    "topic": "特定の距離での技の使い分け",
+    "content": "生ラッシュ距離よりも近い中距離では、立ち大Pや弱デビルリバースを狙う。さらに近い近距離では、立ち中Kやしゃがみ中Pを狙う。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "相手との距離に応じて",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "01:40",
+    "source_quote": "これくらいの距離が大パンと弱ダブニーを狙う距離になります。そしてこの距離よりももっと近い距離になると中足やしゃがみ中パンの距離になります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "104",
+      "108",
+      "109",
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ed89ee7162f8",
+    "category": "neutral",
+    "topic": "キャンセルラッシュしゃがみ中Pがガード時",
+    "content": "キャンセルラッシュしゃがみ中Pがガードされた場合、中パンチ→中パンチターゲットコンボで崩す。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "どこでも",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "02:22",
+    "source_quote": "どこでもCR中パン→中パン→中パンタゲコン",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89d447e9da4f",
+    "category": "neutral",
+    "topic": "生ラッシュ立ち中Kガード時",
+    "content": "生ラッシュ→立ち中Kがガードされた場合、中パンチターゲットコンボ連打、シミー、投げの三択で崩す。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "生ラッシュ→立ち中Kがガードされた場合",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "04:06",
+    "source_quote": "あとは中足ラッシュの時と同じでガードされてたらタゲコン連打かシミー投げの三択で崩してください",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1a2eed32956e",
+    "category": "neutral",
+    "topic": "立ち大Pヒット後のラッシュ",
+    "content": "立ち大Pヒット後のラッシュは、中段攻撃か投げの二択で相手を崩す。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "立ち大Pヒット後のラッシュ時",
+    "source_video_id": "GXLwqUN8hZc",
+    "source_channel": "rari",
+    "source_video_title": "[Vega Commentary Video] I'll explain everything you need to know to reach Master status as quickl...",
+    "source_timestamp": "04:13",
+    "source_quote": "大メイン後のラッシュは中段か投げのこの二択で行きましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:02:26.243074",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

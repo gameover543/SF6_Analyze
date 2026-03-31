@@ -1,0 +1,451 @@
+[
+  {
+    "id": "00acc72ee3e1",
+    "category": "defense",
+    "topic": "殺界風破斬（SA1）の活用",
+    "content": "ジュリの殺界風破斬（SA1）は、発生7Fで無敵があり、風破ストックがあればダメージも増加する強力な技です。ケンの迅雷脚のような突進技に対しては、先端当てからでも確定反撃として機能します。吹き飛ばし後にラッシュで追撃して起き攻めを継続したり、バックジャンプからSA1で反撃する選択肢もあります。空対空で相手を拾った後にもSA1に繋げられるため、様々な状況で高いリターンを狙えます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": null,
+    "source_video_id": "PNvrQuUKp2Y",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Juri users should be crushed! Pugera explains 3 of Juri's tsune-trick techniques [SF6]",
+    "source_timestamp": "03:57",
+    "source_quote": "で、2番目、これっすね。殺界風破斬。わけわからんぐらい吹き飛ばして端に到達しなくてもラッシュ使えば起き攻め。前ステラッシュ中Pが後ろ受け身にも回る。神。神SA。で、このビターンってなるじゃん。このビターンってなった時に、このステージの端、ステージの端に到達したらラッシュいらないんすよ。ね、前ステ。で投げちゃおう埋まる。こうゆうところはラッシュがいらない。それがこんなところでSA1を当ててから起きるっていう。やばすぎ。げぼつよ。で、しかも発生も爆速で早くて、これマイナス8なんだけど、SA1発生7Fだからこういう結構確反困るよねみたいな技もこのSAで取れるっていう。で、このSAで取れるってことは起き攻めがついてくる。ま、威力低いんすけど1800と低いんだけど、ストックを入れれば風破ストックがあればむしろ、無敵あるんで！この後言うつもりだったけど無敵もある。ストックあればむしろ2100で、標準よりも100高くなる。で、しかもこんだけ性能で無敵があるから、ケンの迅雷脚に完全対応出来る！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:12:53.193877",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "099ad1991e2e",
+    "category": "neutral",
+    "topic": "歩きガードの基本",
+    "content": "歩きガードを完璧に行うには、まず相手の動きを常に観察することが重要です。相手の行動を予測し、適切な距離感を保ちましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": null,
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "00:11",
+    "source_quote": "歩きガード完璧なのは、まず第一に相手の動きを見てる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aae6067dbb25",
+    "category": "neutral",
+    "topic": "相手の技射程の把握",
+    "content": "ケンなどのキャラクターがよく使う牽制技（例: 大P、中足）の射程距離を把握しましょう。その射程内では、相手の攻撃をガードする準備が必要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": null,
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "00:28",
+    "source_quote": "ケンとかってさ、よく使う技の射程距離ってのはやっぱ大Pだったり中足じゃん。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9506d1b81331",
+    "category": "neutral",
+    "topic": "歩きガードの活用",
+    "content": "相手の牽制技（例: ケンの硬直差-6～-7Fの中足）をガードした後、約12～13Fの間は安全に前歩きが可能です。この短い前歩きを挟むことで、次の攻防に有利な位置取りができます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの立ち中Kガード後（硬直差-6F〜-7F）",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "00:45",
+    "source_quote": "中足の射程距離をケアした場合に、極論この距離までは近つけんのよ。だからこれぐらいの距離からここまで前歩き出来るの。例えばこれだったら、えっと、-6から7Fの技やってるから12Fぐらいは歩けるわけ。ま13フレかな、13フレか12フレかわかんないけど、それぐらいは歩けるわけ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c33a257d68cc",
+    "category": "defense",
+    "topic": "ピクつきガードの習得",
+    "content": "前歩き中に相手が攻撃を出した瞬間にガードをする「ピクつきガード」を習得しましょう。約10F前歩き後、7Fのガードを入力するようなイメージです。これにより、相手の不意打ちに対応しつつ距離を詰めることができます。ただし、ガード入力が早すぎると攻撃を受けてしまうため、正確なタイミングが重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "前歩き中に相手の攻撃が来る可能性のある状況",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "01:19",
+    "source_quote": "動いた瞬間にガードを入れるっていう行為をすると、これ前歩き中足やってるんだけど、結局これ前歩き10フレぐらい歩いてんの。で10フレぐらい歩いてから7フレだから、ピク付キ確認で結構ガード出来たりとかするわけよ。あ、みたいな感じで。だけどどっか早すぎるとガード出来なかったりするから、ここのガード能力は結構大事。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a911e7fdf0de",
+    "category": "neutral",
+    "topic": "相手の行動パターンの把握",
+    "content": "試合の経緯から、相手がどのような行動パターンを持っているかを把握しましょう。具体的には、とっさに前歩きして攻撃してくるのか、その場で攻撃を振るのか、後ろ下がりながら攻撃するのかなどです。これにより、より正確な読み合いが可能になります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "中距離での牽制合戦",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "02:35",
+    "source_quote": "それまでの経緯で相手がとっさに前歩きしてくる奴なのか、その場で打つ奴なのか、後ろ下がりながら打つ奴なのか、ある程度把握しておく必要があるけどね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d4264f8c32d3",
+    "category": "neutral",
+    "topic": "コパン（立ち弱P）を誘い、大Pで返す",
+    "content": "相手が安全だと思ってコパン（立ち弱P）を置いてくる状況を狙いましょう。もし相手が立ち弱Pを振ってきた場合、より発生の早い大Pでカウンターを取り、大ダメージを与えることで、相手に立ち弱Pのリスクが高いと思わせ、今後の行動を抑制できます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "相手が立ち弱Pで牽制してくる状況",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "04:19",
+    "source_quote": "例えばこういう風にウロウロしてる時にこういう立ち小K結構強いと思うのよ。強いと思うんだけど、これに対して大Pとかデカイ技で勝ってあげたら、そういうことがあるって思った時に、ケンってそこで小Kを打ちたいと思える？死ぬかもしれないのに。ワンチャンで死んじゃうんだよこれで。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "203da4c8ffa4",
+    "category": "neutral",
+    "topic": "投げ抜け誘発からのコパン狩り",
+    "content": "相手がリスクを恐れて小技や投げを振らなくなった状況を狙いましょう。前歩きで近づき投げを仕掛けるふりをして、相手が投げ抜けを入力してきたところを小パンで狩る、という行動をします。これにより、相手は小技も投げも振れなくなり、防御行動が制限されます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "相手がリスクを避けて手を出さない状況",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "05:05",
+    "source_quote": "ここで小Kはリスク高いなって相手が思うようになってきて、本来は別にそんなリスクがめちゃめちゃ高いわけじゃないのに、そこで小Kすらも振れなくなってくるっていう、そこをこういう風に刈り取ったりとか。じゃあこれも嫌だってなった時に相手ってどうするかっていうと。コパンを出してきたりとかするんだけど。投げに行ったところをコパンで刈りたい。ってなってくんだっけどそこは逆に、行くと見せかけてその小Pを刈る行動をやる。って風にやると最終的に相手どうなりますか？投げ抜けもできないコパンも振れない。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4ed067edc9c0",
+    "category": "general",
+    "topic": "相手の心理状況の利用",
+    "content": "相手は人間なので、リスクが高いと感じた行動はしなくなります。この学習能力を利用し、リスクが高い行動を誘発して潰すことで、相手の手数を減らし、有利な状況を作り出しましょう。特に大会などの「負けたくない」という気持ちが強い状況では、この心理戦がより効果的です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "試合中盤以降、相手の行動パターンが読みやすい状況",
+    "source_video_id": "uBYxpfZAIU0",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "プロの歩きガードが完璧な理由について解説するマゴ【ストリートファイター6】",
+    "source_timestamp": "06:42",
+    "source_quote": "相手の防御法とかを把握しつつそれを潰していけば相手って人間なんで学習していくの。それがリスクが高いっていう風になった時に相手はもう死にたくないと思って手を出さなくなっていく。その状態を作る。だから俺も初見の相手に対して正直言ってこういう動きとかってできないよ。負けたくないという気持ちがあるかどうかでやっぱり選択肢って変わってくるから。だからランクマでの勝ち負けが、そのままなんか大会での勝ち負けに繋がるかっていうとそうでもなくて。それはなんでかっていうと相手の動きをめっちゃ見てるし、相手の負けたくないという気持ちもやっぱり理解してるから。その上での読み合いを仕掛けているから、あいつは勝ってる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:31:11.224814",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5fe8f412d970",
+    "category": "neutral",
+    "topic": "中足ラッシュ阻止の置き技",
+    "content": "ケン戦において、試合開始直後（お互いのドライブゲージが満タンで画面中央）は、ケンが最も強い勝ちパターンである中足ラッシュ（中段足払いからのドライブキャンセル）を狙って来るため、これを食らわないことが最重要。中足ラッシュを警戒し、ケンが中足を差し込みに来るタイミングで、置き技を置くことで主導権を握ることができる。置き技がヒットしたらキャンセルラッシュでコンボに繋げると良い。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "試合開始直後、ドライブゲージ満タン、画面中央",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "01:28",
+    "source_quote": "ケン戦において、まず最も気ををつけることは中足ラッシュを食らわないこと。画面中央でも中足ラッシュを食らうと余裕で画面端まで連れていかれます。これがケンの最大の勝ちパターンですので、最警戒が必要です。中足ラッシュを食らわないように気をつけろと言うと、しゃがみガードをしっかりする、という風に考えると思いますが、その前にできることがあります。それは地上戦の3すくみの利用です。中足ラッシュを狙う＝中足を差し込みに来る。差し込みに勝つには置き技で勝てる。中足を差し込みに来ると読んでるわけですから、その差し込みに来るタイミングで技を置いておけば勝てるというわけです。置き技ヒットからキャンセルラッシュ コンボ。これで試合開始直後の主導権を取ることができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de4f1c074682",
+    "category": "defense",
+    "topic": "中足ラッシュガード後の選択肢",
+    "content": "ケンの中足ラッシュをガードした場合、無敵技による割り込み、ドライブリバーサル、ガードからの読み合いの3つの選択肢がある。\n1. 無敵割り込み：コパン（立ち弱P）で連続ガードされるとできないが、それ以外の状況であればリターンを取れる。\n2. ドライブリバーサル：連続ガードされても切り返せるが、白ダメージが少ないため無敵割り込みよりリターンは少なめ。\n3. ガードからの読み合い：ケン有利の読み合いとなるため、相手の行動を読み切る必要がある。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "中足ラッシュガード後",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "02:38",
+    "source_quote": "次に中足ラッシュをガードした場合。ここは、この対策が出来れば良いな、という順に紹介します。1.無敵割り込み。コパンで連続ガードを作られるとできませんが、それ以外の場合はリターンを取ることができます。2.Dリバ。これは連続ガードを作ろうとしてきても切り返せます。しかし、リターンは白ダメのみなので無敵割り込みよりはリターン少なめです。3.ガードして読み合い。中足ラッシュからコパンや中パンをガードさせられてからからの読み合いになります。ケン有利の読み合いをしのごう必要があります。中足ラッシュをガードした場合はこのような形での対応をする必要があります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b4a011250c0",
+    "category": "matchup",
+    "topic": "ケンDゲージ少ない時の対応",
+    "content": "中足ラッシュを凌いでケンのドライブゲージが3本以下になった場合、ケンは中足ラッシュによるバーンアウトを避けるため、ドライブゲージを回復させながら攻めてくる傾向にある。この状況でケンがよく使う技への対策は以下の通り。\n1. 波動拳：牽制兼ドライブゲージ回復目的で打ってくる。これに対して飛びを確定させることができれば、パニッシュカウンターヒットからコンボに繋ぎ、ダメージを奪って一気に有利な展開に持ち込める。\n2. 強竜尾脚（623強K）：突進技として使って有利を取り、そこから択をかけてくる。これには垂直ジャンプやパリィで対応すると良い。\n3. 中足迅雷脚：差し込みから使ってくる。ドライブゲージが減っている状態なので中足ラッシュをする可能性は低い。中足ガード後はインパクトで入れ込むのも有効。\n4. 中P大Pタゲコン：ドライブゲージ回復のために、ガードされても中P大Pタゲコンまで入れ込んでくることが多い。タゲコンだけだと隙が大きいので、迅雷まで入れ込んでくるが、これもインパクトの狙い目。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "ケン側のドライブゲージが3本以下の時",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "03:20",
+    "source_quote": "そのうち、しのだ後の状況はどうなるのかと言うと、ケンのドライブゲージが3ゲージちょっとという状況になります。この状況になるとケンは中足ラッシュをしてしまうとバーンアウト寸前になるので、中足ラッシュ以外の選択肢を取ってドライブゲージを回復させつつ攻め方をとってきます。1.波動拳。この波動拳は牽制の意味合いでも波動拳で、目的はドライブゲージを回復するために打ってきます。この波動拳に対して飛びを確定させることができれば、ドライブゲージが減ってる状態からのパニカンヒット、飛びからコンボでダメージと運び一気に勝ちに近づきます。2.強竜尾脚。強竜尾脚を突進技として使って有利を取りそこから択をかけようとしてきます。この竜尾に対しては、対策動画にあるように垂直ジャンプもしくはインパクトで確定を取れれば勝ちが見えます。3.中足迅雷。これも差し込み中足からの迅雷脚です。ドライブゲージが減ってる状態からの中足なので中足ラッシュをする可能性はかなり低いです。この時の迅雷に対しては中足ガード後にインパクトの対策が有効です。この状況での中足からのキャンセルは迅雷か波動拳が多い状況です。中足ガードしたと思ったらインパクト入れ込みでも良いくらいの状況だと思います。その他にも中P大Pタゲコン。ドライブゲージを回復させるためにガードされていても中P大Pタゲコンまで入れ込んでくるケースが増えます。この場合はタゲコンだけで止めると隙が大きいので迅雷まで入れ込んできます。ここもインパクトの狙い目ですのでタゲコンガードしたら身構えておきましょう。という感じで対策動画の内容を活かす場面です。見事に嵌れば一気に試合が決まるポイントになってきます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b02d03a86ac8",
+    "category": "defense",
+    "topic": "生ラッシュコパン対策",
+    "content": "ケンがドライブゲージが少ない時、1ゲージで使える生ラッシュからの立ち弱P（コパン）の頻度が増える。\n- ラッシュ立ち弱Pがめり込むとケン有利フレームが+3Fとなりシミーができない状況になるが、先端ヒットの場合は投げ間合いではなくなるため、その場で様子見するだけで投げ抜け狩りが可能。瞬時の判断は難しいが、先端ヒットの場合は投げ抜けを押さないことが重要。\n- ラッシュ立ち弱Pが通常の当たり方をした場合は、ケン有利+3Fからの読み合いとなる。最速投げ抜けをすれば、後ろ下がりシミーをしてきても投げることができるが、遅らせグラップをすると後ろ下がりシミーをされてしまう。ケンが暴れ潰しの打撃をしてくる場合は、立ち中P→立ち大P（ターゲットコンボ）と入れ込んでくることが多いので、ここもインパクトの狙い目。最も良い対策はラッシュ止めで、ラッシュ立ち弱Pは発生が早いがリーチが短いため、早めに打撃を入力すれば潰せる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "ケン側のドライブゲージが少ない時",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "05:15",
+    "source_quote": "他にドライブゲージが少ない場面でやってくる行動は生ラッシュコパンです。ガードさせられるとその時点でケンに有利を取られてしまいます。ラッシュコパンからはシミーしようとすると最速投げに負けてしまうと言われていますが、実は当たり方によってはシミー可能だったりします。ラッシュコパンがめり込むとシミーできない+3Fになりますが、ラッシュコパンが先端ヒットだとそもそも投げ間合いではなくなります。なので、その場で様子見するだけで投げ抜け狩りができてしまいます。なかなか瞬時に判断は難しいところですが、ラッシュコパン先端ヒットの場合は投げ抜けを押さないようにしたいところです。ラッシュコパンが通常の当たり方をした場合はケンの+3Fからの読み合いになります。最速投げ抜けをすれば、後ろ下がりシミーをしようとしてしても投げることができますが、遅らせグラップをすると後ろ下がりシミーができてしまいます。暴れ潰しの打撃をしてくる場合は中P大Pと入れ込んでくる場合が多いです。ここも先ほど説明したインパクトの狙い目ですね。ゲージが少ない時は、1ゲージで使える生ラッシュコパンを使う頻度が増えるので一番良いのはラッシュ止めです。ラッシュコパンは早いですがリーチは短いので、かなり早めに打撃を押しても潰せますので身構えておきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ca2dadaab76a",
+    "category": "general",
+    "topic": "Dゲージ状況の確認",
+    "content": "ケンとの対戦においては、ケンのドライブゲージ状況の確認が非常に大切である。\n- ドライブゲージが4本以上ある状況：とにかく中足ラッシュを最警戒する。\n- ドライブゲージが3本以下の状況：中足ラッシュの警戒を弱め、その他のケン対策（波動拳、強竜尾脚、中足迅雷、中P大Pタゲコンなどへの対応）を実行して、勝ちへの道筋を見つける。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "全体的な立ち回り",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "07:15",
+    "source_quote": "ケンとの戦いにおいては、ケンのドライブゲージ状況の確認がかなり大切になってきます。目安はDゲージが3本あるかどうか。4本以上ある状況では、とにかく中足ラッシュを最警戒。3本以下の場合は、中足ラッシュの警戒は弱めて、その他の技に対する対策を実行して勝ちへの道筋を見つけましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "02f64cbbd997",
+    "category": "general",
+    "topic": "迅雷対策トレモ設定",
+    "content": "ケンの中足迅雷に対する対策のトレーニング設定。ダミー設定で以下を記録する。\n- スロット1：前歩き→2中K→中迅雷弱K派生 (236中K弱K)\n- スロット2：前歩き→2中K→中迅雷中K派生 (236中K中K)\n- スロット3：前歩き→2中K→中迅雷派生出さない (236中K)\nこれらをランダムで再生させ、迅雷1発目をガードした後に確定反撃を取る練習をする。発生7F以内の無敵技を持つキャラは、REVERSAL表示が出れば成功。SAも発生7F以内ならすべての選択肢に確定する。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "トレーニングモード",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "08:00",
+    "source_quote": "最後にケン用のトレモ設定です。興味のある方はぜひ一度お試しください。ケン用トレモ①迅雷対策。設定していきます。スロット1を記録。前歩き→2中K→中迅雷弱K派生（236中K弱K）。スロット2を記録。前歩き→2中K→中迅雷中K派生（236中K中K）。スロット3を記録。前歩き→2中K→中迅雷派生出さない（236中K）。これで設定完了。中迅雷1発目ガード後に確反を取る練習。発生7F以内の無敵技を持つキャラを使ってる方は練習してみてください。REVERSAL表記が出ていれば成功です。SAも発生7F以内ならすべての選択肢に確定します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "53dc5cda1ce9",
+    "category": "general",
+    "topic": "強竜尾脚対策トレモ設定",
+    "content": "ケンの強竜尾脚に対する対策のトレーニング設定。ダミー設定で以下を記録する。\n- スロット4：垂直ジャンプ\n- スロット5：垂直ジャンプ→強竜尾脚 (623強K)\n- スロット6：垂直ジャンプ→波動拳 (236P)\nこれらをランダムで再生させ、強竜尾脚が来た瞬間にインパクト、もしくコパンで落として追撃する練習をする。コパン（立ち弱P）の方が比較的簡単だが、インパクトの方がリターンは高い。\n補足として、ケンの中段足払いから下段迅雷派生ガード後の確反練習も有効。道着系やコマ投げキャラは確反が届くことが多い。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "ken",
+    "situation": "トレーニングモード",
+    "source_video_id": "EhGc6mcPjGQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Ken Countermeasures [Sequel] A Thorough Explanation of How to Counter Characte...",
+    "source_timestamp": "09:17",
+    "source_quote": "次にファジー打撃での対策。ケン用トレモ②強竜尾脚対策。設定していきます。スロット4を記録。垂直ジャンプ。スロット5を記録。垂直ジャンプ→強竜尾脚（623強K）。スロット6を記録。垂直ジャンプ→波動拳（236P）。これで設定完了。強竜尾脚が来た瞬間にインパクト。もしくはコパンで落として追撃。コパンの方が比較的簡単ですがインパクトの方がリターンは高いです。是非練習してみてください！他には、5Fが長いキャラを使ってる方は下段派生ガード後の確反も練習しましょう。道着系やコマ投げキャラなんかは確反が届くことが多いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:00:03.265908",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

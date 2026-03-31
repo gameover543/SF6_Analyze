@@ -1,0 +1,405 @@
+[
+  {
+    "id": "dcfc8345a068",
+    "category": "matchup",
+    "topic": "ザンギエフの通常技への対処",
+    "content": "ザンギエフが立ち弱P、しゃがみ弱P、しゃがみ中K、しゃがみ中Pを頻繁に振ってくる場合、キャミィ側はしゃがみ中Pや立ち強Kを振って対応する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち弱P、しゃがみ弱P、しゃがみ中K、しゃがみ中Pを振ってくる状況",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "00:27",
+    "source_quote": "ザンギ戦で意識することは立弱P、しゃがみ弱P、しゃがみ中K、しゃがみ中Pをめちゃくちゃ振ってくるザンギに対してはしゃがみ中Pや立強Kを振る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "106",
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "76b97267448c",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち強Pへの対処",
+    "content": "ザンギエフが立ち強Pを振ってくるようになったら、キャミィ側はしゃがみ中Kで差し返す。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち強Pを振ってくる状況",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "00:43",
+    "source_quote": "ザンギ側は立強Pを振ってくるようになるからそれをしゃがみ中Kで狩る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e45c29a14dd8",
+    "category": "matchup",
+    "topic": "ザンギエフの地上戦意識への対処",
+    "content": "ザンギエフが地上戦を意識し始めたら、キャミィ側はODストライクも混ぜて地上と空中からの攻撃を散らして攻める。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが地上戦を意識し始めたら",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "00:46",
+    "source_quote": "ザンギが地上を意識し始めたなと思ったらODストライクも混ぜて地上と空からの攻撃を散らしていく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c3afbcd8be6e",
+    "category": "matchup",
+    "topic": "ザンギエフの溜め立ち強Pへの対処",
+    "content": "ザンギエフが立ち強Pを溜めている場合、キャミィ側はドライブインパクトで返す。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち強Pを溜めている場合",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "01:21",
+    "source_quote": "ザンギの立強Pは溜めてたらインパクトで返せる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a958af33b222",
+    "category": "matchup",
+    "topic": "ザンギエフへの起き攻め",
+    "content": "ザンギエフへの起き攻めでは、強アロー（キャノンストライク）で転ばせることを狙う。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフへの起き攻め",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "01:57",
+    "source_quote": "出来ればこれは強アローで転ばせたかった",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "21431f1cf3ab",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち強P空振りへの差し返し",
+    "content": "ザンギエフの立ち強Pが空振りした際の差し返しは、アロー（キャノンストライク）が確実に出るよう強気に入力する。ただし、当てに行く立ち強Pの場合はアクセルスピンナックルも選択肢になる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの立ち強Pが空振りした際の差し返し",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "02:00",
+    "source_quote": "当てに行く立強Pはアクセルスピンナックルでもいいけど差し返しは立強P空ぶってたらアローが出にくいから強気に入れ込みたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "87953ca91590",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち強P対策での地上技",
+    "content": "ザンギエフの立ち強Pは下段にアーマーがないため、キャミィのしゃがみ中Kを出すことで、相手の立ち強Pを振りにくくさせ、ザンギエフの歩きや攻めを抑制できる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち強Pを多用する、または地上で立ち強Pを抑制したい状況",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "02:50",
+    "source_quote": "しゃがみ中Kを出すと相手が歩きづらくなるし攻めづらくなるから実は防御も少し楽になるのよ。あとしゃがみ中Kがないとザンギ側は立強Pを気持ちよく振れてしまう。ザンギの立強Pは下段のアーマーがないから、しゃがみ中Kを見せるだけでもザンギの立強Pが減る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4f0face839e8",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち弱K→ドライブラッシュへの対処",
+    "content": "ザンギエフが立ち弱K→ドライブラッシュで打撃と投げの2択を仕掛けてきた場合、キャミィ側はODスパイクかドライブリバーサルで対応する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち弱K→ドライブラッシュで打撃と投げの2択を仕掛けてきた時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "03:27",
+    "source_quote": "ザンギの立弱K→ドライブラッシュは打撃と投げの2択だからODスパイクかドライブリバーサルを頑張りたい！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "995ecb2bb19f",
+    "category": "matchup",
+    "topic": "ザンギエフへの画面端での攻め",
+    "content": "ザンギエフを画面端に追い詰めたら、キャミィのしゃがみ中Kを当てにいく。リターンが大きいため、雑に当てにいっても良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフを画面端に追い詰めた時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "04:08",
+    "source_quote": "まずしゃがみ中Kを当てにいってるでしょ？しかも当たると画面端近いしリターンが大きいから雑でもいいから当てに行く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5e5a81af3430",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち強Pを誘発させる連携",
+    "content": "キャミィ側はしゃがみ中Pや立ち強Kを見せて、ザンギエフが嫌がって立ち強Pを振ってくるように仕向ける。その立ち強Pをしゃがみ中Kで差し返す。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの立ち強Pを誘発させたい時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "04:19",
+    "source_quote": "そしてしゃがみ中P、立強Kを見せて立強Pを振りたくなる所にしゃがみ中Kをさしていく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bce200ececd5",
+    "category": "matchup",
+    "topic": "ザンギエフのコマ投げ対策",
+    "content": "ザンギエフが通常投げに対してジャンプキャンセルからコマ投げを狙ってくる場合、起き攻め時に立ち弱Pを多めに振ったり、遅らせ投げの選択肢を取ることで対策する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが通常投げからのコマ投げを狙ってくる時（特に起き攻め）",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "04:29",
+    "source_quote": "起き攻めで立弱Pを多めに振ってる理由は、こちらの通常投げに対してジャンプをキャンセルしてコマ投げというテクニックを使ってくるザンギが多いから。立弱Pの他に遅らせ投げという選択肢も取ったりするかな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "06e40b47767d",
+    "category": "matchup",
+    "topic": "ザンギエフのダブルラリアット対策（めくり攻撃）",
+    "content": "ザンギエフのダブルラリアットはめくり攻撃に非常に弱く、ザンギ側が落とすのが困難。キャミィ側はODストライクを足元に撃ち、ガードされたらめくりジャンプ攻撃を試す。ガードされた後は投げ、投げ抜け狩り、めくり攻撃の3択でザンギエフを崩しやすい。これは昇龍拳を持たない他のキャラクターにも有効。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがダブルラリアットを多用する、またはめくり攻撃を狙いたい時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "05:51",
+    "source_quote": "対空の主力のダブルラリアット対策。実はこれはめくりに非常に弱くてザンギ側は落とすのが困難。ストライクは比較的落としやすいからやるなら早いODストライクを見せよう。どうよ？めくり攻撃落ちないでしょ？ダブルラリアットがめくりに弱い事をり利用した攻めを紹介。ODストライクを足元に撃ってガードされたらめくりジャンプ攻撃をしてみよう。ガードされた後投げ・投げ抜け狩り・めくり攻撃の3種類あるとザンギを崩しやすい。これは昇龍がない他のキャラにも非常に有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "187029c6e9a5",
+    "category": "matchup",
+    "topic": "ザンギエフのダブルラリアットガード後の反撃",
+    "content": "ザンギエフのダブルラリアット（2回攻撃）をガードした際、簡単な反撃としてドライブインパクトやしゃがみ中Kが有効。ドライブゲージに余裕があればドライブインパクトからの攻撃が望ましい。また、わざと2段目を立ちガードして痛い反撃を入れる方法も比較的簡単である。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのダブルラリアットをガードした時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "06:30",
+    "source_quote": "ダブルラリアットをガードしたときの対策。今回のダブルラリアットは2回攻撃。簡単なのはドライブインパクトからの反撃としゃがみ中Kからの反撃。ドライブゲージに余裕があればドライブインパクトから攻撃したいかな。他にはわざと2段目を立ちガードして痛い反撃を入れる方法も比較的簡単",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "97fff68b30c2",
+    "category": "matchup",
+    "topic": "ザンギエフの立ち弱K→ドライブラッシュへのドライブリバーサル",
+    "content": "ザンギエフの立ち弱K→ドライブラッシュは、なぜか連続ガードになるため、ドライブインパクトによる反撃が難しい。ドライブラッシュに対してOD無敵技を出すのも難しいため、ドライブリバーサルで対応する。ドライブリバーサルを出す際は、ミスっても前ジャンプするように斜め上を入力しながら行うと良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの立ち弱K→ドライブラッシュが見えた時",
+    "source_video_id": "DdNfZRVrqDo",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6コーチング】MASTERキャミィ使い（マスターリーグ初日レート1500前後）がザンギ戦で意識すべきポイント・ザンギ対策も徹底解説#ストリートファイター6#攻略",
+    "source_timestamp": "07:39",
+    "source_quote": "立ち弱K→ドライブラッシュの対策。ここから近づかれて打撃と投げの2択をされる。現在スト6はドライブラッシュに対してOD無敵技をするのが非常に難しい。だから頑張ってドライブリバーサルはしてみよう。しかもドライブリバーサルを出すならミスっても前ジャンプするように斜め上を入力しながらが良い！ちなみになぜかザンギだけ立弱K→ドライブラッシュが連続ガードになるんよね。ずるい！だから立弱K→ドライブラッシュが見えたらドライブリバーサル安定かも",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:09:27.449941",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "602",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

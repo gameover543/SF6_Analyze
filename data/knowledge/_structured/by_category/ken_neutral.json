@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "ed111628b791",
+    "category": "neutral",
+    "topic": "差し返しへの対応",
+    "content": "相手が（リュウの中足など特定の技を）差し返しで狙って下がっている場合、「技を当てに行く」行動が有効。このゲームは後ろ歩きよりも前歩きが速いため、相手が下がっていても技を当てることが可能。中足やドライブインパクトなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が特定の技（中足）の差し返しを狙って下がっている場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "01:41",
+    "source_quote": "相手が中足の差し返しを狙って下がっている場合、何をするか？ここで「技を当てに行く」が大事になってくる。後ろ歩きより前歩きの方が速いので下がってる相手に技を当てに行く事が可能",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "9b5caa0c41d3",
+    "category": "neutral",
+    "topic": "相手の置き技への対応",
+    "content": "相手が「技を当てに行く」行動を読んで置き技を振ってきた場合、こちらは「差し返し」で対応する。具体的には、相手の技の空振りに合わせて飛び込み大キックや大パンチなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手がこちらの技を当てに行く動きを読んで置き技を振ってきた場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "02:13",
+    "source_quote": "差し返しを狙っているのがバレて相手が技を当てにくると、こっちが差し返しをする",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "a9fecdeef36f",
+    "category": "neutral",
+    "topic": "画面端での攻防",
+    "content": "相手を画面端に追い詰めている時は、相手が後ろに下がるスペースがないため、「技を当てに行く」行動が非常に簡単になる。画面中央と画面端の大きな違いであり、追い詰めている側は有利に攻められる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端に追い詰めている時",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "11:25",
+    "source_quote": "画面端でも地上戦ってありますか？相手を画面端に追い詰めてる時は楽。相手が後ろに下がるスペースがないから技を当てに行くのが超簡単になる。これが画面中央と画面端の差",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "90e6846668a8",
+    "category": "neutral",
+    "topic": "あらゆる技の先端当ての重要性",
+    "content": "どの技を振るにしても、技の先端部分を当てるという意識が非常に大事である。これにより打撃の打ち合いで負ける確率が減り、悪くても五分（50/50）の状況に持ち込める。これにより打撃確認でカウンターヒットを狙う。画面端であれば、相手が下がるスペースが無いため、技を当てること自体が非常に楽になる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "地上戦の全般",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "15:25",
+    "source_quote": "技の先端部分ってのはすごい意識するべきだね。基本的にどの技を振るにしても技の先端部分で触るのはすごい大事。そうすると打撃の打ち合いで負ける確率ってのは、悪くてもフィフティフィフティになる。画面端に追い詰めてる時は楽。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "e7609213bbdf",
+    "category": "neutral",
+    "topic": "攻め継続（ガード時）",
+    "content": "相手に技をガードさせた際に「有利フレーム」を取れる技を使うと、攻めを継続することができます。例えば、リュウの立ち中Pはガードさせて-1Fなので、ケンがガード後に発生4Fの技で暴れるとリュウは負けてしまいます（相手の方が早く動けるため）。しかし、リュウの前強Pはガードさせて+1Fなので、ケンがガード後に4Fの技で暴れても、リュウも4Fの技を出すことで打ち勝つことができます。このように、ガード後に有利になる技（特に投げを狙える+1F以上の技）を活用して攻めを仕掛けることが重要です。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手に技をガードさせた時",
+    "source_video_id": "MZFlh_zB9PQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者向け！全ての格闘ゲームに通じる数字、『フレーム』とは？",
+    "source_timestamp": "03:13",
+    "source_quote": "ガードされると-1F、つまり相手が1F早く動ける状態です。なのでガードした後に相手に4Fの小技などをされると、こっちが立ち中P→立ち中Pって撃っても負けてしまいます。相手の方が先に動ける為です。ただこのリュウの6強P、リュウのマイナスダイパンチはガードさせて+1Fです。なので自分の方が先に1F早く動けるので、この後に相手に4Fの技を出されても、こっちも4Fの技を出してあげれば打ち勝つ事が出来ます。なのでこのリュウの6強Pというのは攻撃に使う分にはすごく強力な技ですね。大体各キャラクターに1個や2個ぐらい、こういうガードさせて有利な技というのががあるので、相手に攻撃を仕掛ける時にはなるべくガードさせて有利になる技というのを使ってながら攻めていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:31:45.714822",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "959adc28a27c",
+    "category": "neutral",
+    "topic": "弾速と発生フレーム",
+    "content": "弱波動（発生16F）は強波動（発生12F）より弾速が遅く、発生フレームも遅い。弱波動に対しては自分の打撃技の「当て」で勝てるが、強波動に対しては自分の打撃技が負けることが多い。相手の弾速に応じて、行動を変えていくのが重要。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が弱波動と強波動を使い分ける場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "08:41",
+    "source_quote": "弱〜強で明確に違うのが弾速と発生フレーム。強波動って発生12F。弱波動は16F。弱波動は技の発生が遅いので打撃の当てが勝つ。だから相手の弾速を見つつ、動きを変えていくのは大事",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "ed111628b791",
+    "category": "neutral",
+    "topic": "差し返しへの対応",
+    "content": "相手が（リュウの中足など特定の技を）差し返しで狙って下がっている場合、「技を当てに行く」行動が有効。このゲームは後ろ歩きよりも前歩きが速いため、相手が下がっていても技を当てることが可能。中足やドライブインパクトなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が特定の技（中足）の差し返しを狙って下がっている場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "01:41",
+    "source_quote": "相手が中足の差し返しを狙って下がっている場合、何をするか？ここで「技を当てに行く」が大事になってくる。後ろ歩きより前歩きの方が速いので下がってる相手に技を当てに行く事が可能",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "9b5caa0c41d3",
+    "category": "neutral",
+    "topic": "相手の置き技への対応",
+    "content": "相手が「技を当てに行く」行動を読んで置き技を振ってきた場合、こちらは「差し返し」で対応する。具体的には、相手の技の空振りに合わせて飛び込み大キックや大パンチなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手がこちらの技を当てに行く動きを読んで置き技を振ってきた場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "02:13",
+    "source_quote": "差し返しを狙っているのがバレて相手が技を当てにくると、こっちが差し返しをする",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "959adc28a27c",
+    "category": "neutral",
+    "topic": "弾速と発生フレーム",
+    "content": "弱波動（発生16F）は強波動（発生12F）より弾速が遅く、発生フレームも遅い。弱波動に対しては自分の打撃技の「当て」で勝てるが、強波動に対しては自分の打撃技が負けることが多い。相手の弾速に応じて、行動を変えていくのが重要。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が弱波動と強波動を使い分ける場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "08:41",
+    "source_quote": "弱〜強で明確に違うのが弾速と発生フレーム。強波動って発生12F。弱波動は16F。弱波動は技の発生が遅いので打撃の当てが勝つ。だから相手の弾速を見つつ、動きを変えていくのは大事",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "a9fecdeef36f",
+    "category": "neutral",
+    "topic": "画面端での攻防",
+    "content": "相手を画面端に追い詰めている時は、相手が後ろに下がるスペースがないため、「技を当てに行く」行動が非常に簡単になる。画面中央と画面端の大きな違いであり、追い詰めている側は有利に攻められる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端に追い詰めている時",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "11:25",
+    "source_quote": "画面端でも地上戦ってありますか？相手を画面端に追い詰めてる時は楽。相手が後ろに下がるスペースがないから技を当てに行くのが超簡単になる。これが画面中央と画面端の差",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "90e6846668a8",
+    "category": "neutral",
+    "topic": "あらゆる技の先端当ての重要性",
+    "content": "どの技を振るにしても、技の先端部分を当てるという意識が非常に大事である。これにより打撃の打ち合いで負ける確率が減り、悪くても五分（50/50）の状況に持ち込める。これにより打撃確認でカウンターヒットを狙う。画面端であれば、相手が下がるスペースが無いため、技を当てること自体が非常に楽になる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "地上戦の全般",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "15:25",
+    "source_quote": "技の先端部分ってのはすごい意識するべきだね。基本的にどの技を振るにしても技の先端部分で触るのはすごい大事。そうすると打撃の打ち合いで負ける確率ってのは、悪くてもフィフティフィフティになる。画面端に追い詰めてる時は楽。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "b3fcaf7efb14",
+    "category": "neutral",
+    "topic": "Ground game against Vega",
+    "content": "You cannot win a ground war against Vega. Their ground normals are very strong, including their long-reaching `中足ラッシュ` (mid kick rush), `大P` (heavy punch), and `立ち中P` (standing mid punch). Engaging in ground combat with Vega is a mistake as it plays into their strengths. Instead, actively avoid their ground game and use aerial options.",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "Neutral / Ground game against Vega",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "16:57",
+    "source_quote": "ベガとの地上戦、気を付けるポイント。まずベガとの地上戦は勝てません。滅茶苦茶強いので地上戦自体は。中足ラッシュ待ったり。大パンっていう裏切りコードもあるし、立ち小パンのリーチも長いし。で立ち中パンもその先端でカウンターでリターンが取れちゃう。しかもそれをやってる中でこういう選択肢も混じってくる。だから地上戦を付き合うっていうこと自体がもう無理ですね。勝てません。なのでベガ戦は付き合ってるフリしてずっと待っといてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9bda5c368e10",
+    "category": "neutral",
+    "topic": "コンボ選択の幅",
+    "content": "コンボ選択の幅が広く、画面入れ替え、運び、ダメージ重視など状況に応じて選べる。例えば、画面端に追い詰められたら迅雷脚から昇龍拳で入れ替え、画面中央からは中足から迅雷脚で画面端に運ぶなど。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "00:46",
+    "source_quote": "コンボ選択の幅が広いというのがこのキャラクターの強みかなと思ってます。画面を入れ替えたり、運んだり、どこからでも画面端にもっていくことができる。ダメージ重視でコンボを伸ばしたり、この辺を状況に応じて使い分けられるのがケンというキャラクターの強みです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f6d2b155c050",
+    "category": "neutral",
+    "topic": "中間距離からの有利フレーム取得",
+    "content": "中間距離から大龍尾脚で突進することで+1Fの有利フレームを取ることができ、一気に有利な状況を作り出せる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "中間距離",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "01:18",
+    "source_quote": "また、中間距離からこの大龍尾脚でプラス1フレームを取れて中間距離から一気に有利フレームを取れるっていうのもケンの強みって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ec3434a388f8",
+    "category": "neutral",
+    "topic": "立ち回り目標",
+    "content": "立ち回りでは、波動拳や立ち大Kで相手を黙らせてから、生ラッシュや大龍尾脚で密着を取り、投げや打撃の択を仕掛けることを目指す。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "02:07",
+    "source_quote": "中間距離で波動拳や立ち大Kをくして相手を黙らせてから生ラッシュから密着を取るか、大龍尾で密着を取るかを狙いたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "733885cc9257",
+    "category": "neutral",
+    "topic": "弾対策と密着",
+    "content": "弾持ちキャラに対しては、OD波動拳を撃って弾の打ち合いで有利を取り、密着を狙う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "弾持ち相手",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "02:07",
+    "source_quote": "弾に対してはOD波動から弾を撃ちにくくして近寄りたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c307d7b2bc9c",
+    "category": "neutral",
+    "topic": "飛びとステップの活用",
+    "content": "飛び道具を多用する相手や、地上技で牽制する相手に対して、安易に大龍尾脚や生ラッシュだけでなく、飛びやステップも混ぜて密着を図る。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "中間距離",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "02:07",
+    "source_quote": "また飛びも強いため一辺倒にならずに択をちらして近寄りたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c25e976e8da6",
+    "category": "neutral",
+    "topic": "EX波動拳の弾打ち合い性能",
+    "content": "EX波動拳はヒットすると相手を地上ヒット状態にするため、弾の打ち合いで有利を取りやすく、そこから生ラッシュなどで追撃できる。相手が通常の波動拳を撃ってきた際に、EX波動拳でパニッシュカウンターを狙う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "弾の打ち合い",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "03:09",
+    "source_quote": "ケンのEX波動拳っていうのはヒットすると地上ヒットになります。そのため打ち合いが少し有利に展開できる瞬間があります。例えば相手が普通の波動拳を撃って、こちらがEX波動拳オーバーロード波動拳を撃った際にあ、相手普通の波動拳って思ったらこの様に生ラッシュから追撃していくことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d04eadf894ca",
+    "category": "neutral",
+    "topic": "立ち大Kの性能と使い方",
+    "content": "立ち大Kはリーチが長く、ガードさせても-5Fでほとんど反撃を受けない。ヒット時のリターンも高く（パニッシュカウンターから運びやコンボが可能）、地上戦の軸となる技として頻繁に振ると良い。相手の通常技の硬直に差し込むとパニッシュカウンターが取れる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "03:51",
+    "source_quote": "これはリーチが非常に長くガードでもマイナス5フレームのためほとんど反撃されない。またヒット時のリターンも高いため、地上戦の軸となる技。例えば相手の中足なんかを硬直をこの大キックで殴れた場合っていうのはこのパニッシュカウンターになってこっからこのように広がる事ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2956178ab91c",
+    "category": "neutral",
+    "topic": "立ち中Kの性能と使い方",
+    "content": "立ち中Kは立ち大Kほどではないがリーチがあり、ガードさせても-5Fで反撃されにくい。ヒット確認ができるため、ヒットしたら追撃、ガードされたら止める、という使い分けができるようになると立ち回りの幅が広がる。最初は無理に狙わず、慣れてきたらヒット確認を意識すると良い。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "04:25",
+    "source_quote": "これはそこそこリーチのある技。ガードマイナス5でしゃがみには当たりにくいが、ヒット確認ができるため相手に技を当てにいく時に使える。慣れてくるとこの立ち中Kっていうのがヒット確認できます。今ガードをランダムにしてます。このガードをランダムにしている状態でヒットすると追撃、ガードすると止める。こういったことができるようになるとケン使いとしての幅がぐっと広がるかなって感じです。ただ最初は無理に狙わず慣れてくるとっていう感じで良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5cd6a957faa0",
+    "category": "neutral",
+    "topic": "波動拳の運用",
+    "content": "波動拳は地上戦のメイン技。ジャストパリィ対策として、弱波動拳（弾速が遅い）と強波動拳（弾速が速い）を使い分けて相手のパリィタイミングをずらすと良い。ただし、全体フレームが49Fと長めなので、飛ばれると危険なため、撃ちすぎには注意し、そこそこの頻度で撃つのがおすすめ。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "05:05",
+    "source_quote": "地上でのメイン技その2。弱と強を使い分ける発生や速さも違うためパリィを取られにくい。飛ばれると死ぬためそこそこの頻度で撃つ。弾速の遅い波動拳弱と弾速の速い強を使い分けて相手のパリィのタイミングずらすっていうのも非常に大切かなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "302",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b1e90fc76271",
+    "category": "neutral",
+    "topic": "大龍尾脚の運用",
+    "content": "大龍尾脚はガードさせると+1Fの有利フレームが取れる強技なので、序盤は積極的に振って良い。しゃがみガードさせた場合は+2F取れるため、投げなどの密着択が安定する。ただし、OD龍尾脚にパリィやインパクトを合わせてくる相手に対しては、生ドライブラッシュで裏の択を狙う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "05:56",
+    "source_quote": "これはガードさせるとプラス1フレームの強技。とにかく最初は、この技でガンガン振っていく。ちなみにしゃがみでガードさせることできるとプラス2フレーム取ることが出来るんでこっからは投げが安定宅となります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e0f91aa0fbcb",
+    "category": "neutral",
+    "topic": "大龍尾脚対策への対応",
+    "content": "相手が大龍尾脚に対してパリィやインパクトを合わせてくる場合は、生ドライブラッシュに切り替えて、投げや立ち弱Pで密着攻めを展開する。インパクトに対してはインパクト返し、投げに対しては投げ抜けを狙う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "大龍尾脚を読まれている場合",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "06:16",
+    "source_quote": "大龍尾脚にパリィやインパクトを合わせてくる相手には生ドライブラッシュから投げや立ち弱Pから攻めていきたい。あ、大龍尾にインパクト打ってきたなと思っている相手に対しては、この様な感じでドライブラッシュからコパンで触りにいった時に、あ、インパクト取られたと思ったらインパクトで返す。こういったことができると非常に良いのかなって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5be9d42a4be7",
+    "category": "neutral",
+    "topic": "画面端対空（屈大P）",
+    "content": "画面端で相手を入れ替える対空ではなく、画面端を維持したい場合は屈大P迅雷脚が有効。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "09:30",
+    "source_quote": "主に利用する用途というのは、この端で入れ替えられる時。ケンっていうのはこの端を入れ替えられる時、昇龍拳でしてしまうと画面端を逃がしてしまうんですが、屈大P迅雷脚にすることができたらこの様に画面端をキープするっていうのに非常に使える技かなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de9506e7bbca",
+    "category": "neutral",
+    "topic": "正面からの飛び込み技",
+    "content": "正面から飛び込む際には、下方向に判定が強いジャンプ強Pが有効。遠距離から波動拳を飛ぶ場合は、横方向に判定が長いジャンプ強Kが有効。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "正面からの飛び込み",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "09:51",
+    "source_quote": "まずジャンプ強P。これは下方向に判定が強い為、正面から飛ぶ時とかに使える技かなと思います。また、このジャンプ強Kは横に長くないため、この辺で波動拳を飛んだ時とかにも届かないんですよね。こういう時とかは遠目から飛ぶ時はこのジャンプ強Kで飛べると良いかなって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116",
+      "117"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ae2b2449ea1",
+    "category": "neutral",
+    "topic": "めくり飛び込み技",
+    "content": "めくり性能が高いジャンプ中Kがめくり飛びの際に推奨される。今作ではジャンプ弱Kでめくっても有利フレームが取れないため、ジャンプ中Kがおすすめ。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "めくり飛び込み",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "10:14",
+    "source_quote": "あとめくり性能の高いジャンプ中K。ジャンプ弱Kなんかは相手をめくる際に使えると良いかなって感じです。個人的にはジャンプ中Kでめくるのがおすすめです。今作からジャンプ弱Kでめくるとプラマイゼロになるので、この辺でめくったところで有利フレームが取れないんでジャンプ中Kでめくるのがいいかなって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "113",
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d4aa6d92c105",
+    "category": "neutral",
+    "topic": "ラッシュ打撃の推奨",
+    "content": "ラッシュ後の打撃は立ち弱Pか屈弱Pがおすすめ。相手が後ろに下がれないため、投げとシミーの二択に持ち込みやすい。立ち大Pなどでラッシュ打撃をすると、相手が後ろに下がれてしまうため、投げをスカされ、非常に面倒な状況になるため推奨されない。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ後",
+    "source_video_id": "zzadAkghQyE",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Ken tutorial! A thorough explanation! Combos, tactics, wake-up att...",
+    "source_timestamp": "12:17",
+    "source_quote": "おすすめのラッシュ打撃。ラッシュしたあとどうすればいいねんっていう話があるんですが、それは立ち弱Pかしゃがみ弱Pがお勧めです。理由はしゃがみ弱P、立ち弱Pをガードさせた後、相手が下がることができないからです。例えばしゃがみ弱Pをガードさせた時に相手に後ろ下がりをレコーディングしたさせます。これを立ち大Pでやってしまうと、この様な感じで投げがスカされます。このゲーム投げスカされると非常にのちのち面倒になってくるんで、こういったことはあまりやりたくないです。それを防ぐために立ち弱P。これ相手後ろ下がりできないです。後ろ下がりができないっていうことはもう相手としては投げ抜けをせざるをえないんですよね。こっから投げあ、投げ抜けしてきたなと思ったらこうしてこのように立ち弱Pで触ることができると投げ、そして後ろ下がりからの打撃。この2択にめちゃくちゃいきやすいので立ち弱P、しゃがみ弱Pが非常におすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:22:16.258328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f8ac9063e7c",
+    "category": "neutral",
+    "topic": "ケン：運び性能への対応",
+    "content": "ケンの運び性能は非常に強力であるため、無理に歩いてラインを上げなくても大丈夫です（どこからでも画面端に持っていけるため）。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケン戦の立ち回り",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:09",
+    "source_quote": "ケンは運び性能がとても強いので無理に歩いてラインを上げなくても大丈夫（どこからでも画面端にいける）",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e7609213bbdf",
+    "category": "neutral",
+    "topic": "攻め継続（ガード時）",
+    "content": "相手に技をガードさせた際に「有利フレーム」を取れる技を使うと、攻めを継続することができます。例えば、リュウの立ち中Pはガードさせて-1Fなので、ケンがガード後に発生4Fの技で暴れるとリュウは負けてしまいます（相手の方が早く動けるため）。しかし、リュウの前強Pはガードさせて+1Fなので、ケンがガード後に4Fの技で暴れても、リュウも4Fの技を出すことで打ち勝つことができます。このように、ガード後に有利になる技（特に投げを狙える+1F以上の技）を活用して攻めを仕掛けることが重要です。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手に技をガードさせた時",
+    "source_video_id": "MZFlh_zB9PQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者向け！全ての格闘ゲームに通じる数字、『フレーム』とは？",
+    "source_timestamp": "03:13",
+    "source_quote": "ガードされると-1F、つまり相手が1F早く動ける状態です。なのでガードした後に相手に4Fの小技などをされると、こっちが立ち中P→立ち中Pって撃っても負けてしまいます。相手の方が先に動ける為です。ただこのリュウの6強P、リュウのマイナスダイパンチはガードさせて+1Fです。なので自分の方が先に1F早く動けるので、この後に相手に4Fの技を出されても、こっちも4Fの技を出してあげれば打ち勝つ事が出来ます。なのでこのリュウの6強Pというのは攻撃に使う分にはすごく強力な技ですね。大体各キャラクターに1個や2個ぐらい、こういうガードさせて有利な技というのががあるので、相手に攻撃を仕掛ける時にはなるべくガードさせて有利になる技というのを使ってながら攻めていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:31:45.714822",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c86e345e839d",
+    "category": "neutral",
+    "topic": "マノン戦での立ち回り",
+    "content": "マノンの通常技はリーチが長く、近距離戦は強いですが、ドライブゲージや前歩き速度は遅いため機動力は低いです。遠距離ではやることが少ないので、マノンは立ち中Pや立ち中K、そこからのドライブラッシュで二択を仕掛けるのが本命です。相手の立ち強Kは、スカしたら差し返しや垂直ジャンプで潰しましょう。立ち強Kを頻繁に振ってくる相手には、ドライブインパクトを見せて行動を抑制しましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "manon",
+    "situation": "マノン戦全般",
+    "source_video_id": "dVDGb7pnJzc",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】マノン対策",
+    "source_timestamp": "03:20",
+    "source_quote": "マノンの立ち技はわりと長くて、殴り合いは結構強いです。ただドライブラッシュが遅かったり、前ステも別に速くないので、機動力自体はねあんまり無いです。遠距離で特にやる事も無いので、とにかくマノンとしては立ち強Kとか、強デガジェとかでチクチクやりつつ、本命はこの中攻撃からのドライブラッシュ。これです。この中Pと中Kがね、かなり長いので、ここからのドライブラッシュから2択を仕掛けるのがマノン側のやりたい事。この立ち強Kとかは正直当たったらラッキーぐらい。パニカンしたら超おいしいみたいな。多分そんな気分で振っているので、あとはこれで相手に跳びたくさせて、そこを対空してそっから始めるというか、というのがマノン側の狙いなので、結構じっくりやっても良い組み合わせかなと思います。マノン側から奇襲を仕掛ける事ってあんまり出来ない。弱デガジェとかあるんですけど、かなりマノン側もリスク背負っているので、なので基本的にはじっくりやりつつ相手の立ち強Kとかを食らわないようにして、でこの中技の間合いになったら、マジで中攻撃を食らわないように警戒。飛び道具あれば飛び道具撃っても良いし、こっちもリーチの長い技があるんだったらリーチの長い技で応戦しても良いし、みたいな感じですね。マノンの立ち強K。この立ち強Kすごくリーチ長くて強いんですけど、全体フレームは長くて、スカしたら差し返しも出来るし、垂直跳びとかも有効です。あとはおなじみのドライビンパクトですね。これも結構有効。特にね、相手の垂直ジャンプの着地とかに立ち強K合わせてくる事が結構多いので、マノン戦で垂直からインパクトとか見せると相手立ち強K振りにくくなる気がします。立ち強Kブンブンされているんだったら時折インパクトでカウンター取ったり垂直で潰したりしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:24:06.595527",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "105",
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4cdcb0258077",
+    "category": "neutral",
+    "topic": "ジャストパリィ前ジャンプ",
+    "content": "ソニックブームに対してジャストパリィが取れた時だけ前ジャンプ攻撃が出るように仕込んでおくテクニック。これにより、通常ではサマーソルトキックで対空されてしまうような状況でも、ジャンプ攻撃を確定させることができる。ジャストパリィを失敗した場合はジャンプ攻撃が出ないため、リスクを抑えつつ安全なソニックブームに対してもリターンを狙える。このテクニックはガイルが安全にソニックブームを撃てなくするため、勝率を上げる上で非常に有効である。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルが安全な距離でソニックブームを撃っている状況",
+    "source_video_id": "kSNq1TYqXjg",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ガイル対策",
+    "source_timestamp": "02:08",
+    "source_quote": "ジャストパリィに前ジャンプを仕込む。どういう事かと言うと、例えばこのソニック→ソニックにガードした後最速で前ジャンプ攻撃をしてもサマーで対空されちゃうんですけど、ジャストパリィを取ってジャストパリィに前ジャンプを仕込んでおく。ジャストパリィ取れた時だけ前ジャンプが出るようにしておくと、この一見安全なソニックに対してもジャンプ攻撃を確定させることが出来ます。これの良い所は、ジャストパリィが取れた時だけ前ジャンプが出て、ジャストパリィ失敗したら前ジャンプ出ないんで、これ一瞬ね前ジャンプ入れてるんですけど。なのでこれが出来ると結構ガイル側はね、安全ソニックが無く無くなっちゃうんで、難しいながらもこれは結構ガイル戦で出来ると勝率が上がるテクニックですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:00:27.347213",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa2f639ab267",
+    "category": "neutral",
+    "topic": "ソニックブームへのインパクト",
+    "content": "ガイルのソニックブームに対する選択肢として、飛びだけでなくドライブインパクトも有効である。ジャンプ攻撃が到達するまで約34-37Fかかるのに対し、ドライブインパクトは発生26Fと早く、ジャンプ攻撃では確定しない距離のソニック→ソニックに対しても確定させられる。ただし、ドライブインパクトは返されるとフルコンボを受けるリスクがあるため、使いどころを見極める必要がある。強気なドライブインパクトを見せることで、相手がソニック→ソニックを撃つのをためらわせ、ケンが前に歩きやすくなったり、ドライブラッシュで近づきやすくなったりする。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルがソニックブームを連発している中距離の状況",
+    "source_video_id": "kSNq1TYqXjg",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ガイル対策",
+    "source_timestamp": "02:54",
+    "source_quote": "このゲームのジャンプ攻撃って、例えばケンの場合だと、これ35F目で到達しているんですね。これは34フレーム目。大体34～37くらいキャラによってちょっと変わるんですけど、ジャンプ攻撃が届くフレームというのは大体それくらいです。ただインパクトは発生が26Fなので、ジャンプ攻撃よりも絶対早いんですよね。つまりこれくらいのソニック→ソニックに対してジャンプ攻撃だと確定はしないような距離のソニック→ソニックに対しても、インパクトだったら確定するという間合いがあります。なので飛びを通すのとインパクトを通すのだと、インパクトの方が通しやすいです。ただ飛びはサマーで対空されるだけで済むんですが、インパクトはインパクトで返されるとフルコン貰っちゃうのでリスクも高い。ですが通しやすい。ガイル戦はね、飛びだけじゃなくてソニックに対してインパクトを狙うというのもかなり大事です。やっぱりこの強気のインパクトを見せる事によって相手もソニック→ソニックを打ち辛くなって、そうすると前に歩きやすいとか、ドライブラッシュで近付いたりとかっていうのがやりやすくなるので、ソニックに対してインパクトを狙うというのも大事な考え方です。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:00:27.347213",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cd40c1658cf5",
+    "category": "neutral",
+    "topic": "ソニックブレードの足元やられ判定",
+    "content": "ガイルのODソニックブレード（ODソニックハリケーン）は見た目以上に足元にやられ判定がある。このため、遠距離からでもケンのしゃがみ大Kなどの下段リーチの長い技で潰すことができる。ガイルが立ち回りで不意にソニックブレードを置いた場合に有効な反撃手段となるため、自分の使用キャラクターでソニックブレードを潰せる技がないか確認しておくと良い。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルがODソニックブレードを放った後",
+    "source_video_id": "kSNq1TYqXjg",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ガイル対策",
+    "source_timestamp": "07:43",
+    "source_quote": "あとこれはガイル戦の豆知識みたいな物なのですが、このソニックブレード。これも凄く強力な技なのですが、この技ね見た目以上に足元にやられ判定が出てます。めちくくちゃ遠くからしゃがみ大Kとかが届くので、立ち回りで徐に置かれた場合に下段の長い技で結構潰せるので、これは自分のキャラで何か潰せる技が無いかなっていうのを調べてみると良いと思います。マジでめちゃくちゃ届きますこれ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:00:27.347213",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d843175484a7",
+    "category": "neutral",
+    "topic": "投げの間合いへの近づき方",
+    "content": "ジャンプ中K（ひざ落とし）は、他のジャンプ攻撃に比べて横に長く、相手を飛び越してしまっても当たるため、対空技で落とされにくいです。ジャンプ中Kがヒットした場合は、そのままアシストを押しっぱなしにして中攻撃を連打すると、自動でコンボに派生し、大ダメージを与えられます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "投げの間合いまで近づく",
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "02:00",
+    "source_quote": "ジャンプ攻撃はアシスト中攻撃を使います。アシストを長押しにしたまま相手に近づいたタイミングで中を押して下さい。この技は他のジャンプ攻撃に比べて横に長かったり、相手を飛び越してしまっても当たってくれるので基本的にはこの技を使うのがおすすめです。ジャンプ攻撃が当たっていた場合はそのままアシストを押しっぱなしにして中攻撃を連打すると相手に大ダメージを与えることができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c8b2f85a84b5",
+    "category": "neutral",
+    "topic": "投げの間合いへの近づき方",
+    "content": "龍尾脚（後ろ+SP）は、技の発生は遅いですが、ジャンプとは異なる軌道で相手に近づくことができます。ジャンプ中Kと同様に、龍尾脚もガードされた後にケンが先に動けるため、反撃を受けることなく攻めを継続できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "投げの間合いまで近づく",
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "02:49",
+    "source_quote": "後ろとSPを同時押しすることで出せる奇襲技です。技が出るまでに少し時間がかかりますが、ジャンプとは違った軌道で相手に近づくことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2a2f73b94928",
+    "category": "neutral",
+    "topic": "投げの間合いへの近づき方",
+    "content": "ジャンプ攻撃（ジャンプ中K）や龍尾脚がガードされた後、ケンが相手より先に動ける状態になったら、投げの間合いに入っています。この状況では、相手の反撃を受けずに攻め続けることができます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ中Kまたは龍尾脚ガード後",
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "02:32",
+    "source_quote": "ジャンプ攻撃がガードされていた場合でも、こちらが相手より先に動くことができるので安心です。このジャンプ攻撃、龍尾脚をガードさせると投げの間合いまで近づくことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46677c5e9862",
+    "category": "neutral",
+    "topic": "ドライブインパクトの活用",
+    "content": "ドライブインパクト（DI）はドライブゲージを1本使って発動できる突進技で、相手の技を2発までアーマーで受け止めながら攻撃でき、相手の隙に当てたり、相手のDIを返したりすると特殊演出に繋がり追撃が可能です。特に相手が端にいる時はガードされても壁やられ状態になり、コンボに移行できるため、端が近い時は積極的に使っていきましょう。追撃はアシスト中コンボがおすすめです。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "10:55",
+    "source_quote": "僕がおすすめしているのはドライブインパクト。ドライブゲージを1本使って発動できる突進技。相手の技を2発までアーマーで受け止めながら攻撃することができ、相手の隙に当てたり、相手のインパクトをインパクトで返したりすると特殊演出になり追撃をすることができます。さらに相手が壁際に近いと、ガードをしていても壁やられ状態になり、コンボをすることができます。返されない限りはとても強い技なので特に端が近い時はガンガン打って大丈夫です！インパクト追撃をする際にはアシスト中コンボでOKです！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d5f7f4bb017f",
+    "category": "neutral",
+    "topic": "中足迅雷の活用",
+    "content": "下中Kで出る長い下段技の「中足」から、下+SPの「迅雷脚」にキャンセルすることができます。この技は「投げに行くには遠いが、ジャンプや龍尾脚をするには近すぎる」という絶妙な距離感で強力です。ヒット時は連打で迅雷脚まで出すことができ、相手が割り込んでくることもありません。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手との距離感が中途半端な時",
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "11:37",
+    "source_quote": "続いてのおすすめは中足迅雷です。下中で出る中足と呼ばれる長い下段技から下SPの迅雷脚にキャンセルします。この技は「投げに行くには遠いけど、ジャンプや龍尾脚をするには近いな」といったこのくらいの距離感。困った時にとりあえず打っとくのが強いです！中足迅雷ヒットしてる時には連打してOKです！当たっている限りはこちらが有利なので相手に割り込まれることはありません。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "66db0d8563ed",
+    "category": "neutral",
+    "topic": "遠距離での牽制",
+    "content": "相手を近づけたくない時は、波動拳（N+SP）を使います。方向キーを入力せずにSPボタンを押すことで、画面端まで届く最も長い牽制技です。相手の歩きや通常技を潰すのに使えます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "遠距離で相手を近づけたくない時",
+    "source_video_id": "Io92MIYKpEI",
+    "source_channel": "かためのプディング",
+    "source_video_title": "【最新版】MR2100が教える初心者がまず覚えるべきMケンの立ち回り＆テクニック講座【ストリートファイター6】",
+    "source_timestamp": "12:22",
+    "source_quote": "まず相手を近づけたくない時、こちらが使いたい技は3つあります。方向キーを入れずにSPで出せる遠距離の牽制技です。相手の歩きや通常技を潰す為に使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:31:52.930984",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ccef7073cbf1",
+    "category": "neutral",
+    "topic": "屈中P、屈中Kの差し返し",
+    "content": "ルークの屈中P（全体22F）や屈中K（全体31F）は、見てから差し返すのは難しい。これらの技の発生や持続に合わせて、リーチの長い技を振る（\"あわせる\"）という感覚で立ち回る。ケンの場合、大Pや大Kが有効な差し返し技になりうる。相手の技の空振りを誘って、リーチの長い技で一方的に殴る「空振り選手権」を意識する。ルークの技の出し方によっては潰されることもあるが、そのリスクを受け入れる必要がある。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "中距離での屈中P、屈中K",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "10:10",
+    "source_quote": "正直見てから返すのが難しい。リーチの長い技を”あわせる”という感覚 空振り選手権開催する。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "01790e30e48e",
+    "category": "neutral",
+    "topic": "迅雷と一文字の使い方",
+    "content": "ケンの迅雷弱派生（ダイヤファン）はガードされると-5Fなので、硬直差で反撃を受けやすいです。そのため、迅雷を打つ際は中足先端気味にガードさせてから打ちましょう。ドライブゲージを削れるので、ガードさせるだけでも効果はあります。相手がしゃがみで固まっているのが分かれば、中派生を混ぜて中段を狙うのも効果的です。一文字（大K）はパニッシュカウンターヒットすると特殊なやられになります。基本的なパニッシュカウンターのさせ方は、コパコパ立ち弱Kで相手と距離を作り、相手が中足などを打ち返してきたところに一文字でパニッシュカウンターを狙います。このコンボはラッシュ大P→迅雷昇龍に繋ぐことで運びとダメージが優秀です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "-2dEBj3yZXI",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Quickest Way to Master! Essential and Selected Combos for Sub-Character Master...",
+    "source_timestamp": "08:26",
+    "source_quote": "迅雷と一文字の使い方 ケンといえば ダイヤファンですね 簡単に使い方をお伝えしておきます ダイヤファンは中迅雷弱派生なのですが これはガードされると-5Fあります 実は結構確反されるんですよね なので迅雷を打つときは 中足を先端気味にガードさせて撃つのが基本です そこからダイヤファン ドライブゲージを削れるので ガードさせるだけで十分効果はあります 相手がしゃがみで固まっているのが分かれば 中派生を混ぜて中段を混ぜるのも効果的です 続いて一文字 ケンの大Kですが パニカンヒットすると特殊やられをします 基本は 大K（パニカンヒット）→ラッシュ大P→迅雷昇龍 で運びとダメージが優秀なコンボができます この一文字の打ち方は コパコパ立ち弱Kで相手と距離を作る そうすると、相手は中足などを 打ち返してきたりするので これに一文字でパニカン というのが一文字の基本的な パニカンヒットのさせ方です",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:46:51.499328",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "105",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46a78c49477d",
+    "category": "neutral",
+    "topic": "龍尾脚による接近と攻め",
+    "content": "中距離からワンボタンの龍尾脚(→+必)で一気に接近でき、ヒット時はダメージに、ガード時は打撃と投げの二択を強制できます。相手がしゃがみガードしている場合は有利時間が伸び、ヒット時は弱攻撃からのコンボに繋がります。立ちガードには打撃が勝ち、しゃがみガードには投げが通るため、純粋な二択ではありませんが、相手のガードを崩す強力な手段です。ただし、発生が遅いため、相手のドライブインパクトやSAには注意が必要です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "中距離、龍尾脚ヒット時/ガード時、相手が立ちガード/しゃがみガード時",
+    "source_video_id": "p8o4VzXC-PM",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Ken Explained! Recommended Easy Combos and Anti-Airs! How...",
+    "source_timestamp": "01:02",
+    "source_quote": "中距離からワンボタンで一気に接近しつつ、それでいてヒットガードどちらでもこちらが有利。これが強いのだ。当たっていたらダメージ取れてそれでいいし、ガードでも打撃や投げを重ねることで追加ダメージが狙える。厳密には相手がガード後最速で打撃を出していた場合、こちらの投げは負けてしまうけど、それにには打撃が勝つのでコンボが通る。でも相手がそれにビビってガードを選択すると投げが通る。純粋な完全三択とは言えないものの、このように打撃か投げの選択を強制的に迫れる。もちろん無敵技には負けるけど、それには様子見からのガードで勝てるのだ。しゃがんでいた場合、ヒットガード問わずこちらの有利時間が伸びるのだ。これによりヒットしてたら弱攻撃からのコンボがつながる。そして立ちガードでは最速打撃に負けていた投げも、しゃがみガードに対してはきっちり通る。ケンを使うなら間違いなくできたほうがいい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:59:59.537859",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a2b62528ef0a",
+    "category": "neutral",
+    "topic": "波動拳の運用と弱点",
+    "content": "モダンケンは波動拳(必)の弾速を撃ち分けることができません。これにより、相手にタイミングを読まれやすく、ジャンプ攻撃やドライブインパクトを透されやすくなります。クラシックケンの波動拳と比べて隙が大きく、なおさらその弱点を突かれやすいです。そのため、波動拳を連発するのは控え、様子見の布石として使うのが良いでしょう。ただし、OD波動拳は発生が早く、相手の弾に撃ち勝てるため、相手の弾に合わせてドライブインパクトやドライブラッシュで接近し、コンボや投げを狙う強い行動となります。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ryu",
+    "situation": "遠距離での牽制",
+    "source_video_id": "p8o4VzXC-PM",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Ken Explained! Recommended Easy Combos and Anti-Airs! How...",
+    "source_timestamp": "07:23",
+    "source_quote": "モダンケンで出せる波動拳は中版とOD版の2つのみ。OD版はゲージを使うので連発できるものじゃない。よって中波動拳を撃つのがメインになるんだけど、弾速を変えることができないので、相手にタイミングを読まれやすくなってしまい、ジャンプ攻撃やドライブインパクトを透されるリスクが高くなってしまうのだ。しかもケンの波動拳はリュウに比べて隙が大きいので、なおさらその弱点を突かれやすくなる。なのでモダンケンで弾を連発するのは控えたほうがよく、飛ばせて落とすのの伝統スタイルはほかの弾キャラよりやりづらいと思ったほうがいいのだ。弾キャラではあるけど弾を軸に戦うのは向いてないということか。状況にもよるので一概には言えないけど、弾でどうこうするのは他キャラよりも弱いと言わざるを得ないのだ。ただOD波動拳は結構強く、相手の弾に撃ち勝ってからドライブラッシュで急接近し、そこからコンボや投げを狙うことが可能。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:59:59.537859",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "303",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb1262907c2a",
+    "category": "neutral",
+    "topic": "龍尾脚とジャンプ攻撃の使い分け",
+    "content": "開幕くらいの距離では龍尾脚(→+必)を狙っていきます。発生がやや遅いので安易に出すと迎撃される危険がありますが、初心者同士の対戦であれば迎撃してくる人は少ないでしょう。龍尾脚が通りづらいと感じたら、ジャンプ攻撃(ジャンプ攻撃)に切り替えます。特に相手の裏に回って当たるジャンプ中攻撃(ジャンプ中攻撃)は、ガード方向が逆になって対応しづらくなるため強力です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "開幕、龍尾脚が機能しない場合",
+    "source_video_id": "p8o4VzXC-PM",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Ken Explained! Recommended Easy Combos and Anti-Airs! How...",
+    "source_timestamp": "13:53",
+    "source_quote": "開幕くらいは龍尾脚を狙っていく。ただ発生がやや遅いので安易に出すと迎撃される危険がある。でも初心者同士の対戦であれば迎撃してくる人は少ないはず。最初はあまり気にせず強気にガンガン当てていく。むしろ対策されるまでひたすら擦っていくのだ。龍尾脚を当てたあとの行動についてだけど、最初はヒットでもガードでも弱攻撃を3連打する。この連打の間にヒットかガードかを確認し、ヒットなら強昇龍拳か波動拳のコンボへつなげる。ガードなら何もせず仕切り直し。また牽制技をちらつかせて龍尾脚を狙うのだ。龍尾脚後に相手のガードが多くなってきたら、思い切って投げを狙っていくのもおすす。ガードに意識が割かれているので意外と通るのだ。まずはこれで相手が対策を知っているか調べるのだ。龍尾脚が通りづらいと思ったらジャンプ攻撃も狙っていく。横がダメなら上からなのだ。おすすめはジャンプ中攻撃。相手の裏に回って当たるとガード方向が逆になって対応しづらくなる。相手の後頭部目掛けてジャンプすると強いのだ。ジャンプ攻撃がヒットしたらアシストコンボ2を当てる。そのまま連打でSAまで繋げてもいいし、竜巻旋風脚コンボで運んでもよし。状況に応じて好きなのを選べなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:59:59.537859",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb914e304ada",
+    "category": "neutral",
+    "topic": "ケンの遠距離からのラッシュ攻め",
+    "content": "OD波動拳を盾にしてリスクなくラッシュで突っ込む戦法が非常に強力。相手はOD弾以外ではOD波動拳を相殺できないため、OD波動拳を撃ちながらラッシュを仕掛けることで有利フレームを取り、攻めを展開できる。また、弾を持たないキャラクターが相手の場合、弱波動拳でも同様の攻めが可能。立ち大Pは前進距離が長いため、遠距離からでも相手に接近して攻めを継続する手段として使える。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "遠距離からの攻め、相手の弾技対策",
+    "source_video_id": "K4dx7yJnzhw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【初心者必見！】これだけ覚えれば勝てる！ケンの基本操作＆コンボ完全解説【SF6】",
+    "source_timestamp": "07:15",
+    "source_quote": "実際中足ラッシュの距離まで近づいて戦わなきゃいけないのかというと、そういうわけではなくて、意外と遠目の距離から波動拳、豪鬼、リュウともに同キャラなので波動拳があるんですけど。このOD波動拳を盾にしてラッシュで突っ込む戦法がとても強力。…相手はOD弾じゃないと相殺できない。…それを盾にしてケンが突っ込んで来てラッシュから有利フレームを取る。当然当たってたらコンボになる。…弾を相殺しないキャラ相手だったら、弱波動でも似たような事が可能。…1ゲージで遠距離からラッシュをリスクなく通せる。…立ち大Pが前進するのも相まって、すごい距離を進んでいく。絶対使った方がいい連携です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:37:08.191655",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "300",
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f38e3c7b60fd",
+    "category": "neutral",
+    "topic": "迅雷脚急停止による連携",
+    "content": "ケンが屈中Pからの強迅雷脚（中）を相手にガードさせた際、迅雷脚・急停止でキャンセルすると、相手のガード硬直中に+40Fの有利フレームを得られる。これにより、相手のガードを崩す連携を継続し、プレッシャーをかけ続けることができる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手のガード時、連携継続",
+    "source_video_id": "MjlZar5pQno",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ケン 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ken Combo Oki Setup",
+    "source_timestamp": "00:29",
+    "source_quote": "轟迅急停止補正切り",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:27:11.220712",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "202",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f713f2fb4c53",
+    "category": "neutral",
+    "topic": "立ち強Kからの圧力維持",
+    "content": "ケンの立ち強Kはリーチが長く、ヒット後は屈中Pに繋げてダメージを奪える。また、ガードされた場合でも相手が届かない反撃を振ったり、不用意に歩きで間合いを詰めようとしたりするのを牽制し、攻めを継続しやすい。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "中距離での差し合い、牽制",
+    "source_video_id": "MjlZar5pQno",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ケン 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ken Combo Oki Setup",
+    "source_timestamp": "01:47",
+    "source_quote": "立強Kから屈中P 届かない反撃や長い反撃、歩き等に勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:27:11.220712",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3c7deb0c6b85",
+    "category": "neutral",
+    "topic": "投げからの垂直大P",
+    "content": "ケン使用時、相手に近づいて投げを仕掛け、相手が投げ抜けを試みた際には垂直大Pで投げ抜けを狩ることを基本とする。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手に密着した時、投げ抜け狩り",
+    "source_video_id": "HYeWGcef-kY",
+    "source_channel": "いよすけ / Iyosuke",
+    "source_video_title": "【5分下さい】ケンで“実戦向け”コンボを9個に絞って紹介します【スト6】",
+    "source_timestamp": "00:30",
+    "source_quote": "とにかくケンは近づいたら投げて投げて投げまくって垂直大Pで投げ抜けを狩る。これが基本です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:54:51.661288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a166d7ab8511",
+    "category": "neutral",
+    "topic": "中足中迅雷脚の攻めと割り込み対策",
+    "content": "ケンの中足中迅雷脚（ガード時-7F）は強力な押し付け行動。弱派生は相手の割り込みでは割れない。カウンターヒットしたら立ち弱Kに繋がり、そこから昇龍拳や弱迅雷脚に繋げられる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "中距離での攻め、中足中迅雷脚のガード時",
+    "source_video_id": "785TrXisIiU",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【SF6】これをやればLPあがる？！ケンの簡単プチ講座と対策の対策！【きんちょーるケン】",
+    "source_timestamp": "09:19",
+    "source_quote": "この中足中迅雷って言う行動が強いんすよね。で、これって、まずガードされたらマイナス7。…弱派生は割れないんですよ。この弱派生が。で、カウンターすると立ち弱Kが繋がる。でこうやって立ち弱K昇竜、ままたは立ち弱K弱迅雷とかでもいいですし。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:40:59.570950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "109",
+      "321",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a84d8a8b6999",
+    "category": "neutral",
+    "topic": "中足中迅雷脚へのパリィ対策",
+    "content": "ケンの中足中迅雷脚に対して相手がパリィを狙ってくる場合、弱派生のタイミングを少し遅らせることで、ジャストパリィを取られにくくすることができる。また、中段派生を出すことでパリィの硬直を誘い、ヒットさせることができる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "相手が中足中迅雷脚にパリィを狙ってきた時",
+    "source_video_id": "785TrXisIiU",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【SF6】これをやればLPあがる？！ケンの簡単プチ講座と対策の対策！【きんちょーるケン】",
+    "source_timestamp": "11:25",
+    "source_quote": "弱派生を少し遅らせます。とジャストパリィ取られにくくなります。で、あとは図々しいけど中段派生行くと、これパリィってね、実際若干硬直あって、これトレモだからね相手がねガード間に合ってるんすけど、普通の人だとパリィをちょこっとだけ押しちゃうと、この中段の部分パリィ返して中足下がります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:40:59.570950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "322",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "da9df559763c",
+    "category": "neutral",
+    "topic": "強龍尾脚のフレームと起き攻め",
+    "content": "ケンの強龍尾脚は立ちガードで+1F、しゃがみガードで+2Fと有利。しゃがみヒット時は+4Fで小Pが繋がる。立ちヒット時はカウンターしないと繋がらない。相手は見てからの対応が難しいため、立ち回りで積極的に振っても良い。最初は投げとの読み合いが強力。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、強龍尾脚のガード/ヒット時",
+    "source_video_id": "785TrXisIiU",
+    "source_channel": "きんちょ / kincho",
+    "source_video_title": "【SF6】これをやればLPあがる？！ケンの簡単プチ講座と対策の対策！【きんちょーるケン】",
+    "source_timestamp": "12:41",
+    "source_quote": "ま、あとは強龍尾脚ですね。まこれは初心者の方に向けてなんですけど。強龍尾脚。これあの立ちガードでプラス1で、で相手がしゃがみガードをしているとこれプラス2になるんすよね。でヒットの時も、しゃがみヒットしたらプラス4。なので小Pが繋がります。立ちヒットの時はカウンターじゃないと繋がらない。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:40:59.570950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "318"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

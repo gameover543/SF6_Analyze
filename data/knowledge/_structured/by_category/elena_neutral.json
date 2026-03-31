@@ -1,0 +1,728 @@
+[
+  {
+    "id": "6431253cd5ed",
+    "category": "neutral",
+    "topic": "立ち中Pの利用法",
+    "content": "立ち中Pはエレナの振りやすい主力技で、ガードされても反撃を受けにくく、カウンターヒットすれば立ち弱Kに繋がる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、牽制",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "00:08",
+    "source_quote": "立ち中パンチ。これ結構強い。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "7d1e011afc1e",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの性質",
+    "content": "エレナのしゃがみ中Pは発生8Fで、キンバリーやジェイミーの立ち中Kに似た用途を持つ。置き技としてではなく、当てに行ってからドライブラッシュキャンセルで攻めの起点とする。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、地上戦",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "00:51",
+    "source_quote": "しゃがみ中パンチ。他のキャラのしゃがみ中パンチとちょっと性質が違って、ま、用途的には、えー、キンバリーとかジェイミーの立ち中Kに近いかな。あんまカラブルもんでもなくて、えー、発生も8、置き技っていうよりは、これ当てに行って、えー、キャンセルラッシュとか攻めの起点にするのがしゃがみ中パンチ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "552c23d5b0a8",
+    "category": "neutral",
+    "topic": "しゃがみ中Pのリーチ",
+    "content": "しゃがみ中Pは同キャラの道着キャラのしゃがみ中Pよりもリーチが長く、エレナの中足と同じくらいのリーチを持つため、比較的振りやすい。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "01:12",
+    "source_quote": "普通に振っても道着のしゃがみ中Pとかよりは全然長いし、自分の弱中足と大体同じようなリーチしてるから、ある程度振りやすいす。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "83398fd9e629",
+    "category": "neutral",
+    "topic": "しゃがみ中Pと立中Pの使い分け",
+    "content": "同じ距離で牽制として振るだけなら立ち中Pが振りやすいが、ドライブラッシュやゲージを使ったコンボに繋げたい場合はしゃがみ中Pを使う。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、ゲージ状況",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "01:20",
+    "source_quote": "同じ距離で振るだけなら立ち中パンチが振りやすいんだけど、ラッシュしたいなあとか、ゲージ使ってコンボしたいなっていう時はしゃがみ中パンチ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "5ed468b4d7c3",
+    "category": "neutral",
+    "topic": "暴れ潰し",
+    "content": "立ち中Kは暴れ潰しとして有効。ガードさせて+1Fを取る。ノーマルヒットからコパン > 立ち弱Kが繋がり、コンボへ移行可能。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "相手の暴れに対して",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "03:26",
+    "source_quote": "暴れ潰しの有利取れる中攻撃。こいつ立ち中Kになってるんで、こういう道着が振れたら立ち中Kを暴れ潰しに使いつつプラスフレームを取って、ガードされてもコパン立ち弱K。でやるとノーマルヒットでもコパン立ち弱Kが繋がってそっから、えー、コンボ閉めることができ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "c3008c9a33bb",
+    "category": "neutral",
+    "topic": "立ち大Kのリーチ",
+    "content": "立ち大Kは非常にリーチが長く、牽制技として使いやすい。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、牽制",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "03:54",
+    "source_quote": "立ち大K。めっっっっっっっちゃ長いです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "b41e436d06bf",
+    "category": "neutral",
+    "topic": "前大Pのヒット確認とフレーム",
+    "content": "前大Pはヒット確認が容易で、1段目で止めるとガードで-4Fとなり確反がない。相手の飛びやインパクトを誘う手段としても有効。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、ヒット確認",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "05:21",
+    "source_quote": "かつこれ、えー、ヒット確認がかなり、ちゃんとできるように作られてます。でヒット確認、これね。ちょっとやってみてほしいんですけど。そうんなに難しくないです。でこの1段目で止めるとこんぐらいの距離でマイナス4。ま、確反絶対ないっていう距離で撃てる。長い技で2000ダメージ出る長い技。ま、飛ばれたらヤバいし、インパクトもヤバいんだけど、飛びとかインパクトをこれで引き出すことができる、かなり使いやすいと思います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "330"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "8d4e281d8d68",
+    "category": "neutral",
+    "topic": "立大Pの牽制での優先度",
+    "content": "立大Pはパニッシュカウンター時に高いリターンを得られるが、牽制としては立中Kや前大Pが優先される。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、牽制",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "11:06",
+    "source_quote": "だ、けどどっちかっていうと、なんかこう相手のパニカンの時にすごくリターンが出る技なんで、パニカンで使える状況を狙っていきたいかな。だから基本的には牽制にはこれとかこれを、立ち中Kとか前大Pを使っていっく感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "209bc890d403",
+    "category": "neutral",
+    "topic": "ラッシュ中段（前中K）",
+    "content": "エレナのラッシュ中段（前中K）はヒット時に+6Fの有利フレームを取れるため、立中Kやターゲットコンボに繋げて高いリターンを狙える。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ドライブラッシュからの攻め",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "22:15",
+    "source_quote": "ラッシュ中段があるんで、このキャラ。舞中Kが中段技になってます。でこれ、普通に、いつもの、普通にラッシュ中段できるから、プラ6取れるラッシュ中段になってます。でプラ6ってことは立ち中Kが繋がる。立ち中Kが繋がるってことはタゲコンいけるからこんな感じ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "33838a75ab77",
+    "category": "neutral",
+    "topic": "地上戦の基本",
+    "content": "エレナはリーチの長い地上技を活かした立ち回りが強力。牽制や確認を徹底し、ゲージが溜まっていればしゃがみ中Pからのラッシュで攻めを継続する。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、地上戦",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "19:18",
+    "source_quote": "立ち回りはもう完全にさっき最初に言った技をこう振って、これで牽制したり、これで確認したりしつつゲージが余ってるようなら、しゃがみ中パンラッシュで。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "9a851e368a92",
+    "category": "neutral",
+    "topic": "地上戦の強み",
+    "content": "エレナはリーチの長い地上技が豊富で非常に強力。これらの技で地上を制圧することが強みとなる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "tF9uoljjccM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】エレナで何したらいいか分からん人向け！技の使い方やコンボと狙い方解説！【ぷげら】",
+    "source_timestamp": "19:47",
+    "source_quote": "地上は本当に長くて、かなり強いと思うんで。なんか普通にとりあえず地上でこうやってった方が強みは出るかなっていう感じです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:23:40.266520",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "7976bc1fa820",
+    "category": "neutral",
+    "topic": "牽制技としてのAUTO中",
+    "content": "モダンエレナの牽制技として、アシスト中攻撃（AUTO中）はリーチが優秀で隙が少ないため、積極的に使用しましょう。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "地上での牽制、差し合い",
+    "source_video_id": "ae0tSpBwe5k",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンエレナ解説",
+    "source_timestamp": "00:36",
+    "source_quote": "まず最初に使うべき技はAUTO中からです。リーチが優秀で、隙も少ないので牽制としても使うことができます",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:24:56.092823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e32a9c86e4bc",
+    "category": "neutral",
+    "topic": "リーチ不足時の大足",
+    "content": "アシスト中攻撃（AUTO中）のリーチが短いと感じる場面では、しゃがみ大K（大足）を使うと良いでしょう。思っているよりもリーチが長くヒットしやすいです。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "地上でのリーチが欲しい時",
+    "source_video_id": "ae0tSpBwe5k",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンエレナ解説",
+    "source_timestamp": "00:51",
+    "source_quote": "基本的にAUTO中1本で戦うことも可能ですが、リーチが心もとないですよね。そんなときは大足を使います",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:24:56.092823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6356500086b0",
+    "category": "neutral",
+    "topic": "生ラッシュの活用",
+    "content": "単調な攻めにならないよう、生ラッシュを積極的に取り入れていきましょう。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "地上での攻め",
+    "source_video_id": "ae0tSpBwe5k",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンエレナ解説",
+    "source_timestamp": "01:01",
+    "source_quote": "この2つだけだと、地味すぎて楽しくないので、生ラッシュも使いましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:24:56.092823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2bc89aea5841",
+    "category": "neutral",
+    "topic": "ラッシュ中足の性能と対応",
+    "content": "ドライブゲージを使ったラッシュ中足（ドライブラッシュからしゃがみ中K）は、思っている以上に伸びるため強力です。ガードされた場合は、小技で暴れるか、思い切って投げましょう。エレナの生ラッシュは初動が遅いものの、頑張って走ってくれる特性があります。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ中足の攻防",
+    "source_video_id": "ae0tSpBwe5k",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンエレナ解説",
+    "source_timestamp": "01:06",
+    "source_quote": "このキャラはラッシュ中足が強力です。思ってるより伸びるのでヒットしやすいです。ガード時はそこまで強くないので（互分）、ガードされたときは小技で暴れましょう。ラッシュ中足がガードされるときは、思い切って投げましょう。このキャラのラッシュは初動が遅めですが、思ってるよりも頑張って走ってくれます",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:24:56.092823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a4c167fd6d52",
+    "category": "neutral",
+    "topic": "リンクスワール中の弾抜け",
+    "content": "リンクスワール中は弾無敵が付与されている。遠距離で弾を撃ってくる相手に対して、無理やり触りに行きたい場合や攻めたい場合に有効な選択肢となる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "遠距離で弾を撃ってくる相手に対して",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "01:39",
+    "source_quote": "またリンクスワール中は弾無敵が付いているから遠距離で弾を撃ってくる相手に無理やり触りたい時に有効な選択肢だよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a4a0f3ad58d",
+    "category": "neutral",
+    "topic": "ODリンクシングの強襲",
+    "content": "ODリンクシングは一度出すだけで強化版の派生が可能となるため、中距離からの強襲手段として非常に優秀である。特に、見てから止めるのが難しい弱版や、試合開始位置から急に繰り出す中段属性の強版を使うことで、ガードを崩すことができる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "中距離からの攻め、試合開始位置での不意打ち",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "02:23",
+    "source_quote": "OD版は一回出すだけで強化版へ派生が出来るから中距離からの強襲として優秀だよ 見てから止めるのが難しい弱版を使ったり 試合開始位置から急に来る中段でガードされても投げ間合いの強版を使って相手のガードを崩していこう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f78039f3a07",
+    "category": "neutral",
+    "topic": "しゃがみ中Kの牽制とダブルアップ",
+    "content": "エレナのしゃがみ中K（いわゆる中足）は発生9Fでキャンセルラッシュはできないが、リーチが非常に長い。しゃがみガードをしない相手には積極的に出して嫌がらせを行い、行動のきっかけを作らせることができる。ただし、相手がしゃがみガードをする場合は、前中K（中段）で揺さぶりをかける。しゃがみ中Kで牽制を出すと大きな隙を晒すことがあるため、注意が必要。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "地上戦、相手がしゃがみガードをしない場合、しゃがみガードをする場合",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "03:43",
+    "source_quote": "まずはしゃがみ中 エレナのしゃがみ中、いわゆる中足は発生9フレーム、キャンセルラッシュ不可と 一見いまいちな性能に見えるんだけど実はかなりリーチが長いので この技での嫌がらせが地上戦での大事な動きの一つとなるよ あまりしゃがみガードをしない相手にはこの技をぶんぶん当てて相手に行動させるきっかけを作ろう もししゃがみの牽制にも出してしまうと大きな隙をさらすから注意しよう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d319411d98b5",
+    "category": "neutral",
+    "topic": "前中Kでの中段攻め",
+    "content": "相手がしゃがみガードで様子見をしてくる場合、中段属性の前中Kが有効。前中Kは頑張ればヒット確認が可能で、中足（しゃがみ中K）を警戒している相手に対して非常に強力。ヒット後はラッシュに繋いで起き攻めに移行し、投げやラッシュ中段でリターンを狙う。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "相手がしゃがみガードで様子見している時、中足牽制を警戒している時",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "04:26",
+    "source_quote": "もし相手がしっかりしゃがみガードで様子見をしてくるなら中段属性の前中キックが有効 前中キックは頑張ればヒット確認が出来るから中足（しゃがみ中K）を警戒している相手に非常に強力だよ ヒット後はラッシュから起き攻めにいけるから投げやラッシュ中段でしっかりリターンを狙おう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ff3e5285007c",
+    "category": "neutral",
+    "topic": "前強Pの強力な牽制",
+    "content": "前強Pは発生が16Fと遅いものの、非常に長いリーチを持つ。ヒット確認も容易であり、コンボに繋げることで2000ダメージ以上を出すことができる強力な牽制技。ただし、相手の牽制と噛み合うと判定で負けることがあるため、近すぎる距離での使用は潰されやすいことに注意。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "牽制、パニッシュカウンター時",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "04:52",
+    "source_quote": "続いて前強パンチ この技は発生が16と遅い代わりにリーチがとても長くヒット確認が容易でその後のコンボで2000ダメージと火力も出るからかなり強力な牽制の一つだよ ただし、相手の牽制と噛み合うと判定はあまり強くないから近すぎる距離では潰されやすいということを覚えておこう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7cb3ec4a7ee5",
+    "category": "neutral",
+    "topic": "アシスト中の差し返しからの高火力コンボ",
+    "content": "アシスト中（モダン操作）は立ち回りでの牽制技の中でも数少ないキャンセルラッシュが可能な技。発生は8F、リーチはそこそこ。スカった際の硬直が長いため置き技としては使いづらいが、差し返しとして利用するのが良い。特に差し返しから距離が遠くなければ強スピンサイズ（↓↙︎←+強）に繋ぐことで、ノーゲージで高い火力を出すことが可能となる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "牽制、差し返し",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "05:13",
+    "source_quote": "アシスト中（モダン操作）は立ち回りの牽制技の中でも数少ないキャンセルラッシュのかかる技で 発生8フレーム、リーチはそこそこ といった性能となっているよ スカると硬直は長めなので置き技として使うというよりはしっかり当てにいったっり差し返しとして使うのが良さそうだよ 特に差し返しからは距離が遠くなければ強スピンサイズが繋がるのでノーゲージでかなりの火力を出すことが可能だよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "324"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "34d3542feb41",
+    "category": "neutral",
+    "topic": "立ち弱Kの差し返しとコンボ",
+    "content": "立ち弱Kは発生5Fのローキックで、リーチはそこそこ。この技もキャンセルラッシュが可能。相手のラッシュを見てから止める、または差し返しからキャンセルラッシュに繋いでコンボを伸ばす使い方が強力。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "牽制、差し返し",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "05:48",
+    "source_quote": "続いて立ち弱キック 立ち弱は発生5フレームのローキックでリーチはそこそこ この技もキャンセルラッシュがかかるから相手のラッシュを見てから止めたり差し返しからキャンセルラッシュをしてコンボを伸ばす使い方が強力だよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6bca92d2eca6",
+    "category": "neutral",
+    "topic": "立ち強Kの確定反撃と投げ抜け狩り",
+    "content": "立ち強Kは一見リーチの長い牽制技だが、しゃがんでいる相手には先端がスカる場合があるため注意が必要。しかし、リターンが非常に高く、特にパニッシュカウンター時は大きなダメージが期待できる。無敵技ガード後の確定反撃や、相手の隙の大きな立ち攻撃への差し返し、投げ抜け狩りとしても非常に優秀な技。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "牽制、無敵技ガード後、相手の隙の大きな立ち攻撃に対して",
+    "source_video_id": "V6HpsaG2ap0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "【スト６】今夜勝ちたい人のためのモダンエレナの使い方３選！！【解説】",
+    "source_timestamp": "06:08",
+    "source_quote": "最後に立ち強 立ち強は一見リーチの長い牽制に見えるんだけど実はしゃがんでいる相手に対しては先端だとスカるので注意が必要な技となっているよ ただしリターンがかなり高く特にパニカン時には大ダメージが取れるから無敵技ガード後の確定反撃と隙の大きな立ち攻撃に対しての差し返しや投げ抜け狩りとしてもとても優秀な技となっているよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:26:12.498612",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2a5fd7bcb999",
+    "category": "neutral",
+    "topic": "エレナSA1の対空",
+    "content": "エレナのSA1「ミーティアボレー」は、空中判定の打撃と飛び道具に対して無敵であるため、中距離での相手のジャンプ攻撃に対する対空技として非常に有効です。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": null,
+    "situation": "相手が中距離からジャンプしてきた時",
+    "source_video_id": "SVg2GPM6HOY",
+    "source_channel": "ストーム久保",
+    "source_video_title": "エレナのSA1が作中最弱と評価される理由と効果的な使い方を披露するストーム久保【スト6】",
+    "source_timestamp": "04:08",
+    "source_quote": "中央での空対空からオススメ。おおーなるほどね。これ強いね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:40:46.717675",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "151ec54dafb8",
+    "category": "neutral",
+    "topic": "波動拳へのパリィ",
+    "content": "波動拳をガードタイミングでパリィすると、大体の場合において対応できる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": "ryu",
+    "situation": "リュウが波動拳を放った時",
+    "source_video_id": "ZeWZ_Q8MKQs",
+    "source_channel": "どぐらのちょっとええ感じ",
+    "source_video_title": "\"He'll definitely make an impact!\" Dogura explains how to counter Ryu, whose presence continues t...",
+    "source_timestamp": "1:15",
+    "source_quote": "波掌撃ガードタイミングでボタン押すと大体結構大丈夫",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:26:12.814828",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a938a3b69c7a",
+    "category": "neutral",
+    "topic": "ダルシムの近距離技に対する立ち回り",
+    "content": "ダルシムが立ち中Kなどの近距離技を出してきた場合、エレナはODバックラッシュキックの無敵技で切り返し、パニッシュカウンターからの高ダメージコンボを狙うことができます。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが立ち中Kなどの近距離技を出してきた時",
+    "source_video_id": "5l0-nPMYorA",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+    "source_timestamp": "02:02",
+    "source_quote": "オーライ！ (02:02)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:21:30.739477",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

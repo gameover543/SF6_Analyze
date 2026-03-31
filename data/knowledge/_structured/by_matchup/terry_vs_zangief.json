@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "b3ac34578579",
+    "category": "defense",
+    "topic": "大足ガード後の確定反撃",
+    "content": "ザンギエフの大足（しゃがみ大K）をガードした場合、-13Fなので、先端以外であればテリーの大Kで確定反撃が可能。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのしゃがみ大Kをガードした時（先端以外）",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:01",
+    "source_quote": "大足: -13F、ド先端大K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf0cf5aab104",
+    "category": "defense",
+    "topic": "ラッシュ大足ガード後の反撃",
+    "content": "ザンギエフのラッシュ大足（しゃがみ大K）をガードした場合、基本は-9Fなので、近距離であれば素早い技で反撃できる。先端ガード時はテリーの中足が届かないことがある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのラッシュしゃがみ大Kをガードした時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:06",
+    "source_quote": "ラッシュ大足: 基本-9F、先端だと中足が届かない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "030d68b6d9a7",
+    "category": "neutral",
+    "topic": "ラッシュ大足持続当ての対応",
+    "content": "ザンギエフのラッシュ大足（しゃがみ大K）が持続でヒットまたはガードされた場合、-7Fとなる。テリーの中Pは届かなくても、差し返し自体がされづらい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのラッシュしゃがみ大Kを持続当てされた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:12",
+    "source_quote": "ラッシュ大足が持続で当たると-7F、中Pは届かなくても差し返しされづらい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c8ad39a48403",
+    "category": "defense",
+    "topic": "中段ガード後の確定反撃",
+    "content": "ザンギエフの中段攻撃（立ち大P）をガードした場合、基本は-9Fだが、持続当てで-6F～-8Fになるため、近距離であればテリーのしゃがみ中Kで確定反撃ができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの中段攻撃（立ち大P）をガードした時（特に持続当てで近い場合）",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:23",
+    "source_quote": "中段: -9Fだが持続当てで-6F～-8Fになるので近いならしゃがみ中K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8e34a457f025",
+    "category": "defense",
+    "topic": "ラッシュ中段ガード後の確定反撃",
+    "content": "ザンギエフのラッシュ中段攻撃（立ち大P）をガードした場合、基本は-5Fなので、近距離であればテリーの小Kで確定反撃ができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのラッシュ中段攻撃（立ち大P）をガードした時（近距離）",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:32",
+    "source_quote": "ラッシュ中段: 基本は-5Fなので近ければ小K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a1544d3ad255",
+    "category": "defense",
+    "topic": "前中Kガード後のフレーム状況",
+    "content": "ザンギエフの6中Kをガードした場合、めり込んだ時は-4Fだが、持続当てであればザンギエフ側が有利になる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの6中Kをガードした時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:41",
+    "source_quote": "前中K: めり込んだら-4F、持続で有利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a9f612e624c5",
+    "category": "defense",
+    "topic": "ボルシチ後のラッシュへのSA1",
+    "content": "ザンギエフの通常版またはOD版ボルシチ後のラッシュ行動には、テリーのSA1が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが通常版またはOD版ボルシチをヒットさせ、その後にラッシュで追撃してきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:46",
+    "source_quote": "通常ボルシチ・ODボルシチの後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "58db5c15c415",
+    "category": "defense",
+    "topic": "小足系のコマンド投げ対策",
+    "content": "ザンギエフの小足スクリュー（弱スクリューパイルドライバー）や小足シベリアン（弱シベリアンエクスプレス）はかなり避けづらいので注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが小足系のコマンド投げを狙ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:59",
+    "source_quote": "小足スクリュー・小足シベリアンはかなり避けづらい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6a19da12f994",
+    "category": "defense",
+    "topic": "小足ガード・ヒット後の対応",
+    "content": "ザンギエフの小足（しゃがみ弱K）はガード時-3F、ヒット時でもプラマイ0なので、小足をガード・ヒット確認したらとりあえずテリーの小Pで暴れるのが有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのしゃがみ弱Kをガードまたはヒット確認した時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:05",
+    "source_quote": "小足はガード時-3F、ヒットでもプラマイ0なので小足をみたらとりあえず小Pパンチ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d4dd66761233",
+    "category": "defense",
+    "topic": "小Kキャンセルシベリアンへの注意",
+    "content": "ザンギエフが小K（しゃがみ弱Kなど）からシベリアンエクスプレスにキャンセルしてくる連携にも注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが小Kを振ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:12",
+    "source_quote": "小Kキャンセルシベリアンにも注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "62b3e10a56e5",
+    "category": "defense",
+    "topic": "キャンセルラッシュからの投げ対策",
+    "content": "ザンギエフが通常技キャンセルドライブラッシュから投げを仕掛けてくる連携は対処が難しいため、早めにテリーのDリバ（ドライブリバーサル）で切り返すのが良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがキャンセルドライブラッシュから投げを狙ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:16",
+    "source_quote": "キャンセルラッシュからの投げがしんどいので早めにDリバ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6403a2be440a",
+    "category": "defense",
+    "topic": "小Kラッシュ小足へのDリバ",
+    "content": "ザンギエフの小Kラッシュ小足（しゃがみ弱K→ドライブラッシュ→しゃがみ弱K）は連続ガードになるが、早めにテリーのDリバ（ドライブリバーサル）を使えば切り返せる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのしゃがみ弱K→ドライブラッシュ→しゃがみ弱K連携をガードした時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:31",
+    "source_quote": "小Kラッシュ小足は連ガだが早めのDリバなら返せる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d9c02f8419db",
+    "category": "defense",
+    "topic": "ヘッドバッドガード後の対応",
+    "content": "ザンギエフのヘッドバッド（大ヘッドバッドなど）をガードした際、ザンギエフ側が超不利（大ヘッドバッドは-33F）なので、ヘッドバッド後の行動を狙ってテリーが遅らせDリバ（ドライブリバーサル）をすることで反撃できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのヘッドバッドをガードした時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:38",
+    "source_quote": "ヘッドバッドはガードした時点で既に超不利なので、ヘッドバッド後の行動を狙って遅らせDリバ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "835b3587c286",
+    "category": "defense",
+    "topic": "小技ラッシュの割り込み",
+    "content": "ザンギエフの小技ラッシュ（小技からのドライブラッシュ連携）は、テリーのしゃがみコパ（しゃがみ弱P）以外では基本的に割り込めない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの小技ラッシュによる固め中",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:47",
+    "source_quote": "ザンギの小技ラッシュはしゃがコパ以外基本割れない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57845f07bd24",
+    "category": "neutral",
+    "topic": "大P・中段へのインパクト",
+    "content": "ザンギエフの立ち大Pや中段攻撃（立ち大P）が見えたら、テリーはインパクト（ドライブインパクト）を撃つことを検討する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち大Pや中段攻撃（立ち大P）を振ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:51",
+    "source_quote": "大Pと中段が見えたらインパクトを撃ちたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de284a81cce9",
+    "category": "defense",
+    "topic": "ザンギエフのアーマー技へのインパクトキャンセル",
+    "content": "テリーの通常技がザンギエフのアーマー技（立ち大Pなど）で取られた場合、即座にテリーのインパクトキャンセルで反撃するのが有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "テリーの通常技がザンギエフのアーマー技で吸収された時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:57",
+    "source_quote": "通常技がアーマーで取られた場合、インパクトキャンセルが有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e165522016a",
+    "category": "neutral",
+    "topic": "ツンドラストームへの対応",
+    "content": "ザンギエフの弱ツンドラストームはテリーの立ち大Pのアーマーを潰すが、中ツンドラストームはテリー側がアーマーで耐えることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがツンドラストームを撃ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:04",
+    "source_quote": "弱ウェイブは大Pのアーマーを潰すが中ウェイブは耐えられる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f09f919eaa85",
+    "category": "defense",
+    "topic": "ラッシュへのインパクト",
+    "content": "ザンギエフがドライブラッシュを仕掛けてきた場合、テリーがインパクト（ドライブインパクト）を撃つと高い確率で勝てる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのドライブラッシュを確認した時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:10",
+    "source_quote": "ラッシュが見えたらインパクトを撃つと結構高い確率で勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ca682d87a4ad",
+    "category": "defense",
+    "topic": "中Pタグコンへのインパクト",
+    "content": "ザンギエフの5中P→5大Pターゲットコンボにはテリーのインパクト（ドライブインパクト）が確定するが、最速で入力しないと返されてしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが5中P→5大Pターゲットコンボを振ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:18",
+    "source_quote": "中Pタグコンにもインパクトが確定するが、最速で撃たないと返される",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "37af49744481",
+    "category": "neutral",
+    "topic": "大足への差し返し",
+    "content": "ザンギエフの大足（しゃがみ大K）はやられ判定がかなり前側に残るため、テリーの大Kで差し返すのが有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがしゃがみ大Kを振ってきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:26",
+    "source_quote": "大足はやられ判定がかなり前側に残るので大Kで差し替えしたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6af0e315f941",
+    "category": "oki",
+    "topic": "持続しゃがみ中Pでの起き攻め",
+    "content": "テリーの持続しゃがみ中Pでの起き攻めは、ザンギエフのSA2とDリバ（ドライブリバーサル）の両方を詐欺ることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフへの起き攻め時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:30",
+    "source_quote": "持続しゃがみ中P起き攻めはザンギのSA2とDリバを両方詐欺れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1795a4e165a1",
+    "category": "oki",
+    "topic": "大足ヒット後の行動",
+    "content": "ザンギエフが大足（しゃがみ大K）をヒットさせた後、+36Fとなる。ラッシュヘッドバッドも重なるため、安定した対処択がない強力な起き攻めとなる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのしゃがみ大Kがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:43",
+    "source_quote": "大足ヒット後: +36F、ラッシュヘッドパッドも重なる、安定択なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "12fb4b446c10",
+    "category": "oki",
+    "topic": "スクリューヒット後の行動",
+    "content": "ザンギエフがスクリューパイルドライバーをヒットさせた後、+28Fとなる。ラッシュ大足やラッシュ持続前中Kが重なるため、テリーはファジーバックジャンプで対応すると良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのスクリューパイルドライバーがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:50",
+    "source_quote": "スクリュー後: +28F、ラッシュ大足やラッシュ持続前中Kが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cffd40fbf933",
+    "category": "defense",
+    "topic": "ラッシュ大足起き攻めへのファジーバックジャンプ",
+    "content": "ザンギエフのラッシュ大足（しゃがみ大K）による起き攻めに対しては、ガードのタイミングでテリーがファジーバックジャンプを行うのが比較的安全な選択肢である。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのラッシュしゃがみ大Kによる起き攻め時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:01",
+    "source_quote": "ラッシュ大足をガードするタイミングでファジーバックジャンプが比較的安全",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e6004811f05f",
+    "category": "defense",
+    "topic": "ファジーしゃがみ中Pの注意点",
+    "content": "起き攻めに対するファジーしゃがみ中Pは選択肢の一つだが、ザンギエフの攻めに対しては負けやすい傾向にあるため注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの起き攻めに対する防御時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:06",
+    "source_quote": "ファジーしゃがみ中Pもあるが負けやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bc0f93c74be0",
+    "category": "oki",
+    "topic": "シベリアンヒット後の行動",
+    "content": "ザンギエフがシベリアンエクスプレスをヒットさせた後、+29Fとなる。ラッシュから遅らせて出す大足、持続前中K、弱スクリューパイルドライバーが入るので、テリーはファジーバックジャンプで対応すると良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのシベリアンエクスプレスがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:13",
+    "source_quote": "シベリアン後: +29F、ラッシュから遅らせ大足・持続前中K・弱スクリューが入るのでファジーバックジャンプ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "acbc9ecdd25a",
+    "category": "oki",
+    "topic": "溜め大Pヒット後の行動",
+    "content": "ザンギエフが溜め大Pをヒットさせた後、+40Fとなる。ラッシュ遅らせ大足くらいしか重ならないため、テリーはしゃがみガードを安定択として使うのが良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの溜め大Pがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:31",
+    "source_quote": "溜め大Pヒット後: +40F、ラッシュ遅らせ大足しか入らないのでしゃがみガード安定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3aed3b34106a",
+    "category": "oki",
+    "topic": "溜め大Pパニカン後の強力な起き攻め",
+    "content": "ザンギエフの溜め大Pがパニッシュカウンターになると、受け身不可の+54Fとなる。前ステ前ステで+10Fの状況を作り、遅らせ中スクリューパイルドライバーも重なるため、テリーの無敵技もある程度ケアできる強力な起き攻めが展開される。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの溜め大Pがパニッシュカウンターになった後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:38",
+    "source_quote": "溜め大Pがパニカンすると受け身不可の+54F、前ステ前ステで+10F。遅らせ中スクリューも重なり、無敵技もある程度ケア出来る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e73d724bee5",
+    "category": "oki",
+    "topic": "中Pタグコンヒット後の行動",
+    "content": "ザンギエフが中Pタグコン（5中P→5大P）をヒットさせた後、+27Fとなる。ラッシュから遅らせて出す大足や持続前中Kが入るので、テリーはファジーバックジャンプで対応すると良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの5中P→5大Pターゲットコンボがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:51",
+    "source_quote": "中Pタグコン後: +27F、ラッシュから遅らせ大足・持続前中Kが入るのでファジーバックジャンプ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4cead9a9d286",
+    "category": "oki",
+    "topic": "ラリアットヒット後の行動",
+    "content": "ザンギエフがラリアットをヒットさせた後、+27Fとなる。ラッシュ遅らせ大足くらいしか重ならないため、テリーはしゃがみガードを安定択として使うのが良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのラリアットがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:05",
+    "source_quote": "ラリアットヒット後: +27F、ラッシュ遅らせ大足くらいしか入らないのでしゃがみガード安定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "41df0c286862",
+    "category": "defense",
+    "topic": "ファジーバックジャンプの限界",
+    "content": "ファジーバックジャンプは万能ではないため、見せすぎるとザンギエフのSA1で狩られてしまうことがある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの起き攻めに対する防御時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:16",
+    "source_quote": "ファジーバックジャンプも完全ではない上、見せすぎるとSA1で狩られる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d691e2fdc1b",
+    "category": "defense",
+    "topic": "ラッシュ大足へのリバサインパクト",
+    "content": "ザンギエフがラッシュ大足（しゃがみ大K）を頻繁に擦ってくる相手には、テリーもリバサインパクト（ドライブリバーサル）も見せることで対応の幅を広げる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがラッシュしゃがみ大Kを多用してきた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:25",
+    "source_quote": "ラッシュ大足を擦ってくる相手にはリバサインパクトもみせる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "40300e754f1f",
+    "category": "oki",
+    "topic": "画面端での起き攻め連携",
+    "content": "ザンギエフは画面端で中Pタグコン（5中P→5大P）やラリアットをヒットさせた後、前ステ（前ステップ）で+5Fの状況を作り出すことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが画面端で中Pタグコンやラリアットをヒットさせた時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:30",
+    "source_quote": "画面端だと中Pタグコン・ラリアットヒット前後ステで+5Fが作れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "02f31573e03d",
+    "category": "defense",
+    "topic": "画面端シベリアン後の対応",
+    "content": "画面端でザンギエフのシベリアンエクスプレスを食らった場合、ラッシュからの弱スクリューパイルドライバー、ODスクリューパイルドライバー、SA3が重なる。ヘッドバッドは超遅らせないと重ならないため、割り切ってテリーが前ジャンプをするのが良い対策となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが画面端でシベリアンエクスプレスをヒットさせた後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:36",
+    "source_quote": "画面端でシベリアンを喰らった場合、ラッシュから弱・ODスクリューやSA3が重なる。超遅らせないとヘッドバッドが重ならないため、割り切って前ジャンプが良さそう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cc76f582f416",
+    "category": "defense",
+    "topic": "スクリュー後の読み合い",
+    "content": "ザンギエフのスクリューパイルドライバーからはラッシュ弱スクリューパイルドライバーが届かないが、小Kキャンセルで無理やり固めてくることもある。また、スクリュー後に前歩きから中段（立ち大P）を埋めてくることがあり、これは-6Fなのでテリーのしゃがみ中Pで確定反撃できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのスクリューパイルドライバーがヒットした後",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:55",
+    "source_quote": "スクリューからはラッシュ弱スクリューも届かないが、小Kキャンセルで無理やり来ることもある。スクリュー後、前歩き中段を埋めてくることがあるが-6Fなのでしゃがみ中P確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4efdea166ecd",
+    "category": "defense",
+    "topic": "近距離でのラッシュ中段ガード後の反撃",
+    "content": "ザンギエフが近い距離でシベリアンエクスプレス、中Pタグコン（5中P→5大P）、ラリアットの後にラッシュ中段（立ち大P）をガードさせた場合、テリーの小Kが届きやすいので確定反撃を狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのシベリアンエクスプレス、中Pタグコン、ラリアット後の近距離ラッシュ立ち大Pをガードした時",
+    "source_video_id": "epuVs26AoqU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのザンギエフ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:21",
+    "source_quote": "距離が近いシベリアン・中Pタグコン・ラリアット後からのラッシュ中段をガードした場合、小Kが届きやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:04:24.170215",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,878 @@
+[
+  {
+    "id": "56760769076b",
+    "category": "matchup",
+    "topic": "前投げラッシュ対策",
+    "content": "マノンが前投げからのドライブラッシュを仕掛けてきた場合、テリーが場受け身を取るとマノンのOD無敵技やスーパーアーツ1が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの前投げ後、テリーが場受け身を取った場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:00",
+    "source_quote": "前投げラッシュは場受け身でOD無敵・SA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5fb84a80b295",
+    "category": "matchup",
+    "topic": "後ろ投げラッシュ対策",
+    "content": "マノンが後ろ投げからのドライブラッシュを仕掛けてきた場合、テリーが場受け身を取るとマノンの無敵技が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの後ろ投げ後、テリーが場受け身を取った場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:08",
+    "source_quote": "後ろ投げラッシュは場受け身で無敵確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "37841dbb37b2",
+    "category": "matchup",
+    "topic": "SA3/CA後のラッシュ対策",
+    "content": "マノンがスーパーアーツ3またはクリティカルアーツ後のドライブラッシュを仕掛けてきた場合、テリーはマノンのスーパーアーツ1が確定するので注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのスーパーアーツ3/クリティカルアーツ後のドライブラッシュ",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:12",
+    "source_quote": "SA3＆CA後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f65f0cbd7a41",
+    "category": "matchup",
+    "topic": "マネージュ・ドレ後のラッシュ対策",
+    "content": "マノンがマネージュ・ドレ後のドライブラッシュを仕掛けてきた場合、テリーはマノンのスーパーアーツ1が確定するので注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのマネージュ・ドレ後のドライブラッシュ",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:18",
+    "source_quote": "マネージュ・ドレ後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3e645e236fc",
+    "category": "matchup",
+    "topic": "ランヴェルセ後のラッシュ対策",
+    "content": "マノンがランヴェルセ（コマンド投げ）後のドライブラッシュを仕掛けてきた場合、テリーはマノンのスーパーアーツ1が確定するので注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのランヴェルセ後のドライブラッシュ",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:22",
+    "source_quote": "ランヴェルセ後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0f19b1a91260",
+    "category": "matchup",
+    "topic": "立ち中P引き寄せへの反撃",
+    "content": "マノンの立ち中P引き寄せ（前ステップ連携）をガードした場合、-5Fなのでテリーは弱Kが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち中P引き寄せをガードした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:27",
+    "source_quote": "中P引き寄せは-5Fなので小Kで確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ac08846bcaac",
+    "category": "matchup",
+    "topic": "立ち大P引き寄せへの反撃",
+    "content": "マノンの立ち大P引き寄せ（前ステップ連携）をガードした場合、-8Fなのでテリーはしゃがみ中Pからの強チャージ（強バーンナックルチャージなど）が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち大P引き寄せをガードした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:32",
+    "source_quote": "大P引き寄せは-8Fなので2中P〜強チャージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "307",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c3727a17ae6",
+    "category": "matchup",
+    "topic": "立ち中Kタッグコンへの反撃",
+    "content": "マノンの立ち中Kタッグコンをガードした場合、中段技で-11Fなので、テリーは立ち中P強チャージが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち中Kタッグコンをガードした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:37",
+    "source_quote": "立ち中Kタッグコンは中段、ガード時-11Fなので立ち中P強チャージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "72d3a4222f16",
+    "category": "defense",
+    "topic": "中Kタッグコンからのキャンセルラッシュ対策",
+    "content": "マノンの立ち中Kタッグコンからのキャンセルドライブラッシュは、テリーの無敵技で割り込むことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち中Kタッグコンからのキャンセルドライブラッシュに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:44",
+    "source_quote": "立ち中Kタッグコンからのキャンセルラッシュは無敵技で割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ea638a3b561f",
+    "category": "matchup",
+    "topic": "立ち大Kへの反撃",
+    "content": "マノンの立ち大Kをガードした場合、-6Fなので、めり込んだらテリーの弱Kが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち大Kをガードし、めり込んだ場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:49",
+    "source_quote": "大Kは-6F、めり込んだら小Kで確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5f70dfffc71c",
+    "category": "matchup",
+    "topic": "しゃがみ大Kへの反撃",
+    "content": "マノンのしゃがみ大Kをガードした場合、-12Fなので、基本はテリーの立ち大K、めり込んだらしゃがみ中Pまたは立ち大Pが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのしゃがみ大Kをガードした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:54",
+    "source_quote": "大足は-12F、基本は大K、めり込んだら2中P or 立ち大P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0d492ce50a14",
+    "category": "matchup",
+    "topic": "下段の弱デガジェ対策",
+    "content": "マノンの下段の弱デガジェ（弱K派生）は-24Fの2段技なので、テリーはしっかりしゃがんでガードする。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの下段の弱デガジェに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:02",
+    "source_quote": "下段の弱デガジェは-24F、2段技なのでしっかりしゃがんでおく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "edb1de0694b0",
+    "category": "matchup",
+    "topic": "強デガジェ（中段）への反撃",
+    "content": "マノンの強デガジェ（強K派生）をガードした場合、中段技で-9Fなので、近ければテリーのしゃがみ中K、遠ければスーパーアーツ1が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの強デガジェをガードした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:09",
+    "source_quote": "強デガジェ（中段）は-9F、近ければ中足、遠ければSA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4f6604a5012f",
+    "category": "matchup",
+    "topic": "マネージュ・ドレ後の遠距離SA1",
+    "content": "マノンのマネージュ・ドレ後の連携が遠すぎる場合、テリーはマノンのスーパーアーツ1が確定しないので、焦ってガードしないよう注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのマネージュ・ドレ後、距離が遠い場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:19",
+    "source_quote": "マネージュ・ドレ後など、遠すぎる場合はSA1でも確定しない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "abec2aa60105",
+    "category": "matchup",
+    "topic": "マネージュ・ドレ後の前ステ対策",
+    "content": "マノンのマネージュ・ドレ後に前ステップをしてきた場合、マノン側が-2F有利なので、テリーは暴れることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのマネージュ・ドレ後の前ステップ",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:25",
+    "source_quote": "マネージュ・ドレの後、マノン側が前ステしてきたら-2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "457a29464b59",
+    "category": "defense",
+    "topic": "マノンの前ステへの暴れ",
+    "content": "マノンが前ステップをしてきたら、テリーは弱Pまたはしゃがみ中Pで暴れるのが得策。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの前ステップに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:30",
+    "source_quote": "前ステが見えたら小P or 2中Pで暴れるのが得策",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a8cd84d32c07",
+    "category": "matchup",
+    "topic": "マネージュ・ドレ後の強デガジェ対策",
+    "content": "マノンのマネージュ・ドレ後の強デガジェ（強K派生）がぴったり重なっている場合、テリーはジャストパリィポイント。遠いとしゃがみ中P強チャージが確定しないため、ファイアーキックで対応するのが安全。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのマネージュ・ドレ後の強デガジェ",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:35",
+    "source_quote": "マネージュ・ドレの強デガジェはぴったり重なっているのでジャスパポイント。遠いとしゃがみ中P強チャージが確定しないので、ファイアーキックが安全。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5f44ea7632f4",
+    "category": "matchup",
+    "topic": "前ステ→マネージュ・ドレに対するパリィ",
+    "content": "マノンの前ステップからのマネージュ・ドレ連携に対して、テリーのパリィは負ける（対策にならない）。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの前ステップ→マネージュ・ドレ連携に対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:45",
+    "source_quote": "パリィは前ステ→マネージュ・ドレには負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "378ae005fb2f",
+    "category": "matchup",
+    "topic": "ランヴェルセ後の確定反撃",
+    "content": "マノンのランヴェルセ後、マノン側が+15F有利となる。マノン側が前ステップをしてきた場合でも-6F有利なので、テリーはしゃがみ中Pを確定させることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのランヴェルセ後",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:49",
+    "source_quote": "ランヴェルセ後は+15F、前ステで-6Fなのでしゃがみ中P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e170a2b3e36",
+    "category": "defense",
+    "topic": "立ち中Pからのキャンセルラッシュ対策",
+    "content": "マノンの立ち中Pからのキャンセルドライブラッシュには、テリーはできる限りドライブリバーサルを出したい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち中Pからのキャンセルドライブラッシュに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:56",
+    "source_quote": "立ち中Pからのキャンセルラッシュには出来る限りDリバを出したい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c59622c4b15b",
+    "category": "matchup",
+    "topic": "キャンセルラッシュ弱Pへの注意",
+    "content": "マノンのキャンセルドライブラッシュからの弱Pは、テリーの技が確定しないことがあるので注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのキャンセルドライブラッシュからの弱Pに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:01",
+    "source_quote": "キャンセルラッシュ小パンには確定しないことがあるので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "91179f4810b6",
+    "category": "defense",
+    "topic": "立ち中Pラッシュ→しゃがみ中P引き大P対策",
+    "content": "マノンが立ち中Pドライブラッシュからしゃがみ中P引き立ち大Pまで入れ込んでくる場合、テリーは弱Pで割り込むことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの立ち中Pドライブラッシュ→しゃがみ中P引き立ち大Pに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:05",
+    "source_quote": "立ち中Pラッシュ→しゃがみ中P引き大Pまで入れ込んでくる場合、小パンで割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4cca3d988f3d",
+    "category": "defense",
+    "topic": "強デガジェ対策",
+    "content": "マノンの強デガジェ（強K派生）は、テリーは見てからジャストパリィを狙うのが基本。さらに頑張れたらドライブインパクトで対応できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの強デガジェに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:11",
+    "source_quote": "強デガジェは基本見てからジャスパ、頑張れたらインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5e227f0d70e0",
+    "category": "matchup",
+    "topic": "ロン・ポワン対空対策",
+    "content": "マノンのロン・ポワン（空中コマンド投げ）の対空技は発生が9Fからと遅いため、テリーは透かし飛びも有効な選択肢となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのロン・ポワンに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:20",
+    "source_quote": "ロン・ポワンでの対空は発生が9Fからと遅いため、透かし飛びも有り",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "35375d4a4aa3",
+    "category": "matchup",
+    "topic": "マノンのBO中のインパクト対策",
+    "content": "マノンはドライブラッシュ中攻撃しかバーンアウト中に確定ドライブインパクトを撃てないため、テリーは投げを意識してマノンの行動を読み切る必要がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンがバーンアウト中の場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:25",
+    "source_quote": "マノンはラッシュ中攻撃しかBO中に確定インパクトが撃てないため、投げを意識する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2bc99e3bd3f1",
+    "category": "matchup",
+    "topic": "小技ラッシュ対策",
+    "content": "マノンの小技ドライブラッシュは、テリーの弱Pでは割ることができない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの小技ドライブラッシュに対し",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:37",
+    "source_quote": "マノンの小技ラッシュは小パンでは割れない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bbeea5f2b352",
+    "category": "matchup",
+    "topic": "SA1後の有利フレーム",
+    "content": "マノンのスーパーアーツ1後は+7Fしかなく、マノン側が強デガジェ（強K派生）を重ねてきてもテリーの立ち中Pで割り込むことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのスーパーアーツ1ヒット後",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:40",
+    "source_quote": "SA1の後は+7Fしかなく、強デガジェ重ねも中Pで割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a472f469928b",
+    "category": "matchup",
+    "topic": "しゃがみ大K前ステ重ね",
+    "content": "マノンのしゃがみ大Kからの前ステップ後は+8F有利。テリーはマノンが微歩きから強マネージュ・ドレを重ねてくることに注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのしゃがみ大K前ステップ後",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:47",
+    "source_quote": "大足前ステで+8F、微歩きで強マネージュ・ドレが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2472915c11cc",
+    "category": "matchup",
+    "topic": "弱デガジェ後の重ね",
+    "content": "マノンの弱デガジェ（弱K派生）後は+21F有利。テリーはマノンが前歩きから中マネージュ・ドレを重ねてくることに注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンの弱デガジェ後",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:52",
+    "source_quote": "弱デガジェ後は+21F、前歩きで中マネージュ・ドレが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c4ef844c36fe",
+    "category": "matchup",
+    "topic": "ラッシュ立ち大P後の相打ち",
+    "content": "マノンのドライブラッシュ立ち大P後の立ち大Pがテリーの4F技と相打ちした場合、テリーのしゃがみ中Kは届かないが、しゃがみ大Kなら届く。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのドライブラッシュ立ち大P後の立ち大Pが4F技と相打ちした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:58",
+    "source_quote": "ラッシュ大P後の大Pが4Fと相打ちした場合、中足は届かないが大足なら届く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e628b3ba611",
+    "category": "matchup",
+    "topic": "ラッシュ立ち大P→立ち中K後の相打ち",
+    "content": "マノンのドライブラッシュ立ち大P→立ち中Kがテリーと相打ちした場合、相打ち後にテリーのしゃがみ中Kが届く。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "manon",
+    "situation": "マノンのドライブラッシュ立ち大P→立ち中Kが相打ちした場合",
+    "source_video_id": "-uhB4ySE9Ys",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのマノン対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:05",
+    "source_quote": "ラッシュ大P→中Kなら相打ち後に中足が届く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:38:50.073258",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

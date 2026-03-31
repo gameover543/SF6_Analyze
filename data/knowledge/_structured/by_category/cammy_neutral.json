@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "096488405e16",
+    "category": "neutral",
+    "topic": "小技連携のダメージと心理的効果",
+    "content": "小技連携は単発のダメージリターンが低い（約1600ダメージ）が、相手に継続的に小技をガードさせることで「ペチペチするな」という心理的なストレスを与え、次の行動を躊躇させることができる。これは中P重ねのダメージ（約3300ダメージ）と比較して低いが、ストレス効果は高い。",
+    "characters": [
+      "jamie",
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "固め連携の選択時",
+    "source_video_id": "bRN7fLvcGO8",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] I received a question about the tutorial video, so I'll explain the strength o...",
+    "source_timestamp": "05:22",
+    "source_quote": "小技の場合ってさ、1600しか減らないでしょ？安いじゃん。じゃあ中P重ねた方がいいじゃんって話なんだけど、目に見えないストレス数値みたいなのがあって、小技はストレス数値高いっす。こういう風にやられた方がウザいんだよね。ペチペチすんなって思ってます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:38:22.378562",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6b2c0194bc36",
+    "category": "neutral",
+    "topic": "択を増やす固め連携",
+    "content": "ジェイミーの固め連携（例: 屈弱P→立弱K→屈弱P）は、単調な連携だけでなく、微歩き投げ、ファジーコパン、流酔拳（無影蹴）、OD無影蹴といった択を混ぜることで相手に様々なプレッシャーを与え、ボタンを押すのを躊躇させる。これにより、相手は刻んでくる、投げにくる、暴れ潰しにくるなど、多岐にわたる択を意識する必要があるため、攻め側の択が倍々になっていく。",
+    "characters": [
+      "jamie",
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手のガードを固めて攻めを継続する時",
+    "source_video_id": "bRN7fLvcGO8",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] I received a question about the tutorial video, so I'll explain the strength o...",
+    "source_timestamp": "06:05",
+    "source_quote": "大袈裟に言うと刻むほど択が倍々に増えてくんだ。黙ってる読み兼ファジコパ狩りのコパ弱Kから微歩き立ち中Pとかまじ強い。こういうのもあるよね。じゃあコパンガードしたらコパン押そう とか思ってもこういうのがあったりするから。難しい択が。枝分かれするシーンがいっぱいある。小技から刻んで来たら自分もコパン連打してたらクラうっちゃうになるから、じゃあコパンガードした後黙っとこう とか思ってもこういうのがあったりするから。これもあるよな。じゃあこれの後も動いちゃダメだからじゃあ黙ってガードしとこうってなるとOD無影蹴でプラス取ってきたりするわけよ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:38:22.378562",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "340"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "36233111b2d0",
+    "category": "neutral",
+    "topic": "強アクセルスピンナックルの活用",
+    "content": "キャミィの強アクセルスピンナックルは弾抜け性能があり、相手に触れることができる。ヒットしてもガードされても強力な技であるため、弾キャラ相手だけでなく、弾を持たないキャラ相手にも積極的に使っていくと良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、弾を撃ってくる相手、ヒット時、ガード時",
+    "source_video_id": "kHFLmigEXP8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Cammy Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "00:24",
+    "source_quote": "この技は弾抜けをしながら、相手に触れることができ、さらにヒットしてもガードしても強いという、すごい技です。弾キャラ相手に特に強い技ですが、弾を持っていないキャラに対しても強い技です。ガンガン使いましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:30:01.788041",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "243499816201",
+    "category": "neutral",
+    "topic": "しゃがみ中足の活用とキャンセルラッシュ",
+    "content": "キャミィのしゃがみ中足はリーチが長いため、立ち回りで積極的に相手に押し付けていくべき。ガードされてもヒットしても、キャンセルラッシュを仕込んでおくと良い。ガード/ヒットの確認は不要で、とりあえずキャンセルラッシュまで入れ込んで良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、ガード時、ヒット時",
+    "source_video_id": "kHFLmigEXP8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Cammy Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "00:40",
+    "source_quote": "キャミィの立ち回りの強さを支える技の一つです。この技はリーチが他キャラより長めなので、この技をガンガン押し付けましょう。そして、中足にはもれなくキャンセルラッシュを入れ込みましょう。ガード時とかヒット時とかそんなめんどくさいこと考えなくてもいいです！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:30:01.788041",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "670c8a1b474a",
+    "category": "neutral",
+    "topic": "しゃがみ弱Kとしゃがみ中Kの牽制",
+    "content": "キャミィのしゃがみ弱Kとしゃがみ中Kは、火力が低いもののリーチが長く隙が少ないため、立ち回りの牽制技として非常に強力。これらの技で相手を画面端に追い詰めたり、ジャンプを誘ったりすることができる。立ち回りで迷ったら積極的に使用すると良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、牽制",
+    "source_video_id": "kHFLmigEXP8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Cammy Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "01:03",
+    "source_quote": "この2つの技は使い方としてほぼ同じだけど2つとも強い技なので一気に紹介します。この技は火力が少ない代わりに、リーチが長く、隙も少ないので牽制技として、とても強いです。その隙の少なさとリーチの長さを生かして、相手を画面端に追い詰めたり、ジャンプを誘ったりすることができます。立ち回りで困ったら、とりあえずこの技を振りましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:30:01.788041",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6344b8de0370",
+    "category": "neutral",
+    "topic": "しゃがみ強Kのパニカンリターン",
+    "content": "キャミィのしゃがみ強Kは隙が大きいが、パニッシュカウンター時はリターンが大きい。しゃがみ弱K/中Kとの使い分けは最初は難しいため、まずは気分で使い分けて慣れると良い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、パニッシュカウンター時",
+    "source_video_id": "kHFLmigEXP8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Cammy Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "01:23",
+    "source_quote": "N強は隙が少し大きくなってしまいますが、その代わりにパニカンしたときのリターンがでかい技となります。この2つを使い分けるのは、最初は難しいので適当に気分で振っちゃいましょう。そのうち使い分け方が分かるとお思います",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:30:01.788041",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "204"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "096488405e16",
+    "category": "neutral",
+    "topic": "小技連携のダメージと心理的効果",
+    "content": "小技連携は単発のダメージリターンが低い（約1600ダメージ）が、相手に継続的に小技をガードさせることで「ペチペチするな」という心理的なストレスを与え、次の行動を躊躇させることができる。これは中P重ねのダメージ（約3300ダメージ）と比較して低いが、ストレス効果は高い。",
+    "characters": [
+      "jamie",
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "固め連携の選択時",
+    "source_video_id": "bRN7fLvcGO8",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] I received a question about the tutorial video, so I'll explain the strength o...",
+    "source_timestamp": "05:22",
+    "source_quote": "小技の場合ってさ、1600しか減らないでしょ？安いじゃん。じゃあ中P重ねた方がいいじゃんって話なんだけど、目に見えないストレス数値みたいなのがあって、小技はストレス数値高いっす。こういう風にやられた方がウザいんだよね。ペチペチすんなって思ってます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:38:22.378562",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6b2c0194bc36",
+    "category": "neutral",
+    "topic": "択を増やす固め連携",
+    "content": "ジェイミーの固め連携（例: 屈弱P→立弱K→屈弱P）は、単調な連携だけでなく、微歩き投げ、ファジーコパン、流酔拳（無影蹴）、OD無影蹴といった択を混ぜることで相手に様々なプレッシャーを与え、ボタンを押すのを躊躇させる。これにより、相手は刻んでくる、投げにくる、暴れ潰しにくるなど、多岐にわたる択を意識する必要があるため、攻め側の択が倍々になっていく。",
+    "characters": [
+      "jamie",
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手のガードを固めて攻めを継続する時",
+    "source_video_id": "bRN7fLvcGO8",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] I received a question about the tutorial video, so I'll explain the strength o...",
+    "source_timestamp": "06:05",
+    "source_quote": "大袈裟に言うと刻むほど択が倍々に増えてくんだ。黙ってる読み兼ファジコパ狩りのコパ弱Kから微歩き立ち中Pとかまじ強い。こういうのもあるよね。じゃあコパンガードしたらコパン押そう とか思ってもこういうのがあったりするから。難しい択が。枝分かれするシーンがいっぱいある。小技から刻んで来たら自分もコパン連打してたらクラうっちゃうになるから、じゃあコパンガードした後黙っとこう とか思ってもこういうのがあったりするから。これもあるよな。じゃあこれの後も動いちゃダメだからじゃあ黙ってガードしとこうってなるとOD無影蹴でプラス取ってきたりするわけよ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:38:22.378562",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "340"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "54cf7337c07c",
+    "category": "neutral",
+    "topic": "奇襲技での接近と攻め",
+    "content": "キャミィは相手の意表を突いて接近する奇襲技が豊富。↓＋必殺技のフーリガンコンビネーション、前ジャンプ＋必殺技のキャノンストライク、←＋必殺技のアクセルスピンナックル、スパイラルアロー（必殺技）など。これらの技は当たればダウンを奪え、起き攻めに繋げられる。OD版アクセルスピンナックルは弾抜け性能も持ち、発生も早いため、飛び道具持ちの相手への接近手段として非常に有効。ただし、OD版アクセルスピンナックルはガードされると相手が有利になるので注意。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "04:41",
+    "source_quote": "奇襲技が豊富。キャミィは相手の意表をついて接近する奇襲技が豊富にあるのだ。↓＋必殺技のフーリガンコンビネーション、【前ジャンプ＋必殺技】のキャノンストライク、【←＋必殺技】のアクセルスピンナックル、コンボでお世話になるスパイラルアロー（必）も、離れた位置から一気に接近するという意味では奇襲に該当するのだ。ざっと挙げただけで4つ。しかもどれも当たればダウンからの起き攻めが狙える。ここでも攻めの継続のしやすさが生きるのだ。特にオススメなのが強アクセルスピンナックル。当たれば弱パンチからのコンボでダウン奪えて起き攻めが可能。しかもガードされてもこちらが有利という高性。また弾抜けもできるので、弾ばかり撃つ相手への接近手段としても役立つ。OD版は発生が早くなりさらに弾抜けもしやすくなる。その代わりガード後は相手が有利なのでそこは注意なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "317",
+      "323",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "51b0a6254705",
+    "category": "neutral",
+    "topic": "低空キャノンストライクの活用",
+    "content": "モダン操作では、前ジャンプの瞬間に必殺技ボタンを押すだけで低空キャノンストライクが簡単に出せる。この技は、中攻撃が当たるかどうかの距離で奇襲気味に出すと強力。相手はしっかり見ていないと対応が難しく、当たれば小攻撃から中スパイラルアローのコンボに繋げて起き攻めに移行し、得意な近距離戦に持ち込める。ガードされた場合でも、当たる場所が相手の足元に近いほど反撃を受けにくくなる。特に相手の腰より低い位置で当てるのがおすすめ。画面端に追い込まれて起き攻めを受けている際には、相手の投げを読んでの低空ODキャノンストライクが切り札となる。ジャンプで投げを避けつつ、相手の投げスカリモーション中に攻撃を当てることができ、うまくいけばコンボまで繋げて起き攻めまで可能。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "05:50",
+    "source_quote": "前ジャンプ中に必殺技ボタンを押すことでキャノンストライクという必殺技が出るんだけど、これの低空版がモダンだと簡単に出せるのだ。前ジャンプした瞬間にボタン押すだけ。確かかなり簡単だな。中攻撃が当たるかどうかの距離で奇襲気味に出すと強い。しっかり見ていないとまず落とせないのだ。当たっていたら小攻撃から中スパイラルアローのコンボに繋げて起き攻め可能。キャミィの得意な至近距離まで一気に持っていける。ガードされていた場合についてなんだけど、キャノンストライクは当たる場所が相手の足元に近いほど反撃を受けにくくなり、腰より低い位置ならこちらが先に動けることが多いのだ。なので状況にもよるけどキャノンストライクを当てる場合、なるべく相手の腰より低い位置がおすすめなのだ。あとこれはかなり限定的な状況だけど、画面端に追い込まれて起き攻めをくらっている時、相手の投げを読んでの低空ODキャノンストライクが切り札として使えるのだ。ジャンプで投げを避けつつ、相手の投げスカリモーション中に攻撃が当たる。うまくいけばコンボまでつなげて起き攻めまでついてくる。一発逆転を狙って使う価値は十分ある。しかもOD版であればガードされても反撃を受けづらいのだ。画面端での投げ重ねは結構多いからな。緊急脱出用に頭の片隅に入れておくといいぞ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "323",
+      "324"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6a1fdaff3a1e",
+    "category": "neutral",
+    "topic": "牽制と上からの攻め",
+    "content": "中攻撃や強攻撃の先端部分を当てることで、相手を牽制し、動きを制限させる。当たればダメージが取れ、ガードされても相手のドライブゲージを削れる。相手が牽制で動かなくなったら、意表を突いたタイミングでジャンプ攻撃を仕掛けて上からの攻めを狙う。特にジャンプ弱攻撃は相手の裏に回って当たるため、ガード方向が逆になり対処しづらくなる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "12:19",
+    "source_quote": "まずは中攻撃や強攻撃で牽制して相手を動ぎづらくするのだ。相手が動かなくなったらい表を付いたタイミングで上からの攻めを狙っていく。上からの攻めはジャンプ弱攻撃がおすすめ。相手の裏に回って当たるのでガード方向が逆になり対処しづらくなる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f5ee42ede9a",
+    "category": "neutral",
+    "topic": "空中からの攻め",
+    "content": "キャミィは空中からの行動が強力です。通常のジャンプ攻撃とキャノンスパイク（ストライク）を使い分けましょう。キャノンスパイク（ストライク）を頻繁に見せることで、相手が対空を警戒し、通常のジャンプ攻撃が通りやすくなります。特に低空でキャノンスパイク（ストライク）を出すことを意識しましょう。これによりガードされても有利フレームを取れるため、攻めを継続しやすくなります（例: ガード時+1F, +5F, +6F, +8Fなど）。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手との距離がある時、攻めを仕掛ける時",
+    "source_video_id": "AMphCRWwn3k",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】Year2版『キャミィの使い方』を解説!初心者におすすめのコンボや起き攻め、強い技や行動を紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "02:17",
+    "source_quote": "キャミィといえばジャンプでしょ。上からの行動が強いっていうのがキャミィのコンセプトになってます。基本的には通常のジャンプとキャノンスパイク、この2つをね使い分けていくような感じになります。キャノンスパイクを見せることで対空難しいんで通常のジャンプも通せるようになるみたいな感じだと大丈夫です。なるべく低空のストライクを心がけよう。ガードさせてもこっちが有利フレーム取れるようになるんで、低い位置で出せるようにする練習をしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:13:16.982927",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3400f46cbb5",
+    "category": "neutral",
+    "topic": "ストライクの使い分け",
+    "content": "ストライクは通常版よりもOD版を積極的に使いましょう。通常版は高い位置で当てると-5Fとなり確定反撃を受けるリスクがありますが、OD版は高い位置で当たっても-2Fと反撃を受けにくいため安全です。また、低めに当てた際の有利フレームがOD版の方が大きいため、より強力なコンボに繋げやすい利点もあります。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "空中からの攻め、ストライク使用時",
+    "source_video_id": "AMphCRWwn3k",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】Year2版『キャミィの使い方』を解説!初心者におすすめのコンボや起き攻め、強い技や行動を紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "02:58",
+    "source_quote": "通常版のストライクは高い位置で当てると確定反撃をくらうので注意。足元を狙っていきたい。まぁむずいから最初はODで。ODはね基本的に高い位置で当たってもこうやってマイナス2とかになんで、安心して撃つことができる。このキャノンスパイクね低めで当てることができると、プラス6とかねプラス5とかね、なんだったらプラス8とか取れるようになってるんで、もちろんコンボに行けます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:13:16.982927",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7336e598f85c",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの置き技",
+    "content": "しゃがみ中Pは発生が早くリーチが長く、空振っても見てから差し返しが非常に難しい高性能な技です。相手に当たらないギリギリの位置でとりあえず置きまくりましょう。ヒット時はラッシュに繋いでコンボに移行できます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "中距離での牽制、攻め継続",
+    "source_video_id": "AMphCRWwn3k",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】Year2版『キャミィの使い方』を解説!初心者におすすめのコンボや起き攻め、強い技や行動を紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "04:03",
+    "source_quote": "しゃがみ中P、これがね最強です。何が強いかっていうと、ま、空振っても見てから差し返しが難しいんですよ。全キャラ中でも屈指の高性能。しかもめちゃめちゃ長いんですよ。これをとりあえず置きまくる、これ最強です。ま、一応ヒット確認もできるんですけど、ま、難しいと思うんでとりあえずこうやってしゃがみ中Pにラッシュ仕込んでおく。これで当たった時にコンボいけるんで。これね、もう最強なんで。相手に当たらない位置でとにかく置きまくりましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:13:16.982927",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba27519623ca",
+    "category": "neutral",
+    "topic": "しゃがみ中Kの置き技",
+    "content": "しゃがみ中Kはリーチが長く、足が速いので当てやすい強力な技です。しゃがみ中Pと同様に、見てから差し返しが難しいため、積極的に使っていきましょう。Dゲージに余裕がある場合は、しゃがみ中Kヒット時にラッシュを仕込んでコンボに移行しましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "中距離での牽制、攻め継続",
+    "source_video_id": "AMphCRWwn3k",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】Year2版『キャミィの使い方』を解説!初心者におすすめのコンボや起き攻め、強い技や行動を紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "04:51",
+    "source_quote": "続いて強いのが中足。しゃがみ中キックですね。しゃがみ中キックもめちゃ長いんすよ。めちゃ長いしキャミィって足が速いキャラクターなんで当てやすいわけね。もちろんね中足ラッシュがあるんで、ODゲージいっぱいあるなっていう時はこうやってね歩いて中足ラッシュを当てにいくってのが強いですね。しゃがみ中Kも見てから差し返しが難しい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:13:16.982927",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3466875b86f1",
+    "category": "neutral",
+    "topic": "地上戦での牽制と攻め",
+    "content": "主に立ち弱P、立ち弱K、立ち中K、しゃがみ中K、立ち強Kを使用して地上戦を組み立てる。モダンタイプの場合、立ち弱Kとしゃがみ中Pが使えないため、立ち弱Kの代わりに立ち弱Pやしゃがみ弱Pを使用する。相手の牽制技を潰すようにキャノンストライクを撃っていく。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "KZ193ZLkfq4",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6キャミィ使い必見】クラシックキャミィの使い方徹底解説！#ストリートファイター6#攻略",
+    "source_timestamp": "00:31",
+    "source_quote": "主に立弱P、立弱K、立中K、しゃがみ中K、立強Kをまいて地上戦\nモダンは立弱K、しゃがみ中Pが使えないから立弱Kの代わりに立弱Pやしゃがみ弱Pを使おう\nそこに、対応しようとしてくる牽制技を潰すようにストライクを打っていく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:13:07.100677",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "103",
+      "105",
+      "106",
+      "108",
+      "109",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d5b2bfc17c68",
+    "category": "neutral",
+    "topic": "弱アクセルスピンナックルでのライン上げ",
+    "content": "立ち強Pやしゃがみ中Pから弱アクセルスピンナックルへ繋ぐことで、ラインを上げやすく、相手の対応を困難にするためおすすめ。相手が弱アクセルスピンナックルを止めようとして失敗しカウンターになった場合、立ち弱P→立ち弱K→中スパイラルアローが繋がる。ただし、しっかり対応できる相手には注意が必要。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "地上戦、ラインを上げたい時",
+    "source_video_id": "KZ193ZLkfq4",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6キャミィ使い必見】クラシックキャミィの使い方徹底解説！#ストリートファイター6#攻略",
+    "source_timestamp": "01:45",
+    "source_quote": "立強Pやしゃがみ中Pから弱アクセルスピンナックルもラインを上げやすく、対応も難しいからおすすめ\n弱アクセルスピンナックルを止めようとして失敗した場合カウンターになって立弱P→立弱K→中アローがつながる！\nただししっかり対応できる人には痛い目をみるから気をつけよう！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:13:07.100677",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "104",
+      "108",
+      "301",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c7973c96a5f4",
+    "category": "neutral",
+    "topic": "生ドライブラッシュ後の連携と崩し",
+    "content": "生ドライブラッシュ後は立ち弱P（ガード時+2F）または立ち中P（ガード時+3F）が良い。ガードされた場合は有利フレームを利用して投げ、投げ潰し、シミーなどで崩しを狙う。ヒット時はコンボへ移行する。生ドライブラッシュはドライブゲージ1本で相手に楽に近づけるため、お得な選択肢となる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "生ドライブラッシュ後",
+    "source_video_id": "KZ193ZLkfq4",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6キャミィ使い必見】クラシックキャミィの使い方徹底解説！#ストリートファイター6#攻略",
+    "source_timestamp": "02:49",
+    "source_quote": "生ドライブラッシュ後は立弱P、立中Pがいいかな\nガード時に立弱P+2、立中P+3だしね\nガードされた場合は有利が取れてるから投げにいったり投げ潰ししたり、シミーしたり崩しにいくといい！\nヒットしている場合にはコンボをしたい！\nドライブゲージを1つしか使わず楽に相手に近づきやすいからおとく",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:13:07.100677",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba175d1c0df4",
+    "category": "neutral",
+    "topic": "ODキャノンストライクでの接近",
+    "content": "ODキャノンストライクは非常に速い空中攻撃であり、キャミィが相手に接近するための有効な武器となるため、積極的に使っていくべき。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手への接近",
+    "source_video_id": "KZ193ZLkfq4",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6キャミィ使い必見】クラシックキャミィの使い方徹底解説！#ストリートファイター6#攻略",
+    "source_timestamp": "04:18",
+    "source_quote": "三つ目はね、ODキャノンストライク\nめちゃくちゃ速い飛び攻撃\nキャミイが近づきやすい武器だから使っていきたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:13:07.100677",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323",
+      "324"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "04b58dab8d89",
+    "category": "neutral",
+    "topic": "立ち中K牽制",
+    "content": "立ち中Kは発生8Fで非常にリーチが長く、相手が攻めたい時に置いておくと強力な牽制として機能する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手の接近を牽制したい時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "02:04",
+    "source_quote": "1つ目が立ち中キック。これね、かなり強いし、相手が攻めたい時に置いておくとかなり強い牽制として機能します",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0a1f028e8f61",
+    "category": "neutral",
+    "topic": "立ち強K牽制",
+    "content": "立ち強Kはガードさせるだけで相手のODゲージを約0.6本削れる強力な牽制技。当てなくてもガードさせればゲージ削りとして機能するが、全体フレームが立ち中Kより4F長いため、飛びやインパクトで確定反撃をもらうリスクがある。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手のドライブゲージを削りたい時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "02:14",
+    "source_quote": "2つ目が立ち強キック。この技はガードさせた時にODゲージを0.6本ほど削れる。この技はガードさせるだけでOK。これを振ってるだけで相手はかなり嫌な気分になる。ただこの技は中Kと比べると全体フレームが4F長いので飛びやインパクトが確定してしまうリスクが少し高い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a8f3b6014048",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの置き",
+    "content": "しゃがみ中Pは置き技として強く、相手に当たらないくらいの距離で振っておくと良い。キャンセルドライブラッシュを仕込んでおくことで、ヒット時にラッシュへ移行し、立ち中P＞しゃがみ強P＞しゃがみ中P＞強スパイラルアローなどのコンボへ繋げられる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回りでの置き技、ヒット時のコンボ",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "03:21",
+    "source_quote": "キャミィの強い置き技がしゃがみ中パンチ。これがね、結構強くて相手に当たらないくらいの位置で振っておくと強い！この起きしゃがみ中Pにキャンセルラッシュを仕込んでおく。相手に当たった時にラッシュが出て、あとはさっきと（中足ラッシュヒット時と）同じコンボにいけます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "109",
+      "110",
+      "303",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ccb43fddea4",
+    "category": "neutral",
+    "topic": "ODキャノンストライクの活用",
+    "content": "キャノンストライクは特にOD版が強い。ゲージがある時は積極的にODストライクを使う。なぜなら、通常のキャノンストライクは高めでガードされると確定反撃をもらってしまう（マイナス5Fや6F）が、OD版なら高めで当たっても基本的に確定反撃をもらわない（マイナス2F）。キャノンストライクの調整が難しいと感じる場合は、OD版を使うのがおすすめ。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手を空中から攻める時、ドライブゲージがある時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "04:10",
+    "source_quote": "特にODストライクが強い！ゲージがある時はODストライクがおすすめ。なぜOD版が良いかというと、通常ストライクを高めでガードされると確定反撃をもらってしまう。ODなら高めであたっても基本的に確定反撃をもらいません。ストライクの調整が最初は難しいと思うのでODを使うのがおすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7661dad9a0c3",
+    "category": "neutral",
+    "topic": "アクセルスピンナックルでの弾抜け",
+    "content": "アクセルスピンナックルは中、強、OD版が弾抜け可能。ケンやリュウのような弾持ちキャラに対しては、弾を見てからODアクセルスピンナックルで抜けるのがおすすめ。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "相手が波動拳などの飛び道具を撃ってきた時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "05:11",
+    "source_quote": "スピンナックルは中、強、ODが弾抜け可能になっています。ケンやリュウの弾なら見てから抜けることができます。見てから弾抜けを狙うならODでやるのがおすすめ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50cdcb058bc7",
+    "category": "neutral",
+    "topic": "ODナックル画面端裏回り",
+    "content": "ODアクセルスピンナックルは、密着状態から発動すると画面端でも相手の裏に回ることができる。ヒット時は有利フレームが+7Fなので、しゃがみ中Pから強スパイラルアローへ繋げる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "画面端密着時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "05:46",
+    "source_quote": "ODナックルは密着から打つと画面端でも相手の裏に回ります。当たったら2中P→強アロー。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "303",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "afe2277cfe8c",
+    "category": "neutral",
+    "topic": "アシスト弱攻撃の性能と活用",
+    "content": "アシスト弱攻撃（しゃがみ弱K）は発生が早く（5F）、1発目が下段攻撃であるため立ちガードを崩しやすいです。ヒット時は運び性能があり、起き攻めにも移行できます。ガードされても-2Fと隙が少なく安全です。モダンキャミィの非常に強力な技であり、試合の全てと言えるほど重要です。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、起き攻め",
+    "source_video_id": "1oDEiEXdsqY",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6/SF6】技3つでプラチナに行けるモダンキャミィ解説【超初心者向け】",
+    "source_timestamp": "01:13",
+    "source_quote": "アシスト弱がモダンキャミィの全て。最強の技です。発生が早い（5F）。1発目が下段。運び＆起き攻め可能。ガードされても2発で止まる。ガード時の隙が少ない (-2F)。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:12:10.251198",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b060ba1e2a10",
+    "category": "neutral",
+    "topic": "アクセルスピンナックルの活用",
+    "content": "アクセルスピンナックル（←SP）は相手に接近するための突進技です。弾抜け性能があり、飛び道具を持つ相手に対して特に有効です。ガードされても-2Fと安全なので、相手の読みを外しながら近距離戦に持ち込むことができます。特にガイルのソニックブームに対しては強力な弾抜けとして機能します。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "guile",
+    "situation": "中距離での差し合い、飛び道具対策",
+    "source_video_id": "1oDEiEXdsqY",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6/SF6】技3つでプラチナに行けるモダンキャミィ解説【超初心者向け】",
+    "source_timestamp": "01:56",
+    "source_quote": "アクセルスピンナックル（←SP）。ガードされても有利。弾抜けができる。目標の近距離戦にもっていける。←SPは打撃に弱い。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:12:10.251198",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8fcc0f3b5788",
+    "category": "neutral",
+    "topic": "中・強攻撃の活用",
+    "content": "キャミィの中・強攻撃（例: 立ち強P、しゃがみ中K）はリーチが長く、近中距離での差し合いに優れています。ガードされても相手のドライブゲージを大きく削ることができるため、プレッシャーをかけるのに有効です。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "近中距離での差し合い",
+    "source_video_id": "1oDEiEXdsqY",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6/SF6】技3つでプラチナに行けるモダンキャミィ解説【超初心者向け】",
+    "source_timestamp": "03:26",
+    "source_quote": "中＆強攻撃。そこそこリーチがある。近中距離（差し合い）振ると強い。ガードされてもDゲージ削れる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:12:10.251198",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60a16702e484",
+    "category": "neutral",
+    "topic": "キャノンストライクの活用",
+    "content": "前ジャンプから繰り出すキャノンストライク（前J+SP）は、相手の足元を狙って当てることで、ガードされてもキャミィが有利フレームを取れる強力な技です。相手の地上ガードを揺さぶる手段として活用しましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ攻撃時、相手の地上ガードを崩す",
+    "source_video_id": "1oDEiEXdsqY",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6/SF6】技3つでプラチナに行けるモダンキャミィ解説【超初心者向け】",
+    "source_timestamp": "04:32",
+    "source_quote": "前ジャンプ+SP。相手キャラの足元を狙う。ガードされてもキャミイ有利。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:12:10.251198",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c608e274402",
+    "category": "neutral",
+    "topic": "しゃがみ中Kの置き方と抑止力",
+    "content": "キャミィのしゃがみ中K（2中K）は、相手との距離が近いと相手の中足と相打ちになってしまうため、先端で当てることを意識しましょう。特に画面端で相手が脱出のために中足ラッシュを狙ってくる場合、そこにしゃがみ中Kを置くことで効果的に刺し返すことができます。この連携を一度見せるだけで、相手は安易に技を振れなくなり、投げや生ラッシュなどの別の択が通りやすくなります。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "地上での差し合い、画面端の状況",
+    "source_video_id": "CaFgpyN9XCA",
+    "source_channel": "MEYOちゃんねる",
+    "source_video_title": "スト６　キャミィ 自動差し返し！？　セットプレイにしてみる　仕込みODスピンナックル SF6",
+    "source_timestamp": "00:37",
+    "source_quote": "距離が近いと相手の中足に当たってしまうので遠目で当てること\n相手も画面端を脱出するため中足ラッシュしたいはずなので刺さります\nこれを見せるだけで相手も技を気軽に触れなくなります\nそしたら今度は投げや生ラッシュが通るようになります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:41:45.216759",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8867affd53bd",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの置き方",
+    "content": "キャミィのしゃがみ中P（2中P）はリーチが短いため、先端で当てることを意識しなくてもヒットさせることができます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "地上での差し合い",
+    "source_video_id": "CaFgpyN9XCA",
+    "source_channel": "MEYOちゃんねる",
+    "source_video_title": "スト６　キャミィ 自動差し返し！？　セットプレイにしてみる　仕込みODスピンナックル SF6",
+    "source_timestamp": "01:01",
+    "source_quote": "こちらはリーチが短いので先端気味でなくてもいけます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:41:45.216759",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "769d1968bb2a",
+    "category": "neutral",
+    "topic": "キャミィの足元当てキャノンストライク",
+    "content": "キャミィのキャノンストライクを相手の足元に当てると、ガード後に+3Fの有利フレームを取ることができます。これにより、攻めを継続することができます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "キャノンストライクが相手の足元にヒット時",
+    "source_video_id": "7bggzRpPLDw",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「キャミィ」対策【スト6】",
+    "source_timestamp": "02:39",
+    "source_quote": "有利フレーム技 キャノンストライク 足元当て",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:48:45.467042",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "efd686023a7e",
+    "category": "neutral",
+    "topic": "キャミィのしゃがみ強Pの有利フレーム",
+    "content": "キャミィのしゃがみ強Pはヒット時に+1Fの有利フレームを取ることができます。これにより、連携や攻めを継続することができます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "キャミィのしゃがみ強Pがヒット時",
+    "source_video_id": "7bggzRpPLDw",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「キャミィ」対策【スト6】",
+    "source_timestamp": "02:56",
+    "source_quote": "有利フレーム技 屈強P +1F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:48:45.467042",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bf117087a449",
+    "category": "neutral",
+    "topic": "キャミィの強アクセルスピンナックルの有利フレーム",
+    "content": "キャミィの強アクセルスピンナックルはヒット時に+3Fの有利フレームを取ることができます。これは大きな有利なので、次の行動に繋げやすいです。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "キャミィの強アクセルスピンナックルがヒット時",
+    "source_video_id": "7bggzRpPLDw",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「キャミィ」対策【スト6】",
+    "source_timestamp": "03:11",
+    "source_quote": "有利フレーム技 強アクセルスピンナックル +3F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:48:45.467042",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc7656ff48ef",
+    "category": "neutral",
+    "topic": "キャミィのレイザーエッジスライサーの有利フレーム",
+    "content": "キャミィのレイザーエッジスライサーはヒット時に+2Fの有利フレームを取ることができます。これにより、起き攻めや攻めを継続することができます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "キャミィのレイザーエッジスライサーがヒット時",
+    "source_video_id": "7bggzRpPLDw",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「キャミィ」対策【スト6】",
+    "source_timestamp": "03:21",
+    "source_quote": "有利フレーム技 レイザーエッジスライサー +2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:48:45.467042",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "320"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f632cca78888",
+    "category": "neutral",
+    "topic": "画面端の鳥かご維持",
+    "content": "相手を画面端に追い詰めた際、安易に近づきすぎず、立ち中Pなどヒット・ガード後に少し距離が離れる技を活用して、相手がバックジャンプで逃げ出しにくい「鳥かご」の距離を維持する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端に追い詰めた状況",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "05:38",
+    "source_quote": "こういうのって大事なのが攻撃を重ねるじゃん。でガードされたガードされたつまり卓が通らなかったっていう形になるんだけど、そん時にこうやってこれくらいこうやってちょっと距離が離れられる技が強い。鳥かごの距離になれる行動が強いんだよね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "30fb04044de8",
+    "category": "neutral",
+    "topic": "画面端の詰め方",
+    "content": "相手を画面端に追い詰めた際は、焦って攻めず、間合いを詰めずに相手の行動を見る時間を作る。相手がバックジャンプで逃げようとしたら、強スパイラルアローで落とすなど、昇龍拳を持つキャラとしてしっかり対処する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端に追い詰めた状況",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "10:41",
+    "source_quote": "ここは、鳥かごみたいにしてこんな感じでここらへんここらへんで鳥かごみたいにしててま普通に画面端のやり取りなんですけど。こういう相手の苦し紛れのバックジャンプをこうやってしっかり強スパとかで落としたい。これまず大事。昇竜を持つものとしてそこは大事。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ac63a7572d3",
+    "category": "neutral",
+    "topic": "地上でのプレッシャーと飛びの使い分け",
+    "content": "地上戦で小技や中技を刻みつつ、相手が地上で応戦してきたらストライクで踏みつけ、相手が我慢しきれずにジャンプしたら昇龍拳で迎撃する。相手に技を振らせてからストライクで踏む動きが強い。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "画面端での立ち回り",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "12:10",
+    "source_quote": "応戦するのをキャミイはこういうフリフレームからストライクで踏めるってのがルール違反してる一番の強さなんで。振って振ってあっちにも応戦させてからこうやって踏む。この流れを使いたいです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11e0e2c98408",
+    "category": "neutral",
+    "topic": "飛びと中空ストライクの使い分け",
+    "content": "相手が垂直ジャンプ大Pなどの対空技を置いてくる場合、通常飛びだけでなく、飛び上がってすぐにストライクを出す中空ストライクを混ぜることで、相手の対空を機能させにくくする。この使い分けが重要。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "対空が強力な相手との攻防",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "09:47",
+    "source_quote": "飛び上がってすぐストライク打つだけじゃなくてこういうので足元を狙っていくってのもいいと思います。これだけじゃなくてね。で通常飛びもしかり使う。通常飛びの方がもう通した時ガードの上からでも強いから。通常飛びをやるっていう選択肢をある程度持っておかないとストライクに対してパリーをやるっていう相手に対してかなりリスクを負わせづらいので通常飛びはしっかり使っていきたい。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e496b34aeaa2",
+    "category": "neutral",
+    "topic": "ドライブゲージ温存時の画面端攻め",
+    "content": "ドライブゲージが少ない時や温存したい時は、立ち中Pをベースにした攻めを推奨。立ち中P重ねがノーマルヒットで繋がらない相手には、歩いて投げを狙ったり、歩いて下がって仕切り直すなど、地上戦で相手を揺さぶる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブゲージが少ない時",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "19:08",
+    "source_quote": "ゲージない時とかで温存したい時はこうやって立ち中P重ねねをベースに。これをベースに立ち中P重ねを食らわないんだったらこうやって歩き投げとか。で両方食らわないんだったらやっぱり歩いててゴーンとか。で、もしくは歩いて下がって仕切り。歩いて下がって仕切りにしつつ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "41c646989fff",
+    "category": "neutral",
+    "topic": "画面端でのにらみ合いと攻防の選択",
+    "content": "画面端で相手とのにらみ合いが続いた場合、むやみに飛びで攻めるのではなく、地上戦で相手の行動を誘いつつ、投げや歩きで揺さぶる。相手に地上での技振りを促し、そこをストライクで踏む、あるいは飛びを誘って対空する、といった流れを作る。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "画面端でのにらみ合い",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "16:11",
+    "source_quote": "でま、ここまではしゃがみ中Pラッシュ、中足ラッシュあたりの攻めを駆使してみて下さい！もうちょい攻めなくともいいっていうのを頭に入れてリーサル狙うといいかも",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81be68c6039a",
+    "category": "neutral",
+    "topic": "中空ストライクへの対処",
+    "content": "相手のバックジャンプに対して強スパイラルアローで対空することは基本だが、相手が中空ストライクでタイミングをずらしてきた場合は、しゃがみ大Pなどの対空技が機能しにくくなるため、地上での他の選択肢（例：インパクト、投げ）も視野に入れる必要がある。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "相手が中空ストライクを混ぜてくる場合",
+    "source_video_id": "xKNlTaqhHsc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "That attack at the edge of the screen is quickly escaping because of...! Tips and ideas for creat...",
+    "source_timestamp": "09:41",
+    "source_quote": "こういう中空ストライクを混ぜるともうしゃがみ大Pじゃどうにもならなくなっちゃうんで。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:18:33.488499",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

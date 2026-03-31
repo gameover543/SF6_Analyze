@@ -1,0 +1,393 @@
+[
+  {
+    "id": "1b33494a811c",
+    "category": "combo",
+    "topic": "SA2後のラッシュ",
+    "content": "サガットのSA2レイド後のラッシュ攻撃は場受け(投げ)でSA1が確定する。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "SA2レイド後、相手がラッシュで近づいてきた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:00",
+    "source_quote": "SA2レイド後のラッシュは場受けでSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6196e5252cc9",
+    "category": "combo",
+    "topic": "SA2入れ替え後のラッシュ",
+    "content": "サガットのSA2入れ替え後のラッシュ攻撃は場受け(投げ)でSA1が確定する。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "SA2入れ替え後、相手がラッシュで近づいてきた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:09",
+    "source_quote": "SA2入れ替え後のラッシュは場受けでSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68b8af8b00bd",
+    "category": "combo",
+    "topic": "SA3後のラッシュ",
+    "content": "サガットのSA3後のラッシュ攻撃はSA1またはSA3が確定する。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "SA3後、相手がラッシュで近づいてきた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:17",
+    "source_quote": "SA3後のラッシュはSA1・SA3確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "406"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe42b8314dd5",
+    "category": "neutral",
+    "topic": "サガットの得意な距離と技",
+    "content": "サガットは中距離（テリーの技が届かないが、タイガーアッパーカットと弱タイガーニーが先端で当たる距離）が得意。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "中距離での立ち回り",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:02",
+    "source_quote": "この距離がサガットの得意な距離、相手の技は届かないがステローと弱ニーが先端で当たる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ad5f750dc266",
+    "category": "neutral",
+    "topic": "サガットのタイガーアッパーカットのリスク",
+    "content": "サガットのタイガーアッパーカットがヒットしたとしてもその後の連携はないので、相手にスカさせた場合の期待値の方が高い。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットのタイガーアッパーカットを相手が振ってきた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:42",
+    "source_quote": "ステローが当たったとしてもその後何もないので、スカせた時の期待値が上回る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dcaab8f4f1a",
+    "category": "matchup",
+    "topic": "サガットの弱ネクサス・ローのリーチ",
+    "content": "サガットのしゃがみ弱P、立ち弱Pからの弱ネクサス・ローは、相手に届かない。ただし、立ち中Pからのネクサス・ローは届く。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットがしゃがみ弱P、立ち弱Pから弱ネクサス・ローを出した時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:12",
+    "source_quote": "コアコパ立ちコパからの弱ネクサスは届かない（中Pは届く）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6ab3bd13caa3",
+    "category": "general",
+    "topic": "サガット側の読みと対処の難しさ",
+    "content": "前投げからのラッシュ後の行動は、サガット側が読みを通そうとしても、対処を咎めるのはかなり難しい。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "前投げからのラッシュ後の読み合い",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:48",
+    "source_quote": "サガット側が読んでいたとしても咎めるのは結構たいへん",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "73038a680570",
+    "category": "matchup",
+    "topic": "サガットのラッシュ強ネクサス・ローのリーチ",
+    "content": "サガットのラッシュ強ネクサス・ローは、前投げからの起き攻めで当たらない。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "前投げからのラッシュ後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:01",
+    "source_quote": "ラッシュ強ネクサスは当たらない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "53a4e941efd6",
+    "category": "matchup",
+    "topic": "サガットのラッシュ中ネクサス・ローの脅威",
+    "content": "サガットのラッシュ中ネクサス・ローは、前投げからの起き攻めで当たってしまい、そこからラッシュキャンセル立ち強Pに繋がれて大ダメージを受けてしまう。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "前投げからのラッシュ後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:04",
+    "source_quote": "中ネクサスは当たってしまい、ラッシュ引き大Pから大ダメージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4bd63739c69e",
+    "category": "matchup",
+    "topic": "サガットのネクサス・ロー中派生からの連携",
+    "content": "サガットのネクサス・ロー中派生から中タイガーニーに繋ぐとガードで+2フレーム有利。投げ間合いなのでシミーが可能。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットのネクサス・ロー中派生からの連携をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:22",
+    "source_quote": "ネクサス中派生→中ニーは+2F、シミー可能な投げ間合い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d12f01dd6c73",
+    "category": "oki",
+    "topic": "サガットの中タイガーアッパーカット後の起き攻め（タイガーアッパーカット重ね）",
+    "content": "サガットの中タイガーアッパーカット後のタイガーアッパーカット重ねは、相手がその場受け身を取ると投げ間合いになり、後ろ受け身を取ると投げ間合い外になる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの中タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:36",
+    "source_quote": "中アパカの後のステロー重ねは、その場受け身なら投げ間合い、後ろ受け身なら投げ間合い外",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "587758f92877",
+    "category": "oki",
+    "topic": "サガットの昇龍拳後の起き攻め（タイガーアッパーカット重ね）",
+    "content": "OD昇龍拳後も中タイガーアッパーカットやODタイガーアッパーカットの後と同様。後ろ受け身を取るとタイガーハイ（タイガーショット中段）が重なるが、その場受け身を取るとタイガーハイがスカる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットのOD昇龍拳後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:47",
+    "source_quote": "OD昇龍後も一緒、中アパカ＆ODアパカの後、後ろ受け身ならステハイが重なるが、場受けならステハイがスカる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "219d0d57d8f9",
+    "category": "oki",
+    "topic": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "content": "サガットの溜め強タイガーアッパーカット後のラッシュ立ち中Pは、相手との距離が23フレーム離れた位置で重なる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:58",
+    "source_quote": "溜め強アパカは距離が離れて23F、ラッシュ立ち中Pが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50730794464f",
+    "category": "oki",
+    "topic": "サガットの溜め強タイガーアッパーカット後の起き攻め（ラッシュ下段）",
+    "content": "サガットの溜め強タイガーアッパーカット後の起き攻めは、ラッシュしゃがみ中Kやラッシュしゃがみ弱Kも重なるが、投げ間合い外になることが多い。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:03",
+    "source_quote": "ラッシュ中足やラッシュ小足も重なるが、投げ間合い外が多い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

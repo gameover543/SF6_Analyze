@@ -1,0 +1,201 @@
+[
+  {
+    "id": "aadcd46ead6d",
+    "category": "combo",
+    "topic": "毒状態の立ち相手への基礎コンボ（リュウ戦）",
+    "content": "A.K.I.で、毒状態の立ち相手（リュウ）にしゃがみ弱K、続けて立ち弱P・弱Pターゲットコンボ、中毒蛇絡(236MP) (Toxic Blossom)、立ち中P、そして強毒蛇絡(236HP)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "相手が毒状態、立ち状態",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "00:31",
+    "source_quote": "(c,st,P)2LK > [LP.LP] > 236MP(TB) > MP > 236HP 【1811】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "102",
+      "104",
+      "107",
+      "201",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c41dc55fe7a5",
+    "category": "combo",
+    "topic": "毒状態のジャンプ強Kからの発展コンボ（リュウ戦）",
+    "content": "A.K.I.で、毒状態の相手（リュウ）にジャンプ強K、続けて強K、弱・中・強蛇絡(2PP.K)、弱K、中断蛇絡(236MP) (Toxic Blossom)、中P、そして強毒蛇絡(236HP)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "相手が毒状態",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "01:21",
+    "source_quote": "(P)JHK > HK > 2PP.K > LK > 236MP(TB) > MP > 236HP 【3525】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "104",
+      "105",
+      "117",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7adf4042c38",
+    "category": "combo",
+    "topic": "弱蛇突パニッシュカウンター始動SA3 (or CA)ロングコンボ",
+    "content": "A.K.I.で、弱蛇突(236LP)がパニッシュカウンターした場合、続けて強K、OD毒蛇絡(236PP) (Toxic Blossom)、キャンセルドライブラッシュ強K、OD蛇滑(214PP)、キャンセルドライブラッシュ強K、キャンセルしゃがみドライブラッシュ強K、弱蛇絡(2PP.P) (Toxic Blossom)、弱蛇突(236LP)、そしてSA3 (またはCA)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "スーパーアーツを使用、弱蛇突パニッシュカウンター",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "08:46",
+    "source_quote": "236LPpc > HK > 236PP(TB) > DR.HK > 214PP > DR.HK > cDR.HK > 2PP.P(TB) > 236LP > SA3 【6111】 CA 【6355】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "403",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2541fdb4b4fa",
+    "category": "combo",
+    "topic": "しゃがみ弱蛇突パニッシュカウンター始動SA3 (or CA)ロングコンボ",
+    "content": "A.K.I.で、しゃがみ弱蛇突(236LP)がパニッシュカウンターした場合、続けて強K、OD毒蛇絡(236PP) (Toxic Blossom)、キャンセルドライブラッシュ強K、OD蛇滑(214KK)、キャンセルドライブラッシュ中P、キャンセルしゃがみドライブラッシュ強K、弱蛇絡(2PP.P) (Toxic Blossom)、強毒蛇絡(236HP)、そしてSA3 (またはCA)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "スーパーアーツを使用、しゃがみ弱蛇突パニッシュカウンター",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "09:00",
+    "source_quote": "(c)236LPpc > HK > 236PP(TB) > DR.HK > 214KK > DR.MP > cDR.HK > 2PP.P(TB) > 236HP > SA3 【6308】 CA 【6462】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "104",
+      "105",
+      "201",
+      "403",
+      "609",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "84060fb6e2aa",
+    "category": "combo",
+    "topic": "しゃがみ中蛇滑パニッシュカウンター始動SA3 (or CA)ロングコンボ",
+    "content": "A.K.I.で、しゃがみ中蛇滑(214MP)、続けて強Kパニッシュカウンター、弱蛇絡(2PP.P) (Toxic Blossom)、強K、OD毒蛇絡(236PP) (Toxic Blossom)、キャンセルドライブラッシュ強K、OD蛇滑(214KK)、キャンセルドライブラッシュ中P、弱・中・強蛇絡(2PP.K)、弱蛇突(236LP) (Toxic Blossom)、そしてSA3 (またはCA)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "スーパーアーツを使用、しゃがみ中蛇滑、強Kパニッシュカウンター",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "09:16",
+    "source_quote": "(c)214MP > HKpc > 2PP.P(TB) > HK > 236PP(TB) > DR.HK > 214KK > DR.MP > 2PP.K > 236LP(TB) > SA3 【6039】 CA 【6292】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "105",
+      "403",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "483e66013eae",
+    "category": "combo",
+    "topic": "しゃがみ中蛇滑パニッシュカウンター始動最大ダメージSA3 (or CA)コンボ",
+    "content": "A.K.I.で、しゃがみ中蛇滑(214MP)、続けて強Kパニッシュカウンター、弱蛇絡(2PP.P) (Toxic Blossom)、強K、OD毒蛇絡(236PP) (Toxic Blossom)、キャンセルドライブラッシュ強K、OD蛇滑(214KK)、キャンセルドライブラッシュ中P、キャンセルしゃがみドライブラッシュ強K、弱蛇絡(2PP.P) (Toxic Blossom)、強毒蛇絡(236HP)、そしてSA3 (またはCA)を繋げます。これは動画中で示された最大ダメージコンボです。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "ryu",
+    "situation": "スーパーアーツを使用、しゃがみ中蛇滑、強Kパニッシュカウンター",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "09:37",
+    "source_quote": "(c)214MP > HKpc > 2PP.P(TB) > HK > 236PP(TB) > DR.HK > 214KK > DR.MP > cDR.HK > 2PP.P(TB) > 236HP > SA3 【7189】 CA 【7423】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "105",
+      "201",
+      "403",
+      "609",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

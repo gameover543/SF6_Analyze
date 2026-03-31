@@ -1,0 +1,2105 @@
+[
+  {
+    "id": "dba2a77414ea",
+    "category": "combo",
+    "topic": "基本コンボ1（立ち中Pタゲコン始動）",
+    "content": "中距離からの基本コンボ：立ち中Pタゲコン >> ODディマカイルス (派生) > 中ディマカイルス > 屈弱K > 屈弱P > 弱ディマカイルス (派生) > その後即溜め立ち大P。溜め立ち大P後は有利な中段が重なるため、起き攻めに移行しやすい。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "中距離からのヒット確認",
+    "source_video_id": "tbLajAzANrY",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分で使えるマリーザ講座！！このキャラで重要な技は〇〇！！【Street Fighter 6】",
+    "source_timestamp": "12:28",
+    "source_quote": "立ち中Pタゲコン>>ODディマカイルス→派生>中ディマカイルス>屈弱K>屈弱P>弱ディマカイルス→派生>この後即溜め大Pを押すと有利な中段が重なる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:15:37.355761",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "309",
+      "311",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "855c3e21b101",
+    "category": "combo",
+    "topic": "基本コンボ2（溜め大P始動、火力重視）",
+    "content": "火力を伸ばしたい場合のコンボ：溜め立ち大P > 後ろ大P > 大ディマカイルス (派生) > 中グラディウス。画面端到達時には、前ジャンプ攻撃が詐欺飛びになる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "火力重視のコンボ、画面端到達時",
+    "source_video_id": "tbLajAzANrY",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分で使えるマリーザ講座！！このキャラで重要な技は〇〇！！【Street Fighter 6】",
+    "source_timestamp": "12:53",
+    "source_quote": "溜め大P>後ろ大P>大ディマカイルス→派生>生ラッシュ後ろ大P>大ファランクス画面端到達だと前ジャンプ攻撃が詐欺飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:15:37.355761",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b6981e7507c6",
+    "category": "combo",
+    "topic": "基本コンボ3（インパクト壁バン始動）",
+    "content": "ドライブインパクトからの壁バンまたはヒット時のコンボ：大ディマカイルス (派生) > 屈大P溜め > 中グラディウス。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時",
+    "source_video_id": "tbLajAzANrY",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分で使えるマリーザ講座！！このキャラで重要な技は〇〇！！【Street Fighter 6】",
+    "source_timestamp": "13:37",
+    "source_quote": "インパクト壁バンorヒット>大ディマカイルス→派生>屈大P溜め>中グラディウス",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:15:37.355761",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dde8cedbd5f3",
+    "category": "combo",
+    "topic": "ロマンコンボ（画面端、前大K始動）",
+    "content": "画面端でインパクトまたはPキャンセル可能な無敵技をガードさせた後などに狙える高火力コンボ：前大K > ODグアドリガ > 後ろ大P > 生ラッシュ溜め後ろ大P > 立ち大P > 大グラディウス > SA3。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブゲージとSAゲージが十分な状況",
+    "source_video_id": "tbLajAzANrY",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分で使えるマリーザ講座！！このキャラで重要な技は〇〇！！【Street Fighter 6】",
+    "source_timestamp": "13:51",
+    "source_quote": "画面端でインパクトpcor無敵ガードした後に前大K>ODグアドリガ>後ろ大P>生ラッシュ後ろ大P溜め>大P>大グラディウス>SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:15:37.355761",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "32aeb53c3569",
+    "category": "combo",
+    "topic": "ディマカイルスでの追撃",
+    "content": "マリーザのディマカイルスはコンボパーツとして有用な2段技。強化版は相手が浮くため追撃ができる。小技から繋いで地道にダメージを稼ぐことも重要。相手を浮かした後は、ODファランクスなどでコンボを狙う。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "コンボ時、小技ヒット時",
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "01:29",
+    "source_quote": "ディマカイルスはコンボパーツとして有用な二段技です 強版は相手が浮くので追撃することができます 小技から繋いで地道にダメージを稼ぐのも大事です 相手を浮かせたあとは、大体こんな感じのコンボします",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba61db2f4343",
+    "category": "combo",
+    "topic": "メテオリティスの活用",
+    "content": "マリーザのスーパーアーツ「メテオリティス」は、タックルで上空へ飛び、落下と同時に強烈な一撃を加える。主な使い方は対空やコンボの締め。オーバードライブ版の必殺技からキャンセルできる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "対空時、コンボ締め",
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "04:24",
+    "source_quote": "メテオリティスはタックルで上空へ飛び 落下と同時に強烈な一撃を加えるスーパーアーツです 主な使い方としては対空やコンボの締めです この技はオーバードライブ版の必殺技からキャンセルできます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c87f7788068a",
+    "category": "combo",
+    "topic": "基本コンボ例（中P→中P→強グラディウス）",
+    "content": "マリーザの基本コンボとして、立ち中P→立ち中P→強グラディウスがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "05:30",
+    "source_quote": "ここからは初心者おすすめの基本コンボを紹介します 中P→中P→グラディウス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "305"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd73d7a34e0d",
+    "category": "combo",
+    "topic": "基本コンボ例（J強K→強P→強ディマカイルス→ODグラディウス）",
+    "content": "マリーザの基本コンボとして、ジャンプ強K→立ち強P→強ディマカイルス→ODグラディウスがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "05:37",
+    "source_quote": "J強K→強P→強ディマカイルス→ODグラディウス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "123",
+      "307",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c8109ba8b822",
+    "category": "combo",
+    "topic": "基本コンボ例（2弱K→2弱P→弱ディマカイルス）",
+    "content": "マリーザの基本コンボとして、しゃがみ弱K→しゃがみ弱P→弱ディマカイルスがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "05:50",
+    "source_quote": "2弱K→2弱P→弱ディマカイルス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70911c3d15de",
+    "category": "combo",
+    "topic": "基本コンボ例（J強K→強P→強ディマカイルス→ODドライブラッシュ→2中P→ODファランクス→中クア",
+    "content": "マリーザの基本コンボとして、ジャンプ強K→立ち強P→強ディマカイルス→ODドライブラッシュ→しゃがみ中P→ODファランクス→中クアドリガがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "05:59",
+    "source_quote": "J強K→強P→強ディマカイルス→ODドライブラッシュ→2中P→ODファランクス→中クアドリガ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "110",
+      "123",
+      "313",
+      "319",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d8ca033f4fd",
+    "category": "combo",
+    "topic": "基本コンボ例（ドライブインパクト→強P→強ディマカイルス→グラディウス）",
+    "content": "マリーザの基本コンボとして、ドライブインパクト→立ち強P→強ディマカイルス→グラディウスがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時",
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "06:08",
+    "source_quote": "ドライブインパクト→強P→強ディマカイルス→グラディウスなど",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "313",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cc0318fb35b5",
+    "category": "combo",
+    "topic": "基本コンボ例（J強K→強P→強ディマカイルス→溜め2強P→グラディウス）",
+    "content": "マリーザの基本コンボとして、ジャンプ強K→立ち強P→強ディマカイルス→溜めしゃがみ強P→グラディウスがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "06:15",
+    "source_quote": "J強K→強P→強ディマカイルス→溜め2強P→グラディウスなど",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "112",
+      "123",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0cfe4ff5bcd2",
+    "category": "combo",
+    "topic": "基本コンボ例（J強K→強P→強ディマカイルス→溜め2強P→ドライブラッシュ→2中P→ODファランクス",
+    "content": "マリーザの基本コンボとして、ジャンプ強K→立ち強P→強ディマカイルス→溜めしゃがみ強P→ドライブラッシュ→しゃがみ中P→ODファランクス→6強K→中クアドリガ→アポロウーサがある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "yY1PfUX4lvc",
+    "source_channel": "てなてな",
+    "source_video_title": "【筋肉系女子は好きかい?】超パワー特化型ファイター! マリーザの使い方(コンボ・初心者向け・入門編・基本解説)【スト6・ストリートファイター6・SF6】",
+    "source_timestamp": "06:22",
+    "source_quote": "J強K→強P→強ディマカイルス→溜め2強P→ドライブラッシュ→2中P→ODファランクス→6強K→中クアドリガ→アポロウーサ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:17:42.472288",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "110",
+      "112",
+      "123",
+      "313",
+      "319",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ded5a58bd3fa",
+    "category": "combo",
+    "topic": "屈弱P x3 > 弱ディマ",
+    "content": "マリーザは、立ち状態の相手に対して、屈弱Pを3回入力し、その後弱ディマカヴァレリアに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "屈弱P×3＞弱ディマ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9417f6a4a8e5",
+    "category": "combo",
+    "topic": "屈中P > ラッシュ立ち中K > 引き強P > 強ディマ溜め立ち強P",
+    "content": "マリーザは、屈中Pからドライブラッシュでキャンセルし、立ち中K、引き強P、強ディマカヴァレリアを溜めからの立ち強Pに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "00:26",
+    "source_quote": "屈中P＞ラッシュ立中K＞引強P＞強ディマ溜め立強P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70373d524bfd",
+    "category": "combo",
+    "topic": "画面端付近コンボ: 屈中P > ラッシュ立ち中K > 引き強P > 強ディマ溜め立ち強Pタルタロスコ",
+    "content": "マリーザは、画面端付近で屈中Pからドライブラッシュでキャンセルし、立ち中K、引き強P、強ディマカヴァレリアを溜めからの立ち強Pタルタロスコレクトに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端付近",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "00:51",
+    "source_quote": "画面端付近 屈中P＞ラッシュ立中K＞引強P＞強ディマ溜め立中PTC",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "01e68b670ae3",
+    "category": "combo",
+    "topic": "画面端コンボ: 屈中P > ラッシュ立ち中K > 引き強P > 強ディマ溜め引き強P > 弱ファラン",
+    "content": "マリーザは、画面端で屈中Pからドライブラッシュでキャンセルし、立ち中K、引き強P、強ディマカヴァレリアを溜めからの引き強P、そして弱ファランクスに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "01:09",
+    "source_quote": "画面端 屈中P＞ラッシュ立中K＞引強P＞強ディマ溜め引強P＞弱ファラ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d05b1d6cd31e",
+    "category": "combo",
+    "topic": "SAコンボ: 屈中P > ラッシュ立ち中K > 引き強P > 強ディマ > SA",
+    "content": "マリーザは、屈中Pからドライブラッシュでキャンセルし、立ち中K、引き強P、強ディマカヴァレリアに繋げた後、スーパーアーツ1、2、または3を追撃として発動することができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "SAを使った高ダメージコンボ",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "01:27",
+    "source_quote": "SAルート 屈中P＞ラッシュ立中K＞引強P＞強ディマ＞SA1,2 or 強グラSA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "400",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d819219f8fcd",
+    "category": "combo",
+    "topic": "Dリバガードからの反撃コンボ",
+    "content": "マリーザは、ドライブリバーサルガード後に、屈弱Pをパニッシュカウンターとしてヒットさせ、引き強P、強ディマカヴァレリアを溜めからの立ち強Pに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブリバーサルガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "01:47",
+    "source_quote": "Dリバガード＞屈弱Pパニカン＞引強P＞強ディマ溜め立強P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b75652b48ee6",
+    "category": "combo",
+    "topic": "画面端付近 Dリバガードからの反撃コンボ",
+    "content": "マリーザは、画面端付近でドライブリバーサルガード後に、屈弱Pをパニッシュカウンターとしてヒットさせ、引き強P、強ディマカヴァレリアを溜めからの立ち強Pタルタロスコレクトに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端付近、ドライブリバーサルガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:00",
+    "source_quote": "画面端付近 Dリバガード＞屈弱Pパニカン＞引強P＞強ディマ溜め立中PTC",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3c5d73c8989a",
+    "category": "combo",
+    "topic": "画面端 Dリバガードからの反撃コンボ",
+    "content": "マリーザは、画面端でドライブリバーサルガード後に、屈弱Pをパニッシュカウンターとしてヒットさせ、引き強P、強ディマカヴァレリアを溜めからの引き強P、そして弱ファランクスに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブリバーサルガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:13",
+    "source_quote": "画面端 Dリバガード＞屈弱Pパニカン＞引強P＞強ディマ溜め引強P＞弱ファラ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "adf11d8ab922",
+    "category": "combo",
+    "topic": "無敵技ガードからの反撃コンボ",
+    "content": "マリーザは、相手の無敵技をガードした後、溜め立ち強Pをパニッシュカウンターとしてヒットさせ、前強K、強ディマカヴァレリアを溜めからの立ち強Pに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "無敵技ガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:26",
+    "source_quote": "無敵技ガード＞溜め立強Pパニカン＞前強K＞強ディマ溜め立強P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8629ece4a25e",
+    "category": "combo",
+    "topic": "画面端付近 無敵技ガードからの反撃コンボ",
+    "content": "マリーザは、画面端付近で相手の無敵技をガードした後、溜め立ち強Pをパニッシュカウンターとしてヒットさせ、前強K、強ディマカヴァレリアを溜めからの立ち強Pタルタロスコレクトに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端付近、無敵技ガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:38",
+    "source_quote": "画面端付近 無敵技ガード＞溜め立強Pパニカン＞前強K＞強ディマ溜め立強PTC",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a0a4c819b179",
+    "category": "combo",
+    "topic": "画面端 無敵技ガードからの反撃コンボ",
+    "content": "マリーザは、画面端で相手の無敵技をガードした後、溜め立ち強Pをパニッシュカウンターとしてヒットさせ、前強K、ODスクーザ、引き強P、そして中ファランクスに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端、無敵技ガード後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:52",
+    "source_quote": "画面端 無敵技ガード＞溜め立強Pパニカン＞前強K＞ODクレア＞引強P中ファラ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7048c0d19dbb",
+    "category": "combo",
+    "topic": "DIパニッシュカウンターからのコンボ",
+    "content": "マリーザは、ドライブインパクトをパニッシュカウンターで返した後、溜め引き強P、引き強P、強ディマカヴァレリアを溜めからの立ち強Pに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトパニッシュカウンター後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "03:04",
+    "source_quote": "インパクトパニカン＞溜め引強P＞引強P＞強ディマ溜め立強P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a2db3ecb1d1",
+    "category": "combo",
+    "topic": "画面端付近 DIパニッシュカウンターからのコンボ",
+    "content": "マリーザは、画面端付近でドライブインパクトをパニッシュカウンターで返した後、溜め引き強P、引き強P、強ディマカヴァレリアを溜めからの立ち強Pタルタロスコレクトに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端付近、ドライブインパクトパニッシュカウンター後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "03:18",
+    "source_quote": "画面端付近 インパクトパニカン＞溜め引強P＞引強P＞強ディマ溜め立強PTC",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1d8fe5deac31",
+    "category": "combo",
+    "topic": "画面端 DIパニッシュカウンターからのコンボ",
+    "content": "マリーザは、画面端でドライブインパクトをパニッシュカウンターで返した後、溜め引き強P、ODスクーザ、引き強P、そして中ファランクスに繋げることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトパニッシュカウンター後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "03:33",
+    "source_quote": "画面端 インパクトパニカン＞溜め引強P＞ODクレア＞引強P中ファラ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "317",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "77e4594ad230",
+    "category": "combo",
+    "topic": "ドライブインパクト壁やられからのコンボ",
+    "content": "マリーザは、ドライブインパクトで相手を壁やられ状態にした後、前強Kを当て、ODファランクスを溜めからの前強Kで追撃することができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクト壁やられ後",
+    "source_video_id": "66iA4izlnO4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 実戦向けコンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "03:46",
+    "source_quote": "壁やられ インパクト壁やられ＞前強K＞ODファラ溜め前強K",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:09:43.306130",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a72e9a1c498d",
+    "category": "combo",
+    "topic": "強ディアマントスからのインパクト",
+    "content": "強ディアマントスから溜め引き戻し強Pに繋ぎ、ヒット時にドライブインパクトでキャンセルすることで、追撃のコンボに繋げることができます。動画では溜め引き戻し強Pからドライブインパクトを挟み、溜め強パンチで追撃しています。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "強ディアマントスがヒットした状況",
+    "source_video_id": "SymXxREekBA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "00:22",
+    "source_quote": "強ディマから補正切りインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:35:14.282121",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ef1b93ab045b",
+    "category": "combo",
+    "topic": "シミーからのパニッシュカウンターコンボ",
+    "content": "シミーで相手の投げ抜けや暴れを誘発し、しゃがみ中Pがパニッシュカウンターした場合は、ODクアドリガに繋いでコンボに移行できます。動画ではODクアドリガから立ち強P、溜め前強Kと繋いでいます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "シミーからのしゃがみ中Pがパニッシュカウンターした時",
+    "source_video_id": "SymXxREekBA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "01:46",
+    "source_quote": "シミーク中PパニカンからODクアドリガ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:35:14.282121",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "110",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cc3a7721a768",
+    "category": "combo",
+    "topic": "ラッシュ屈弱Kからのコンボ",
+    "content": "立ち回りにおいて、ドライブラッシュからしゃがみ弱Kをヒットさせることで、そのままコンボに繋ぐことができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "立ち回りにおいてドライブラッシュがヒットする状況",
+    "source_video_id": "SymXxREekBA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Marisa Combo Oki Setup",
+    "source_timestamp": "02:46",
+    "source_quote": "立ち回りでラッシュ屈弱Kからコンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:35:14.282121",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "75ca2dafd169",
+    "category": "combo",
+    "topic": "弱ディマからのラッシュ溜め強P",
+    "content": "マリーザの強Pの溜め時間短縮により、弱ディマヒット後からラッシュ溜め強Pが重なるようになりました。相手が暴れていてカウンターヒットした場合は後ろ強Pからのコンボが可能で、通常ヒットでも中Pからのコンボが可能です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "弱ディマヒット後",
+    "source_video_id": "wivf-ugfXdQ",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6】マリーザの新コンボと起き攻め セットプレイを紹介【2024.12.02版】",
+    "source_timestamp": "00:09",
+    "source_quote": "強Pの溜め時間が短縮されたので弱ディマからラッシュ溜め強Pが重なるようになりました。相手が暴れていたらカウンターで後ろ強Pからのコンボが可能です。通常ヒットでも中Pからのコンボが可能です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:57:27.193783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce30e6f7d961",
+    "category": "combo",
+    "topic": "中PターゲットコンボからのSA2",
+    "content": "マリーザの中Pターゲットコンボがヒットした際、ODディマから溜め強P、SA2へと繋がるようになりました。ODグラディウスSA2の方がダメージは高い（300ほど）ですが、とっさの状況判断が難しいです。ODディマに繋いでしまっても、状況を確認してSA2でリーサルを狙いやすくなりました。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "中Pターゲットコンボヒット時",
+    "source_video_id": "wivf-ugfXdQ",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6】マリーザの新コンボと起き攻め セットプレイを紹介【2024.12.02版】",
+    "source_timestamp": "00:29",
+    "source_quote": "次は中Pタゲコンがヒットした時のODディマから溜め強P→SA2がつながるようになりました。中PタゲコンからはODグラ→SA2の方が300ほどダメージが高いのですが咄嗟の状況判断が難しいです。ODディマにつないでしまっても状況を確認してSA2でリーサルを狙いやすくなりました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:57:27.193783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "94c40a6b664a",
+    "category": "combo",
+    "topic": "中ディマからのラッシュ3強P連携",
+    "content": "マリーザの3強Pの溜め時間が短縮され、中ディマからラッシュ3強Pが重なるようになりました。しゃがみガード不可の溜め3強Pがヒットすれば後ろ強Pにつながりコンボが可能です。ガードされても6F有利なので、そこから打撃で暴れを潰したり、微歩きからの投げで攻めを継続しやすくなりました。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "中ディマヒット後",
+    "source_video_id": "wivf-ugfXdQ",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6】マリーザの新コンボと起き攻め セットプレイを紹介【2024.12.02版】",
+    "source_timestamp": "02:59",
+    "source_quote": "次は3強Pの溜め時間が短くなったので中ディマからラッシュ3強Pが重なるようになりました。しゃがみガード不可の溜め3強Pがヒットすれば後ろ強Pにつながりコンボが可能です。ガードされても6F有利なのでそこから打撃で暴れを潰したり微歩きからの投げで攻めを継続しやすいてす。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:57:27.193783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e445c02299df",
+    "category": "combo",
+    "topic": "溜め屈強P(PC)からの高火力コンボ",
+    "content": "マリーザの溜め屈強P(PC)の投げられ判定が縮小し、シミーで使えるようになりました。さらにヒット時の浮きも高くなったので、パニッシュカウンターでヒットすれば大ダメージのコンボも可能です。ドライブゲージ2本を使うこのコンボは、比較的運びつつ4000ダメージオーバーで、その後の状況も良いコンボです。コンボの締めをクアトリガではなく溜め強Pにすれば、前ステからの起き攻めも可能です。CAにすれば7200ダメージと非常に高いコンボですが、最初のラッシュ後ろ強Pでの拾いが難しい場合は、ラッシュ屈中Pで拾う簡易版も安定して狙えるためおすすめです（ダメージ差は約100）。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "溜め屈強Pパニッシュカウンターヒット時",
+    "source_video_id": "wivf-ugfXdQ",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6】マリーザの新コンボと起き攻め セットプレイを紹介【2024.12.02版】",
+    "source_timestamp": "05:16",
+    "source_quote": "溜め屈強Pの投げられ判定が縮小しシミーで使えるようになりました。さらにヒット時の浮きも高くなったのでパニカンでヒットすれば大ダメージのコンボも可能に。ドライブゲージ2本を使うこのコンボは比較的運びつつ4000ダメージオーバーでその後の状況も良いコンボです。コンボの締めをクアトリガではなく溜め強Pにすれば前ステからの起き攻めも可能です。もちろんクアトリガ締めでも前ステからの起き攻め可能です。最後にゲージをフルに使ったパニカンコンボを紹介します。SA3締めで7000ダメージと非常に高いコンボになります。締めをCAにすれば7200ダメージとなります。最初のラッシュ後ろ強Pのつなぎが難しいですが完走できれば強力なコンボです。ちなみに最初のラッシュ後ろ強Pでの拾いが難しい場合はこのラッシュ屈中Pで拾う簡易版のコンボがおすすめ。ダメージは100くらいしか変わらないので安定して狙うならこちらの方がいいかもです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:57:27.193783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df7d94fb0893",
+    "category": "combo",
+    "topic": "ノーゲージ基本コンボ",
+    "content": "SAゲージやDRゲージを使用せずに、立ち中P > 中P > 中P > 大Pで3500ダメージを出すことができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "00:23",
+    "source_quote": "火力がが高すぎる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "79f13bcf2362",
+    "category": "combo",
+    "topic": "基本コンボからの起き攻め",
+    "content": "立ち中P > ターゲットコンボ中P > ODディマカイルス > タメ立ち大P > 前ステップと入力することで、安定した起き攻め状況を作り出すことができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "03:00",
+    "source_quote": "立中PTC>ODディマカイルス>タメ立P（前ステ）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46c14d3533aa",
+    "category": "combo",
+    "topic": "ラッシュ始動コンボからの起き攻め",
+    "content": "しゃがみ中P > ドライブキャンセルラッシュ > 立ち大K > 引っ掛け大P > 強ディマカイルス > タメ立ち大P > 前ステップと入力することで、高ダメージを与えつつ起き攻めに移行できる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "03:34",
+    "source_quote": "屈中P>CR立中K>引大P>強ディマカイルス>タメ立P（前ステ）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "110",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "845586a127af",
+    "category": "combo",
+    "topic": "ドライブインパクトからの高火力コンボ",
+    "content": "相手のラッシュをドライブインパクトでパニッシュカウンターさせた場合、立ち大P > 立ち中P > 中P > 中P > 大Pと繋ぐことで大ダメージを与え、相手のドライブゲージを大きく削ることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "相手のラッシュに対してドライブインパクトがパニッシュカウンターになった時",
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "03:46",
+    "source_quote": "ラッシュを止める時に使ってるイメージはあります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0b6ceb453642",
+    "category": "combo",
+    "topic": "小攻撃始動の起き攻め",
+    "content": "小P > 弱ディマカイルスと繋いだ後、ドライブキャンセルラッシュで起き攻めに移行できる。手軽に攻めを継続できるルート。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "03:56",
+    "source_quote": "コパン弱ディマカイルス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5488ad3bb587",
+    "category": "combo",
+    "topic": "SA汎用コンボ",
+    "content": "立ち中P > ターゲットコンボ中P > ODディマカイルスと繋いだ後、SA1、SA2、SA3のいずれかのスーパーアーツに繋げることができる。状況に応じて適切なSAを選択する。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "05:16",
+    "source_quote": "SA1orSA2orSA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "315",
+      "400",
+      "403",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a57e429c6d98",
+    "category": "combo",
+    "topic": "高火力SAコンボ（上級者向け）",
+    "content": "立ち中P > ターゲットコンボ中P > ODディマカイルス > ドライブキャンセルラッシュ > 引っ掛け大P > ODファランクス > 最大タメSA1と繋ぐことで高ダメージを与えられる。また、タメ引っ掛け大P > 引っ掛け大P > 強ディマカイルス > 引っ掛け大P > ODグラディウス > SA2、あるいは引っ掛け大P > 強ディマカイルス > 強グラディウス > SA1も強力なSAコンボである。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "05:42",
+    "source_quote": "立中PTC>ODディマカイルス>R引大P>ODファランクス>最大タメSA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "305",
+      "307",
+      "313",
+      "315",
+      "319",
+      "400",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a686e263500e",
+    "category": "combo",
+    "topic": "SA確定反撃高火力コンボ（上級者向け）",
+    "content": "相手のSAなどをガード後の確定反撃で、タメ立ち大P (パニッシュカウンター) > 前大K > ODクアドリガ > 引っ掛け大P > ドライブキャンセルラッシュ > 引っ掛け大P > ドライブキャンセルラッシュ > 前大K > ドライブキャンセル > 引っ掛け大P > 強グラディウス > SA3と繋ぐことで、7779ダメージ以上の超高火力を叩き出せる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "相手のSAなどをガード後の確定反撃時",
+    "source_video_id": "Hr_1KseoEWw",
+    "source_channel": "Alldevice",
+    "source_video_title": "【マリーザ初心者講座】圧を活かした攻め方と勝つためのコンボ入門",
+    "source_timestamp": "06:23",
+    "source_quote": "確定反撃コンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:40:09.175210",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "305",
+      "323",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "006bf52cff31",
+    "category": "combo",
+    "topic": "中アシストコンボ",
+    "content": "マリーザは、中アシストコンボ(2回) -> ODディマカイルス -> ラッシュ前大TC -> グラディウス -> SA3 のコンボルートで、ドライブゲージ3本消費で5000ダメージ近く出せる。ジャンプ攻撃や溜め大攻撃、ラッシュ大攻撃からこのルートに繋げることが可能。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブゲージ3本あり、ダメージを出したい時",
+    "source_video_id": "T9FAksRUCb4",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【コレ覚えればOK】初心者向け簡単モダンマリーザのコンボ紹介【状況別】【スト6】",
+    "source_timestamp": "00:15",
+    "source_quote": "まずは中アシストコンボ始動",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:29:25.937922",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "202f5c974755",
+    "category": "combo",
+    "topic": "インパクトヒット時のコンボ",
+    "content": "マリーザのドライブインパクトヒット時には、溜め引き大 -> ODディマカイルス -> ドライブラッシュ前中 -> モダン特殊技(ラッシュ前大TC相当) -> グラディウス -> SA3 のコンボが有効。最初の溜め引き大の入力が遅れると失敗しやすいので、難しい場合はモダン大アシストコンボ連打でも代用可能。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時",
+    "source_video_id": "T9FAksRUCb4",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【コレ覚えればOK】初心者向け簡単モダンマリーザのコンボ紹介【状況別】【スト6】",
+    "source_timestamp": "00:49",
+    "source_quote": "次はインパクトヒット時",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:29:25.937922",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "404",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a9c4139e1b89",
+    "category": "combo",
+    "topic": "無敵技ガード後の高火力コンボ",
+    "content": "マリーザは、相手の無敵技をガードした後、密着していれば溜め下大 -> 溜め下大 -> ドライブラッシュ下中 -> ドライブラッシュ前中からのモダン特殊技(ラッシュ前大TC相当) -> 溜め引き大 -> ドライブラッシュ前中からのモダン特殊技(ラッシュ前大TC相当) -> グラディウス -> SA3 のコンボで、画面中央で約6800ダメージ（モダン操作なら7000ダメージ超）を狙える。昇龍拳など相手との距離が離れる無敵技をガードした場合は、少し歩いて密着してからコンボを開始する必要がある。ドライブゲージが少ない場合、ドライブラッシュ前大後の引き大グラディウスからSAが繋がらないため、引き大から直接SAに繋ぐことになるが、それでも6000ダメージは出る。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "相手の無敵技をガード後（密着が必要な場合あり）",
+    "source_video_id": "T9FAksRUCb4",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【コレ覚えればOK】初心者向け簡単モダンマリーザのコンボ紹介【状況別】【スト6】",
+    "source_timestamp": "01:14",
+    "source_quote": "次は相手の無敵とかをガード出来た時",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:29:25.937922",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "404",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9a9dc8560f70",
+    "category": "combo",
+    "topic": "画面端インパクト後の高火力コンボ",
+    "content": "マリーザは、画面端でドライブインパクトがヒットし、相手を壁に貼り付けた場合、前大 -> ODファランクス -> 溜め下大 -> ドライブラッシュ引き大 -> ドライブラッシュ前中からのモダン特殊技(ラッシュ前大TC相当) -> グラディウス -> SA3 のコンボで大ダメージを狙える。このコンボは「補正切り」テクニックと組み合わせることでさらに強力になり、成功すれば一撃で7000ダメージを与え、試合を決定づけることも可能。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面端でドライブインパクトヒット後、相手が壁張り付き",
+    "source_video_id": "T9FAksRUCb4",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【コレ覚えればOK】初心者向け簡単モダンマリーザのコンボ紹介【状況別】【スト6】",
+    "source_timestamp": "02:18",
+    "source_quote": "次は端でインパクトが当たって壁に張り付けた時",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:29:25.937922",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "404",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e24b102a21a",
+    "category": "combo",
+    "topic": "DIリバーサルガード後のコンボ",
+    "content": "マリーザは、ドライブインパクトのリバーサルガードを成功させた後、下小 -> モダン中アシストコンボ(2回) -> ODディマカイルス -> ドライブラッシュ前中からのモダン特殊技(ラッシュ前大TC相当) -> グラディウス -> SA3 のルートでコンボを繋げることができる。ドライブゲージが足りないなどの状況でSA3まで繋がらない場合は、引き大から直接SAを撃つ形でも6000ダメージ程度は出る。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトのリバーサルガード成功後",
+    "source_video_id": "T9FAksRUCb4",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【コレ覚えればOK】初心者向け簡単モダンマリーザのコンボ紹介【状況別】【スト6】",
+    "source_timestamp": "02:48",
+    "source_quote": "最後はDIリバガード後",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:29:25.937922",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "404",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b468479dd331",
+    "category": "combo",
+    "topic": "ジャンプ強攻撃ヒット確認",
+    "content": "マリーザのモダン操作で、ジャンプ強Kからアシスト中、さらにアシスト中と繋げるヒット確認コンボを狙う。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ強攻撃がヒットした時",
+    "source_video_id": "TOE-R5XLZPQ",
+    "source_channel": "jyouji背骨",
+    "source_video_title": "【スト６】マリーザ、モダンコンボと起き攻め　その２",
+    "source_timestamp": "05:24",
+    "source_quote": "J強→アシスト+中→中 (ヒット確認コンボ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:58:30.546637",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "123"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c275b6dfd9b",
+    "category": "combo",
+    "topic": "飛び込みからのヒット確認コンボ",
+    "content": "マリーザのモダン操作で、ジャンプ強Kからのアシスト中、アシスト中がヒットした際のコンボとして、そこからさらに4アシスト+必殺技、6アシスト+必殺技と繋ぐ。飛び込みヒット確認なしでこのコンボに移行できる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "飛び込み攻撃がヒットした場合",
+    "source_video_id": "TOE-R5XLZPQ",
+    "source_channel": "jyouji背骨",
+    "source_video_title": "【スト６】マリーザ、モダンコンボと起き攻め　その２",
+    "source_timestamp": "05:35",
+    "source_quote": "アシスト+中→中 (ヒット確認 →4アシスト+必殺技→6アシスト+必殺技)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:58:30.546637",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "123"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6a7dad90d4d7",
+    "category": "combo",
+    "topic": "ドライブボタン始動コンボ",
+    "content": "モダン操作のドライブボタン押しっぱなし（ドライブインパクト）からの4強（強攻撃）を始動として、2アシスト+必殺技、6強+必殺技、2強+必殺技と繋ぐ。このコンボはダメージが高く、相手の体力を大きく削ることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトからのコンボ、または投げからのドライブラッシュ始動",
+    "source_video_id": "TOE-R5XLZPQ",
+    "source_channel": "jyouji背骨",
+    "source_video_title": "【スト６】マリーザ、モダンコンボと起き攻め　その２",
+    "source_timestamp": "05:35",
+    "source_quote": "→ドライブボタンおしっぱ→66→4強→2アシスト+必殺技→6強→必殺技→2強+必殺技",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:58:30.546637",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ab8275106f8",
+    "category": "combo",
+    "topic": "対空リーサルコンボ",
+    "content": "マリーザが対空ODディマカイルスをヒットさせた後、溜め前大TC（f.HP TC）、ラッシュ引き大（DR c.HP）、ODファランクス、溜め下大（d.HP）、ラッシュ引き大（DR c.HP）、グラディウス、SA3で5000以上のダメージを与えられるリーサルコンボです。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "対空ヒット時",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "00:13",
+    "source_quote": "1つ目、リーサルコンボ。対空から一気に5000ダメージ以上出せて超強い。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "315",
+      "319",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e59784dfa285",
+    "category": "combo",
+    "topic": "対空起き攻めコンボ",
+    "content": "マリーザが対空ODディマカイルスをヒットさせた後、溜め前大TC（f.HP TC）、ラッシュ引き大（DR c.HP）、ファランクスと繋ぐと、相手に詐欺飛びを仕掛ける起き攻めができるコンボです。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "対空ヒット時（リーサルでない場合）",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "00:28",
+    "source_quote": "リーサルじゃない時は詐欺飛びへ。実戦でもよく使う、便利なコンボです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "24933aab8812",
+    "category": "combo",
+    "topic": "対空コンボの繋ぎ判定",
+    "content": "ODディマカイルスからの溜め前大TC（f.HP TC）が相手の地面スレスレにヒットすると、次のラッシュ引き大（DR c.HP）が繋がりません。地面より少し浮いた状態でヒットすればラッシュ引き大が繋がります。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "対空コンボのタイミング",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "00:59",
+    "source_quote": "因みに、ラッシュ引き大が入るか入らないかは溜め前大が当たる位置で分かります。この様に地面スレスレだと入らない。右の様に地面より少し浮いていればラッシュ引き大が入ります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eed7581a94e0",
+    "category": "combo",
+    "topic": "対空ヒット時リカバリーコンボ",
+    "content": "マリーザが対空ODディマカイルスから溜め前大TC（f.HP TC）をヒットさせた後、ラッシュ引き大（DR c.HP）が入らないと判断した場合、ラッシュ下小（DR d.LP）、エンフォールドで繋ぐことで起き攻めに移行できます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "対空ヒット時、ラッシュ引き大が間に合わない場合",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "01:13",
+    "source_quote": "引き大入らない時のコンボ2つ目。エンフォールドや溜め前大で起き攻めできます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e428589ea7a1",
+    "category": "combo",
+    "topic": "遅れ対空からのリカバリー",
+    "content": "ODディマカイルスが相手を拾うのが遅れ、溜め前大TC（f.HP TC）が繋がらない場合は、代わりにラッシュ前大（DR f.HP）、溜め前大TC（f.HP TC）、ラッシュ下小（DR d.LP）と繋ぎ、起き攻めに移行できます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ODディマカイルスが遅れてヒットした場合",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "01:51",
+    "source_quote": "ODディマカイルスがもっと遅れると溜め前大も入らないので、その時はラッシュ前大でカバーします。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ad0799a3385d",
+    "category": "combo",
+    "topic": "ディマカイルス2段目の調整",
+    "content": "ODディマカイルスが速すぎて2段目が当たらない場合、2段目の入力を少し遅らせることで対応できます。また、ODディマカイルスから繋ぐ溜め前大TC（f.HP TC）が上で当たりすぎた場合は、小パン（弱攻撃）で拾うことでコンボを継続できます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "ODディマカイルスの2段目がヒットしない場合、または溜め前大TCが上で当たりすぎた場合",
+    "source_video_id": "pEj3Sk3uxLk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "【マリーザ】最強の対空、ODディマカイルスについて【解説】【スト6】",
+    "source_timestamp": "03:23",
+    "source_quote": "因みに、ディマカイルスが速すぎて2段目があたらない時がたまにあると思いますが… 2段目を少し遅らせることで対応できます。上で当たりすぎた場合は、小パンで拾うことも。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:59:56.510858",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "315",
+      "329"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c563c59824c9",
+    "category": "combo",
+    "topic": "弱アシストコンボからのSA3",
+    "content": "マリーザの弱アシストコンボからSA3を繋ぐコンボです。ODディマカイルス→ラッシュ前強K→ラッシュ前強Kターゲットコンボ→グラディウス→SA3。ラッシュから仕掛けたり、めくりから仕掛けたりした場合に有効です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "00:27",
+    "source_quote": "ラッシュから仕掛けたり、めくりから仕掛けたり。あとSA3が繋がるのも便利。リーサルが見えたらこのコンボ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4678aaa00218",
+    "category": "combo",
+    "topic": "インパクト壁張り付きコンボ",
+    "content": "マリーザのインパクト壁張り付きからのコンボです。前強K→ODファランクス→溜め屈強P→ラッシュ引き強P→ラッシュ前強Kターゲットコンボ→グラディウス→SA3。壁張り付きからのコンボは強力なので覚えておくと便利です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "インパクトで壁張り付き時",
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "00:41",
+    "source_quote": "壁張り付きからのコンボも覚えておくと便利です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f1bb4350af5",
+    "category": "combo",
+    "topic": "補正切りインパクト（ODディマカイルス）",
+    "content": "ODディマカイルスヒット後、コンボ中に立ち強P→しゃがみ中P→インパクトと繋ぐことで補正を切ってダメージを伸ばせます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:09",
+    "source_quote": "ODデイマカイルス 大P 屈中P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "110",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "12f3a48a433b",
+    "category": "combo",
+    "topic": "補正切りインパクト（ODディマカイルス→ラッシュ前強KTC）",
+    "content": "ODディマカイルス→ラッシュ前強Kターゲットコンボヒット後、コンボ中に立ち強P→しゃがみ中P→インパクトと繋ぐことで補正を切ってダメージを伸ばせます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:15",
+    "source_quote": "ODデイマカイルス ラッシュ前大KTC 大P 屈中P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "106",
+      "110",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba844ac0b180",
+    "category": "combo",
+    "topic": "補正切りインパクト（壁張り付き後）",
+    "content": "インパクトで壁張り付き後、前強Kターゲットコンボヒット後、コンボ中に立ち強P→しゃがみ中P→インパクトと繋ぐことで補正を切ってダメージを伸ばせます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "インパクトで壁張り付き時",
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:22",
+    "source_quote": "前大KTC 大P 屈中P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "106",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dd8ae8da452b",
+    "category": "combo",
+    "topic": "補正切りインパクト（ODディマカイルス1段）",
+    "content": "ODディマカイルスを1段だけヒットさせ、そこから立ち弱P→インパクトと繋ぐことで補正を切ってダメージを伸ばせます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:35",
+    "source_quote": "ODデイマカイルス1段 小P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "315"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "48a1b53561a4",
+    "category": "combo",
+    "topic": "補正切りインパクト（ラッシュ引き強P）",
+    "content": "ラッシュ引き強Pヒット後、グラディウスを空振りさせてからインパクトを繋ぐことで補正を切ってダメージを伸ばせます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:41",
+    "source_quote": "ラッシュ引大P グラディウス(空振り) インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fbd0acfd12c6",
+    "category": "combo",
+    "topic": "補正切りインパクト（スタンから溜め前強K）",
+    "content": "スタン時、溜め前強K→ODファランクス→溜め前強Kターゲットコンボ→立ち中P→インパクトと繋ぐことで補正を切って大ダメージを与えられます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "スタン時",
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:49",
+    "source_quote": "スタン 溜め前大K ODファランクス 溜め前大KTC 立中P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "106",
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a6167d09c5f3",
+    "category": "combo",
+    "topic": "補正切りインパクト（スタンから溜め前強K→小P）",
+    "content": "スタン時、溜め前強K→ODファランクス→立ち弱P→インパクトと繋ぐことで補正を切って大ダメージを与えられます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "スタン時",
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "02:59",
+    "source_quote": "スタン 溜め前大K ODファランクス 小P インパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8240bef02c00",
+    "category": "combo",
+    "topic": "強アシストコンボの活用",
+    "content": "ガードできた場合は、強アシストコンボを積極的に活用しましょう。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "相手の攻撃をガードした時",
+    "source_video_id": "c1X-FFzG7Hk",
+    "source_channel": "Mマリーザ茜ちゃん",
+    "source_video_title": "[For those who want to get to Master level no matter what] A guide to modern Mariza that doesn't ...",
+    "source_timestamp": "03:46",
+    "source_quote": "ガードできたら強アシストコンボの出番。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:58:59.379548",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dcdff06e4030",
+    "category": "combo",
+    "topic": "中P始動のリーサルコンボ",
+    "content": "マリーザは中P始動からでも簡単にリーサルコンボを決めることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "リーサルを狙える状況で",
+    "source_video_id": "AqixhPs1Kfs",
+    "source_channel": "シバスピス",
+    "source_video_title": "[Street Fighter 6] How to use Mariza",
+    "source_timestamp": "03:17",
+    "source_quote": "ここまでで火力が高いということがあまり伝わってないですからね中パンからでも簡単にリーサルコンボを決めることができる。それがマリーザというキャラクターなんですねー 馬鹿にすんじゃねぇぇぇえ！ ちょとまてぇー！ ふおおあ！？(焦) もうやめましょうおおー！ すいません俺もうね、逃げる と、思っていたのか？ やるしかない！ け、計画通り(震え) 過程や… 方法など… どうでもよいのだァー！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:27:26.097316",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "561e0c6b5076",
+    "category": "combo",
+    "topic": "ODグラディウスSA2によるリーサル",
+    "content": "画面中央からでも、ODグラディウスやSA2（ゴリアテ）を絡めることで、豪鬼の体力4600程度を倒し切ることができる。SF6のスタン後の補正は80%から始まるため、他の多くのキャラクターでは火力が足りず倒しきれない場合が多いが、マリーザのこのコンボであれば余裕でリーサルが可能。また、相手の体力がミリ残しの場合、リーサルに届かなくてもスクトゥームや中段攻撃で倒し切る選択肢も有効。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "画面中央、スタン後、相手の体力が少ない時",
+    "source_video_id": "AqixhPs1Kfs",
+    "source_channel": "シバスピス",
+    "source_video_title": "[Street Fighter 6] How to use Mariza",
+    "source_timestamp": "04:44",
+    "source_quote": "さっきマリーザの高火力を結局見せれなかったのて魅せましょう まあ豪鬼なんですが細かいこと言ってると K O R O S U Z O 画面中央からこの体力をリーサルできるキャラはかなり限られていると思いますがそれがこのキャラにははできるんてすねぇ～嘘やろ？見とけ見とけよお～ Foo↑気持ちイイ～ 豪鬼だーなんだーいってると(以下略)SF6のスタンの補正は80%から始まるので大体のキャラは火力が足らず倒し切れなかったってことが多くあると思いますまあ豪鬼のこの体力は4600程なのでほとんどのキャラが倒し切れると思いますが知らんけどSA2で余裕なんですねぇ～ それにリーサルじゃなくて相手の体力がミリだった場合結構いろんな択がマリーザにはあるからねこのぐろいの体力だったらスクトゥームでリーサルも狙えるし誰もが忘れていたであろう中段で倒すことだってできます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:27:26.097316",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "403",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f4956a3b0eaa",
+    "category": "combo",
+    "topic": "ODグラディウス→SA2のコンボ",
+    "content": "コンボでディマカイルスをミスってしまっても、ODグラディウスからSA2（ゴリアテ）に繋ぐことで大ダメージを与えることができる。ODグラディウスはガードされると12Fマイナスとなる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": null,
+    "situation": "コンボをミスってしまった時、相手に大ダメージを与えたい時",
+    "source_video_id": "AqixhPs1Kfs",
+    "source_channel": "シバスピス",
+    "source_video_title": "[Street Fighter 6] How to use Mariza",
+    "source_timestamp": "05:55",
+    "source_quote": "コンボでデイマカイルスをミスってしまうときありますよね～そんな時はこれです いともたやすく行われるえげつない行為() まあともあんな大振りな技見て大攻撃しないほうがおかしいよね(そんなことはない)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:27:26.097316",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d06a6be798f3",
+    "category": "combo",
+    "topic": "バーンアウト状態へのSA3使用",
+    "content": "バーンアウト状態の相手に対して、SA3を当てることで大ダメージを与え、KOを狙うことができる。SA2でも対応可能。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "rashid",
+    "situation": "相手がバーンアウト状態の時",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "02:21",
+    "source_quote": "でもあれが来れば来たーーー！SA3だーーー！！！！おりゃー！これ、確定らしいです！ちなみにSA2でも返せるので是非お試しあれーーー！！！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "403",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c46f64dfe4ad",
+    "category": "combo",
+    "topic": "ザンギエフ戦でのSA3連携",
+    "content": "ザンギエフ戦において、中アシスト（アシスト中攻撃）からのSA3（SA3）は4300ダメージとなり、高いダメージを奪えるコンボである。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフ戦",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "03:49",
+    "source_quote": "ここは中アシストが入ってSA決まって4300！！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

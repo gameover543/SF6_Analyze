@@ -1,0 +1,61 @@
+[
+  {
+    "id": "797424e57c62",
+    "category": "matchup",
+    "topic": "飛び道具持ちキャラ対策",
+    "content": "相手がキャミィのリーチ外から弾を撃ってくる場合、前歩きパリィなどで距離を詰める、弾撃ちのタイミングを読んでジャンプ攻撃を仕掛ける、ドライブインパクトを狙うといった対策が基本となる。特に弾抜け性能の高い強アクセルスピンナックルやODアクセルスピンナックルがおすすめ。これらの技がヒットしたら弱攻撃からのODスパイラルアローで起き攻めへ移行し、弾を撃つ行動にリスクを負わせる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ryu",
+    "situation": "相手が遠距離で飛び道具を連発している時",
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "13:13",
+    "source_quote": "キャミィのリーチ外から弾を撃つ相手にはどうするんだ？ 前歩きパリィなどを駆使して距離を詰めたり、弾撃ちのタイミングを読んでジャンプ攻撃を仕掛けたり、もしくはドライブインパクトを狙うのが基本なんだけど、弾抜けが狙いの強アクセルスピンナックルやODアクセルスピンナックルがおすすめ。ヒットしていたら弱攻撃からのODスパイラルアローで起き攻めへ行く。弾を撃つという行動にしっかりリスクを負わせてやるのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "304",
+      "312",
+      "313",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "da29d753139b",
+    "category": "defense",
+    "topic": "相手の飛びへの対処法",
+    "content": "飛んでくる相手に対しては、モダン操作のワンボタン対空（キャノンスパイク）でしっかり迎撃する。これはモダンならではの対空性能を見せつけるチャンスとなる。ただし、相手が近距離で飛んできた際に早めにキャノンスパイクを出すと空振りしてしまうことがあるため、相手をしっかり引きつけてから出すようにするか、少し難しいが空中投げで対処するのもおすすめ。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ryu",
+    "situation": "相手が飛んできた時",
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "13:40",
+    "source_quote": "飛んでくる相手にはワンボタン対空でしっかり迎撃。モダンならではの対空性能を見せつけるチャンスなのだ。ただし近めの飛びに対して早めに出すと空振りしてしまう。相手をちゃんと引きつけてから出すようにするか、少し難しいけど空中投げで対処するのがおすすめだぞ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

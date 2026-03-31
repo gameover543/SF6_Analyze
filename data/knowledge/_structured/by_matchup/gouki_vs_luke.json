@@ -1,0 +1,259 @@
+[
+  {
+    "id": "d604289651e5",
+    "category": "matchup",
+    "topic": "対弾選択肢（弱百鬼豪刃）",
+    "content": "弱百鬼襲（空中弱百鬼襲）は、相手の弾（飛び道具）に合わせることで、K派生（百鬼豪刃）でパニッシュカウンターを取れる。発生20F（全体33F）の弱百鬼襲から、K派生百鬼豪刃が繋がる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "相手が弾を撃ってくる状況",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "弱百鬼置きから弾にK派生",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "333",
+      "339",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2bb38eae29d0",
+    "category": "neutral",
+    "topic": "ファジー潰し（DR立ち強K→弱波動）",
+    "content": "ドライブラッシュ（DR）から立ち強Kを出し、ヒット時に弱波動拳でキャンセルすることで、相手のファジーガードやファジージャンプなどの選択肢を潰すことができる。立ち強Kは発生11F（全体46F）。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "ファジー潰し",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "00:25",
+    "source_quote": "ファジー潰しの引強K弱波動",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f4bc77061216",
+    "category": "oki",
+    "topic": "投げからの起き攻め（屈強K）",
+    "content": "投げで相手をダウンさせた後、相手がバック受け身を取った際に屈強K（発生9F、全体41F）を重ねると、相手が返した技（例: ルークの屈中K）が届かない間合いとなり、安全に起き攻めできる。ルークの屈中Kは発生7F（全体23F）。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "投げからのバック受け身に対して",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "00:38",
+    "source_quote": "投げから受け身に屈強K 反撃が届かない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c09051203b93",
+    "category": "oki",
+    "topic": "DR前強Pからの起き攻め",
+    "content": "ドライブラッシュ（DR）から前強P（6HP、発生13F）を出し、ガード/ヒット確認後に立ち強P（5HP、発生9F）を繋げることで、投げと打撃の択を仕掛けられる。前強Pガード時は+2F、立ち強Pガード時は-1F。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "00:46",
+    "source_quote": "前強Pをガード確認タゲコン派生からラッシュ起き攻め",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "206",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c35cc4171ff7",
+    "category": "oki",
+    "topic": "OD昇龍拳からの持続中段",
+    "content": "OD昇龍拳（発生7F）で相手をダウンさせた後、着地から歩いて持続当てになる屈中K、立ち中K、立ち強K（全て+5F有利）を重ねることで、投げと打撃の強力な起き攻めが可能になる。また、波動拳で持続的なプレッシャーをかけることもできる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "OD昇龍拳ヒット後",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "00:59",
+    "source_quote": "弱昇龍拳から持続中段、+5投げ、波動持続",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "114ffc71a6d6",
+    "category": "oki",
+    "topic": "中竜巻からの起き攻め",
+    "content": "中竜巻旋風脚（発生9F）で相手をダウンさせた後、前ステップから屈中K（発生7F、全体42F）を重ねることで、+5F有利の状況を作り、投げと打撃の択を仕掛けることができる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "中竜巻旋風脚ヒット後",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "01:29",
+    "source_quote": "中竜巻から前ステ持続中段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e572f84960dc",
+    "category": "oki",
+    "topic": "屈強P→OD波動による起き攻め",
+    "content": "相手をダウンさせた後、起き上がりに屈強P（発生8F、全体40F）を重ねる。ヒット時はOD波動拳に繋ぎ、ガード時は+2F有利となるため、投げとの択を仕掛けることができる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "01:43",
+    "source_quote": "起き攻めで屈強PからOD波動 投げ間合い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "92e44c5edc37",
+    "category": "oki",
+    "topic": "立ち中P持続当て起き攻め",
+    "content": "相手をダウンさせた後、起き上がりに立ち中P（発生7F、全体20F）を持続当てする。ガード時に+4F有利となるため、投げ、または屈中Kなどの連携へと派生し、相手にプレッシャーをかけられる。ヒット時は立ち中K、前強P、立ち強P、立ち強Kへと繋がる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "02:09",
+    "source_quote": "立中P持続起き攻め ガード時+4F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d1767ee2c2d5",
+    "category": "oki",
+    "topic": "屈弱P屈弱Kによる+5投げ連携",
+    "content": "相手をダウンさせた後、起き上がりに屈弱P（発生4F、全体16F）を持続当てする。ガード時に+4F有利、さらに屈弱K（発生4F、全体16F）を繋げると+5F有利となり、強力な投げとの二択を仕掛けることができる。ヒット時は立ち中Pへと繋がり、コンボを継続できる。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "_yvqVD2zIRA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】豪鬼 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Akuma Combo Oki Setup",
+    "source_timestamp": "02:46",
+    "source_quote": "対の択として屈弱P屈弱Kフレーム消費で+5投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:21:09.538555",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

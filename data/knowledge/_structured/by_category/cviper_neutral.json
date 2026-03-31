@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "5b26e0c2a4c6",
+    "category": "neutral",
+    "topic": "バーニングキックの性能と使い方",
+    "content": "C. Viperのバーニングキック（中版: 後ろSP、コマンド版: ↓↙←+K）は、OD版以外はガードされても確定反撃がない突進技。見た目通りの判定なので、相手の足払い系の技に勝てる弾抜けとしても機能する。スカらないよう注意して適当にぶっぱなすことで、今夜勝てるムーブになる。ガード時にドライブゲージを1つ支払うことで追撃ができ、ガードプラス2フレームとなるため、投げと打撃にいくことが可能。パニカン時は連続ヒットとなるが、通常ヒット時はヒットしないため、状況確認ができる場合はヒット時に弱中攻撃ボタンによる追撃ができるとよりベター。バーニングキックは空中でも出すことが可能で、前ジャンプから対空釣りで弱バーニングキックを出すことや、ジャンプ強キックから強バニキャンセルでめくりを狙うこともできる。ガードさせて有利な空中ODバーニングキックは強力。また、下ジャンプと素早く入力することで出せるハイジャンプから、それぞれのバーニングキックが出せるため、慣性が乗ってより強力な突進となる。ガード時五分となる中慣性バニや、遠距離から強襲できる強慣性バニ、密着+4FとなるOD慣性バニなど、色々な場面からバーニングキックを出して相手を翻弄しよう。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "ガード時、ヒット時、空中、対空ずらし、めくり",
+    "source_video_id": "HcSyMdRV2q0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "[Street Fighter 6] 3 tips for using the Modern Viper to win tonight! [Explanation]",
+    "source_timestamp": "03:00",
+    "source_quote": "ワンボタンでは中版が、コマンドでは\n下斜め前攻撃ボタンで出すことのできるバーニングキックは\nOD版以外はガードされても確定反撃なしの突進技となっているよ\n見た目通りの判定となっているから、相手の足払い系の\n技に勝てたり弾抜けとしても機能するよ\nスカらないよう注意して適当にぶっぱなすことで、\n今夜勝てるムーブが可能なんだよ\nガード時にドライブゲージを1つ支払うことで\n追撃ができて、ガードプラス2フレームとなっているから\n投げと打撃に行くことが可能だよ\nパニカン時は連続ヒットとなるけど、\n通常ヒット時はヒットしないから\n状況確認ができる場合はヒット時に\n弱中攻撃ボタンによる追撃ができるとよりベターとなっているよ\nバーニングキックは空中からでも出すことが可能だから\n前ジャンプから対空釣りの弱バーニングキック\nジャンプ強キックから強バニキャンでめくり\nガードさせて有利な空中ODバニが強力だよ\nまた下ジャンプと素早く入力することでだせる\nハイジャンプから、それぞれのバニが出せると\n慣性が乗ってより強力な突進となるから、\nこれができると今夜勝てる強行動となるよ\nガード時五分となる中慣性バニや\n遠距離から強襲できる強慣性バニ\n密着プラス4フレームとなるOD慣性バニなど\nいろんな場面からバニを出して相手を翻弄しよう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:19:22.719709",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "308",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d0f32dcde924",
+    "category": "neutral",
+    "topic": "セイスモハンマーの性能と使い方",
+    "content": "C. Viperのセイスモハンマー（下方向とSPボタン、もしくは昇龍拳コマンド）は、バイパーの独特な飛び道具。弱版は手前、中版は真ん中、強版は奥、OD版は広範囲の下段弾として機能する。下段攻撃なので相手の後ろ下がりに対して非常に強力で、ヒット時はハイジャンプから追撃が可能で、リターンが高い。ただし、スカると隙がかなり大きいため、ジャンプ攻撃などと噛み合うと確定ダメージをもらってしまうので注意が必要。飛んでくる相手に対しては、前SPで出せる強サンダースラップで対空しよう。セイスモは出がかりを攻撃ボタンいずれかを押すことでキャンセルできるため、これを立ち回りで見せて相手のジャンプやパリィを誘い出すことが可能。セイスモを使いこなせるようキンキンしまくって相手を動かしていこう。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手が後ろ下がりしている時、ヒット時、スカった時、相手が飛んでいる時",
+    "source_video_id": "HcSyMdRV2q0",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "[Street Fighter 6] 3 tips for using the Modern Viper to win tonight! [Explanation]",
+    "source_timestamp": "04:45",
+    "source_quote": "下方向とSPボタン、もしくは昇竜拳コマンドでだせる必殺技\nセイスモハンマーはヴァイパーの独特な飛び道具だよ\n弱版は手前、中版は真ん中、強版は奥、\nOD版は広範囲の下段弾となっているよ\n下段なので相手の後ろ下がりに対しても非常に強力で\nヒット時はハイジャンプから追撃が可能となっているから\nかなりリターンの高い弾となっているよ\nスカると隙がかなり大きいから\nジャンプとかみ合うと確定をもらってしまうので注意しよう\n飛んでくる相手には前SPで出せる\n強サンダースラップで対空をしよう\nまたセイスモは出がかりを攻撃ボタン\nいずれかを押すことでキャンセルできるから\nこれを立ち回りで見せることで\n相手のジャンプやパリィを吊り出すことが可能だよ\nセイスモが使いこなせるととてもかっこいい\nヴァイパーになるから、キンキンしまくって相手を動かしていこう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:19:22.719709",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "302",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "815124ce9062",
+    "category": "neutral",
+    "topic": "バーニングキックで突っ込む",
+    "content": "C.Viperはバーニングキックで相手に突っ込むことができる。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "HUjPhSpYUks",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ②] Recommended Basic Combos / Strategy Guide / Wake-up Attacks / Modern Suitabi...",
+    "source_timestamp": "00:24",
+    "source_quote": "バーニングで突っ込むか",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:31:19.017413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cd70613488df",
+    "category": "neutral",
+    "topic": "対空釣り",
+    "content": "C.Viperは手前バーニングキックで相手の対空技を誘い出し、そこを攻めることができる。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "HUjPhSpYUks",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ②] Recommended Basic Combos / Strategy Guide / Wake-up Attacks / Modern Suitabi...",
+    "source_timestamp": "00:27",
+    "source_quote": "手前バーニングで対空技を釣る",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:31:19.017413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "229b46e1e3ea",
+    "category": "neutral",
+    "topic": "有利状況での立ち回り",
+    "content": "C.Viperが有利な状況になったら、立ち中Kで待つことができる。相手の体力が少ない（例: 4000）状況で、しゃがみ中Kからセイスモハンマーを食らうのは避けたい。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "有利な状況、相手の体力が少ない",
+    "source_video_id": "HUjPhSpYUks",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ②] Recommended Basic Combos / Strategy Guide / Wake-up Attacks / Modern Suitabi...",
+    "source_timestamp": "00:34",
+    "source_quote": "有利になったら中Kで待つ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:31:19.017413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39d89abc8376",
+    "category": "neutral",
+    "topic": "立ち中P・しゃがみ中Pの重要性",
+    "content": "C.Viperの立ち中P、しゃがみ中Pは非常に使用頻度の高い基本技であり、多くの状況で活用される。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "HUjPhSpYUks",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ②] Recommended Basic Combos / Strategy Guide / Wake-up Attacks / Modern Suitabi...",
+    "source_timestamp": "03:03",
+    "source_quote": "立ち中P、しゃがみ中P、4ぬほど使います",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:31:19.017413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "29e87f83c704",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃の選択",
+    "content": "C.ヴァイパーでジャンプ攻撃をする際は、基本的にはジャンプ大Kを使用する。めくり攻撃としても機能する。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ycnQWUrJ4QQ",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Viper has been implemented! Here are some combo options that Pugera uses [Street Fighter 6]",
+    "source_timestamp": "00:16",
+    "source_quote": "ジャンプ攻撃は基本大Kです。大Kでめくりまでいけます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:22:39.568016",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "079621d491b2",
+    "category": "neutral",
+    "topic": "ジャンプ大攻撃後の選択肢",
+    "content": "C.ヴァイパーのジャンプ大攻撃は有利フレームが長いので、着地後に立ち中Pを出すことで相手にガードさせ、+1Fの有利状況を維持できる。また、直接しゃがみ大Pを出す選択肢もある。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ycnQWUrJ4QQ",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Viper has been implemented! Here are some combo options that Pugera uses [Street Fighter 6]",
+    "source_timestamp": "05:10",
+    "source_quote": "これジャンプ大攻撃、あまりにも有利フレ長いので、立ち中Pでガード+1F取りに行くのもいいんだけど、シャガみ大P入れ込んでも良い。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:22:39.568016",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "81b946f5a15e",
+    "category": "neutral",
+    "topic": "遅らせ打撃",
+    "content": "遅らせ打撃には前大Kがおすすめ。良いタイミングで出すと相手にヒットするが、追撃はできない。立ち中Pを遅らせ打撃で出すと非常に弱いため、推奨されない。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ycnQWUrJ4QQ",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Viper has been implemented! Here are some combo options that Pugera uses [Street Fighter 6]",
+    "source_timestamp": "16:30",
+    "source_quote": "遅らせ打撃は前大Kがおすすめ。いいタイミングでやるとこんな感じで引っかかるから追撃はできないんだけど。中Pを遅らせ打撃でやっちゃうとすごく弱いので。中Pを遅らせ打撃でやっちゃうとかなり微妙なんで前大Kがいいかなあ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:22:39.568016",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "48462fccf194",
+    "category": "neutral",
+    "topic": "サンダースラップのフレーム",
+    "content": "C.バイパーのサンダースラップ(中)は、ガードされても-3Fであり、反撃を受けません。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手がガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "02:08",
+    "source_quote": "中（サンダースラップ）はガードされても-3Fで反撃が無い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "403acec008c3",
+    "category": "neutral",
+    "topic": "弱サンダースラップの飛び道具抜け",
+    "content": "C.バイパーの弱サンダースラップは飛び道具を抜けられます。ただし、ガードされると-4Fで反撃を受けます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手の飛び道具に対して",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "02:39",
+    "source_quote": "弱（サンダースラップ）は飛び道具を抜けられる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "760146a75382",
+    "category": "neutral",
+    "topic": "空中バーニングキックのめくり",
+    "content": "C.バイパーの空中バーニングキックは、近い間合いで打つと相手をめくることができます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手との密着状態",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "07:08",
+    "source_quote": "近い間合いで打つとめくりになる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80cf77f7cc3f",
+    "category": "neutral",
+    "topic": "ハイジャンプからの空中バーニングキック",
+    "content": "C.バイパーのハイジャンプからの空中バーニングキックは、弱・中であればガードで五分（0F）になり、強であればガードで-2Fになります。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手がハイジャンプからの空中バーニングキックをガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "07:49",
+    "source_quote": "ハイジャンプ最速で打つと弱中キックはガードで五分になる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a5726d3c2f9c",
+    "category": "neutral",
+    "topic": "OD空中バーニングキックのガード後",
+    "content": "C.バイパーのOD空中バーニングキックはガードさせると有利になります。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手がガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "09:42",
+    "source_quote": "OD空中バーニングキックはガードで有利",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309",
+      "317",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dbaad00934f2",
+    "category": "neutral",
+    "topic": "セイモハンマーの発生F",
+    "content": "C.バイパーのセイモハンマーは発生がそれなりに早く、弱は24Fです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "10:56",
+    "source_quote": "発生もそれなりに早い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eed93021e953",
+    "category": "neutral",
+    "topic": "セイモハンマーの連打",
+    "content": "C.バイパーのセイモハンマーはハイジャンプキャンセルを繰り返すことで、相手をガードで拘束し続けることができます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手をガードで拘束したい時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "13:23",
+    "source_quote": "無限セイモハンマー",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31e1e9df4090",
+    "category": "neutral",
+    "topic": "セービングフォースでの入れ替え",
+    "content": "C.バイパーは弱セイモハンマーからセービングフォースで入れ替えを狙うことができます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手と入れ替えたい時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "19:46",
+    "source_quote": "弱セイモから入れ替え",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "325"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "180885fef733",
+    "category": "neutral",
+    "topic": "立ち弱Pと屈弱Pのフレーム",
+    "content": "C.バイパーの立ち弱Pと屈弱Pはどちらも4F技です。立ち弱Pはリーチが長いです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "23:01",
+    "source_quote": "立ち弱P・屈弱Pが4F技",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "844a5188059f",
+    "category": "neutral",
+    "topic": "立ち中Pのリーチとフレーム",
+    "content": "C.バイパーの立ち中Pは発生8F、ガード時+1Fとリーチが長くフレームが優秀です。密着で一番打ちたい技です。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "24:05",
+    "source_quote": "立ち中Pは発生8F、屈中Pは6F",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e7eb72461aa9",
+    "category": "neutral",
+    "topic": "しゃがみ中Kのリーチ",
+    "content": "C.バイパーのしゃがみ中Kは非常にリーチが長いです（ジュリよりも長いらしい）。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "26:13",
+    "source_quote": "しゃがみ中Kはめちゃくちゃ長い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fdfb0388199a",
+    "category": "neutral",
+    "topic": "しゃがみ中Kのガードフレーム",
+    "content": "C.バイパーのしゃがみ中Kはガード時-1Fです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手がガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "26:26",
+    "source_quote": "しゃがみ中Kはガードされても-1F",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cbfb8ae2c52b",
+    "category": "neutral",
+    "topic": "立ち強Kのガードフレーム",
+    "content": "C.バイパーの立ち強Kはガード時-3Fです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "相手がガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "27:39",
+    "source_quote": "ガードされると-3F",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb7b4e482db9",
+    "category": "neutral",
+    "topic": "立ち強Kのキャンセル",
+    "content": "C.バイパーの立ち強Kはサンダースラップキャンセルでガード時五分（0F）になります。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kガード時",
+    "source_video_id": "KPfE4TtbKvI",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Viper Commentary ①] The most difficult game ever! A complete guide to C. Viper's normal moves, s...",
+    "source_timestamp": "27:44",
+    "source_quote": "サンキャンするとガードで五分になる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:51:55.191045",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "37b910b571a6",
+    "category": "neutral",
+    "topic": "ラッシュ中段・下段",
+    "content": "C.ヴァイパーのラッシュ中弱Kは立ちガードで+2F、屈ガードで+1Fと有利フレームが大きく、中段攻撃として非常に強力。ラッシュ下段も併用することで相手のガードを崩す。これらはキャンセルラッシュからの攻めより強力な崩しとなる。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "攻め継続時、相手のガードを崩す際",
+    "source_video_id": "aS3z0YiijHw",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A more useful Viper tutorial! Explains breaks, BO combos, and suncan locks! #S...",
+    "source_timestamp": "01:43",
+    "source_quote": "あとこの後に中段とか…こうして後に中段とか。だから、この中段と下段の揺さぶりですね。やっぱバイパーこのラッシュ中足がかなり強くて、これプラ2とるんだよね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:16:27.384151",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5272c37748b5",
+    "category": "neutral",
+    "topic": "バイパーの基本立ち回り",
+    "content": "バイパーは、↓↘︎P（セイスモハンマー）を地上で出すことで相手を飛び上がらせ、それを対空技で落とす動きが基本となります。相手がセイスモハンマーを嫌がってジャンプしてくることを誘い、対空技で迎撃しましょう。対空技後は追撃で投げなど起き攻めに移行できます。セイスモハンマーは出始めをKでキャンセルすることでフェイントをかけられます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "null",
+    "source_video_id": "Y6Tq6PJky3k",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "【うりょの無料講座】これを見ればヴァイパー使い!立ち回りからマニアックなセットプレイまで徹底解説【スト6/うりょ】",
+    "source_timestamp": "00:32",
+    "source_quote": "基本的にはバイパーが一番やりたい行動は、このセイスモハンマーっていう技があるんですけどね。下から地雷の爆発技。この技すごい強いです。え、飛び道具でこんな感じで、すぐに出る前にキックでフェイントができるので、これで飛ばして対空技で落とすっていうのがバイパーの一番やりたい行動になります。なのでいかにこれをうまくフェイント混ぜて出すかっていう感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:44:59.449391",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70829667047c",
+    "category": "neutral",
+    "topic": "ハイジャンプとバーニングキック",
+    "content": "バイパー独自の奇襲技である下→上方向のハイジャンプを活用しましょう。通常のジャンプでは届かない場所でもハイジャンプで飛び込めます。相手はハイジャンプを警戒するため上を意識するようになり、その隙に地上セイスモハンマーやバーニングキックを通しやすくなります。ハイジャンプ中に↓↘︎Kと入力すると、通常とは異なる軌道で大きく前進する空中バーニングキックが出せます。ガードされても+0Fまたは-2Fと安全で、 OD版は+4Fと攻め継続に非常に強力です。ドライブゲージが余っているときは、ハイジャンプからODバーニングキックを使いましょう。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "null",
+    "source_video_id": "Y6Tq6PJky3k",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "【うりょの無料講座】これを見ればヴァイパー使い!立ち回りからマニアックなセットプレイまで徹底解説【スト6/うりょ】",
+    "source_timestamp": "01:44",
+    "source_quote": "次はバイパーだけが持ってる奇襲技ハイジャンプ。この下上で飛ぶんですけどね。これで、普通のジャンプだったら届かないようなところでもハイジャンプがあるとこんな感じで他のキャラと違って飛ぶことができます。なのでハイジャンプをうまく使って立ち回りましょう。相手はね、このハイジャンプを見るんで、かなり上も意識しないといけないんですよ。で、上を意識してくるんだったらこのセイスモハンマーが通ったりとか、このバーニングキックって技が通るようになってくるんですね。これって突進技でガードされても基本的に確反なし。バーニングキック中KKダブルバーン。ガードされても+2F。投げたりとか、打撃でこっから打撃行ったりとかね。なので、空対地から攻めるのがすごく得意なキャラになります。ハイジャンプしながらすぐに出すとこんな感じでね、普段のバーニングキックとは違う軌道で出ます。すげー横に移動する。ハイジャンプしてからすぐに出すとこんな感じでね。この技もすごく強くてガードされても-2F。OD SUCCESS。これプラス4Fなんでね。OD版で2ゲージ使うから3ゲージ使うんですけど、急にこの早さで移動してきて+4F。むちゃくちゃ強いですこれ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:44:59.449391",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "309",
+      "313",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9657a4e3326a",
+    "category": "neutral",
+    "topic": "地上戦の立ち回り",
+    "content": "バイパーのラッシュは全キャラ中でも遅い部類で、滑る技も少ないため、生ラッシュでの攻めは得意ではありません。ラッシュからの攻めでは、ODゲージを消費してラッシュから前大Kで突っ込み、ガードさせて+2Fの密着有利状況を作り、投げや打撃で揺さぶりましょう。また、ラッシュで押し込もうとしてくる相手には、弱サンダーでサプレッサーのようにかわしたり、中段攻撃（立ち中Kなど）やセイスモハンマーでカウンターを狙いましょう。ラッシュからフェイントを混ぜて攻めるのが効果的です。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "Y6Tq6PJky3k",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "【うりょの無料講座】これを見ればヴァイパー使い!立ち回りからマニアックなセットプレイまで徹底解説【スト6/うりょ】",
+    "source_timestamp": "04:47",
+    "source_quote": "バイパーは全キャラの中でもラッシュが遅いです。滑る技もあまり多くなくて。簡単に言うとラッシュがあんま強くないんですよ。なのでラッシュで攻めるっていうよりかは、どっちかというとこういう空対地から攻める方が多くなるキャラになります。ラッシュから前大K。ガードで密着+2F。投げとか打撃でたくれるようになる。相手がラッシュを止めてくるんだったら弱サンダーでサプレッサーのようにかわす。中段打ってこれちょっと止まるんで、中段打ったりとか、こっからセイスモハンマー打ったりとかね。隙を見て、これ通るなと思ったら出して行きましょう。ラッシュだけと突っ込むんじゃなくて、ラッシュしてからフェイントかけつつっていうのができるとバイパーの生ラッシュも使いやすくなると思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:44:59.449391",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d849a180d37b",
+    "category": "neutral",
+    "topic": "牽制技の活用",
+    "content": "バイパーの牽制技として立ち中Kとしゃがみ中Kが強力です。これらの技はリーチが長く、ハイジャンプキャンセルが可能です。ハイジャンプキャンセルを利用して、技を振ってからサンダーやセイスモハンマーに派生させ、相手の意表を突きましょう。また、大パンチも牽制として使えます。全体動作は重いですが、ガードされても-3Fとリスクが少なく、ヒット時は+3Fと有利になります。カウンターヒット時は立ち大Kが繋がるため、積極的に狙いましょう。大Kはパニッシュカウンター時は+10Fとなるため、屈大Pや屈中Kに繋いで大ダメージが期待できます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "Y6Tq6PJky3k",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "【うりょの無料講座】これを見ればヴァイパー使い!立ち回りからマニアックなセットプレイまで徹底解説【スト6/うりょ】",
+    "source_timestamp": "05:59",
+    "source_quote": "牽制技はそれです。1個目立ち中K。これぐらいの長さがあってハイジャンプでキャンセルができます。なのでハイジャンプキャンセルができると中Kサンダー、中Kセイスモとかできるんで、まあこんな感じでリーチが長い技から結構振ることができます。2個目の牽制技。しゃがみ中K。これ。この見た目してるんですけど、ジュリよりちょっと長いです。これもハイジャンプキャンセル効きます。なので、これも主力になって長い下段から中サンダーとか、長い下段からセイスモハンマー打ったりとかね。こんな感じでかなり牽制技の主力でしゃがみ中Kとか立ち中Kになっちゃうんで、これをうまく利用して振っていきましょう。あとは大攻撃。大攻撃が使える技が基本的に2つ。まず立ち大パンチ。これ。普通に強いです。ちょっと全体重いんですけど、12F全体35Fでガードされても-3F。ガードされても-3F。これプラス3Fなんで、カウンターで当たると基本的にはどの距離でも立ち中Kが当たります。パニカンすると+10Fになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:44:59.449391",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "105",
+      "109",
+      "204"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0cb62d0fb0cb",
+    "category": "neutral",
+    "topic": "アシスト強の弱点と対策",
+    "content": "C.Viperのアシスト強は1発目と2発目の間に飛ばれるとフルコンボを受け、めり込むと5Fの反撃を受ける。また発生9Fのため、相手の発生の速い弱Pや中Pで潰されることがある。立ち回りから急にラッシュで出すのではなく、相手をダウンさせた後の起き攻めでラッシュ中からアシスト強を出すと通しやすい。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "アシスト強使用時、対空、起き攻め",
+    "source_video_id": "FrwSTq6U13I",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】とりこれモダンヴァイパー簡単解説 コンボ 連携...【Mヴァイパー】",
+    "source_timestamp": "01:11",
+    "source_quote": "ただ完璧かと言われるとそうではございません。ま、まず1個、こんな感じで1発目と2発目の間にジャンプ攻撃が確定してしまいまして、こんな感じでフルコンもらってしまいます。あとですね、ちょっとめり込むとこんな感じで1発目と2発目の間に5フレの反撃もらっちゃいます。ま、このアシスト強の初段、ま、しゃがみ強ですね。これがですね、基本的にはこうガードさせてマイナス5なので、1発止めしてもこんな感じでめり込んでると確半もらってしまうと。ま、先ほどお伝えしたようにめり込んでたら2発目ガードされても10フレで反撃されてしまいますので、ま、とにかく先端を意識すること。あと、このジャンプしてくる相手に対しては擦りすぎないことっていうのがまず大事になってきます。あとですね、ゆって強攻撃発生9フレームなんで、ま、中攻撃とか弱攻撃みたいな発生の早い技には潰されます。…立ち回りから急にラッシュではな-く、置き攻めで使うと通しやすい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:25:01.144674",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0474bf60aa58",
+    "category": "neutral",
+    "topic": "アシスト弱の択",
+    "content": "C.Viperのアシスト弱はヒット時＋1F密着なので、投げと打撃の択を仕掛けられる。ガードされても-3Fで確定反撃はない。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "ヒット時、ガード時",
+    "source_video_id": "FrwSTq6U13I",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】とりこれモダンヴァイパー簡単解説 コンボ 連携...【Mヴァイパー】",
+    "source_timestamp": "04:53",
+    "source_quote": "アシスト弱コンボになります。これ、こんな感じでヒットしたらプラス1フレ密着。なのでこっから投げか、投げかからの択を仕掛けることができる上に、こんな感じでガードに耐えして出し切ってしまってもマイナス3フレームってことで確反ございません。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:25:01.144674",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "90087b665adf",
+    "category": "neutral",
+    "topic": "ラッシュ中からの前SP連携",
+    "content": "C.Viperのラッシュ中から→SPの派生を出すことで、密着からの読み合いを仕掛けることができる。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "近距離での読み合い",
+    "source_video_id": "FrwSTq6U13I",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】とりこれモダンヴァイパー簡単解説 コンボ 連携...【Mヴァイパー】",
+    "source_timestamp": "05:21",
+    "source_quote": "ま、あとですね、アシスト中からマイスペシャルまた派生出すことで、こんな感じで密着の読み合いする事もできます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:25:01.144674",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d186350760a",
+    "category": "neutral",
+    "topic": "←SP（バーニングキック）の性能と連携",
+    "content": "C.Viperの←SP（バーニングキック）は奇襲として有効。ガードされても-2Fで確定反撃はない。ヒット時やガード時に→強Pの派生を出すと、密着＋2F有利を取れる。派生を打つ際は、相手のインパクトに注意が必要。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "奇襲、近距離戦",
+    "source_video_id": "FrwSTq6U13I",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】とりこれモダンヴァイパー簡単解説 コンボ 連携...【Mヴァイパー】",
+    "source_timestamp": "05:28",
+    "source_quote": "後ろスペシャルで出ます、このバーニングキックですね。ま、これはダメージ取るよりも奇襲で使ったんですけども、こんな感じでガット近づいてガードされて、ま、マイナス2で確反ございませんし、こっから派生を出すことができて中強打つことで、逆に密着でプラス2フレ有利を取ることもできます。ま、これね、派生見てからこんな感じでインパクト確定してしまうので、ま、振りすぎは良くないんですけども、ま、奇襲としてドライブゲージ1本でプラス2フレまた密着取れるっていうのはかなり使い勝手いいかなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:25:01.144674",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "659b17913322",
+    "category": "neutral",
+    "topic": "↓SP（セイスモハンマー）の弱点",
+    "content": "C.Viperの↓SP（セイスモハンマー）は下段の飛び道具だが、強版でも端から端まで届かないため、弾の撃ち合いは不利になりがち。硬直が57Fと長く、相手の飛びに狩られやすい。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": "弾の撃ち合い、対空",
+    "source_video_id": "FrwSTq6U13I",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】とりこれモダンヴァイパー簡単解説 コンボ 連携...【Mヴァイパー】",
+    "source_timestamp": "06:06",
+    "source_quote": "そして最後が下スペシャルで出ますセイスモハンマーですね。…これめちゃくちゃ信用できるかっていうとそうじゃありません。ま、まず1個ですね、こんな感じで橋橋で、ま、強版一番遠いとこで打ってもま、届かないっていうところで、ま、弾の撃ち合いになっちゃったら割とこっちは分が悪いこと多い。ま、さらにですね、この硬直も57ってことでかなり大きくになってますので、相手の飛びとかにもね、狩られやすいと。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:25:01.144674",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "84211052ad49",
+    "category": "neutral",
+    "topic": "立ち回り主力技",
+    "content": "C.ヴァイパーの立ち回りのメインとなる技は、しゃがみ強P、立ち中K、しゃがみ中K、しゃがみ中P、セイスモハンマー、バーニングキックです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "00:54",
+    "source_quote": "ヴァイパーの立ち回りで振っていく技はしゃがみ強P、立ち中K、しゃがみ中K、しゃがみ中P、セイスモハンマー、バーニングキックがメインになってくるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "108",
+      "109",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c1a992d52d1",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの性質",
+    "content": "C.ヴァイパーのしゃがみ中Pはキャンセルラッシュや必殺技に繋げられるが、リーチが短いため人によっては難しいと感じるかもしれません。基本的には、立ち中Kやセイスモハンマーで牽制しつつ、しゃがみ強Pからキャンセルラッシュに繋げて攻撃や読み合いを仕掛けます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "01:01",
+    "source_quote": "しゃがみ中Pはキャンセルラッシュや必殺技に繋げられる技なんだけど、リーチが短くて人によっては使うのが難しい技だと感じたのだ。基本は立ち中Kやセイスモハンマーで牽制しつつ、しゃがみ強Pからキャンセルラッシュに繋げて攻撃や読み合いを仕掛ける形になるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "108",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8458d4de1d36",
+    "category": "neutral",
+    "topic": "しゃがみ中Kの活用",
+    "content": "C.ヴァイパーのしゃがみ中Kは、通常中足からのキャンセルラッシュができないですが、リーチと判定が優秀なので、牽制技として活用するのがおすすめです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "01:09",
+    "source_quote": "あとヴァイパーはしゃがみ中K、通称中足からのキャンセルラッシュが出来ないのですが、ただししゃがみ中Kはリーチと判定が優秀なので、普通の牽制技として使うのがおすすめなのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e1e48e51943a",
+    "category": "neutral",
+    "topic": "セイスモハンマーの活用",
+    "content": "C.ヴァイパーのセイスモハンマー(236P)は、弱中強で出る位置が変わる飛び道具技で、下段判定のためしゃがまないとガードできません。ヒットしたらハイジャンプキャンセル(HJC)で追撃に行けます。また、セイスモを撃った瞬間にキックボタン長押しでキャンセル（サンダースラップキャンセル）ができます。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "01:28",
+    "source_quote": "セイスモハンマーは↓↘→Pで出る飛び道具技で、弱中強で出る位置が変わるのだ。それにしゃがまないとガードできない下段判定の技になるのだ。セイスモは当たったらハイジャンプキャンセルで追撃に行けたりするんだけど。ちなみにセイスモを撃った瞬間にキックボタンを長押しするとキャンセルが出来るので覚えておくと良いのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6980a086096a",
+    "category": "neutral",
+    "topic": "バーニングキックの活用",
+    "content": "C.ヴァイパーのバーニングキック(236K)は、弱中強で距離が変わり、通常技で差し合おうと見せかけて奇襲で撃つのが立ち回りでのおすすめです。ガードされても-2Fなので確定反撃がありません。ヒット後はキック派生(6K)のダブルバーン(236K+K)に繋げると、ガードさせて+2Fの有利が取れて投げを埋めることができます。ただし、キック派生後は見てからドライブインパクトを間に合わされたり、後ろ歩きでシミーができないことに注意が必要です。また、ジャンプしてから遅らせてバーニングキックを撃つことで、対空技のリーチが短い相手に有効な攻め方になります。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "02:24",
+    "source_quote": "バーニングキックは通常技で差し合おうと見せかけて奇襲で撃つのが立ち回りでのおすすめなのだ。バーニングキックは弱中強で距離が変わって当たるとガードで-2Fで確定反撃が無いのだ。ヒットした後キック派生のダブルバーンにするとガードさせて+2Fの有利が取れて投げを埋めることが出来るのでおすすめなのだ。ただキック派生の場合は見てからインパクトが間に合ってしまったり後ろ歩きでシミーが出来ないことだけ注意なのだ。ジャンプしてから遅らせてバーニングキックを撃つことも出来て、対空技のリーチが短い相手にはすごく有効な攻め方になるので覚えておこう！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "289f765dea47",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃からのバーニングキック",
+    "content": "C.ヴァイパーのジャンプ強Kを当てた後に派生でバーニングキック(236K)を出すことができます。これはアーマー持ちの相手への対策やめくり攻撃として有効です。また、相手に対空を出づらくさせてから、普通にジャンプ攻撃を当てるのもおすすめです。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "02:59",
+    "source_quote": "ちなみにジャンプ強Kを当てた後に派生でバーニングキックを出すことも出来るので、アーマー持ちの相手の対策やめくり攻撃に使えるので覚えておこう！もちろん揺さぶりをかけて相手に対空を出づらくさせてから、普通にジャンプ攻撃を当てるのもおすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1134c262db3d",
+    "category": "neutral",
+    "topic": "弱サンダーの姿勢での弾抜け",
+    "content": "C.ヴァイパーの弱サンダー(214弱P)の構え中に弾抜けが可能です。ただし、ジュリの歳破衝やサガットの弱タイガーショットは避けられないため注意が必要です。",
+    "characters": [
+      "cviper"
+    ],
+    "matchup": "juri",
+    "situation": null,
+    "source_video_id": "KU1AlM9y2Ho",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "ヴァイパーの立ち回りから必須コンボまで！ヴァイパーの使い方解説【スト6】",
+    "source_timestamp": "03:32",
+    "source_quote": "ちなみに弱サンダーの姿勢で弾抜けが出来るので覚えておくと良いのだ。ジュリの歳破衝やサガットの弱タイガーショットは避けられないので注意なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:14:37.995745",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cb4db88716bb",
+    "category": "matchup",
+    "topic": "JP 屈大K (-6F)",
+    "content": "JPの屈大Kはガードされて-6Fですが、ケンは立ち弱Kでは届きません。ケンは立ち弱P (4F) で確定反撃できます。立ち弱P > 昇龍拳（OD版でも可）が可能です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jp",
+    "situation": "JPの屈大Kがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "06:46",
+    "source_quote": "JPの屈大K。これはガードされて-6Fですが、ケンの立ち弱Kでは届きません。立ち弱Pから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a7fcc835be03",
+    "category": "matchup",
+    "topic": "JP 3大P (-14F)",
+    "content": "JPの3大P（前大P）はガードされて-14Fです。先端以外であれば、ケンは立ち強K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jp",
+    "situation": "JPの3大Pがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "12:58",
+    "source_quote": "JPの3大P。ガードされて-14Fです。先端以外であれば、ケンは立ち強K > 昇龍拳で確定反撃できます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc828e838472",
+    "category": "matchup",
+    "topic": "JP戦の立ち回り",
+    "content": "JPは遠距離戦が非常に得意なキャラクターで、相手に接近を許さずに封殺するのが得意です。ケンとしては、無理にでも接近戦を仕掛けていく必要があります。遠距離でのOD波動拳連係はハメに近いほど強力ですが、ドライブインパクトやワンボタン対空を活用して近づくチャンスをうかがいましょう。端に追い込まれてしまったら、投げを狙って脱出したり、ゲージマックス状態であればワンボタンSAで切り返すことも可能です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jp",
+    "situation": "遠距離戦、端に追い込まれた時",
+    "source_video_id": "p8o4VzXC-PM",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Ken Explained! Recommended Easy Combos and Anti-Airs! How...",
+    "source_timestamp": "16:49",
+    "source_quote": "JPは遠距離戦がかなり強く、相手に接近を許さず封殺するのが得意なキャラ。うまく近づいて一気に勝負を仕掛けたいところだな。危ない元気良すぎだジジイ。そんなに元気なら杖必要ないだろ。投げていくう。このまま距離を詰めて戦うのだ。JP相手に遠距離戦はまず勝てない。無理にでも接近戦を仕掛けていけ。いい感じ。くらえジャンプ攻撃。何それタイミングドンピシャろそうだろう許してお願何でもしますから。やべえのだ。端に追い込まれて上に設置技。ちくしょう。ハナザロをえねえ。無敵技あってよかった。くらえ龍尾脚。嘘でしょやめろジジイ。始まった。これマジどうすればいいかわかんね。適当にジャンプでごまかす。無事接近出来たのだ。なんやかんやで互角。通るか？腹の底からザマミロ&スカッとサワヤカの笑いが出てしょうがねぇぜ。ヌケサクで草w。もらった。ふざけんなコラあと少しなんだぞお願いします。アテミヤっかいだな。ちくしょうあと少しなのに。詰みなのか。ここまで来たのに。マジでJP強いのだ。遠距離での連携はハメに近いな。対策あるのか？んなもんねえのだ。マジか。次のラウンド大丈夫か。近づいてボコる。以上なのだ。草。JPは無敵技がSAしかない。付け入るならそこ。うまく起き攻め決めるのだ。いてやめろ。言ってそがからくらったな。遠距離戦はノーサンキュー。甘々なジャンプで無事脱出。もしかするとジャンプぴょんぴょんが対策か？この端からは絶対逃がさねえ。地獄の時間を味わうといいのだ。ここが勝負どころだな。絶対逃すなよ。オラオラどうした？接近戦は苦手かな。通すわけねえだろ。お前の定位置は端だぞ。くるぶし見せのおしゃれパンツ。その場に置いいていったら許してやってもいいのだ。そいや。きたきたきたきた勝利まであと少し。ケンの端攻め思い知れ。やったな。でも最後のコンボがちょっともったいない。OD昇龍拳で締めてたら多分それで勝ってっだぞ。勝ったのにいちいち揚げ足取るようなこと言うななのだ。ぶっ飛ばすぞ。口悪くて草。このラウンド取ると勝利なのだ。だからこのジジイ元気すぎるのだ。やべえ。序盤から一番嫌な試合展開。開始5秒で体力4割持ってかれたのだ。とはいえ近付けばチャンスはある。無理にでも近づくのだ。なんか画面よくわかんねえ。とりあえずバナすのだ。バーンアウトしてるぞ。そんなの気にしない。ここでぶっ倒すのだ。このチャンス逃すなよ。ゲージマックスケンの前で飛んじゃいけない。見てからワンボタンSA余裕でしたなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:59:59.537859",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303",
+      "307",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

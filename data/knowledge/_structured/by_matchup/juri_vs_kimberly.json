@@ -1,0 +1,362 @@
+[
+  {
+    "id": "13a9fd83421b",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)対策",
+    "content": "キンバリーの強Pまたは中Pからの疾駆けに対して、派生を出してこない場合はインパクトが空中ヒットします。派生を出してきた場合はインパクトは避けられますが、5Fの確反が取れます。ただし、使用キャラクターによってはインパクトが潰されたり、5Fの確反が届かない場合があります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆け後",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "00:51",
+    "source_quote": "キンバリーはほとんど強Pや中Pから疾駆けをしてきます。この後にいくつか選択肢があるのですが、急停止以外の選択肢にインパクトで対応できます。一番多い孤空に対しては、派生を出さない場合、インパクトが空中ヒット。派生を出してインパクトを避けられた場合は、5F技から確反となります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3607c2a24ca3",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)対策 (Dリバ)",
+    "content": "キンバリーの強Pまたは中Pからの疾駆けに対して、派生を出してこない場合はDリバがヒットします。派生を出してきた場合はDリバは避けられますが、キンバリー側は硬直差-35Fなので大きな隙を晒します。ただし、使用キャラクターによってはDリバが派生で潰されたり、ゲージ消費の割にリターンが少ない場合があります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆け後",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "02:04",
+    "source_quote": "強Pや中Pからの疾駆けに対してドライブリバーサル。派生を出さなければ、Dリバヒット。派生を出せば、インパクトの時と同様に派生当たたらず、こちらが先に動けます。この時は隙が大きくかなり大きなダメージを取ることができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a96434ca2502",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)の全派生対策 (ファジーしゃがみコパン)",
+    "content": "疾駆け後の派生は孤空、中段、下段、急停止の4種類があります。これら全ての派生に対応するには、孤空派生をガードするタイミングでファジーしゃがみコパンを入力しましょう。孤空、下段はガードになり、中段は発生前に潰せ、急停止からの投げも潰すことができます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆け後",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "03:19",
+    "source_quote": "これらの全対応としてオススメは、孤空派生をガードするタイミングでのファジーしゃがみコパン。孤空はガードになり、下段もガード。中段は発生前に潰せて、急停止からの投げも潰せます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e0c837b5906",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)の全派生対策 (ジャストパリィ)",
+    "content": "疾駆け後の派生に対しては、ジャストパリィも有効です。孤空、中段、下段はパリィになるので、その後はリターンを狙って読み合いができますが、急停止からの投げには負けます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆け後",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "03:34",
+    "source_quote": "他には、孤空派生にタイミングを合わせたジャストパリィ。成功すればインパクトという対策ですね。失敗しても孤空、中段、下段はパリィになるのでOKですが、急停止からの投げには負けます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a77446f91fe4",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)のヒット時派生対策",
+    "content": "疾駆けがヒットした場合は、キンバリーは基本的に蹴り派生でコンボにしてきますが、投げを狙ってくる場合もあります。ヒットしている時は上入力をしておくと、投げに大リターンを取れます。蹴り派生は食らっても630ダメージしか受けないので、バックステはかなり効果的です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆けヒット時",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "04:12",
+    "source_quote": "ヒットしている時は基本的には蹴り派生でコンボにしてきますが、たまに補正切り狙いで投げにしてくる場合もあります。可能であればヒットしている時は上入力をしておきましょう。補正切り投げに大リターンを取れます。ちなみに蹴り派生は食らっても630ダメージしか受けないので、バックステはかなり効果的です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bbee0eed8410",
+    "category": "matchup",
+    "topic": "疾駆け (Bushin Senpu Leg)のガード時派生対策",
+    "content": "疾駆けをガードした場合、キンバリーは投げか蹴り派生で仕掛けてきます。投げを嫌がって垂直ジャンプすると読んで蹴りをしてくる場合があるので、投げ読みにはバックステップがおすすめです。垂直ジャンプは狩られる可能性があります。OD疾駆けの蹴り派生は画面端だとダメージが大幅に上がるので注意が必要ですが、蹴り派生読みならガードで+8F確反、投げ読みならジャンプから大ダメージが取れます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの疾駆けガード時",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "04:26",
+    "source_quote": "ガードしている時は基本的には何もせず戻っていきますが、こちらが固まってる読みで投げ。投げを嫌がって垂直ジャンプすると読んで蹴りといったことをしてくる場合があります。これに両対応なのがバックジャンプです。しかし、バックジャンプはどちらも避けれますが反撃ができませんし、キンバリー側にもバックジャンプを狩る行動もできます。OD疾駆けの場合は蹴り派生が追撃できてダメージが大幅に上がるのでリスクは上がります。蹴り派生読みならガードで+8Fで確反。投げ読みならジャンプから大ダメージ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c10ec0debfb4",
+    "category": "matchup",
+    "topic": "ラッシュ対策",
+    "content": "キンバリーのラッシュは非常に速く、特にラッシュ中Pは慣性も乗るため強力です。ラッシュからの攻撃は見てから打撃で止めるのは難しいため、見えたらパリィしましょう。相手がパリィを投げにくるタイミングを見計らってラッシュを止める駆け引きが必要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがラッシュで突っ込んできた時",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "07:41",
+    "source_quote": "まずはラッシュ、めちゃくちゃ速いです。特にラッシュ中Pは慣性も乗るのでかなり強力です。ラッシュに対しては見てから打撃で止めるのは難しく、押せてもパリィくらいかなと思います。運良くジャスパになれば、くらいの感覚で大丈夫です。ラッシュ攻撃にパリィをしてると相手はラッシュから投げに来ます。この投げに来るラッシュに関しては打撃で止めることができるという駆け引きですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8bc0ca6fd63",
+    "category": "matchup",
+    "topic": "スライディング対策",
+    "content": "キンバリーのスライディングには通常のものと疾駆け派生のスライディングの2種類があります。通常の解除スライディングはパニッシュカウンター以外はダウンせず、ガードすれば最大でこちらが+5F有利です。距離によってコパンからの反撃がベストです。疾駆け派生のスライディングはヒットすればダウンします。ガードできれば大きな隙があるのでしっかり反撃できます。キンバリー相手にある程度距離がある場合は所々でしゃがみガードを入れるように心がけましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーのスライディングに対して",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "08:35",
+    "source_quote": "通常のスライディングはパニカンヒット以外はダウンしません。ガードすれば最大でこちらが+5F。距離によって変わるのでコパンからの反撃がベストかと思います。ヒットした場合は、パニカン時はダウンしますが、それ以外はキンバリー有利状況になります。読み合いになるので、暴れないようににしましょう。疾駆け派生のスライディング。ガードできれば大きな隙があるのでしっかり反撃できます。キンバリー相手にある程度距離がある場合は所々でしゃがみガードを入れるように心かげましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fb9ff80e809f",
+    "category": "matchup",
+    "topic": "前強K (Jumping Strong Kick)対策",
+    "content": "キンバリーの遠くからの飛び上がって蹴ってくる前強Kは完全な初見殺し技です。この技に対しては、ガードしたらコパンで反撃しましょう。前に飛んできてヒット確認から追撃できますが、後ろに飛んだ場合は何もありません。これでOKです。キンバリー側も対策を知ってるか試しでやってきているので、一度対応するとやらなくなります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの空中攻撃 (前強K)",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "09:30",
+    "source_quote": "遠くから飛び上がって蹴ってくる技ですね。これは完全な初見殺しの技です。なので、対策は前強Kをガードしたらコパン。前にはコパンヒットから追撃。後ろに行ったら何もなし。これでOKです。キンバリー側も対策を知ってるかを探してきてるのので一度対応するとやらなくなります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80d466cbfa8d",
+    "category": "matchup",
+    "topic": "肘落とし (Elbow Drop)対策",
+    "content": "キンバリーの肘落としは通常のジャンプ攻撃と混ぜて出されるため、対空技が誘われやすいです。近くでやられると癖でくぐろうとしてしまい肘落としを食らいやすいです。対策としては、ガードすればこちらが絶対に有利なので、ガードしたら最速で4F技を振りましょう。ジャンプ攻撃と肘落としを見分けるのはかなり難しいので、昇龍などの必殺技対空はせずに、通常対空で落とすようにしましょう。めくり気味にジャンプされても無理にくぐろうとしないことも重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの肘落としに対して",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "10:06",
+    "source_quote": "これは厄介なんですよね。通常のジャンプ攻撃と混ぜて出されるので対空技が釣られてしまったり、近くでやられると癖でくぐろうとしてしまし肘落としを食らってしまいます。この技についても対策は、まずガードした場合、どんな当たり方をしてもガードすればこちらが絶対に有利です。ガードしたら最速で4F技を振りましょう。ジャンプ攻撃と肘落としを見分けるのはかなり難しいです。なので、昇龍などの必殺技対空はせずに、通常対空で落とすようにしましう。あとは、めくり気味にジャンプされても無理にくぐろうとしない。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1910613075d6",
+    "category": "matchup",
+    "topic": "ドロン (彩隠形)対策",
+    "content": "ドロン(彩隠形)はキンバリーを象徴する技ですが、対策は簡単です。ノーマルドロンは隙が大きく、投げや打撃でほとんど潰せます。ODドロンは上から出てくるパターンなので、上に判定が強い打撃で落とす必要があります。煙幕が見えたらノーマル、OD関係なく上に判定のある打撃で潰すのが対策です。ジュリの場合は引き強Kがノーゲージで2160ダメージと非常に強力です。しゃがみ強Pのパニッシュカウンターなら2840ダメージになります。引き強Kで固定して、ヒット確認を簡単にし、ゲージと風破ストック確認にリソースを使いましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーのドロン(彩隠形)に対して",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "11:02",
+    "source_quote": "この技の対策ができてないとバレルと永遠に擦られます。対策自体は意外に簡単なのでしっかり対策しておきましょう。まず、ノーマルドロン。この技は正直言ってめちゃくちゃ弱いです。見かけに騙されますが、かなり隙が大きいです。ODドロン。こちらは上に判定の強い打撃じゃないと落とせません。つまり、ドロンの対策はノーマル、ODにに限らず煙幕が見えたら上に判定のある打撃で潰すというのが対策です。ジュリの場合は、まず引き強K。ノーマル、ODドロンどちらにもノーゲージで2160ダメージ。しゃがみ強Pなら、パニカンヒットで2840。引き強Kで固定して、ヒット確認簡単にし、ゲージと風破ストック確認にリソース使おう。ゲージ3本と風破ストック2つ、SA1で3695ダメージ十分！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "120",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a87e39c20ac4",
+    "category": "matchup",
+    "topic": "細工手裏剣 (Trick Shuriken)対策",
+    "content": "細工手裏剣は、画面端でのコンボ後に設置し、投げ、下段コンボ、コパコパ中段などから発動するセットプレイが強力です。まず投げからの発動の場合、シミーはできないが垂直ジャンプから狩られる可能性があります。バックステやジャンプは打撃重ねで潰されてコンボから発動される可能性があるので注意が必要です。読み合い拒否で無敵技を打っても、キャラによっては無敵技の着地に発動するパターンもあるため、完全な読み合いになります。起き上がり中段からは発動に繋げられないため、起き上がりはしゃがみガードが安定します。途中から中段を混ぜてくるので中段見えたら立ちましょう。小技1発ガード後にはパリィである程度守れますが、小技ガードさせて投げもくるので難しいところです。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの細工手裏剣に対して",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "12:55",
+    "source_quote": "キンバリーの強い攻めを凌げば攻めのチャンスから一気に勝機が舞い込んできます。細工手裏剣対策。この技の対策も一応しておきます。ただ、とにかくセットプレイの種類が多いので全てに対応するのは難しいです。なのでよくある基本的なものだけ説明しておきますね。投げから発動、下段コンボから発動、コパコパ中段から発動あたりが基本的な選択肢になります。まず、投げに対してグラップすると、シミーはできないですが、垂直から狩られる可能性ががある。バックステやジャンプは打撃重ねで潰されてコンボから発動される可能性ががある。起き上がりはしゃがみガードが安定。ただ、途中で中段を混ぜてくるので中段見えたら立つ、もしくはパリィ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0e5b52a9dd42",
+    "category": "matchup",
+    "topic": "キンバリー戦全般の注意点",
+    "content": "キンバリーは連続ガードを形成する攻めが強く、通常技キャンセルから中足でも連続ガードが作れます。そのため無敵割り込みもできません。注意することはしっかりしゃがむこと、しゃがみながら中段が来たとこだけ立つのがベストです。キンバリーの中段は比較的見やすく発生も遅い部類なので、頑張って反応しましょう。もしくは下段、中段のファジーガードをしっかり行いましょう。ラッシュからの攻撃は生ラッシュ、キャンセルラッシュ共に下段ケアをしっかりしましょう。疾駆け中下段はとにかく早いので見てからの対応は難しいです。スライディングは離れた距離からしてくるので出だしはしゃがみガード、近くまで来たら立ちガードに変えて中段をケアしながら急停止対策にファジーコパンをしましょう。キンバリーの火力自体はSA3を使うまで本来の90%しかなく、あまり高くありません。シミーからの強Pが火力を出すメインウェポンなので、投げ抜けは控えましょう。キンバリーは防御面が弱く切り返し手段もSAかDリバしかありません。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリー戦全般",
+    "source_video_id": "2n4-WJN3VIQ",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Kimberly Strategy Guide [Latest Edition] A Must-See for Those Who Are Not Good...",
+    "source_timestamp": "15:26",
+    "source_quote": "最後にキンバリー戦で気をつけとことを何点かやっていきます。キャンセルラッシュ中足。キンバリーは通常技キャンセルの後小技ではなく中足でも連続ガードが作れます。なので無敵割り込みもできないのですが、注意することはしっかりしゃがむこと。しゃがみながら、中段が来たときだけ立つということができればベストです。キンバリーの中段は比較的見やすく発生も遅い部類ですので、頑張って反応する。ラッシュからの攻撃は生ラッシュ、キャンセルラッシュ共に下段ケアをしっかりしましょう。疾駆け中下段。これはとにかく早いので見てから対応は難しいです。スライディングは離れた距離からしてくるので出だしはしゃがみガード。近くまで来たら立ちガードに変えて、中段をケアしながら急停止対策にファジーコパン。キンバリーは火力自体がSA3を使うまで本来の90%しかなく、あまり高くはなりません。しかし、シミーからの強Pがキンバリーが火力を出すメインウェポンです。極力投げ抜けはしないように心がけましょう。他にも、キンバリーは接近戦特化のキャラですが守りは強くありません。切り返し手段もSAかDリバしかなく頼みの綱のSA1も発生が遅い方です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:31:47.029008",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

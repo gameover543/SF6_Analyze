@@ -1,0 +1,525 @@
+[
+  {
+    "id": "ec4d083a96c5",
+    "category": "neutral",
+    "topic": "リリー：下段攻撃の誘い",
+    "content": "リリーは下段攻撃がかなり弱いため、前後移動で相手の技を強気に誘いましょう。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "lily",
+    "situation": "リリー戦の立ち回り",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "05:20",
+    "source_quote": "リリーは下段がかなり弱いので、前後移動で相手の技を強気に誘おう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2df271afe93b",
+    "category": "neutral",
+    "topic": "中距離の立ち回り",
+    "content": "中距離での牽制は、リーチの長い立ち中Pが主軸となります。立ち中Pはガードされても相手との距離が離れて-8Fであるため、ほぼ確定反撃を受けません。また、しゃがみ強Pをキャンセルして中コンドルウィンドに繋ぐ牽制も強力です。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "03:31",
+    "source_quote": "中距離での戦い方",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "110",
+      "301",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "27cb0ae868c5",
+    "category": "neutral",
+    "topic": "Nコンドルスパイアの先端当て",
+    "content": "風ゲージがない状態では立ち中Pが主力ですが、Nコンドルスパイアを先端当てでヒットさせることで有利フレームを取ることができます。スパイアの「肩」の部分が当たった場合は有利ですが、「顔」の部分が当たった場合は五分か不利フレームになるため、先端当てを意識することが重要です。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "風ゲージなし、中距離",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "06:26",
+    "source_quote": "Nスパイヤの先端当て",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a0305a7908ef",
+    "category": "neutral",
+    "topic": "立ち回りでの風溜め意識",
+    "content": "立ち回りでは、とにかく風スタックを溜めることを最優先します。相手が少しでも下がったり、垂直ジャンプをした隙を狙って風を溜めましょう。立ち中Pやしゃがみ強Pのような通常技で相手をチクチク嫌がらせ、相手が飛んできたら対空で落としながら風を溜めるのが理想です。風を溜めたら、積極的に突っ込んで打撃とコマ投げの2択を仕掛けます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、相手が下がった時、相手が垂直ジャンプした時",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "01:53",
+    "source_quote": "どうにか風を溜めたい。隙あらば風スタックを溜める。\n溜めたら突っ込んで2択を仕かける。\n通常技でチクチク相手を嫌がらせて飛んでくれたらおいしい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "110",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f86ae91330d",
+    "category": "neutral",
+    "topic": "立ち中Pの活用",
+    "content": "立ち中Pは通常技として非常に高性能で、リーチと判定に優れています。キャンセルはかかりませんが、相手を牽制して不快感を与え、ジャンプを誘うことで風溜めのチャンスを作り出すことができます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、牽制、相手のジャンプ誘発",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "02:35",
+    "source_quote": "通常技業界でトップの性能。出せばどうにかしてくれる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60ea7a23de20",
+    "category": "neutral",
+    "topic": "屈大Pの活用",
+    "content": "屈大Pは、立ち中Pが届かない距離でのけん制や、相手のドライブインパクトに対して有効です。また、中コンドルウィンドにキャンセル可能で、風溜めの起点としても機能します。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、けん制、ドライブインパクト対策",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "02:50",
+    "source_quote": "立ち中Pはインパクトが確定しやすいので屈大Pなども混ぜて地上の択をちらす。\n風溜めの起点にもなる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "301",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1956a4d29bbb",
+    "category": "neutral",
+    "topic": "立ち大Kの活用",
+    "content": "屈大Pが届かない距離の相手に対しては、立ち大Kを振ってみましょう。見た目以上にリーチがあるため、意外とヒットします。パニッシュカウンター時は風溜めに繋ぐことができます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、遠距離での牽制",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "04:02",
+    "source_quote": "屈大Pが届かない距離の相手にふる 思ったよりリーチがあるので結構あたる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5adaf4693a8a",
+    "category": "neutral",
+    "topic": "ラッシュ打撃での風溜めとインパクト対策",
+    "content": "ラッシュしゃがみ大Pから中コンドルウィンドは連続ガードになり、安全に風を溜める行動として優秀です。ただし、相手がドライブインパクトを合わせてきた場合、ラッシュしゃがみ大Pの初段にインパクトが確定してしまいます。この場合、中コンドルウィンドにキャンセルせず、自身のドライブインパクトで返しましょう。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、風溜め行動、相手のドライブインパクト意識",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "04:37",
+    "source_quote": "ラッシュ屈大P>中コンドルウィンドが連続ガードになる。\n風溜めをしやすやす。\nインパクトをあわせてきたらキャンセルせずインパクト返しを狙う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa28819b9d43",
+    "category": "neutral",
+    "topic": "中コンドルウィンドの使い所",
+    "content": "中コンドルウィンドは屈大Pが届かない距離でのけん制として有効ですが、発生が25Fと遅いため、深めに当てすぎたり、空振りすると反撃を受けやすいです。適切な距離を判断し、当てることで風を溜めることができます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、遠距離からの風溜め",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "05:47",
+    "source_quote": "屈大Pが届かない距離で使う技。\nめり込みだりすかされると反撃をうけるので距離判断が難しい。けどどうでたら風溜めれる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bfdcd952712f",
+    "category": "neutral",
+    "topic": "垂直ジャンプとODコンドルダイブの活用",
+    "content": "弾持ちの相手に対しては、垂直ジャンプで弾を避けつつ、相手が弾を撃ったのを確認したらODコンドルダイブで一気に突っ込む戦法が有効です。これにより、相手の弾による牽制を無力化し、攻めのチャンスを作ることができます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "対弾キャラ、相手の弾発射時",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "06:21",
+    "source_quote": "弾持ちの相手に狙う。垂直を置いておき弾をうったらコンドルダイブで突っ込む。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71a37ec7e05a",
+    "category": "neutral",
+    "topic": "屈大Pからのコンドルウィンド2択",
+    "content": "屈大Pから中コンドルウィンドは風溜めとして優秀ですが、相手のドライブインパクトが確定します。しかし、屈大Pから弱コンドルウィンドにすると発生が遅くなるため、相手のドライブインパクトを見てから自身のインパクト返しが間に合います。これにより、相手は中か弱どちらのコンドルウィンドを出すかの2択を迫られ、インパクトを狙うか、風溜めをガードするかの読み合いが発生します。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "屈大Pヒット/ガード後、相手のドライブインパクト意識",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "08:47",
+    "source_quote": "屈大P>中コンドルウィンドは風溜め行為で優秀だがインパクトが確定する。そこで弱コンドルウィンドにすると間に合わないのでインパクトが返せる。2択2択。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "301",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dad5f9d9bab",
+    "category": "neutral",
+    "topic": "遠距離での風溜めへの対応",
+    "content": "テリーは、立ち回りでリリーが遠目で風溜めを見せてきたら、ラッシュドライブインパクトで咎める。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "遠距離でリリーが風溜めした時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:25",
+    "source_quote": "立ち回りでは遠目の風溜めが見えたらラッシュインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f45573c15fb1",
+    "category": "neutral",
+    "topic": "差し返し",
+    "content": "テリーは、リリーの技への差し返しは中Pだと届かないことが多いので、大Kで差し返すのが望ましい。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "差し返しを狙う時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:58",
+    "source_quote": "差し返しは中Pだと届かないことが多いため、出来れば大Kで差し返す",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ad5c3c2e8e1",
+    "category": "neutral",
+    "topic": "ラッシュ大P後の相打ち対応",
+    "content": "リリーのラッシュ大P後の大Pが4F攻撃と相打ちになった場合、テリーは中足は届かないが、大足なら届く。ラッシュ大Pからのキャンセル中Kが相打ちになった場合、中足が届く。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "ラッシュ大P後の大Pが4Fと相打ちになった時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:30",
+    "source_quote": "ラッシュ大Pの後の大Pが4Fと相打ちした場合、中足は届かないが大足なら届く\nラッシュ大P→中Kなら相打ち後に中足が届く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "201",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "87081b904561",
+    "category": "neutral",
+    "topic": "DR中段大Pの特性と連携",
+    "content": "リリーのDR (ドライブラッシュ) 中段大Pは、他キャラの中段攻撃と比べて発生が遅く、飛び上がるモーションのためガードされやすいです。ヒット時のコンボは、DR 中段大P、立ち弱Pを3回、昇龍拳弱Pと繋げます。昇龍拳弱Pの後は、相手の後ろ受け身を見てから風波拳中Kをガードさせることで有利フレームを取ることができます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "DR 中段大Pヒット時、昇龍拳弱P後",
+    "source_video_id": "qysC9RgCZpA",
+    "source_channel": "アダー@実用的ゲームちゃんねる",
+    "source_video_title": "[Street Fighter 6] Lily's Practical Basic Combos [Year 2] - STREET FIGHTER 6 LILY BASIC COMBOS",
+    "source_timestamp": "01:42",
+    "source_quote": "リリーの中段攻撃は他キャラと比べて発生が遅く飛び上がるモーションなのでガードされやすいのだ。小昇龍Pのあと後ろ受け身をみてから波動中Kをガードさせると有利フレームがとれるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:21:35.793630",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dad5f9d9bab",
+    "category": "neutral",
+    "topic": "遠距離での風溜めへの対応",
+    "content": "テリーは、立ち回りでリリーが遠目で風溜めを見せてきたら、ラッシュドライブインパクトで咎める。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "遠距離でリリーが風溜めした時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:25",
+    "source_quote": "立ち回りでは遠目の風溜めが見えたらラッシュインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f45573c15fb1",
+    "category": "neutral",
+    "topic": "差し返し",
+    "content": "テリーは、リリーの技への差し返しは中Pだと届かないことが多いので、大Kで差し返すのが望ましい。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "差し返しを狙う時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:58",
+    "source_quote": "差し返しは中Pだと届かないことが多いため、出来れば大Kで差し返す",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ad5c3c2e8e1",
+    "category": "neutral",
+    "topic": "ラッシュ大P後の相打ち対応",
+    "content": "リリーのラッシュ大P後の大Pが4F攻撃と相打ちになった場合、テリーは中足は届かないが、大足なら届く。ラッシュ大Pからのキャンセル中Kが相打ちになった場合、中足が届く。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "ラッシュ大P後の大Pが4Fと相打ちになった時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:30",
+    "source_quote": "ラッシュ大Pの後の大Pが4Fと相打ちした場合、中足は届かないが大足なら届く\nラッシュ大P→中Kなら相打ち後に中足が届く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "201",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

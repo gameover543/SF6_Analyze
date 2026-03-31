@@ -1,0 +1,56 @@
+[
+  {
+    "id": "76863bd7533e",
+    "category": "general",
+    "topic": "プレイヤー間の関係性が行動の解釈に与える影響",
+    "content": "対戦相手との間に過去の「確執」や因縁がある場合、一見すると単なるミスや非効率な行動に見えるプレイでも、相手側からは故意の「当てつけ」や「舐めプ」と受け取られる可能性があります。このため、プレイヤーの行動の意図や意味合いは、客観的な事実だけでなく、関係性や過去の経緯によって大きく左右されることがあります。",
+    "characters": [
+      "blanka",
+      "jamie"
+    ],
+    "matchup": "jamie",
+    "situation": "特定の対戦相手との過去の確執がある状況",
+    "source_video_id": "ELkdts8WhFA",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "[Street Fighter 6] Are MenaRD's combos underrated or not? Explained from the perspective of a dog...",
+    "source_timestamp": "04:20",
+    "source_quote": "僕も見た瞬間 \"流石に舐めっぽいな\" って思ったけど僕はね でも本人たちに 本人に事実確認しない限りは それ以上は何も別に言えないから 受け取り手で 咀嚼して消化して終わりだと思います ハイ という感じです ただ 俺のこのブランカの知識がなかったら… 絶対舐めプやと 思ったと思う 俺は...昔Xrdで一撃必殺が一番安全なケースで決めてたらキレられたことあって困りましたわ あー あれバー対ですからね Xrdの一撃はバー対にもなるから 一撃コンボが最適解ってのは結構多かったですからね そう だから僕が言いたいのは… GO1が過去に「ドミニカ勢」と確執あったから… メナがわざわざGO1に対してあいうことするのって まぁGO1がどう思うかよなっていう だけの話",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:56:49.201806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "76863bd7533e",
+    "category": "general",
+    "topic": "プレイヤー間の関係性が行動の解釈に与える影響",
+    "content": "対戦相手との間に過去の「確執」や因縁がある場合、一見すると単なるミスや非効率な行動に見えるプレイでも、相手側からは故意の「当てつけ」や「舐めプ」と受け取られる可能性があります。このため、プレイヤーの行動の意図や意味合いは、客観的な事実だけでなく、関係性や過去の経緯によって大きく左右されることがあります。",
+    "characters": [
+      "blanka",
+      "jamie"
+    ],
+    "matchup": "jamie",
+    "situation": "特定の対戦相手との過去の確執がある状況",
+    "source_video_id": "ELkdts8WhFA",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "[Street Fighter 6] Are MenaRD's combos underrated or not? Explained from the perspective of a dog...",
+    "source_timestamp": "04:20",
+    "source_quote": "僕も見た瞬間 \"流石に舐めっぽいな\" って思ったけど僕はね でも本人たちに 本人に事実確認しない限りは それ以上は何も別に言えないから 受け取り手で 咀嚼して消化して終わりだと思います ハイ という感じです ただ 俺のこのブランカの知識がなかったら… 絶対舐めプやと 思ったと思う 俺は...昔Xrdで一撃必殺が一番安全なケースで決めてたらキレられたことあって困りましたわ あー あれバー対ですからね Xrdの一撃はバー対にもなるから 一撃コンボが最適解ってのは結構多かったですからね そう だから僕が言いたいのは… GO1が過去に「ドミニカ勢」と確執あったから… メナがわざわざGO1に対してあいうことするのって まぁGO1がどう思うかよなっていう だけの話",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:56:49.201806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

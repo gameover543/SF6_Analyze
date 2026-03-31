@@ -1,0 +1,249 @@
+[
+  {
+    "id": "b2b7f1ac1f88",
+    "category": "matchup",
+    "topic": "ガイル：弾対策",
+    "content": "ガイルの弾は隙がかなり少ないため、ジャンプやドライブインパクトではあまり対策できません。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの弾に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:16",
+    "source_quote": "基本的に弾に対しては、ジャンプやインパクトが対策になりますがガイルの場合隙がかなり少ない関係上ジャンプやインパクトではあまり対策できないよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f9a20ae5315",
+    "category": "matchup",
+    "topic": "ガイル：弱ソニックヒーからの攻め",
+    "content": "ガイルに対して距離が離れると、弱ソニックヒーと一緒に生ラッシュで攻めてくることがあるため注意が必要です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルに対して距離が離れた時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:26",
+    "source_quote": "ガイルに対して離れると、弱ソニックヒーと一緒に生ラッシュで攻めてくるので注意",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3992dc3880ad",
+    "category": "matchup",
+    "topic": "ガイル：ODソニック・前強Pの有利フレーム",
+    "content": "ガイルのODソニックや前強Pは、ガード時にガイル側が有利フレームとなるため注意が必要です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルのODソニックや前強Pをガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:30",
+    "source_quote": "ODソニックや、前強Pはガード時ガイル側が有利なので注意",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cac8e2223673",
+    "category": "matchup",
+    "topic": "ガイル：中足タゲコン対策",
+    "content": "ガイルが中足からタゲコンで中段を重ねてくる連携に対しては、動いたのを確認してからパリィをしましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルが中足からタゲコンで中段を重ねてくる時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:35",
+    "source_quote": "中足からタゲコンで中段を重ねることができるので動いたのを確認して、パリィをしよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "857fdefd8f85",
+    "category": "matchup",
+    "topic": "ガイル：近距離ソニックブレイド対策",
+    "content": "ガイルの近距離ソニックブレイドは、ガード後に大足で確定反撃を取ることができます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの近距離ソニックブレイドをガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:40",
+    "source_quote": "近距離のソニックブレイドに対しては大足で確定反撃ををれるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11fd8ba07168",
+    "category": "matchup",
+    "topic": "ガイル：対空の特性",
+    "content": "ガイルの対空は非常に強力ですが、真上への飛びは落としづらい特性があります。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの対空に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:44",
+    "source_quote": "ガイルの対空は非常に強力ですが、真上の飛びは落としづらいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "286c986204e5",
+    "category": "matchup",
+    "topic": "ガイル：スピニングバックナックル対策",
+    "content": "ガイルのスピニングバックナックルは、しゃがんでいれば当たらないため有効です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルのスピニングバックナックルに対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:48",
+    "source_quote": "スピニングバックナックルはしゃがんでおけば当たらないよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "01609805e3b2",
+    "category": "matchup",
+    "topic": "ガイル：ソニッククロス対策",
+    "content": "ガイルのソニッククロスは持続が無限であるため、下がっても意味がありません。ODサンドブラストを撃てば勝てます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルのソニッククロスに対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:51",
+    "source_quote": "ソニッククロスの持続は無限なので、下がっても意味ないよ ソニッククロスはODサンドブラストが勝てるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e3c2fae19cb6",
+    "category": "neutral",
+    "topic": "ガイル：ソニック読みのライン上げ",
+    "content": "ガイルのソニックに対してガードパリィしながら前に歩いて距離を詰めるのは疲れるため、相手のソニックを読んでODサンドブラストを当ててラインを上げるのが有効です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルのソニックに対して距離を詰める時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:59",
+    "source_quote": "ガイルのソニックをガードパリィをしながら前に歩いて距離を詰めるのが対策の一つですが、正直やってて疲れるので相手のソニックを読んでODサンドブラストを当てて、ラインを上げよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

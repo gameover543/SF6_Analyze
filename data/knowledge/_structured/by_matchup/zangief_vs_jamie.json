@@ -1,0 +1,60 @@
+[
+  {
+    "id": "630a21776b8f",
+    "category": "matchup",
+    "topic": "ジェイミー戦の立ち回り",
+    "content": "ジェイミー戦は間合い管理が難しいため、さっさと画面端に追い込むのが効果的。ジェイミーが昇龍拳を出したらザンギエフの必殺技「シベリアンエクスプレス」が刺さる。ダウンを取った後はチャンスなので、積極的に攻める。",
+    "characters": [
+      "zangief",
+      "jamie"
+    ],
+    "matchup": "jamie",
+    "situation": "相手が昇龍拳を出した時、相手がダウンした時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:15",
+    "source_quote": "ジェイミー戦は間合いの管理が難しいため さっさと画面端に追い込んでしまいたいですね 今前昇竜出したな？？？？？昇竜を出すジェイミーにはアレが刺さりますやってみましょう ダウンをを取ったらチャンスです 勝機を零すな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "630a21776b8f",
+    "category": "matchup",
+    "topic": "ジェイミー戦の立ち回り",
+    "content": "ジェイミー戦は間合い管理が難しいため、さっさと画面端に追い込むのが効果的。ジェイミーが昇龍拳を出したらザンギエフの必殺技「シベリアンエクスプレス」が刺さる。ダウンを取った後はチャンスなので、積極的に攻める。",
+    "characters": [
+      "zangief",
+      "jamie"
+    ],
+    "matchup": "jamie",
+    "situation": "相手が昇龍拳を出した時、相手がダウンした時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:15",
+    "source_quote": "ジェイミー戦は間合いの管理が難しいため さっさと画面端に追い込んでしまいたいですね 今前昇竜出したな？？？？？昇竜を出すジェイミーにはアレが刺さりますやってみましょう ダウンをを取ったらチャンスです 勝機を零すな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

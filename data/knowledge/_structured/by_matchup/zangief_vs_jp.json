@@ -1,0 +1,57 @@
+[
+  {
+    "id": "e5973b7a4b5c",
+    "category": "defense",
+    "topic": "垂直溜め立大Pによる対空・割り込み",
+    "content": "ザンギエフを使用時、相手が近めの距離で垂直ジャンプをして攻撃を仕掛けてきた場合、垂直溜め立大P（垂直ジャンプ溜め大P）のアーマーで受け止めて反撃するのが有効。これは非常に刺さりやすく、JPのODアムネジアやダルシム、ザンギエフミラー戦、特に空対空必殺技を持たないキャラに対して有効。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "jp",
+    "situation": "相手が近距離で垂直ジャンプ攻撃を仕掛けてきた時",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "01:53",
+    "source_quote": "相手の近めの距離で垂直すると殴りにくるのでそこを溜め大Pアーマーで受け止めて殴るのだ！結構刺さるのだ！特にに対空必殺技を持っていないキャラに有効なのだ！JPのODアムネジアもパニカンできるし、オススメなのだ！天敵のJP、ダルシムあたりにこれよく使ってるのだ！ザンギミラー戦でも活躍するのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "278fbdcba85b",
+    "category": "neutral",
+    "topic": "ヘッドバット後の攻め",
+    "content": "ザンギエフを使用時、ヘッドバット（6強P）をガードさせた後は+4Fの有利フレームがあるため、ヘルスタブ（3中P）とスクリューの択が非常に強力で、相手の最速4F暴れにも勝てる。また、めくりボディプレスも有効で、相手のODアムネジアなどの対空必殺技を持たないキャラにパニッシュカウンターを狙い、痛いコンボに繋げられる。JPやダルシム、ザンギエフミラー戦でも活用できる。ヘッドバットガード後に遅らせDリバが対策として有効な場合もあるが、めくりボディプレスが刺さる場面も多い。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "jp",
+    "situation": "ヘッドバットガード後",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "03:59",
+    "source_quote": "6強Pをガードさせると+4Fだから、3中Pとスクリュー択が絶対最速の4F技で暴れても勝てない択になってるのだ！これ案外強いのだ！6強Pをガードした後は、対策として遅らせDリバが有効なんだけど、めくりボディプレスでパニカンを取れるのだ！そこから痛いコンボに持っていけるので強いのだ特にに対空必殺技を持っていないキャラに有効なのだ！JPのODアムネジアもパニカンできるし、オススメなのだ！天敵のJP、ダルシムあたりにこれよく使ってるのだ！ザンギミラー戦でも活躍するのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

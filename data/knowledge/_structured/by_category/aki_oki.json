@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "0007dbcc33ca",
+    "category": "oki",
+    "topic": "紫泡鞭のヒット・ガード時の状況",
+    "content": "AKIの紫泡鞭（214強P）は、ガードされても-4Fで反撃がないため、入れ込みやすい。ヒットすればコンボ、ガードされれば相手のドライブゲージを削りつつ有利状況を維持できる。暴れ潰しにもなる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "触った時",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "04:31",
+    "source_quote": "で触った時このキャラ入れ込んでも良い必殺技があってこの214強P。紫泡鞭はねこれガードされて。-4Fで反撃がないので。コパコパとかで相手にガードされてたってなったら",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3fe3e50eb2d9",
+    "category": "oki",
+    "topic": "蛇軽功からのグラップ潰しと投げ",
+    "content": "AKIで、蛇軽功（移動技）後、後ろ歩きで相手のグラップを空かし、投げを埋めることが可能。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "蛇軽功後",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "05:41",
+    "source_quote": "後ろ歩きで相手のグラップをスカせる。すごく良い状況。ここから投げも埋まる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf327d247b60",
+    "category": "oki",
+    "topic": "投げ後の連携",
+    "content": "AKIで、投げ後は起き攻めが強くないが、ラッシュ前強Kで触りに行く、またはラッシュ投げを狙う。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "投げ後",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "05:49",
+    "source_quote": "なのでこれを基本かな。コパコパコパ大波動から中の移動技で投げ。投げからはコイツね投げの後あんまり強くないんだけど、ラッシュ前大Kとかで触りに行ったりそのまラッシュ投げに行ったり",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18cdb55025d3",
+    "category": "oki",
+    "topic": "投げ後の連携の注意点",
+    "content": "AKIの投げ後の連携は、相手の暴れに負ける可能性もあるため、非常に強力な連携ではないが、打撃も埋まるため択として有効。前投げの後はドライブブラッシュ。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "投げ後",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "06:10",
+    "source_quote": "一応これ相手の暴れとかには負けちゃうからすごい強い連携ではないんだけど。まーでも一応打撃も埋まるから。やんわりとした択にはなってるかなという感じ。前投げの後はドライブラッシュです",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "adbccb4cf328",
+    "category": "oki",
+    "topic": "立ち強Kからの暴れ潰し連携",
+    "content": "AKIで、立ち強K→悪鬼蛇行（2PP）の蛇連咬（K派生）は、相手の暴れ潰しになり、ジャンプも暴れも封じることができる。ヒットすればコンボ可能。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "07:30",
+    "source_quote": "今夜勝ちたい連携としてはアリ。立ち強K→2PP→K派生が暴れ潰しになっていて相手は跳べないし暴れられない。で当たってたらコンボ出来る",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "320",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3bcc7e17dc9",
+    "category": "oki",
+    "topic": "コマ投げ派生による択",
+    "content": "AKIで、悪鬼蛇行（2PP）の雁字搦（コマ投げ派生, 弱P弱K）は、コマ投げが遅くファジー対応される可能性があるが、ゆるい2択として有効。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "07:47",
+    "source_quote": "その対になっているのが2PP→コマ投げ派生。ただこれコマ投げが遅すぎて全然ファジーJとか出来るんだけど。まぁ一旦暫くは通るんじゃないかな。なのでこれでゆるっと2択をするのもアリ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "320",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "55ea9d028613",
+    "category": "oki",
+    "topic": "画面端での安全飛び",
+    "content": "AKIで、画面端で蛇頭鞭（236強P）で締めた後、前ジャンプ強Pで安全飛びが可能。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "08:22",
+    "source_quote": "で画面端のセットプレイ2つやってたのがあってこれかなり強かったんだけど。このいつもの236強Pで締めた後にこのキャラ前ジャンプ強Pで安全飛びが出来ます",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dfc84f1d1235",
+    "category": "oki",
+    "topic": "画面端での立ち強Kからの連携",
+    "content": "AKIで、画面端で立ち強K（入れ込み）→悪鬼蛇行（2PP）K派生（蛇連咬）に繋ぐ。ガードされればドライブゲージを削り、ヒットすればループコンボとなる。ガードされた場合、コマ投げの択も有効。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "08:37",
+    "source_quote": "ここから（入れ込み）立ち強K→2PP→K派生。ここまでもう入れ込み。ガードしてくれたらドライブゲージ結構削れるし。当たってたらループするしという感じ。ガードされてたら一応コマ投げの択もあり",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "320",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c58e09bd70e0",
+    "category": "oki",
+    "topic": "安全飛びの推奨",
+    "content": "AKIで、画面端での安全飛び（ジャンプ強P）は非常に簡単でオススメ。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "09:07",
+    "source_quote": "この安全飛び超簡単なのでおすすめ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1368aa48b9e7",
+    "category": "oki",
+    "topic": "紫泡による重ねと有利状況",
+    "content": "AKIで、紫泡（214中P）設置からの弱泡（214弱P）は、ガードされても+10F、ヒットで+17Fの有利フレームを取れる強力な重ね。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "10:07",
+    "source_quote": "紫泡で設置して弱球を撃つとすごく良い感じに重なってガードされても+10F。でヒットすると+17Fも取れるから。この球から強Kまで入れ込んで",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b945b8e10739",
+    "category": "oki",
+    "topic": "画面端紫泡重ねからの毒ループ",
+    "content": "AKIで、画面端での紫泡（214中P）設置→弱泡（214弱P）重ねがヒットしたら、前強K（立ち強K）に繋ぎ、毒を付与し、さらに紫泡重ねでループ可能。ヒットで+17F有利。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "10:28",
+    "source_quote": "この球から前大Kまで入れ込んで。この球から前強Kまで入れ込んで。ヒットするとこの毒付与が。これに繋がるとまた毒付与からループする。ここから設置して弱球。でヒットすると+17F。この球から前大Kまで入れ込んで",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "530e29b21878",
+    "category": "oki",
+    "topic": "OD猛毒牙の起き攻め",
+    "content": "AKIのOD猛毒牙（2PP大P派生）からの起き攻めは、横にリーチの長くないOD昇竜系技持ちの相手にも勝てる場合があり、非常に強力。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "OD昇竜系もね横に長くないヤツとかには",
+    "source_video_id": "mXh-Ngnihbw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】新DLCキャラ！A.K.Iの簡単な使い方を解説",
+    "source_timestamp": "11:42",
+    "source_quote": "OD昇竜系もね横に長くないヤツとかには勝てたりもする。この起き攻めは結構強かった",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:37:49.838653",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71023fcfa810",
+    "category": "oki",
+    "topic": "立ち強Kヒット後の起き攻め",
+    "content": "立ち強K（大K）がヒットした場合、中毒穿破に繋ぐことで密着+5フレーム有利な状況となる。この状況を利用して投げを仕掛けるのが強力な起き攻めとなる。また、画面端では中毒穿破がバックステップで避けられても確定反撃を受けないため安全である。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "立ち強K（大K）がヒットした後、または画面端での起き攻め",
+    "source_video_id": "E1VOgOnesh4",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【A.K.I.解説】初日でマスター到達したプロによるA.K.I.解説【スト6】",
+    "source_timestamp": "02:16",
+    "source_quote": "当たったら中の移動技やると密着+5。投げもアリです。+5投げなんで、端で端でやってもバックステで避けられた場合に確反を食らわずに済みます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:28:00.071381",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68458195603a",
+    "category": "oki",
+    "topic": "ノーマルヒットからの起き攻め",
+    "content": "立ち中Kがノーマルヒットした場合、+3フレームの有利を得られる。この有利フレームを利用して、弱攻撃による連打や投げで起き攻めを継続し、相手のバックステップや上方向への暴れ行動を潰す。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "立ち中Kがノーマルヒットした時",
+    "source_video_id": "E1VOgOnesh4",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【A.K.I.解説】初日でマスター到達したプロによるA.K.I.解説【スト6】",
+    "source_timestamp": "03:00",
+    "source_quote": "中中繋がるから、ノーマルヒットで繋がるからこれでバックステとか上入れとか暴れ買って、で締めは…俺は立ち中K埋め！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:28:00.071381",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "67bbff678c77",
+    "category": "oki",
+    "topic": "強蛇討鞭からの起き攻め",
+    "content": "コンボを強蛇討鞭で締めると、相手の受け身の種類に関わらず密着+5Fとなり、有利な起き攻めが可能です。相手のOD無敵技やSAに反応して垂直ジャンプや後ろジャンプで回避し、反撃を狙いましょう。後ろ受け身しない方が安全です。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "コンボ締め",
+    "source_video_id": "F4t0Y5SrqRs",
+    "source_channel": "アキの秘密基地 ゲーム支部",
+    "source_video_title": "【初心者向け】なるべく簡単にマスターまで行ける講座 A.K.I編【ストリートファイター６ スト６ SF6 モダン クラシック 入門 格ゲー 格闘ゲーム 初心者 コンボ 立ち回り解説 アキ AKI】",
+    "source_timestamp": "1:38",
+    "source_quote": "コンボの締めって強蛇討鞭。ま、上に鞭みたいなの出すやつなんですけれども、それで締めるとことが多いんですけれども、これ、中央で当てたとしても、弱Kで密着+5、投げ間合いっていう素晴らしい状況になるんですよ。さっきは後方受け身だったんですけど、その場受け身でも+5です。結構OD無敵技とかSAパなしてくるなってなったら詐欺飛びしてもいいかもしれませんね。今度は相手が起き上がりに投げをするようにします。で、その場受け身の場合は下がれないんですよ。けど相手が後方受け身の場合は下がれてコンボに行けますよと。なのでアキミラーとかになった時に覚えててほしいんですけれども、基本的に強蛇討鞭で起き攻めをされる時っていうのは、後ろ受け身しない方が安全だったりします。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:24:56.877148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "76bc114b9d34",
+    "category": "oki",
+    "topic": "強靭ダウン後のラッシュ起き攻め",
+    "content": "`OD 蛇軽功`などによるダウン後、`ドライブラッシュ`で起き攻めを行うと、`しゃがみ弱K`（下段）と`立ち中P`（中段）で有利な二択を仕掛けることができます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "`OD 蛇軽功`などによる強靭ダウン後の起き攻め",
+    "source_video_id": "8uGLiqJ1V98",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】A.K.I. 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Aki Combo Oki Setup",
+    "source_timestamp": "00:23",
+    "source_quote": "強靭からラッシュ起き攻めで中下択",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:10:28.109298",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "107",
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e4078f934d6",
+    "category": "oki",
+    "topic": "OD蛇頭鞭からのラッシュ中下択",
+    "content": "`OD 蛇頭鞭`がヒットした直後に`ドライブラッシュ`を出すことで、相手に`しゃがみ中K`（下段）や`立ち中P`（中段）などの有利な二択を仕掛けることができます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "`OD 蛇頭鞭`ヒット後",
+    "source_video_id": "8uGLiqJ1V98",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】A.K.I. 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Aki Combo Oki Setup",
+    "source_timestamp": "00:56",
+    "source_quote": "OD弾からラッシュで中下択",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:10:28.109298",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c93e5c2b6b7c",
+    "category": "oki",
+    "topic": "画面端強靭ダウン後の前ステップ持続中段",
+    "content": "画面端で相手をダウンさせた後、`前ステップ`から持続の長い中段攻撃（例: `立ち中P`）を出すことで、相手の起き上がりに重ねて攻めを継続できます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端で相手をダウンさせた後の起き攻め",
+    "source_video_id": "8uGLiqJ1V98",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】A.K.I. 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Aki Combo Oki Setup",
+    "source_timestamp": "02:01",
+    "source_quote": "画面端強靭から前ステで持続中段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:10:28.109298",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bab3990b38b4",
+    "category": "oki",
+    "topic": "強弾後の起き攻め連携",
+    "content": "A.K.I.の強弾（強蛇連咬）がヒットした後に、前ステップを挟み、立ち中Kを連携させることで起き攻めとして機能する。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:06",
+    "source_quote": "強弾>前ステップ>中段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "603aafa686b3",
+    "category": "oki",
+    "topic": "強弾後の連携での暴れ潰し",
+    "content": "A.K.I.の強弾（強蛇連咬）ヒット後、前ステップから立ち中Kを出すことで、相手が4F技（例：ルークの弱P）で暴れてきた場合にカウンターヒットを取ることができる。また、+5F有利を利用して2弱Pや弱毒蛇の抱擁で5F技への暴れ潰しも可能。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後、相手が速い通常技で暴れてきた場合",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:12",
+    "source_quote": "強弾>前ステップ>中段 カウンター+5F 2弱Por弱PTC",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11cc615425d2",
+    "category": "oki",
+    "topic": "強弾後の起き攻めでのフレーム有利",
+    "content": "A.K.I.の強弾（強蛇連咬）がヒットし相手がダウンした後に、立ち中Pを連携させると+14Fのフレーム有利を得られるため、強力な起き攻めを継続できる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:20",
+    "source_quote": "強弾>中P +14F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7f4242355a9a",
+    "category": "oki",
+    "topic": "強弾後の連携からの固め",
+    "content": "A.K.I.の強弾（強蛇連咬）から立ち中P、さらに立ち強Kに繋ぐ連携は、ガードされてもA.K.I.が+2F有利となるため、継続した固めやプレッシャーに利用できる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後、相手がガードする状況",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:26",
+    "source_quote": "強弾>中P>強K ガードされても+2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b4fb68e9c8ad",
+    "category": "oki",
+    "topic": "強弾後の弱バルシャークによる投げ択",
+    "content": "A.K.I.の強弾（強蛇連咬）ヒット後に弱バルシャーク（236LK）に繋ぐと、+5Fのフレーム有利を得られ、相手を投げ間合いに誘い込むことができるため、投げと打撃の二択を仕掛けることが可能。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:33",
+    "source_quote": "強弾>バルシャーク +5F 投げ間合い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "322",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c2e4a71a9fb6",
+    "category": "oki",
+    "topic": "強弾＞弱バルシャークからの暴れ潰し",
+    "content": "A.K.I.の強弾（強蛇連咬）から弱バルシャーク（236LK）に繋ぎ、+5F有利の状況で相手が暴れてきた場合、立ち中Kでカウンターヒットを取ることができる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後、相手が暴れてきた場合",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:42",
+    "source_quote": "強弾>バルシャーク +5F 弱K>弱Pで飛び、暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7454d57bafde",
+    "category": "oki",
+    "topic": "強弾後の弱弾による起き攻め",
+    "content": "A.K.I.の強弾（強蛇連咬）がヒットし相手がダウンした後に、弱弾（弱蛇連咬）に繋ぐと+14Fのフレーム有利を得られ、強力な起き攻めを継続できる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:49",
+    "source_quote": "強弾>弱弾 +14F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c800e99a4d15",
+    "category": "oki",
+    "topic": "強弾＞弱弾＞6強Kによる揺さぶり",
+    "content": "A.K.I.の強弾（強蛇連咬）から弱弾（弱蛇連咬）を経て6強K（前方強キック）に繋ぐ際、あえて連続ガードにならないよう1～2Fの隙を作ることで、相手のガードを崩す揺さぶりとして有効。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞弱弾（弱蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "00:54",
+    "source_quote": "強弾>弱弾>6強K 連続ガードより1～2F空けた方が強いと思う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "90f84a572e45",
+    "category": "oki",
+    "topic": "強弾＞弱弾＞Dラッシュ2弱Pでの固め直し",
+    "content": "A.K.I.の強弾（強蛇連咬）から弱弾（弱蛇連咬）ヒット後、ドライブキャンセルしてドライブラッシュから2弱Pに繋ぐことで、相手がドライビングパクトを狙ってきた場合（カンニングインパクト）や、暴れてきた場合の両方に対応して潰すことができる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞弱弾（弱蛇連咬）ヒット後、相手がドライビングパクトや暴れを狙う状況",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "01:12",
+    "source_quote": "強弾>弱弾>Dラッシュ 2弱P カンニングインパクトと暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb15141077b2",
+    "category": "oki",
+    "topic": "OD弾からのゲージ効率の良い追撃",
+    "content": "A.K.I.の強弾（強蛇連咬）から弱弾（弱蛇連咬）、そしてOD弾（OD蛇連咬）に繋いだ後、立ち中Pで追撃すると、ゲージ効率良くカウンターヒットを確認できるため、ダメージを伸ばしつつリソースを節約する安牌な選択肢となる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞弱弾（弱蛇連咬）＞OD弾（OD蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "01:45",
+    "source_quote": "強弾>弱弾>OD弾>中P ゲージ効率的には中Pのカウンター確認が安牌",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bdc809e2a44e",
+    "category": "oki",
+    "topic": "強弾後の遅らせ投げ（コマ投げ）",
+    "content": "A.K.I.の強弾（強蛇連咬）ヒット後、少しディレイをかけて強毒蛇の抱擁（コマンド投げ）を仕掛けることで、強力な起き攻め二択を迫れる。遅らせ投げのタイミングは「トントン」というリズムを意識すると良い。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "02:09",
+    "source_quote": "強弾>微待ちゴマ投げ (タタンツではなくトントン) 序盤に通せば弱弾当たるかも",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1cc652212b1d",
+    "category": "oki",
+    "topic": "強弾後のOD弾による強力な起き攻め",
+    "content": "A.K.I.の強弾（強蛇連咬）からOD弾（OD蛇連咬）に繋ぐと、+26Fという非常に大きなフレーム有利を得られるため、最も強力な起き攻めの一つとなる。この連携は始動技に弱技の回数制限がなく、コンボルートの自由度が高い。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "02:18",
+    "source_quote": "強弾>OD弾 +26F 最強起き攻め 始動弱技回数縛りなし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b58493cfe22",
+    "category": "oki",
+    "topic": "強弾OD弾後の前ステップ択（ゲージ効率とジャンプ読み）",
+    "content": "A.K.I.の強弾（強蛇連咬）からOD弾（OD蛇連咬）を経て前ステップに繋ぐと+7F有利となる。これはゲージ効率を重視した選択肢だが、主に相手のジャンプ読み（対空）として有効に機能する。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞OD弾（OD蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "02:23",
+    "source_quote": "強弾>OD弾>前ステップ +7F ゲージコスパ重視 ジャンプ読みくらいにしか使えない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "adb2203cd8a7",
+    "category": "oki",
+    "topic": "強弾OD弾後の前ステップからの強力な選択肢",
+    "content": "A.K.I.の強弾（強蛇連咬）からOD弾（OD蛇連咬）、前ステップに繋いだ後、立ち強Kを出すことでカウンターヒット時に特大のリターン（大ダメージコンボ）を狙える。また、2強K（伏せ蹴り）や強毒蛇の抱擁（コマンド投げ）も強力な選択肢となる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞OD弾（OD蛇連咬）＞前ステップヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "02:38",
+    "source_quote": "強弾>OD弾>前ステップ>強K カウンターで特大リターン 伏せ蹴りとコマ投げもアリ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e0e22aec2bbd",
+    "category": "oki",
+    "topic": "強弾OD弾後のDラッシュ2中Kによる下段連携",
+    "content": "A.K.I.の強弾（強蛇連咬）からOD弾（OD蛇連咬）ヒット後、伸ばしドライブラッシュをかけてから2中K（しゃがみ中キック）に繋ぐと、連続ガードとなる下段攻撃で相手のガードを揺さぶることができる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞OD弾（OD蛇連咬）ヒット後",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "03:14",
+    "source_quote": "強弾>OD弾>伸ばしDラッシュ>2中K 連続ガード下段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5fb3c5fc6a7c",
+    "category": "oki",
+    "topic": "強弾OD弾後のDラッシュ2中Kによる暴れ潰し",
+    "content": "A.K.I.の強弾（強蛇連咬）からOD弾（OD蛇連咬）ヒット後、さらに伸ばしドライブラッシュをかけてから2中K（しゃがみ中キック）に繋ぐことで、相手の暴れを潰すことができる。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "強弾（強蛇連咬）＞OD弾（OD蛇連咬）ヒット後、相手が暴れを狙う状況",
+    "source_video_id": "a0hUHjgToWA",
+    "source_channel": "キーさん　",
+    "source_video_title": "【A.K.I.】全対応起き攻め！？強弾始動セットプレイ【ストリートファイター6】",
+    "source_timestamp": "03:21",
+    "source_quote": "強弾>OD弾>さらに伸ばしDラッシュ>2中K 暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:13:58.825098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3acb9c344c2a",
+    "category": "oki",
+    "topic": "強蛇頭鞭後の詐欺飛び",
+    "content": "AKIの中蛇頭鞭の特殊やられからは立ち中Pでコンボに繋がります。また、強蛇頭鞭後は相手の受け身状況に関わらず、AKIは詐欺飛びを仕掛けることができます。",
+    "characters": [
+      "aki",
+      "terry"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの強蛇頭鞭ヒット後",
+    "source_video_id": "ejPxEKDrxsc",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのA.K.I.対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:40",
+    "source_quote": "中蛇頭鞭特殊やられ→立ち中P。強蛇頭鞭後は受け身に関係なく詐欺飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:45:37.015678",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "309",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a46eeea3665e",
+    "category": "oki",
+    "topic": "強蛇頭鞭後の詐欺飛び",
+    "content": "A.K.I.の強蛇頭鞭（強P強K）ヒット後、中央でも詐欺飛びが可能です。ドライブゲージを回復したい場合に有効な選択肢となります。受け身身確認が必要になります。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "00:10",
+    "source_quote": "強蛇頭鞭後、中央でも詐欺飛びが可能。ドライブゲージを回復したい場合としての選択肢。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6ac285745cb1",
+    "category": "oki",
+    "topic": "強蛇頭鞭後の前ステ～歩き",
+    "content": "A.K.I.の強蛇頭鞭（強P強K）ヒット後、前ステップから歩きで起き攻めが可能です。ヒット時は立ち弱Pやしゃがみ弱Pへ繋ぎ、持続当てに成功した場合はガードされても有利フレームを得られます。この起き攻めはシミー択を狙うためのものです。難易度が高いですが、前ステップ2回や弱蛇軽功と異なり、大きな利点があります。ただし、持続当てが成功しているかの判断が難しいため、過信は禁物です。中Pで止めたとしても、しゃがみ弱Pや弱Kで相手より先に動くことができます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "00:22",
+    "source_quote": "目押ししの為、打撃は持続の長い中Pがおすすすめ。遅らせて入力する。持続当てになりやすく、ヒット後は立弱Pやしゃがみ弱Pに繋げられることも難しい連携だが、前ステ2回や弱蛇軽功と違い、大きな利点がある。持続当てに成功していると、ガードされていてもこちらが有利。その為中Pで止めたとしても、しゃがみ弱Pや弱Kでこちらが先に動ける。持続当てが成功してるかの判断は難しい為、過信は禁物。ヒットしても、ガードされても弱攻撃で暴れることが可能になる。安定してできるとできるようになるのであれば、強力だが難しいので、後に紹介する投げ、シミー択を通すための選択肢という考えでOK。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "310",
+      "316",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cd98eebeda70",
+    "category": "oki",
+    "topic": "強蛇頭鞭後の前ステ～歩き（シミー）",
+    "content": "A.K.I.の強蛇頭鞭（強P強K）ヒット後の前ステップ～歩き起き攻めは、主にシミーを狙うためのものです。前ステップ2回ではシミーができません。弱蛇軽功を用いた起き攻めでは相手が受け身を取らなかった場合にシミーが不可ですが、この前ステップ～歩き起き攻めは相手がその場で起き上がった場合、または受け身を取った場合の両方に対応できます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "01:52",
+    "source_quote": "慣れが必要になるが、投げ重ねの選択肢。シミーの為にもタイミングを覚えたい。この起き攻めはほぼシミーの為。前ステ2回だとシミー不可。弱蛇軽功では相手が受け身しなかった場合にシミー不可。こちらは両対応。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d39702ce3eb",
+    "category": "oki",
+    "topic": "猛毒牙後の前ステップ起き攻め",
+    "content": "A.K.I.の猛毒牙（毒なし）ヒット後の前ステップからは、打撃、投げ、シミーの全てを狙うことができます。打撃埋めとして立ち弱Pのターゲットコンボ『澤池』が有効です。中Pを使用すると相打ちになるため注意が必要です。投げを狙う場合は最速で入力することで相手に重なります。相手が受け身を取っている場合はシミーが可能です。ただし、相手が受け身を取らなかった場合、シミーはできませんので注意が必要です。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "02:16",
+    "source_quote": "猛毒牙（毒なし）の場合の起き攻め。前ステップで打撃・投げ・シミー可能。澤池（立弱Pのタゲコン）で打撃埋めが、可能。中Pだと相打ちになる。投げで埋める場合は最速入力。目押し要素はないので楽。相手が受け身をとってる場合。シミー可能。受け身なしの相手の場合は、シミーできなくなる為注意が必要。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "321",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ac1819ec3169",
+    "category": "oki",
+    "topic": "弱凶襲突後の前ステ～歩き",
+    "content": "A.K.I.の弱凶襲突ヒット後の前ステップ～歩きは、有利フレームが38Fと非常に大きく強力な起き攻めです。中Pを持続当てできれば、弱攻撃などの追撃に繋げることができます。投げやシミーも可能で、シミーは相手がその場起き上がり、または受け身の両方に対応できます。ただし、強蛇頭鞭後とは異なり、前ステップ2回や弱蛇軽功を用いた起き攻めはできません。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "03:02",
+    "source_quote": "38F有利状況。こちらも難易度は高いが、前ステ歩きが強い。中P持続当てでできれば、弱攻撃等から繋げることができる。弱凶襲突で終わるコンボ自体があまりないので、参考程度に。投げ・シミーも可能。シミーに関してもその場、受け身両方対応できる。強蛇頭鞭後と違い、前ステップ2回や弱蛇軽功での起き攻めはできない。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "312",
+      "316",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "593234bc0d5f",
+    "category": "oki",
+    "topic": "画面端強蛇頭鞭後の蠍腸消費",
+    "content": "A.K.I.の画面端での強蛇頭鞭（強P強K）ヒット後、蠍腸（前強P）でフレーム消費すると+5Fの有利状況となります。これにより、打撃埋めや下段択、ダメ重視のコンボ選択が可能です。打撃埋めの下段択として、中足→澤池→強蛇頭鞭→紫泡撒→DR強K→悪鬼蛇行～猛毒牙のコンボが有効です。強Kが相打ちとなった場合のダメ重視コンボは、強K→OD蛇頭鞭→弱K→中蛇頭鞭→強K→紫泡撒→DR強K→猛毒牙です。この連携では投げが最速で重なり、シミーも可能です。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "画面端、起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "03:57",
+    "source_quote": "画面端での強蛇頭鞭後は蠍腸（前強P）でフレーム消費することで+5Fとなる。打撃埋め、下段択。中足→澤池→強蛇頭鞭→紫泡撒→DR強K→悪鬼蛇行～猛毒牙。打撃埋め、ダメ重視。強K相打ちの場合のコンボ。強K→OD蛇頭鞭→弱K→中蛇頭鞭→強K→紫泡撒→DR強K→猛毒牙。この連携の場合、投げは最速で重なる。シミーも可能。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "307",
+      "309",
+      "310",
+      "311",
+      "320",
+      "321",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fec20f8d6bb7",
+    "category": "oki",
+    "topic": "猛毒牙後の紫煙泡弾重ね",
+    "content": "A.K.I.の猛毒牙ヒット後、紫煙泡（紫煙泡弾）を重ねて設置する連携です。紫煙泡が重なった状態で相手にヒットしていれば、強Kなどからコンボへ繋げることができます。この連携は、相手にガードされた場合でもこちらが+12Fも有利となるため強力です。ただし、相手の無敵技には注意が必要です。凶牛がガードされた場合でも、こちらが+2F有利となります。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "04:55",
+    "source_quote": "猛毒牙後の紫泡泉（毒沼）設置の連携。紫煙泡が重なる。ヒットしていれば強K等からコンボに繋げることが可能。ガードされてたとしてもこちらが+12Fも有利となる。が、無敵技に注意。凶牛がガードされても、+2Fこちらが有利となる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "05caa88e1126",
+    "category": "oki",
+    "topic": "毒沼設置後の強Kフレーム消費",
+    "content": "A.K.I.が紫泡泉（毒沼）設置後、強Kでフレーム消費することで+7Fの有利状況となります。中足が持続当てとなり、カウンターヒットでなくても中Pに繋げることができます。また、中Pも持続当てになるため、ヒット後に弱攻撃へ繋げることが可能です。投げを狙う場合は投げ距離ではないため若干歩く必要があります。シミーの場合は投げ距離ではないため、その場でしゃがんでいても有効です。ただし、有利フレームが少ないため、前に歩くと投げられることが多いので注意が必要です。この連携は、ヒット確認がしやすいという利点もあります。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "ohi5cFBwMjI",
+    "source_channel": "ぱぐじろう",
+    "source_video_title": "【スト6】A.K.I.　ノーゲージ起き攻め集",
+    "source_timestamp": "05:29",
+    "source_quote": "毒沼設置後、強Kでフレーム消費することで+7F有利状況となる。中足が持続当てとなり、カウンターじゃなくても中Pに繋げることが可能。中Pも持続当てになる為、ヒット後に弱攻撃が繋がるようになる。投げの場合は、投げ距離ではない為若干歩く必要あり。シミーの場合は投げ距離ではない為、その場でしゃがんでいても良い。有利フレームが少ない為、前に歩くと投げられることが多い。大きな利点ではないが、ヒット確認がしやすいという点と、中Pから直接中蛇頭鞭に繋ぐためにはにしゃがみ確認が必要な為の猶予が長くなる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:06:56.365186",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "306",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f1442c9b9ea",
+    "category": "oki",
+    "topic": "近距離での攻め",
+    "content": "AKIは近距離で前大K（ガードで+2F）や立ち大K（ガード時プラスフレームや、暴れ潰し、コマ投げへの二択）を活用することで、強力な攻めを展開できる。特に前大Kのガード時有利フレームは重要。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "wfP9rdn-bVk",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】新キャラAKIは癖がすごい！！AKIの強み弱み解説！【STREET FIGHTER6】",
+    "source_timestamp": "01:00",
+    "source_quote": "近距離もコマ投げとかも持ってるんで近距離も実は結構強かったりとかもします。この前大キック。この前大キックが近距離大攻撃でプラスフレームを取れるっていうのはこのゲーム結構強い点だと思うのでこの前大キックでプラスを取る。これが非常に強い点かなと思います。さらにこの立ち大キック。立ち大キックとかも非常に強い連携でこの立ち大キックからアバツがげきたりとか。こっからコマ投げに持っていける。こういったコマ投げと打撃の2択とかもあるのが非常に強い点かなという風に思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:10:58.678163",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3acb9c344c2a",
+    "category": "oki",
+    "topic": "強蛇頭鞭後の詐欺飛び",
+    "content": "AKIの中蛇頭鞭の特殊やられからは立ち中Pでコンボに繋がります。また、強蛇頭鞭後は相手の受け身状況に関わらず、AKIは詐欺飛びを仕掛けることができます。",
+    "characters": [
+      "aki",
+      "terry"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの強蛇頭鞭ヒット後",
+    "source_video_id": "ejPxEKDrxsc",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのA.K.I.対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:40",
+    "source_quote": "中蛇頭鞭特殊やられ→立ち中P。強蛇頭鞭後は受け身に関係なく詐欺飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:45:37.015678",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "309",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

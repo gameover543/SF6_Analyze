@@ -1,0 +1,56 @@
+[
+  {
+    "id": "043e34834ffb",
+    "category": "matchup",
+    "topic": "ザンギエフの対空への対処",
+    "content": "ザンギエフの対空はアーマー付きの技であり強力なため、マリーザ側は安易な飛び込みを控えるべき。対空を誘ってガードさせるなど、工夫して立ち回る必要がある。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフ戦において",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "03:38",
+    "source_quote": "お相手の対空がかなり厄介だ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c46f64dfe4ad",
+    "category": "combo",
+    "topic": "ザンギエフ戦でのSA3連携",
+    "content": "ザンギエフ戦において、中アシスト（アシスト中攻撃）からのSA3（SA3）は4300ダメージとなり、高いダメージを奪えるコンボである。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフ戦",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "03:49",
+    "source_quote": "ここは中アシストが入ってSA決まって4300！！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

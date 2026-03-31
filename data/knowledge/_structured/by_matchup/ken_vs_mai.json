@@ -1,0 +1,58 @@
+[
+  {
+    "id": "e478a3364a4a",
+    "category": "matchup",
+    "topic": "舞 弱龍炎舞 (-4F)",
+    "content": "舞の弱龍炎舞がガードされてめり込んだ場合、-4Fとなります。先端ガードの場合は確定反撃がありません。ケンは立ち弱P > 屈中K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mai",
+    "situation": "舞の弱龍炎舞がガードされてめり込んだ時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "02:24",
+    "source_quote": "舞の『弱龍炎舞』。めり込んだ場合、-4Fです。立ち弱Pから屈中K昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "464d9a177b7e",
+    "category": "matchup",
+    "topic": "舞 中龍炎舞 (-6F)",
+    "content": "舞の中龍炎舞はガードされて-6Fです。ケンはリーチの長い立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mai",
+    "situation": "舞の中龍炎舞がガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "06:35",
+    "source_quote": "舞の中龍炎舞。これもガードされて-6Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

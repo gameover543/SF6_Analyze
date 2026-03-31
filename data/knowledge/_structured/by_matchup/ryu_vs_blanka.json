@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2fe5f0f80c2a",
+    "category": "matchup",
+    "topic": "ブランカへの起き攻め",
+    "content": "ブランカをダウンさせた後、相手がガードを固める際、下段ガードが空いている傾向があるため、遠距離からのドライブラッシュ中段攻撃は有効な起き攻め手段となります。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカダウン後の起き攻め時",
+    "source_video_id": "QHm3rMrJEzE",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "リュウにはストリートファイターの基礎が詰まっている！対戦中の思考を解説しながら基礎力を高めるぷげら【スト6】",
+    "source_timestamp": "04:47",
+    "source_quote": "ガード時に下段が空いてるので、置き攻めで遠くからラッシュ中段も全然視野。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:55:38.475497",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b27a845f9e7f",
+    "category": "defense",
+    "topic": "立ち回りでの弾対策",
+    "content": "ブランカ戦では、弱弾は見てから抜けるのが簡単なので、弾持ちキャラの場合、強弾を中心に攻めるようにする。開幕距離からのコマ投げ（アマゾンリバーラン）にはしゃがみガードを混ぜて確反を取る（ガードで+10F有利）。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが弾抜け技（アマゾンリバーラン）を持つキャラと対戦する場合",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "06:42",
+    "source_quote": "弾持ちキャラを使っている場合 弱弾を撃つと見てから比較的簡単に抜けられます 立ち回りに弱弾から攻めたいところですが ブランカ相手にはなるべく強弾を使うようにしましょう 開幕位置くらいからの距離からは よく狙ってくるので しゃがみガードを混ぜて確反 ガードできれば10F有利なので しっかり確反取りましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d2ec58caf19f",
+    "category": "matchup",
+    "topic": "ブランカ強ローリングへの電刃SA1反撃",
+    "content": "ブランカの強ローリングアタックに対して、リュウの電刃状態のSA1（真空波動拳）は確定反撃として機能する。相手がこの技をガードされた（またはパニッシュカウンター可能な）際に使うと反撃のチャンス。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカの強ローリングアタックがガードされた（またはパニッシュカウンター可能な）状況",
+    "source_video_id": "fCAKTcJW8a0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】リュウ 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Ryu Combo Oki Setup",
+    "source_timestamp": "02:01",
+    "source_quote": "電刃SA1での確定反撃 強ローリング等",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:40:16.635026",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

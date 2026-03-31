@@ -1,0 +1,340 @@
+[
+  {
+    "id": "a36411940c0d",
+    "category": "matchup",
+    "topic": "ヨガファイアの処理",
+    "content": "ダルシムのヨガファイアに対しては、しゃがんで回避し、すぐに弱Pなどで反撃する。または、ジャンプで飛び越えて反撃する。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガファイアを放った時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:10",
+    "source_quote": "ヨガファイアを見てからしゃがみ弱P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f16f6a255a71",
+    "category": "matchup",
+    "topic": "立ち中Pへの反撃",
+    "content": "ダルシムの立ち中Pをガードした後は、投げで反撃を狙う。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムの立ち中Pをガードした後",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:17",
+    "source_quote": "立ち中Pに対して投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5e90592d0a93",
+    "category": "matchup",
+    "topic": "投げ抜けと投げへの反撃",
+    "content": "ダルシムが投げを仕掛けてきたら、投げ抜けを成功させる。ダルシムのヨガファイア中に投げを仕掛けることでパニッシュカウンターを取れる。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが投げを仕掛けてきた時、またはダルシムのヨガファイア中",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:20",
+    "source_quote": "投げ抜けからのヨガファイア投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8ce9c3defebc",
+    "category": "matchup",
+    "topic": "ヨガアーク（ジャンプ攻撃）への反撃",
+    "content": "ダルシムのヨガアークやジャンプ攻撃をガードした後は、パニッシュカウンターで中酔疾歩からコンボに繋ぐ。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのヨガアーク（ジャンプ攻撃）をガードした後",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:23",
+    "source_quote": "ヨガアークをガードしてからのパニッシュカウンター",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "330"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b806fe60b693",
+    "category": "matchup",
+    "topic": "ヨガテレポート（前方）への反撃",
+    "content": "ダルシムが前方ヨガテレポートで近づいてきた場合、着地を投げでパニッシュカウンターを取る。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが前方ヨガテレポートで移動してきた時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:27",
+    "source_quote": "ヨガテレポートに投げでパニッシュカウンター",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5076f4edc009",
+    "category": "matchup",
+    "topic": "ヨガフレイム・ヨガインフェルノへの反撃",
+    "content": "ダルシムのヨガフレイムやヨガインフェルノをガードした後は、ドライブインパクトでアーマーブレイクを狙う。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのヨガフレイムまたはヨガインフェルノをガードした後",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:30",
+    "source_quote": "ヨガフレイム・ヨガインフェルノをガードしてドライブインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70ab58890ab1",
+    "category": "matchup",
+    "topic": "遠距離攻撃や隙の大きい技へのドライブインパクト",
+    "content": "ダルシムが遠距離での牽制技（立ち弱P、立ち中K、しゃがみ中Kなど）や空中からの技（ヨガアーク、ヨガゲイルなど）を繰り出し、ガードできた場合、積極的にドライブインパクトでパニッシュカウンターを狙う。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムの各種技をガードした時、または隙の大きい技を出した時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "01:21, 01:48, 02:00, 02:06, 02:16, 02:29, 03:17, 03:24, 03:28, 03:36, 03:41, 03:45, 03:49, 04:01, 04:08, 04:12, 04:16, 04:21, 04:26, 04:30, 04:34, 04:38",
+    "source_quote": "各種攻撃をガードしてドライブインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce245d077961",
+    "category": "matchup",
+    "topic": "ダルシムのジャンプ攻撃への対空",
+    "content": "ダルシムのジャンプ攻撃やヨガアークに対しては、しゃがみ中Pで対空してパニッシュカウンターを狙う。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがジャンプ攻撃（ヨガアーク、ジャンプ中Kなど）を仕掛けてきた時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "01:03, 01:52",
+    "source_quote": "ジャンプ攻撃にしゃがみ中Pで対空",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d97cb15c21e7",
+    "category": "matchup",
+    "topic": "ヨガテレポート（後方）からの着地への反撃",
+    "content": "ダルシムが後方ヨガテレポートで離脱した場合、着地に合わせて立ち弱Pなどをヒットさせ、状況によってはコンボに繋ぐ。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが後方ヨガテレポートで移動した後",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "02:32, 04:42",
+    "source_quote": "ヨガテレポートに立ち弱PでKO",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "619542b375d7",
+    "category": "matchup",
+    "topic": "ヨガブラストへの反撃",
+    "content": "ダルシムのヨガブラストをガードした後は、ドライブインパクトで反撃する。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのヨガブラストをガードした後",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "01:45",
+    "source_quote": "ヨガブラストをガードしてドライブインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b95b56984e1",
+    "category": "matchup",
+    "topic": "遠距離での各種攻撃のガードとドライブインパクト",
+    "content": "ダルシムの遠距離からの打撃（立ち弱P、立ち中K、しゃがみ中P、しゃがみ中K、ヨガブラスト、ヨガインフェルノ、ヨガフレイム）は全てガードし、隙があればドライブインパクトでパニッシュカウンターを狙う。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが遠距離で各種攻撃を出した時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "02:44, 03:17, 03:20, 04:01, 04:12, 04:16, 04:21, 04:26, 04:30, 04:34, 04:38, 04:59, 05:11, 05:22",
+    "source_quote": "遠距離攻撃をガードしてドライブインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "108",
+      "109",
+      "602",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ffd31819a1d6",
+    "category": "matchup",
+    "topic": "ダメージを最大化するドライブラッシュからのコンボ",
+    "content": "ダルシムの技をパニッシュカウンターでヒットさせた後、ドライブラッシュからの強力なコンボやスーパーアーツでダメージを最大化する。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムの技をパニッシュカウンターでヒットさせた時",
+    "source_video_id": "6oVG4BvKjko",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendジェイミーから学ぶ！✨ダルシム戦立ち回り LEGEND Jamie's Matchup Strategy Against Dhalsim〚タンタンメン〛〚tsumugi〛",
+    "source_timestamp": "00:44, 01:29, 02:54, 03:07, 03:50, 05:00, 05:37",
+    "source_quote": "ドライブラッシュからのコンボやスーパーアーツでKO",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:08:49.539500",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

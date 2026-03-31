@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2e5147f0508b",
+    "category": "combo",
+    "topic": "ルークのSA3コンボ",
+    "content": "ルークのパンチからOD昇龍拳、ODラッシュ、強P、SA3を繋げるコンボが有効。特にJPのODアムネジア後のOD弾抜けからこのルートに繋ぐと高ダメージが出せる。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "jp",
+    "situation": "JPのODアムネジア後",
+    "source_video_id": "Id0EjDt0A1E",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Luke users' active recipe information is so moving! [Naruo, Street Fighter 6]",
+    "source_timestamp": "00:03",
+    "source_quote": "これいける…？",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:28:30.475832",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cd4995f08196",
+    "category": "matchup",
+    "topic": "JPのODアムネジア対策コンボ",
+    "content": "ルークでJPのODアムネジアに対するOD弾抜け→前ステップ→弱P→DDTのコンボは3950ダメージ。OD昇龍拳で反撃すると大きく滑らせてしまうため注意が必要。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "jp",
+    "situation": "JPのODアムネジア後",
+    "source_video_id": "Id0EjDt0A1E",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Luke users' active recipe information is so moving! [Naruo, Street Fighter 6]",
+    "source_timestamp": "02:10",
+    "source_quote": "昨日そういえばさ。これあんじゃん",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:28:30.475832",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "83354d2c4806",
+    "category": "matchup",
+    "topic": "JPの当身対策",
+    "content": "JPの当身（当て身）は、ルークの小技に対しては基本早く動けるため有利に立ち回れる。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "jp",
+    "situation": "JPが当身を使ってくる時。",
+    "source_video_id": "OFTV-3wTfIA",
+    "source_channel": "でぃぃち",
+    "source_video_title": "初心者が最速でプラチナにいくために必要なルークの最強戦術\"生ラッシュ or 弾\"戦法【8割必勝講座】",
+    "source_timestamp": "05:10",
+    "source_quote": "JPの当身は小技だと基本こっちが早く動けるよ。弱いね",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:32:04.804763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

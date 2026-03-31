@@ -1,0 +1,87 @@
+[
+  {
+    "id": "d9cebf5262e6",
+    "category": "defense",
+    "topic": "SA2の回避法",
+    "content": "ルークのSA2（ジョスクール）をガードした際、演出中にSA2のコマンド（モダン操作ならワンボタンSA2入力）を押しっぱなしにすることで、硬直回復と同時にリバーサルSA2を発動できる。これを利用することで相手のSA2後の連携を回避できる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのSA2をガードした際",
+    "source_video_id": "IsYSp4MsgKY",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "\"待ち\"を突き崩すためにはこう考えます。見てから対応できる行動とできない行動を切り分けて使う！MR1500ディージェイのリプレイコーチング#59",
+    "source_timestamp": "03:41",
+    "source_quote": "暗転した時に何も入力してなかったっぽいんすよ。まだ。まだ何も出してなかったんよ。っていう時は、っていう時は、暗転中にジョスクールのコマンドを押しっぱなしにしておけばリバサで出てくれるんで。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:13:41.896503",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57d4a99b70ad",
+    "category": "neutral",
+    "topic": "凪の時間の活用",
+    "content": "ルークのような相手に対して、遠距離での弾の撃ち合いはディージェイの弾抜け（ジャックナイフマキシマム）があるため、ルーク側は弾を撃ちづらい。そのため相手は弾を撃たずにあなたの生ラッシュや飛びを待つ「凪の時間」が生じやすい。この間は、相手は中足ラッシュで対応してくるため、あなたが遠距離で待っていると攻めにくい状況になる。この時間帯こそ、相手が見てから対処できない技（中ソバット、近距離の通常技）を使って距離を詰め、相手を揺さぶるべきである。近づいて、相手が対応できない行動をぶつけ、「待ってても対処できないぞ」という意識を植え付けることで、相手を動かせるようになる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが弾を撃ちづらい「凪の時間」",
+    "source_video_id": "IsYSp4MsgKY",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "\"待ち\"を突き崩すためにはこう考えます。見てから対応できる行動とできない行動を切り分けて使う！MR1500ディージェイのリプレイコーチング#59",
+    "source_timestamp": "11:40",
+    "source_quote": "でこっから結構飛びをやっちゃうんだけど、えっとね、ルーク視点ね、ディージェイに対して弾を撃ちづらいんよ。なんでかっていうと、前のラウンドも強玉撃ってるけど強玉があるから玉を普通に打っても俺とかち合ったら一発もらっちゃうしで。ルーク視点ね、結構ね、結構撃ちづらい。そんなに打つモジベへ高くない。玉狙って飛んでるかもしんないけど実はね、撃ちづらいんよ相手。そんなに打たないと思う。投げの時間かね、きっちゃってるけどこうゆところはもっとガンガン距離を詰めていきたいね。距離を詰めて見てからではこう対応できない行動を相手にぶつけてって、待ってんちゃうぞって。待ってても対処できないぞっていうのをみせていきたい。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:13:41.896503",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d81fe73806b6",
+    "category": "matchup",
+    "topic": "対ルーク戦の立ち回り",
+    "content": "ルークのしゃがみ中パンチは非常に強く、ヒットしたらそこからフルコンボという壊れっぷり。とりあえずしゃがみ中パンチに引っかからないように気を付ける。しゃがみ中攻撃で相手をダウンさせることができるが、そのあと【最速ドライブラッシュ＞中】が起き上がりにぴったり重なる。ヒットしていたらアシストコンボ3などにつなげて良いし、ガードでも有利なので投げが狙える。立ち回りでしゃがみ中攻撃でダウンさせたら狙ってみると良い。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "luke",
+    "situation": "対ルーク戦",
+    "source_video_id": "fXymwbXGL_U",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Deejay Explained! Combos and Fighting Techniques!",
+    "source_timestamp": "15:50",
+    "source_quote": "ルークは今作の主人公しゃがみ中パンチがかなり強くヒットしたらそこからフルコンという壊れっぷり犠牲者から弱体化せよとの声もチラホラ聞こえるなルークマジで強い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:33:09.981123",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

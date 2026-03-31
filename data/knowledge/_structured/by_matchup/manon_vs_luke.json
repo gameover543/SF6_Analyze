@@ -1,0 +1,174 @@
+[
+  {
+    "id": "d4f46aca4204",
+    "category": "defense",
+    "topic": "ラッシュ止めと対空の練習",
+    "content": "ダミー（例：ルークやラッシュを多用するキャラ）に「前ジャンプ攻撃」「ラッシュしゃがみ中P」「弾」の3つの行動を記録させ、ランダム再生させる。これに対し、マノンはラッシュ攻撃をしてきたら立ち中Pで止める、飛びは対空技、弾はパリィで対応する練習。意識の持ち方としては、まずラッシュに意識を割き、弾と飛びに関しては後から反応させるイメージ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "相手のラッシュ攻撃、ジャンプ攻撃、弾に対して",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "09:02",
+    "source_quote": "続いて三つ目のトピック、ラッシュ止め&対空です。とりあえずルークでやるんですけど、ラッシュを使ってくる、多用してくるキャラだったら何でもいいです。で、レコーディングとしては三つ用意して、前ジャンプ攻撃とラッシュ2中Pと、弾です。この三つを用意します。これをランダム再生にして、相手が前ジャンプ攻撃をしてきたら対空、弾をしてきたらパリィ。で、ラッシュ攻撃をしてきたら中Pで止める。この三つを同時にこなします。結構難しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6188c7b39586",
+    "category": "combo",
+    "topic": "無敵技確定最大コンボ",
+    "content": "無敵技確定コンボその2。全てを使い切る最大コンボです。重デガジェ（パニッシュカウンター）＞立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ODデガジェ＞しゃがみ中P＞ドライブラッシュ＞後ろ強P＞しゃがみ中P＞立ち弱K＞強ロンポワン＞スーパーアーツ3。相手の体力が25%以下のSA3演出が入ると6000ダメージを超えます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "無敵技がパニッシュカウンターした時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "02:35",
+    "source_quote": "無敵技確定コンボその2。全てを使い切る最大コンボです。\n25%以下のSA3演出が入ると6,000dmg超えます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "108",
+      "311",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "040841b54233",
+    "category": "combo",
+    "topic": "基本の倒し切りコンボ",
+    "content": "基本の倒し切りコンボです。立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞スーパーアーツ1（スーパーアーツ2）。ドライブゲージ次第ではドライブラッシュは1回に減らしましょう。結構手が忙しく難しいのでたくさん練習しましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "相手を倒し切りたい時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "03:08",
+    "source_quote": "基本の倒し切りコンボ。Dゲージ次第ではラッシュは1回にします。\n結構手が忙しく難しいので、たくさん練習しましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "223e3fb59f86",
+    "category": "combo",
+    "topic": "倒し切り用SA3コンボ",
+    "content": "立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞強ロンポワン＞スーパーアーツ3。このコンボはスーパーアーツ3まで伸ばしたもので、倒し切りでかなり使うのでたくさん練習してください！",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "相手を倒し切りたい時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "03:27",
+    "source_quote": "⑨のコンボをSA3まで伸ばしたやつ。倒し切りでかなり使うのでたくさん練習してください！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7527c77dd043",
+    "category": "defense",
+    "topic": "ランヴェルセ後のラッシュ様子見",
+    "content": "マノンがランヴェルセをヒットさせた後、ラッシュからすぐに後ろ入れっぱなし（ガード）にすることで、発生6F以上の無敵技を全てガードできます。ルークのSA2（発生5F）のような一部例外はありますが、基本的に全ての無敵技に対して安全です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "ランヴェルセヒット後、相手が無敵技を出すと予想される時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "05:19",
+    "source_quote": "ラッシュから後ろいれっぱにすることで発生6F以上の無敵技をすべてガードできます ルークのSA2(発生5F)など一部例外はありますが基本的に全ての無敵技をガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "af0e4ab45701",
+    "category": "defense",
+    "topic": "弱テガジェからのラッシュ様子見",
+    "content": "マノンが弱テガジェをヒットさせた後、ラッシュからすぐに後ろに入れっぱなし（ガード）にすることで、発生6F以上の無敵技を全てガードできます。ルークのSA2（発生5F）のような一部例外はありますが、基本的に全ての無敵技に対して安全です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "弱テガジェヒット後、相手が無敵技を出すと予想される時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "10:35",
+    "source_quote": "ラッシュから後ろいれっぱにすることで発生6F以上の無敵技をすべてガードできます ルークのSA2(発生5F)など一部例外はありますが基本的に全ての無敵技をガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

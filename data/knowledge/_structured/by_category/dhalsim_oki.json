@@ -1,0 +1,290 @@
+[
+  {
+    "id": "a1e0e41d9bed",
+    "category": "oki",
+    "topic": "シミーからの攻め",
+    "content": "相手の投げ抜けを読んだシミーから、フロート大K、屈大P、大ブラストに繋ぎ、大ブラスト後は前PPPテレポで密着+3フレームを取り、攻めを継続します。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "シミー",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "11:50",
+    "source_quote": "シミー フロート大K > 屈大P > 大ブラスト 大ブラスト後は前PPPテレポで+3",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "96419f5cd5c5",
+    "category": "oki",
+    "topic": "画面端背負い時の起き攻め",
+    "content": "画面端を背負っている状態で後ろ投げがヒットした場合、ドリルキックで有利を取れるように練習しましょう。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "画面端背負い、後ろ投げヒット時",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "12:25",
+    "source_quote": "画面端背負い 後ろ投げ > ドリルで有利取れるように練習",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b27733c987ba",
+    "category": "oki",
+    "topic": "中央前投げからのセットプレイ",
+    "content": "中央で前投げがヒットした後は、ドライブラッシュから中スライディングに繋ぐと密着+5フレームの有利を取ることができます。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中央、前投げヒット時",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "12:33",
+    "source_quote": "とりあえずこれセットプレイ 中央前投げ > ラッシュ中スラで密着+5",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "da298dabe9e6",
+    "category": "oki",
+    "topic": "画面端前投げからのセットプレイ",
+    "content": "画面端で前投げがヒットした後は、弱スライディングに繋ぐと密着+5フレームの有利を取ることができます。または、前投げから弱スライディング、後ろ中K、大ヨガアーチに繋ぐことで有利な状況を作り出せます。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "画面端、前投げヒット時",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "12:39",
+    "source_quote": "画面端 前投げ > 弱スラで密着+5\n画面端 前投げ > 弱スラ > 後ろ中K > 大アーチで有利",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ef8ebfda006c",
+    "category": "oki",
+    "topic": "ヨガマウンテン対空からの入れ替え",
+    "content": "相手がジャンプしてきた際に、4強K（ヨガマウンテン）で対空し、ヒット後はテレポートで相手の裏に回って画面端の状況を入れ替える。4強Kは空中カウンターヒット時に相手をダウンさせるため、高めでヒットさせれば微有利な状況から攻めを継続できる。ただし、低めでヒットすると五分～微不利になる場合もあるので注意が必要。カウンターヒットでない場合はダウンしないため、ヒット後の打撃択は弱攻撃を使うのがおすすめ。空中制御技を持たない相手には特に有効な連携で、たとえ有利が取れなくても画面端からの脱出手段として活用できる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手がジャンプ攻撃をしてきた時（特に画面端）",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "04:09",
+    "source_quote": "その④：4強K（ヨガマウンテン）対空からテレポで入れ替え\n4強Kは空中カウンターヒットで相手がダウンする。\n高めで落とせばテレポートで入れ替えながら微有利が取れる。\nこの状況は4中Kなどだと相手の暴れに負ける可能性もあるため、打撃択は弱攻撃を使うのがおすすめ。\n低めで落とすと五分～微不利になることもある。\n慣れれば有利かどうかは大体判別可能。また有利が取れなくても基本的には端からは脱出したほうがよい。\nカウンターヒットでなければ相手はダウンしない。\nダルシムが先に動けるが間合いが微妙なので、無理せず打撃を重ねて少し押し返すのが無難。\n端に追い込まれると危険な相手ほど決める価値は高い。\nとりわけ空中制御技のない相手は積極的に狙ってよい。\n完全に端を背負っていなくてもメリットは多いので使っていこう。ちなみに判定も4中Pより少し真上に強い。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "206",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "359a22d2e3b5",
+    "category": "oki",
+    "topic": "近距離での投げ・打撃択",
+    "content": "密着状況では投げを軸に攻めるのが効率的。ダルシムの投げ、特に前投げは起き攻めが非常に優れている。投げ抜けを狙ってくる相手には、フロート中Kからしゃがみ強Pへ繋ぐことでパニッシュカウンターを狙い、相手のドライブゲージを大きく削ることができる。相手がバックステップで投げを避けようとする場合は、弱攻撃でカウンターを狙う。ダルシムの弱攻撃はゲージを使わないとリターンが少ないため、確実にSA1に繋ぐ練習をすることが必須となる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "近距離、起き攻め",
+    "source_video_id": "OvaSzftq5tY",
+    "source_channel": "牙キバル@VTuber",
+    "source_video_title": "【スト６ダルシム】実は攻めも強い！ダルシムの最強攻め方５選！【初心者講座】#ストリートファイター6 #スト6解説 #vtuber #dhalsim",
+    "source_timestamp": "06:02",
+    "source_quote": "この密着が作れた時にどうするかというと、もうコレ。投げを中心に崩す。(6:02) ダルシムの投げって前投げに起き攻めがつく。(6:10) 投げからの状況が超良い。(6:17) 投げの択のついとしてフロート中Kから下強P、これがあるんすよ。(6:21) 投げ抜け狩りのフロート中Kがめちゃめちゃ減る。(6:26) 投げを通しても投げ抜けを狩ってもどちらもリターンが取れる。(6:30) 両方バクステで避けられる。(6:38) そういう相手にはおとなしくこういう感じに小技を重ねてリターンを取っていく。(6:43) ダルシムの小技ってゲージ使わないとリターン出ない。(6:48) なのでダルシム使いの皆さんは小足からの中版SA1。これを必ず習得してください。(6:55)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:49:42.241246",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "110",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "84a856629fbf",
+    "category": "oki",
+    "topic": "ワープからの起き攻め",
+    "content": "相手をダウンさせた後、ヨガテレポートで移動し、ジャンプ攻撃で追撃して起き攻めを継続する。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "ダウン中の相手に対して",
+    "source_video_id": "fqf0osxbP5I",
+    "source_channel": "トマソン#スト6委員会",
+    "source_video_title": "【スト6】ダルシムのコンボは3つ覚えればOK【ダルシム解説】",
+    "source_timestamp": "00:28",
+    "source_quote": "ワープ→ジャンプ攻撃から繋げる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:36:18.259534",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe51ae4ce621",
+    "category": "oki",
+    "topic": "画面端での有利状況確保",
+    "content": "画面端では立ち強Kがコンボに繋がり、その後強ヨガフレイムを重ねることで有利なフレーム状況を作り出すことができる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "画面端で相手をダウンさせた後",
+    "source_video_id": "fqf0osxbP5I",
+    "source_channel": "トマソン#スト6委員会",
+    "source_video_title": "【スト6】ダルシムのコンボは3つ覚えればOK【ダルシム解説】",
+    "source_timestamp": "00:57",
+    "source_quote": "画面端は1強K繋がる、強フレイム重ねて有利",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:36:18.259534",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "abe2023c2df0",
+    "category": "oki",
+    "topic": "起き攻め：強ヨガブラスト後",
+    "content": "強ヨガブラスト後の起き攻めを重視するなら、相手ダウン中に「しゃがみ小P > しゃがみ中K」を重ねると、ガードで+2フレーム有利を取れます。ヒットした場合は「中ヨガフレイム (214P) > 強ヨガブラスト」が繋がります。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "強ヨガブラスト後の起き攻め",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "2:19",
+    "source_quote": "あと起き攻めを重視するなら、強ブラスト後に【2小P>2中K】をすると持続当てでガードで+2。ヒットなら【4中P>強ブラスト】が繋がるのもあるのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "316",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bca7b01e5122",
+    "category": "oki",
+    "topic": "起き攻め：小技とテレポート",
+    "content": "ダルシムの4フレーム技であるしゃがみ小Pは、2回刻んで「中ヨガファイア/強ヨガファイア/ODヨガファイア」に繋ぎ、微遅らせヨガテレポートを挟むことで表裏択の起き攻めができます。また、相手が立ち状態なら「しゃがみ小P > しゃがみ中P > 中ヨガブラスト」も繋がり、これも最速ヨガテレポートで起き攻め可能です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "2:58",
+    "source_quote": "次が小P2小P1小Kの小技。ダルシムの4F技は2小Pなのだ。小技は2回刻んで中強ODファイヤー。微遅らせテレポで表裏起き攻め。立状態なら【2小P>2中P>中ブラスト】も入るのだ。(この場合は最速テレポ)これもテレポで起き攻めできるのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "303",
+      "305",
+      "320",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

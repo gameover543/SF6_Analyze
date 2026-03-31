@@ -1,0 +1,557 @@
+[
+  {
+    "id": "963fb638800e",
+    "category": "defense",
+    "topic": "前投げ後のラッシュ対策",
+    "content": "キャミィの前投げ後、相手がラッシュしてきた場合、テリーは場受けでOD無敵技を出し、SA1で確定コンボを狙うことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの前投げ後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:00",
+    "source_quote": "前投げ後のラッシュは場受けでOD無敵・SA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4bbe2895fc91",
+    "category": "defense",
+    "topic": "OD無敵技へのODナックル",
+    "content": "キャミィの前投げ後、相手がラッシュODナックルを出すと、テリーのOD無敵技を回避できる場合がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの前投げ後、テリーのラッシュへのOD無敵技が、キャミィのODナックルによって避けられる",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:10",
+    "source_quote": "ただしラッシュODナックルで避けられる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2cbcde795322",
+    "category": "defense",
+    "topic": "後ろ投げ後のラッシュ対策",
+    "content": "キャミィの後ろ投げ後、相手がラッシュしてきた場合、テリーは場受けでSA1を確定させることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの後ろ投げ後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:14",
+    "source_quote": "後ろ投げ後のラッシュは場受けでSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3076e1225c0a",
+    "category": "defense",
+    "topic": "SA3後のラッシュ対策",
+    "content": "キャミィのSA3後、相手がラッシュしてきた場合、テリーは場受けでSA1を確定させることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのSA3後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:19",
+    "source_quote": "SA3後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "99a300eb8f11",
+    "category": "defense",
+    "topic": "フーリガン投げ後のラッシュ対策",
+    "content": "キャミィのフーリガン投げ後、相手がラッシュしてきた場合、テリーはOD無敵技を確定させることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのフーリガン投げ後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:26",
+    "source_quote": "フーリガン投げ後のラッシュはOD無敵確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e9c2791d10db",
+    "category": "defense",
+    "topic": "OD無敵後のラッシュ対策",
+    "content": "OD無敵技後のラッシュは、テリーは場受けでシミーは不可能だが、小攻撃には負けてしまうため注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "OD無敵技後のラッシュ攻め",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:29",
+    "source_quote": "OD無敵後のラッシュは場受けでシミー不可だが小パン停止には負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b32baec6b752",
+    "category": "defense",
+    "topic": "大Pターゲットコンボへの反撃",
+    "content": "キャミィの立ち大Pターゲットコンボは2発目をガードした後、テリーは中Pまたはしゃがみ中Pで確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの立ち大Pターゲットコンボの2発目をガードした後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:36",
+    "source_quote": "大Pタゲコンは2発目ガード後に中P・しゃがみ中P確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f612e52cb78e",
+    "category": "defense",
+    "topic": "しゃがみ大Kへの反撃",
+    "content": "キャミィのしゃがみ大Kはガード後-10F不利なので、テリーはしゃがみ中Kで99%の確率で確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのしゃがみ大Kをガードした後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:44",
+    "source_quote": "大足: -10F、99%中足確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a6971e0d5532",
+    "category": "defense",
+    "topic": "前大Kへの反撃",
+    "content": "キャミィのターゲットコンボ（前大K）はガード後-12F不利なので、テリーは立ち大Kで99%の確率で確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのターゲットコンボ（前大K）をガードした後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:48",
+    "source_quote": "前大K: -12F、99%大K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5da30055bf3a",
+    "category": "matchup",
+    "topic": "微不利状況での対中足",
+    "content": "キャミィが微不利の状況でテリーがしゃがみ中Kを撃ち返すと、キャミィのキャノンストライクに負けてしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィが微不利の状況",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:53",
+    "source_quote": "微不利を背負ったキャミィに中足を撃ち返すとストライクに負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d644815b4b7e",
+    "category": "matchup",
+    "topic": "キャノンストライクへの対処",
+    "content": "キャミィのキャノンストライクは、テリーの立ち中Kで特殊やられを誘発して落とすことができる。強ライジングは届かないが、立ち大Kなら落とせる。立ち中ライジングや強ライジングであれば、ストライクの手前落ちにも対応しやすい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのキャノンストライクに対して",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:58",
+    "source_quote": "中Kならストライクを特殊やられで落とせる, 中Kでは強ライジングが届かないが、大Kで落とせば届く, ストライクは中〜強ライジングだと手前落ちも落としやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a837119cfbc",
+    "category": "defense",
+    "topic": "フーリガン即降り対策",
+    "content": "キャミィがフーリガン即降りで昇龍拳を誘ってくることがあるため、テリーはフーリガンを見てから立ち中Pで迎撃する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィがフーリガン即降りで昇龍拳を誘ってきた場合",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:15",
+    "source_quote": "フーリガン即降りで昇龍を釣ってくることがあるので、フーリガンは見てから中P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fda69403e9bd",
+    "category": "defense",
+    "topic": "大PからのODフーリガン対策",
+    "content": "キャミィの立ち大PからのODフーリガンは、全派生で間に隙があるため、テリーは立ち中Pで割り込みを狙うのが望ましい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの立ち大PからのODフーリガンに対して",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:21",
+    "source_quote": "大PからのODフーリガンは全派生で間が空いているため、出来れば中Pで割り込みたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7af20fbddfb2",
+    "category": "defense",
+    "topic": "フーリガン起き攻めへのOD無敵",
+    "content": "キャミィの立ち大Pターゲットコンボ後のフーリガン起き攻めに対する完全な回答は難しいが、テリーのOD無敵技であればフーリガンの即降り以外の派生は回避できる。また、溜めフーリガンに対してはOD無敵技で全て対応できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの立ち大Pターゲットコンボ後のフーリガンによる起き攻め、または溜めフーリガンに対して",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:33",
+    "source_quote": "大Pタゲコン後のフーリガン起き攻めに完全回答はないが、OD無敵なら即降り以外躱せる, 溜めフーリガンだった場合、OD無敵で全対応",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2da3f5328d99",
+    "category": "matchup",
+    "topic": "ODフーリガンの性質",
+    "content": "キャミィのODフーリガンは、中段・下段攻撃はガードの上から完全に重なるが、投げ派生は空振りする。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのODフーリガンへの対処",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:44",
+    "source_quote": "ODフーリガンの場合、中段・下段は完全に重なるが、投げはスカる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c14f8f88bc12",
+    "category": "neutral",
+    "topic": "立ち中Pの活用",
+    "content": "テリーは立ち中Pを使って、キャミィのラッシュ、フーリガン、強ナックルへの対策を講じたい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのラッシュ、フーリガン、強ナックルへの対応",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:58",
+    "source_quote": "中Pでラッシュ・フーリガン・強ナックルを解決したい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0a475358f809",
+    "category": "defense",
+    "topic": "キャミィの小技ラッシュ対策",
+    "content": "キャミィの小技始動のラッシュ連携は、テリーの小攻撃で全て割ることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの小技始動のラッシュ連携",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:05",
+    "source_quote": "キャミィの小技ラッシュは全部小パンで割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e3dbd6ac4f2e",
+    "category": "oki",
+    "topic": "中キャノンスパイク後の起き攻め",
+    "content": "キャミィの中キャノンスパイク後、テリーは小足消費で持続しゃがみ大Pを出すと+4Fの有利が取れる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィが中キャノンスパイクをヒットさせた後の起き攻め",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:10",
+    "source_quote": "中アロー後、小足消費で持続しゃがみ大P(+4F)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "16506510e5a7",
+    "category": "oki",
+    "topic": "しゃがみ大K後の起き攻め",
+    "content": "キャミィのしゃがみ大K後、テリーは中フーリガンストライクで位置を入れ替えつつ+2Fの有利が取れる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィがしゃがみ大Kをヒットさせた後の起き攻め",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:18",
+    "source_quote": "大足後、中フーリガンストライクで入れ替えつつ+2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de794fb654b0",
+    "category": "defense",
+    "topic": "画面端での前投げ後の対策",
+    "content": "画面端でキャミィに前投げされた後、テリーはラッシュODナックルで裏に回りつつ、キャミィの無敵技をケアできる。ただし、ODナックルをやや遅らせて出すと無敵技に当たってしまうため、タイミングが重要。ガードできた場合、キャミィ側が-2F不利となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "cammy",
+    "situation": "画面端でキャミィに前投げされた後",
+    "source_video_id": "X2mX1bmEujw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのキャミィ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:22",
+    "source_quote": "画面端で前投げ→ラッシュODナックルで裏回りしつつ無敵をケア出来る, やや遅らせると無敵が当たる, ガード出来たらキャミィ側-2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:06:03.475932",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

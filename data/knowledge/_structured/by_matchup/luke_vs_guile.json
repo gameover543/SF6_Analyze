@@ -1,0 +1,54 @@
+[
+  {
+    "id": "00fdd92c083f",
+    "category": "matchup",
+    "topic": "対弾キャラへの対策",
+    "content": "弾キャラ（例：ガイル）相手には、生ラッシュが弾で止められやすい。地上戦をより一層頑張る必要がある。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "guile",
+    "situation": "弾キャラとの対戦",
+    "source_video_id": "olcubxbwXrM",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【超初心者向け】これから始めるモダンルーク",
+    "source_timestamp": "02:38",
+    "source_quote": "この戦術の弱点としては弾キャラ相手がきつくなることです。弾があるだけで生ラッシュが止まってしまうので、地上戦を頑張らないといけなくなります。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:09:52.390265",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2479384561b9",
+    "category": "matchup",
+    "topic": "ガイルのソニックブーム対策",
+    "content": "ルークでガイルのソニックブームをOD弾抜けするのは難しいが、SA3を使えば可能。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "guile",
+    "situation": null,
+    "source_video_id": "Id0EjDt0A1E",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Luke users' active recipe information is so moving! [Naruo, Street Fighter 6]",
+    "source_timestamp": "00:58",
+    "source_quote": "ガイルも弾抜け出来そう？ガイルは無理だと思う",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:28:30.475832",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "23a44b7f5381",
+    "category": "neutral",
+    "topic": "置き技の性質",
+    "content": "相手が漫然と技を振ってきているのは「置き技」であり、これは強い行動である。このゲームの当たり判定・やられ判定の性質上、技の攻撃判定は通常やられ判定よりも長いため、リーチの長い技を相手の短い技に合わせると一方的に勝てる場面が多い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手が漫然と技を振ってくる（置き技）場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "03:37",
+    "source_quote": "ブンブン相手に技振られてるのは置きをされてるってことですか？そう、相手が技振ってんのは置きをされてる。リーチの長い技を振る。当たり判定・やられ判定の性質上リーチの長い技を短い技に合わせると一方勝ちする事が多い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "cb03750689fa",
+    "category": "neutral",
+    "topic": "立ち強Pのヒット確認",
+    "content": "ダミー設定でガードをランダムにし、立ち強Pがヒットしたら立ち強Pを繋げる練習。マノンの通常技の中で2番目か3番目にリーチが長い立ち強Pを使った地道なヒット確認練習。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "04:50",
+    "source_quote": "ヒット確認の一つ目は、立ち強Pヒット確認。立ち強Pってね、やっぱマノンの通常技の中で二番目三番目ぐらいに長い技であるので、結構個人的には使う技なんで。まあこういった地道なヒット確認もちゃんと練習しておきます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "07d4f6ac5064",
+    "category": "neutral",
+    "topic": "立ち強PからのSAヒット確認",
+    "content": "ダミー設定でガードをランダムにし、立ち強Pがヒットしたら各種SAを繋げる練習。難易度が高いが、このヒット確認ができるとできないとでは差がつくポイント。SA1やSA3で練習する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "05:20",
+    "source_quote": "続いて二つ目が、立ち強PからのSAです。これはさっきより難易度が跳ね上がります。これも、やっぱ自分がバーンアウトしている時とかすごい使う機会あるんで、これ出来ると出来ないだとやっぱ結構差がつくっていうポイントではあるので、これもきっかり練習するようにしてます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4493e51ea7fc",
+    "category": "neutral",
+    "topic": "立ち中Pのカウンターヒット確認",
+    "content": "ダミー設定でガードをランダム、カウンターもランダム（通常ヒットとカウンターヒットのみに設定）にし、立ち中Pがカウンターヒットした時のみしゃがみ弱Pに繋ぐ練習。実戦で使う機会が多いので必須。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "06:02",
+    "source_quote": "三つ目が、立ち中Pカウンター確認から2弱Pにつなぐコンボです。これをやるときはガードランダムにするのと、カウンターもランダムにして、パニカンだけ消して通常とカウンターだけにしてください。で中Pがカウンターヒットしてた時だけコパンを出してコンボに行くという練習です。これも実戦で結構使う機会が多いので練習必須です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2bc96aafe26e",
+    "category": "neutral",
+    "topic": "中Pラッシュのヒットガード確認",
+    "content": "ダミー設定でドライブリバーサル発動をランダム（ガード時発動はゼロ、起き上がり発動はゼロ）にし、中Pラッシュがヒットしたらしゃがみ中Pに繋ぎ、ガードされたら立ち弱Pを押す練習。相手のドライブリバーサル猶予が20Fから15Fに減るため、ドライブリバーサルで切り返してくる相手に対して有効。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手のドライブリバーサル対策",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "06:57",
+    "source_quote": "ヒット確認四つ目は、中Pラッシュからヒットしていたら、しゃがみ中Pに繋いで、ガードされていたら、コパンを押す。この練習です。この練習に何の意味があるかっていうと、マノンのラッシュ中Pに対してDリバーサルで切り返してくる人に少しでもDリバーサルの猶予を与えないためです。これ中Pラッシュしゃがみ中Pだと相手は20F以内にDリバを打てば確定させることができるんですけど、その中Pラッシュコパンにすれば、Dリバの猶予が15Fになるんですよ。この5Fの差でかいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "825cef611ff7",
+    "category": "neutral",
+    "topic": "立ち中PのODポワンヒット確認",
+    "content": "立ち中PがヒットしたらODポワンテに繋ぐ練習。ヒット確認猶予が15F程度と非常に難しい。コツは中Pを打った後に「236」とコマンドを入れながらヒット確認し、当たっていたらボタンを押す。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "08:06",
+    "source_quote": "ヒット確認、五つ目、これが一番難しいです。中P確認ODポワン。これがね、めちゃめちゃむずいです。これ確認猶予がなんか15Fとかそのぐらいなんすよね。コツとしては中Pを打った後に236ってコマンドを入れといて、当たっているのを確認したらボタンを押す。これができると非常に良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8aa7f3c39473",
+    "category": "neutral",
+    "topic": "マリーザ戦の立ち回り（中距離）",
+    "content": "マリーザが振ってくるグラティウス（236P）は思っているより後隙が大きいので、立ち中Kで差し返しを狙う。成功すればパニッシュカウンターを取れる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザ戦の中距離",
+    "source_video_id": "yxO9D9jA0nw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】圧倒的パワーに屈するな！マリーザ戦の強ムーヴ対策と立ち回り方を伝授！",
+    "source_timestamp": "03:49",
+    "source_quote": "グラティウスは思ってるより後隙が大きいので立中Kで差し返しを狙う事が出来ます（難しいですが）",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:52:21.923601",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5011ff2c7981",
+    "category": "neutral",
+    "topic": "マリーザ戦の立ち回り（中距離）",
+    "content": "マリーザのグラティウス（236P）に立ち中Kでの差し返しが成功し、パニッシュカウンターを取れた時は、中足ラッシュ（しゃがみ中KをキャンセルしてDR）で画面を押していく。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザのグラティウスに立ち中Kでパニッシュカウンターを取れた時",
+    "source_video_id": "yxO9D9jA0nw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】圧倒的パワーに屈するな！マリーザ戦の強ムーヴ対策と立ち回り方を伝授！",
+    "source_timestamp": "03:57",
+    "source_quote": "差し返してパニカンを取れた時は中足ラッシュで画面を押していきましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:52:21.923601",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "64b75566b7a2",
+    "category": "neutral",
+    "topic": "マリーザ戦の立ち回り（中距離）",
+    "content": "中距離ではファランクス（6P）を警戒しつつ、リーチの長い立ち中Pにラッシュを仕込んで自分のターンを作っていく。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザ戦の中距離",
+    "source_video_id": "yxO9D9jA0nw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】圧倒的パワーに屈するな！マリーザ戦の強ムーヴ対策と立ち回り方を伝授！",
+    "source_timestamp": "04:05",
+    "source_quote": "後はファランクスを見つつ、リーチの長い立中Pにラッシュを仕込んで自分のターンを作っていきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:52:21.923601",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba4985096da4",
+    "category": "neutral",
+    "topic": "マリーザ戦の立ち回り（近距離）",
+    "content": "マリーザはめくり飛びに弱いので、ジャンプ中Kでどんどんめくっていく。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザ戦の近距離",
+    "source_video_id": "yxO9D9jA0nw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】圧倒的パワーに屈するな！マリーザ戦の強ムーヴ対策と立ち回り方を伝授！",
+    "source_timestamp": "04:26",
+    "source_quote": "マリーザはめくり飛びに弱いのでJ中Kでガンガンめくっていきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:52:21.923601",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70254d334e1e",
+    "category": "neutral",
+    "topic": "マリーザ戦の立ち回り（全般）",
+    "content": "端でバーンアウトしないことを意識して、逆に端に追い込んで攻める。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "marisa",
+    "situation": "マリーザ戦全般",
+    "source_video_id": "yxO9D9jA0nw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】圧倒的パワーに屈するな！マリーザ戦の強ムーヴ対策と立ち回り方を伝授！",
+    "source_timestamp": "04:38",
+    "source_quote": "端でバーンアウトしない事を意識して逆に端に追い込んでやりましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:52:21.923601",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e6b511e4b83",
+    "category": "neutral",
+    "topic": "5MPガード後の連携",
+    "content": "マノンの立ち中P（5MP）をガードさせた後（マノン側-1F）、相手がボタンを押してくる読みで少し下がって再度立ち中P（5MP）を出すと、相手の攻撃をパニッシュカウンターで返すことができる。ただし、ケンの中足（しゃがみ中K）のようなリーチの長い技に対しては注意が必要。相手がボタンを押し返さない場合、この連携はリスクが高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "マノンの立ち中Pをガードさせた後（-1F）",
+    "source_video_id": "N-uEBuAsUQY",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】もうスカらない！誰でも簡単大P⇒大Kの差し返しがお手軽で強そうな件",
+    "source_timestamp": "00:23",
+    "source_quote": "中Pをガードさせて、ちょっと下がって、また中Pみたいなことやりますね。やっぱりここって-1Fなんで、相手は結構ボタンを押しなくなるんですけど、ここでボタンを押すと次のの中Pがまた当たるみたいな。これしゃがみ中Kに、まあ、これ小パンに限らず、中足とかでも同じなんすけど。ケンの中足は長いんで、結構食らっちゃうこともありますけど。そう、でもうまくいくと差し返しみたいな形になるんで。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:03:55.814158",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c3e1bd1a502",
+    "category": "neutral",
+    "topic": "5HPガード後の差し返し連携",
+    "content": "マノンの立ち大P（5HP）をガードさせた後、あえてニュートラルにすることでマノンの体が後ろに下がる動きを利用する。この体の引きで相手の攻撃（例：ケンのしゃがみ中K）を空振りさせ、そこに立ち大P（5HP）や立ち大K（5HK）で差し返すことができる。立ち大K（5HK）で差し返すと、相手が何もしていなくてもヒットし、カウンターヒットすればダウンを奪えるため、立ち大P（5HP）で差し返すよりも安定してリターンが高い。立ち大KからはSA1（ランデヴー）やSA2（エトワール）に繋げることができ、リターンも高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "マノンの立ち大Pをガードさせた後",
+    "source_video_id": "N-uEBuAsUQY",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】もうスカらない！誰でも簡単大P⇒大Kの差し返しがお手軽で強そうな件",
+    "source_timestamp": "01:14",
+    "source_quote": "大Pガードさせて、敢えてニュートラルにすることで、マノンが体引くんで、これ体引いて、もう一回大Pで差し返すとか。大Kでもいいですけど。これニュートラルじゃないとこの中足食らうんですけど、ニュートラルだとスカすっていう。なかなか面白いやつ。このニュートラルのやつね、でもね言おうほど強くねぇわ。やっぱりこの連携のダメなとこって、2回目の空振りの時にマジで隙を晒すだけなんで。相手がこれの後に結構打ち返してくる人だったら狙ってもいいけどね。大P大Kよくない？これ。これいいじゃん。これだったらさ、相手が打ち返してなくても当たるじゃん。これ良くない？今まで大P大Pでやってたから、相手の技を、相手が何もしてない時にこうスカしちゃったけど、大Kなら当たるし差し返せる。これ良いな。大Kだったら最低ガード以上になるね。これはいい。皆さん今度から、大P>大Pじゃなくて、大P>大Kにしましょう。てかリターンもこっちの方が高い。そう、SA1入れるとか。これいいっすね。あー、これ距離によってはSA2も入る。なるほどね。これはあるんじゃないですか？",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:03:55.814158",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80a38c1a9d83",
+    "category": "neutral",
+    "topic": "咄嗟の小技からダウンを取る",
+    "content": "咄嗟の小技からダウンを取りたい場合は2弱P>2弱P>強ポワンと繋ぐ。相手の甘い連携に割り込む際にも有効だが、相手にしっかり重ねられている場合は暴れると負ける可能性があるので注意。ダメージだけなら中ポワンの方が高い。ダメージは1,100。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "咄嗟にダウンを取りたい時、相手の甘い連携に割り込む時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "03:28",
+    "source_quote": "2弱P>2弱P>強ポワン 1,100dmg\n咄嗟の小技からダウンが取れるコンボ\n相手の甘い連携に割り込む際にも使えます\nただ、しっかり重ねられていると当然負けるので、暴れすぎには注意です！\nあと、ダメージだけなら中ポワンの方が高いです（ただし状況はイマイチ）",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5285731ac698",
+    "category": "neutral",
+    "topic": "立ち強K",
+    "content": "マノンは立ち回りにおいて、リーチが長く非常に強力な立ち強Kを積極的に振っていくべきです。特に相手がパニッシュカウンターした際は、中デガジェやSA1に繋いで追撃を狙いましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち回り時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "01:23",
+    "source_quote": "基本的に、もう言ってしまうと立ち回りはもうこれ振っとけばいいです。もうこれだけ。これだけ振りましょう。…これはできるならでいいんですけど、この技がパニッシュカウンターしていた時、中のデガジェ、もしくはSA1。これで追撃ができると非常に強いので、",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "741b81ee998f",
+    "category": "neutral",
+    "topic": "強デガジェ",
+    "content": "マノンの強デガジェは中段属性の技で、しゃがみガードしている相手にヒットします。相手の反撃が届きにくい間合いで振ることで、有利な状況を作り出すことができます。ガードされても相手の反撃が届きにくい距離なので振り得です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち回り時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "02:18",
+    "source_quote": "この技は何が強いかっていうと、いわゆる、ここに書いてあるんですけど、中断属性の技なんですね。中断っていうのは、しゃがみだとガードできないんですよ。だから結構、立ち回りで、この速さで中段が飛んで来たら結構喰らってしまうんですね。しかもこの技は、ガードされたとしても、マイナス9フレームっていう、まあこれ分からない方はいいんですけどそこそこのマイナスを背負うんですけど、見ての通り、このぐらい距離が空くので、リュウ君は、例えば、じゃあ…ルーク君の場合は届きません。そうなんです。これは相手の反撃が非常に届きにくいので、結構振り得みたいなものなんですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7753be64926a",
+    "category": "neutral",
+    "topic": "弱デガジェ",
+    "content": "マノンの弱デガジェは下段属性の技で、立ちガードしている相手にヒットします。相手が前に歩いてくることが多いこのゲームにおいて、奇襲として非常に有効です。ただし、ガードされると-24Fという大きな隙を晒すため、使用には注意が必要です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち回り時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "04:05",
+    "source_quote": "次は弱デガジェです。これはですね、まあ、さっきの強デガジェが中段技だったんですけど、今度は下段で出てますね。下段。これは、今度は、えーっと立ちガードできないんですよ、下段攻撃は。なんで、立ってたら喰らってしまうという技。基本的にこのゲームって前に歩いた方が強いんですね。（中略）なので、相手は前にこう歩いてくるんですよ。そんなところに、この中段が、中段じゃない、この下段が飛んで来たら喰らいます。この速さの下段は、なかなか見てからガードはできません。これもぜひ振っていきましょう。ただ注意点としては、この技は、今ここにマイナス24フレームって出てますね。もうこれはものすごい痛い反撃を喰らうやつなんで、振る時は結構、命がけで振っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d55c0accf4be",
+    "category": "neutral",
+    "topic": "立ち中Pからのドライブラッシュ連携",
+    "content": "マノンの立ち中Pからキャンセルドライブラッシュ、しゃがみ中P、強ランヴェルス（レバー後ろ+強P中）と繋がるコンボは、マノンの最重要コンボの一つです。ヒット時はSA1まで繋ぎ、ガードされていた場合はコマ投げに派生させましょう。この連携はマノン使いの基礎となるため、必ず練習して習得してください。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち回り時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "05:43",
+    "source_quote": "立ち中パンです。（中略）これはとにかくめちゃくちゃ強くて。（中略）これはできるならでいいんですけど、この技がパニッシュカウンターしていた時（中略）これは是非できるようになってください。（中略）このコンボは、あの公式というかトライアルでもあるんですけど、マノンの超一番使うコンボなのて、初心者の方もぜひこのコンボだけは、できるようになっていただきたいです。（中略）まず、ここまで入れ込む練習。立ち中パン、キャンセルドライブラッシュ、しゃがみ中パンここまで入れる練習。それに慣れてきたら、このガードをですね、ランダムにして、ガードされていたらコマ投げ。ヒットしていたらこのコンボ。これもう10回やって10回できるようになればもう一流のマノン使いです。本当に嘘ではなく。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dbc89637955",
+    "category": "neutral",
+    "topic": "ダルシムの伸びる技への対策",
+    "content": "ダルシムの伸びてくる手足（立ち強P、立ち中P）に対しては、持続フレームの長いマノンのしゃがみ強Pを置いておくのが有効です。カウンターヒットした場合、ODグランフェッテからドライブラッシュ、立ち中P、強ランヴェルセへと繋ぎ、画面を押しつつメダルを稼ぎ、大ダメージを与えられます。ただし、ダルシムの立ち中Kは打点が低いため、しゃがみ強Pは当たらないので注意が必要です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが伸びるパンチ（立ち強P、立ち中P）を出す距離",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "00:32",
+    "source_quote": "ダルシムの何が厄介かって、当然やっぱこの伸びてくる手足。これが非常に厄介なんですね。これががあるんで、やっぱなかなこう近づけないと伸びてくる手足にどうするかっていう所なんですけど。マノンのこの4強P、これを使います。これ持続フレームがすごい長いので置いておくと結構ダルシムの伸びてきたパンチに勝つことがあります。これでODグランフェッテまで繋げば大きなリターンを取ることができます。ODグランフェッテ>ラッシュ>5中P>強ランヴェルセ。これで画面も押してメダルも貯められてダメージも取れるんで。これはまず一つ対策として有効ですね。一応この置きの4強Pが機能するのが、ダルシムの5強Pの他に、一応中パンチ。ただこの5中キック、これには当たらないです。ダルシムの5中Kの打点が結構低いので4強Pで噛み合わせることができません。なので、この4強Pで噛み合わせることができるのは5強Pと5中Pと覚えておきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "104",
+      "110",
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "714a58497e10",
+    "category": "neutral",
+    "topic": "ダルシムスライディングへの対策",
+    "content": "ダルシムのスライディング（しゃがみ強K）をガードした場合、先端ガードで+1F、深くガードすると+5F有利になります。基本的にはガード後に弱Pで暴れるのが有効です。また、相手がドライブリバーサルなどを警戒してパリィをする読みでコマンド投げをすることもできます。ただし、ダルシムがスライディング後にヨガアーチでキャンセルしてくる連携の場合は、ダルシム側が+9Fとなり、ボタンを暴れない方が安全です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのスライディング（しゃがみ強K）をガードした直後",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "03:10",
+    "source_quote": "このスライディングってかなり先端でガードしてもこっちが有利なんですよ。基本的にこれガードしたらボタンを押していいです。深いとやっぱ+5Fとか有利取れて。こんな感じで技が確定するので。基本的にガードしたらとりあえずコパンを押しておくのが丸いです。先端でもいいとこ五分なんで、とりあえずボタンを押しておけば間違いはないと思います。また、一応パリィで（+3Fの時等に）逆択にされてしまうので、そこは注意です。ガードした時はコパンでもいいんですけど、その(逆択の)パリィを読んだんだったらこうやってコマ投げもあります。パリィ読みのコマ投げ。ただ、注意点としてはダルシムって結構生でスライディングを打ってくることはあんまりなくて結構こうヨガアーチと絡めてスライディングガードさせて、その不利フレームをヨガアーチ当てて消すみたいなことを結構やってくるんで、こういう連携の時はあんまり暴れない方がいいです。基本的にこれはヨガアーチをガードした時点でダルシムが+9っていうフレームになっちゃってるんでこのアーチを絡められた時は、まあちょっとおとなしくしといた方が丸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9915e6cb069f",
+    "category": "neutral",
+    "topic": "ダルシムヨガフロートへの対策",
+    "content": "ダルシムのヨガフロートに対しては、マノンは立ち中K（中テガジェ）を振って落としに行くのが有効です。相手が技を出してきて相打ちになる可能性もありますが、ヒットすれば画面端に押し込むことができ、リターンが大きいです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガフロートで空中浮遊している時",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "04:41",
+    "source_quote": "次にヨガフロートへの対策なんですけど、フロート見たら結構中テガジェで届きます。こうやって相手が技を出してたら負けることはあるんですけど、それでも結構勝ったり負けたりって感じなんで、結構フロート見たら中テガジェっていうのは一つ対策として画面も押せるんで非常に単純で分かりやすいかなと。相打ちだったらドンマイです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63360eac35c7",
+    "category": "neutral",
+    "topic": "ダルシムドリルキックへの対策",
+    "content": "ダルシムのドリルキック（ジャンプ下強Kなど）をガードした場合、深くヒットしている場合はマノン有利になります。有利な場合は弱Pかコマンド投げで反撃しましょう。もし足元にヒットしてダルシムが有利な場合は、下段技を振らずに様子見をするのが安全です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのドリルキックをガードした直後",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "06:11",
+    "source_quote": "これも実はスライディングと同じで、結構足元でガードしたら、さすがにダルシム有利なんですけど、ちょっとでも深く入ればこっちが有利なので、基本的にガードしたらコパン押していんです。深く入ればやっぱり有利フレームもらえるので、もしくはその逆択のパリィを警戒するんだったら、コマ投げとかこのどっちかでいいと思います。ただ、もう明らかにモロめちゃくちゃ足元だったって思った時は、一応ダルシムが有利なことももあるので、その辺はちょっと見極め、うまくやって足元だなって思ったら、ちょっと黙っといた方がいい。ちょっとでも深いなと思ったらコマ投げかコパンで暴れていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2334a74fc52f",
+    "category": "neutral",
+    "topic": "ダルシム戦の立ち回りの基本とジャンプ攻撃の重要性",
+    "content": "ダルシム戦では、リスクリターンを考慮すると、積極的にジャンプ攻撃（ジャンプ強K）を仕掛けるのが有効です。ダルシムの対空攻撃は700ダメージ程度ですが、一度ジャンプ攻撃が通れば、ジャンプ強K（PC）>立ち強P>ODグランフェッテ>ドライブラッシュ>立ち中P>強ランヴェルセで約3000ダメージとなり、非常に大きなリターンを得られます。ダルシムのヨガファイアやヨガアーチによる牽制に対しては、無理に近づかず、パリィで弾を防ぎながら少しずつ前進し、隙を見てジャンプ攻撃や中パンチで仕掛けていきましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシム戦の基本的な立ち回り",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "07:00",
+    "source_quote": "とりあえずダルシム戦は飛びましょう。ジャンプ強キックで飛びましょう。やっぱ上手いダルシムってすごいこの通常の使い方が上手くて、近づくのが難しいんですけど、それでもリスクリターン合わせていくんだったら飛ぶのが一番いいと思ってます。この5強Pとか食らったら、1,000ダメージって結構痛いんですけど、ここに逆に飛びを噛み合わせられれば、一気に3,000ダメージくらいは取れますと。仮にダルシムがズームパンチやってなくて普通に対空されたとしても、これ700ダメージです。何ならこの対空、4回食らって、まあ2,800ダメージじゃないですか。1回飛びを噛み合わせれば、お釣りが来ます。なので、基本的にリスクリターン合わせるには飛んでいった方がいいです。ま、ただ一応その中でダルシムへの近づき方なんですけど、ダルシムって結構こんな感じで、ファイヤだったり、アーチだったりやって近づかせねえぞって感じで結構やってくるんですけど、ファイヤとかアーチに対しては無理して近づかない。とにかくパリィして被弾を防いで、ちょっとずつ前に歩いていく。隙を見て、中パンとかで仕掛けていくっていう感じで。とにかく、いかに隙を見て飛びを通すか、これがダルシム戦一つのポイントだと思うので、そこは是非、狙ってみてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "117",
+      "314",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f2cd8f6dc52f",
+    "category": "neutral",
+    "topic": "強テガジェ（立ち強K）の活用",
+    "content": "地上戦においては、マノンの立ち強K（強テガジェ）も有効な選択肢です。ダルシムはこの技に対する効果的な反撃手段が少ないため、積極的に振っていくことでダルシムを牽制できます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "地上でのダルシムへの牽制",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "08:38",
+    "source_quote": "あと地上では一応その強テガジェとかも結構有効でダルシムも中々この強テガジェに対する反撃が結構乏しいので、強テガジェとかは結構振っていってもいいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "affdfc187087",
+    "category": "neutral",
+    "topic": "ダルシムのドライブリバーサルへの対策",
+    "content": "ダルシムは相手を近づけたくないため、ドライブリバーサルを頻繁に使用します。マノンの立ち中Pをガードさせた後、あえてドライブラッシュキャンセルせずに立ち中Pで止めることで、相手がドライブリバーサルをした際にガードして+8Fの有利フレームを得られます。この有利フレームから最速で中コマンド投げを確定させることができます。コマンド投げ以外にも中Pから強ランヴェルセに繋ぐことも可能です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがドライブリバーサルを使ってくる状況",
+    "source_video_id": "WeovdIZ7pfw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】インド人を右に！マノン視点でのダルシム対策を解説します！",
+    "source_timestamp": "08:59",
+    "source_quote": "ダルシムってそのキャラの性質上、結構ドライブリバーサル吐くんでしすよ。相手を近づけたくないから。ドライブリバーサルで距離を離すっていうのはよくやるんですね。対ダルシムに対しては、もちろんこの走っていくのも大事なんですけど、中Pからあえて走らないで（※キャンセルラッシュしない）中Pで止めれば、これドライブリバーサル(ガードして)+8F取れるんで。最速で中コマ投げが確定します。ま、コマ投げに限らず、中Pランヴェルセとかでもいいんですけど、結構そのドライブリバーサルやってくるなっていう人に対してはこうやってあえて中Pから走らないっていうのも一つ大事なことなので覚えておいてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:57:34.150595",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "314",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c7061cde2e1b",
+    "category": "neutral",
+    "topic": "強コマ投げを使った攻め継続",
+    "content": "マノンで相手のガードリバーサル（4F技での暴れ）に負けずに密着からの択を仕掛ける場合、+3F有利フレームが取れる状況（例: 5中P > ラッシュ 2中Pガード後、またはモダン5中 > ラッシュ5弱ガード後）から発生5Fの強コマ投げを出すと、相手の暴れを潰すことができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "密着+3F有利状況",
+    "source_video_id": "vwdzxf0YKx8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】意外と違う！マノンのコマ投げの使い分けについて解説します！",
+    "source_timestamp": "02:27",
+    "source_quote": "では、この発生と掴める距離の違うコマ投げをどういう風に使い分けていくのかという話なんですけど、基本的には強のコマ投げを使います。強のコマ投げを使う主なポイントとしては、よく、こういう連携あるじゃないですか。立ち中Pラッシュしゃがみ中P。これ+3Fなんですね。ガードさせて。この+3Fっていうのは、今これガードリバーサルで、相手が4F技で暴れるようになってるんですけど、+3Fから強のコマ投げを打てば、相手の暴れに負けることなくコマ投げを打つことができます。これが仮に発生8Fの中のコマ投げとかでやってしまうと、相手の暴れに負けてしまいます。なのでで密着からの択を仕掛けるときは、基本的に発生の早い強のコマ投げとなります。ちなみにモダンの場合は2中Pがないので、恐らく5中＞ラッシュ5弱とかになると思います。これもガード＋3Fで状況としては同じなので、このように相手が暴れていたとしても、強コマ投げで安全に投げることができます。この基本的な使い方であるプラスフレームを取って相手の暴れを通さないように投げる状況はいくつかあって、まず今挙げたように、ラッシュ2中ないしはラッシュ5弱をガードさせた後、これが+3F。次に5強P二段目がヒットした後、これも密着+3F。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:05:34.909876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "04f62c0afa67",
+    "category": "neutral",
+    "topic": "弱コマ投げでの立ち回り当て投げ",
+    "content": "マノンで立ち回りで技（例: 弱P）をガードさせた後、相手との距離が微妙で強コマ投げが届かない場合、リーチの長い弱コマ投げで当て投げを狙うことができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち回りで技をガードさせた後、やや遠い距離",
+    "source_video_id": "vwdzxf0YKx8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】意外と違う！マノンのコマ投げの使い分けについて解説します！",
+    "source_timestamp": "07:37",
+    "source_quote": "あとは、これはちょっと感覚的な使い道になってしまうんですけど。立ち回りで技をガードさせた後に、ちょっと遠目の距離から打つ。分かりやすく言うと、例えば、この微妙な距離で弱パンとかガードさせせた時に、強コマ投げだったらスカっちゃうんすけど、これ弱コマ投げだったら届くんですよ。このちょっと、例えば、コパコパ＞弱コマ投げとか、いわゆる当て投げに近いものなんですけど。打撃をガードさしてから投げるどか。そういうのも結構重要な使い道ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:05:34.909876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "38dd0239adc3",
+    "category": "neutral",
+    "topic": "ODコマ投げでの奇襲・ジャンプ着地狩り",
+    "content": "マノンのODコマ投げはとにかく掴める距離が長いため、奇襲技として活用できる。開幕直後に前ステップからODコマ投げを出したり、相手のジャンプの着地に合わせて中距離から投げることで、相手の意識外からの攻撃が可能。ただし、ODゲージを2本消費する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "開幕、中距離、相手のジャンプ着地時",
+    "source_video_id": "vwdzxf0YKx8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】意外と違う！マノンのコマ投げの使い分けについて解説します！",
+    "source_timestamp": "08:48",
+    "source_quote": "最後に、ODコマ投げなんですけど、ODコマ投げはとにかく掴める距離が長いので、基本的には奇襲みたいな感じで使っていくのがいいかなと思います。分かりやすい例でいくと、例えば、開幕したらもう即ステしてODコマ投げをしてみるとか、カプコンカップでRANDUMBもやってましたけど、とにかく長いので、このぐらいの中距離からでも1回前ステして投げが届く間合いになるので、結構相手の意識の外というか、そういった使い方ができるんじゃないかなと思います。あとは相手のジャンプの着地とかに合わせて中距離から投げるっていうのも一つあります。結構やっぱりリーチが長い分いろんな使い方ができるので、ぜひ活用してみてください。ただし、ODゲージを二本払うということは覚えておきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:05:34.909876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ee10b4a9bff3",
+    "category": "neutral",
+    "topic": "遠距離での「穿つ」対策",
+    "content": "JPが「穿つ」（トリグラフ）を出してきた場合、ガードした後に最速で前ステップを踏むことでラインを詰めることができます。ただし、JPが設置技「ヴィーハト」を置いている場合は、前ステップをするとヴィーハトに当たってしまうため、ステップは控えましょう。その場合は様子見が吉です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "jp",
+    "situation": "遠距離",
+    "source_video_id": "EpQCdyh00vA",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] That long-range thing I don't really understand! I'll explain how to counter J...",
+    "source_timestamp": "00:30",
+    "source_quote": "基本的にこの穿つ、トリグラフっていうんですけど、これをガードした後、基本的に前ステップできます。よくJPがやってくるのが、強のトリグラフから、中のトリグラフ。これって強のトリグラフをガードした後に走っても次の穿つのガード間に合うんですよ。なので、基本的にこのトリグラフをガードしたら1回走れますっていうことをまず覚えておきましょう。ポイントとしては、前ステはいけるんですけど、飛びはダメです。飛びはまげます。近づくときはちゃんと前ステップ。ちょっと遅れたら、このように喰らっちゃうんで、最速で前ステップをすること心がけていきましょう。ただ、例外として、ヴィーハト。これ設置技がヴィーハトって言うんですけど、これがある時はちょっと走るのやめておいた方がいいです。例えば、これが設置されている時に、こんな感じの連携をされると、そうなんですね、このちょうど前ステしたところにヴィーハトがあるんで、これ相手はじゃあ、この設置じゃなくて、爆破をささせてきたとしたら喰らっちゃうんですからね。このヴィーハト設置があるうちはちょっと黙っておいて様子見てた方が吉かもしれません。まとめると、基本的にはトリグラフをガードした後に1回前ステップするっていうことをまず覚えておいてください。ちょっと黙っておいた方がいいかもしれないですねっていう感じで。トリグラフはガードしてステップ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:32:02.607096",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5af0e244a4e8",
+    "category": "neutral",
+    "topic": "遠距離での弾（トルバラン）対策",
+    "content": "JPが弾（トルバラン）を出してきた場合、パリーで捌きながら少しずつ前に進みましょう。弾に対してはパリーが有効です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "jp",
+    "situation": "遠距離",
+    "source_video_id": "EpQCdyh00vA",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] That long-range thing I don't really understand! I'll explain how to counter J...",
+    "source_timestamp": "02:50",
+    "source_quote": "弾なんですけど。これに関しては基本的にパリーをしながら進んでいきましょう。少しずつですか、ラインを押すことができるので、ここにちょっとね。トリグラフとか混ぜられたら非常に厄介なんですけど。簡単に言うと、弾をパリーして少しずつ進んでいくのと。走って、これ走った後もガードが間に合うんで、弾。トリグラフはガードしたらステップして弾はパリー。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:32:02.607096",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "abd39850bc9a",
+    "category": "neutral",
+    "topic": "中距離での攻め方",
+    "content": "中距離では、マノンの立ち大Kや強デガジェを使って相手に仕掛けていきましょう。これらの技はリーチが長く、牽制に有効です。ただし、相手がドライブインパクトを狙ってくる可能性があるので、読み合いになります。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "jp",
+    "situation": "中距離",
+    "source_video_id": "EpQCdyh00vA",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] That long-range thing I don't really understand! I'll explain how to counter J...",
+    "source_timestamp": "04:04",
+    "source_quote": "遠距離から少しずつ歩いて前に詰めてきてこのぐらいの中距離まで寄った時の行動についてなんすけど、基本的にはこのぐらいの距離では、立ち大K非常にリーチが長い立ち大K、まずこれを振っていきます。もう一個が強のデガジェ。これがですね非常に強力で、JPはこの技をガードした後に、いい反撃ないんすよ。全然。通常技が結構遅めなので。なので、基本的にはこの立ち大Kと強デガジェを使ってこちらから仕掛けていきます。欠点としては、インパクトには非常に弱いんですけど、そこはもう読みあいなんで。インパクト食らったらもうしょうがないぐらいの気持ちでやっていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:32:02.607096",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "310",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "34734cd8df95",
+    "category": "neutral",
+    "topic": "しゃがみ弱Pからのコマ投げ連携",
+    "content": "しゃがみ弱Pを2回ガードさせた後、3回目を空振らせると中マネージュ・ドレが届く。キャンセルで出すことはできないが、スムーズに出すことで相手に投げ択をかけることができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ弱Pを2回ガードさせた後",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "01:56",
+    "source_quote": "しゃがみ弱パンチを2回ガードされると3回目は空振るんだが、ここから中コマ投げが届くぜ。キャンセルからは出せないけど、なるべくスムーズに出したいところだな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b55ba1895295",
+    "category": "neutral",
+    "topic": "対空からの打撃投げ",
+    "content": "マノンの立ち強Kを嫌がって前ジャンプしてくる相手に対し、ODランヴェルセ（ロン・ポウン）で対空し、さらに打撃投げで拾うことができる。立ち強Kからの対空としても安定する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手が前ジャンプしてきた時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "03:07",
+    "source_quote": "そして立ち強キックを嫌がって前ジャンプした相手に、ODロン・ポウンで対空して打撃投げで拾うんだぜ…正直こっちの方が安定するのぜ…立ち強キックとODポウンで波動昇龍したらメダルが貯まるのね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "315",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf5af584d30c",
+    "category": "neutral",
+    "topic": "下段デガジェの使い所とリスク",
+    "content": "相手が立ちガードを固めている時に下段の弱デガジェを出すと有効。しかし、ガードされると24フレームの不利を背負う特大の隙を晒すため、1ラウンドに1回程度の使用に留めるのが良い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手が立ちガードを固めている時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "03:40",
+    "source_quote": "下段の弱デガジェを出すのもいいな…でも弱デガジェはガードされると特大の隙を晒すことになるので、1ラウンドに1回使うか使わないかくらいてでいいと思うぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71d74471139c",
+    "category": "neutral",
+    "topic": "インパクトと対空の意識配分",
+    "content": "マノンのデガジェやコマ投げにより相手がドライブインパクトかジャンプを意識しがちになった場合、こちらはインパクト返しと対空に意識を置きつつ、牽制を織り交ぜて立ち回る。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手がインパクトやジャンプを多く使うようになった時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "04:00",
+    "source_quote": "こうなると相手はインパクトか飛びになるから、インパクト返しと対空に意識を置きつつ、たまに牽制を振る感じになるぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "325a0508b299",
+    "category": "neutral",
+    "topic": "生ラッシュからのコマ投げ",
+    "content": "生ラッシュから直接コマンド投げ（マネージュ・ドレ）を狙うのは、相手への精神的なプレッシャーとなり強力な択になる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "近距離での攻め",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "04:44",
+    "source_quote": "さらに生ラッシュから直接コマ投げを狙ったり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

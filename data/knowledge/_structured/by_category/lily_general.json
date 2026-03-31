@@ -1,0 +1,374 @@
+[
+  {
+    "id": "4634b1c09d5c",
+    "category": "general",
+    "topic": "モダン操作時の使用不可技",
+    "content": "リリーはモダン操作でもクラシックと同等の多くの技を使えるため、モダン適性が高いキャラクターです。ただし、立ち弱P（小技からの連続キャンセルで2発目のみ）、立ち中K、立ち強K、ジャンプ弱P、ジャンプ強P、ジャンプ中K、3強P（中段）はモダン操作では出せません。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "モダン操作時",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "00:43",
+    "source_quote": "モダンで出せない技、弱P、中K、強K、J弱P、J強P、J中K、3強P(中段)くらい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "105",
+      "112",
+      "115",
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f8c4cd09ab57",
+    "category": "general",
+    "topic": "初心者向け操作性",
+    "content": "リリーは使いやすい技が多く、初心者でも扱いやすいキャラクターです。対空のトマホーク、相手に接近するコンドルスパイア、近距離で相手を崩すコマンド投げなどが分かりやすく揃っています。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "初心者プレイヤー",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "01:26",
+    "source_quote": "使いやすい技が多く、初心者でも扱いやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "549d8cafb954",
+    "category": "general",
+    "topic": "風ゲージの重要性",
+    "content": "風ゲージを溜めることで必殺技が強化されます。風まとい時の必殺技は非常に強力であり、特に突進するコンドルスパイアはガードされても+5Fと有利フレームで先に動くことができます。風ゲージがないと火力が低いなど性能が劣るため、積極的に風ゲージを溜めることが重要です。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "全般",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "01:55",
+    "source_quote": "風ゲージで必殺技が強化",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dd8003350a68",
+    "category": "general",
+    "topic": "火力不足",
+    "content": "リリーは総じて火力が出しにくいキャラクターです。中技からのコンボが繋がりにくかったり、ドライブインパクトや風ゲージを絡めない限り高い火力を出すことが難しいです。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "全般",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "02:20",
+    "source_quote": "深刻な火力不足",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5f1dbd08fb6d",
+    "category": "general",
+    "topic": "総合的な戦い方",
+    "content": "リリーの戦い方の基本は、いかに効率よく風ゲージを溜めて相手を画面端に追い詰め、そこからループする起き攻めを展開するかです。風ゲージがないと非常に弱いキャラクターであるため、常に風ゲージの管理と活用を意識する必要があります。ただし、モダン操作では立ち強Pが出せないため、クラシック操作に比べて小技からのコンボの伸びが限られます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "全般",
+    "source_video_id": "G6Cguubt9iw",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【SF6_Lily】スト6リリー戦い方・立ち回り解説動画 (モダン対応!)起き攻めレシピつき【ストリートファイター6】",
+    "source_timestamp": "15:28",
+    "source_quote": "いかに風を纏って相手をスパイヤで画面端押して端もってループさせるか",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:07:19.996863",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "832d9a4890c3",
+    "category": "general",
+    "topic": "リリーのキャラ特徴",
+    "content": "リリーは戦闘スタイルが分かりやすく、風を溜めた時の攻めが非常に強力です。小技（立ち弱P、しゃがみ弱P）のリーチが長く、相手を牽制しやすい特性があります。しかし、4フレーム技のリーチが短く、反撃や暴れが難しい場面があること、および平均火力がやや低い点が短所です。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "00:05",
+    "source_quote": "戦い方が非常にわかりやすいキャラ。風を溜めて突っ込んで2択！その分防御がちょっと頼りない。\n小技が長い\n4Fが短い\n平均火力が低い",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60341649a68c",
+    "category": "general",
+    "topic": "ジャンプ攻撃の使い分け",
+    "content": "正面から飛ぶ際には、判定の強いジャンプ大Pを使い、相手の通常技対空を潰すことを狙いましょう。横にリーチが長いジャンプ強Kは、飛び道具を飛び越える際や、遠めの距離からガードさせたい時に有効です。めくりを狙う際には、ジャンプ↓大Pが最適です。ジャンプ↓大Pはガードされても+7F、ヒット時はドライブゲージを多く削り、高ダメージと有利フレームを得られます。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ジャンプからの攻め",
+    "source_video_id": "sNdXXKMrij4",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分で使えるリリー講座！！シンプル勝ち方がわかりやすいキャラ！【Street Fighter 6】",
+    "source_timestamp": "07:31",
+    "source_quote": "正面から飛ぶ際に使う技。判定が強いので通常技対空を潰したい時につかう。\n横にリーチが長いので飛びをガードさせたい時に使う。\nめくり飛びを狙う際に使う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:39:39.071014",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "653cd9c39135",
+    "category": "general",
+    "topic": "全キャラ相打ちフレーム一覧の活用",
+    "content": "リリーの生ラッシュ立ち弱Pと相手の4F技が相打ちになった際、有利フレームは相手キャラの技によって異なる。この動画の概要欄に、全キャラのラッシュ立ち弱Pと相手の4F技が相打ちになった際の有利不利フレームの一覧が記載されているため、参考にすること。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ立ち弱Pと相手の4F暴れが相打ちになった場合",
+    "source_video_id": "JHfTTdqgIGs",
+    "source_channel": "涼川リトのMリリー講座",
+    "source_video_title": "【Mリリー講座12】ぶっぱSAを後出しで狩れる起き攻め【MR1800】",
+    "source_timestamp": "04:34",
+    "source_quote": "相手の技によって有利時間が違うので、動画の概要欄に全キャラの相打ちフレームの一覧置いときます。僕こっちの立弱Kと相手の4フレの技が勝ち合った時の有利不利のフレームは、あの数値を置いとくのでよかったら参考にしてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:00:33.988497",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f0dc6256e5e",
+    "category": "general",
+    "topic": "リリー戦の読み合いのコツ",
+    "content": "リリー戦の読み合いのコツは、リリー側の風ストック数を確認すること。スピアー前に風ストックが2個以上ある場合、リリーは打撃択に移行しやすいので、打撃を読んで対処する。風ストックが0か1個の時は、リリーの打撃をくらっても安く済むことが多いので、コマ投げを読んで垂直ジャンプやバックジャンプで回避し、リターンを取るのが有効。",
+    "characters": [
+      "lily",
+      "terry"
+    ],
+    "matchup": "terry",
+    "situation": "スピアー前の風ストック数確認時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:02",
+    "source_quote": "読み合いのコツはリリー側の風ストック数を見ること。スピアー前に風ストックが2個以上あるなら打撃を読め\n風ストックが0か1の時は打撃を喰らっても安く済むのでコマ投げを読んで飛ぶのがリターン大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "daab02aee4ec",
+    "category": "general",
+    "topic": "リリー戦の立ち回りのコツ",
+    "content": "テリーは、リリーのラッシュしゃがみ大Pが見えたらドライブリバーサル、しゃがみ大P以外の技からのウィンドにはドライブインパクトで対応するなど、対策ができれば立ち回りでかなり優位に立てる。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り全般",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:41",
+    "source_quote": "ラッシュしゃがみ大Pが見えたらDリバ、しゃがみ大P以外からのウィンドにインパクトといった対策が出来れば立ち回りでかなり優位に立てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df824e0a097f",
+    "category": "general",
+    "topic": "SA2の特性と活用",
+    "content": "リリーのSA2は、風ストックがあるときに横のリーチと火力が少し上昇し、弾抜け性能を発揮できるのが強みです。この特性を活かして、相手の飛び道具などへの弾抜けからの反撃などに使用するのが効果的です。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": null,
+    "situation": "風ストックあり時、弾抜けを狙う時",
+    "source_video_id": "qysC9RgCZpA",
+    "source_channel": "アダー@実用的ゲームちゃんねる",
+    "source_video_title": "[Street Fighter 6] Lily's Practical Basic Combos [Year 2] - STREET FIGHTER 6 LILY BASIC COMBOS",
+    "source_timestamp": "05:31",
+    "source_quote": "でもSA2は風ストックがあるとき横のリーチと火力が少し上昇するので弾抜けで強い性能を発揮できるところが強いところなのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:21:35.793630",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f0dc6256e5e",
+    "category": "general",
+    "topic": "リリー戦の読み合いのコツ",
+    "content": "リリー戦の読み合いのコツは、リリー側の風ストック数を確認すること。スピアー前に風ストックが2個以上ある場合、リリーは打撃択に移行しやすいので、打撃を読んで対処する。風ストックが0か1個の時は、リリーの打撃をくらっても安く済むことが多いので、コマ投げを読んで垂直ジャンプやバックジャンプで回避し、リターンを取るのが有効。",
+    "characters": [
+      "lily",
+      "terry"
+    ],
+    "matchup": "terry",
+    "situation": "スピアー前の風ストック数確認時",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:02",
+    "source_quote": "読み合いのコツはリリー側の風ストック数を見ること。スピアー前に風ストックが2個以上あるなら打撃を読め\n風ストックが0か1の時は打撃を喰らっても安く済むのでコマ投げを読んで飛ぶのがリターン大",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "daab02aee4ec",
+    "category": "general",
+    "topic": "リリー戦の立ち回りのコツ",
+    "content": "テリーは、リリーのラッシュしゃがみ大Pが見えたらドライブリバーサル、しゃがみ大P以外の技からのウィンドにはドライブインパクトで対応するなど、対策ができれば立ち回りでかなり優位に立てる。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り全般",
+    "source_video_id": "CWBsg1yDCQw",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのリリー対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:41",
+    "source_quote": "ラッシュしゃがみ大Pが見えたらDリバ、しゃがみ大P以外からのウィンドにインパクトといった対策が出来れば立ち回りでかなり優位に立てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:03:48.309426",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

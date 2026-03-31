@@ -1,0 +1,86 @@
+[
+  {
+    "id": "371a3314d498",
+    "category": "defense",
+    "topic": "強ポワーンからの前ステラッシュ5弱P持続重ね",
+    "content": "マノンが強ポワーンをヒットさせた後、前ステップからラッシュ5弱Pを持続重ねにすると、発生の遅い無敵技を持つキャラに対して、技を重ねつつガードもできる詐欺重ねになります。特にエドのSA1（発生13F）に対しては、しっかりガードすることができます。",
+    "characters": [
+      "manon",
+      "ed"
+    ],
+    "matchup": "ed",
+    "situation": "強ポワーンヒット後、相手が無敵技を持つ時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "07:33",
+    "source_quote": "前ステラッシュ5弱Pは持続重ねになります。これにより、発生の遅いエドの無敵技に対し技を重ねつつガードもできる、詐欺重ねとなります エドはSA1の発生も13Fと遅いのでこちらもがっしりガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "371a3314d498",
+    "category": "defense",
+    "topic": "強ポワーンからの前ステラッシュ5弱P持続重ね",
+    "content": "マノンが強ポワーンをヒットさせた後、前ステップからラッシュ5弱Pを持続重ねにすると、発生の遅い無敵技を持つキャラに対して、技を重ねつつガードもできる詐欺重ねになります。特にエドのSA1（発生13F）に対しては、しっかりガードすることができます。",
+    "characters": [
+      "manon",
+      "ed"
+    ],
+    "matchup": "ed",
+    "situation": "強ポワーンヒット後、相手が無敵技を持つ時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "07:33",
+    "source_quote": "前ステラッシュ5弱Pは持続重ねになります。これにより、発生の遅いエドの無敵技に対し技を重ねつつガードもできる、詐欺重ねとなります エドはSA1の発生も13Fと遅いのでこちらもがっしりガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f56afbb6b19c",
+    "category": "matchup",
+    "topic": "エドミラーでのサイコ柔道読み合い",
+    "content": "相手エドがサイコ柔道（ODサイコブリッツ）を出した後にパリィ長押ししている場合、自分エドが前キルステップ（前ステップ）で掴みにいかないのは、相手のパリィラッシュ（ドライブラッシュ）が間に合うとカウンターヒットするリスクがあるためです。代わりに、相手エドがキルステップ（前ステップ）で投げに来るのを待ち、キルステップを見てからパリィラッシュ（ドライブラッシュ）を入力することで、投げ間合い外から反撃し、カウンターヒットさせることができます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "ed",
+    "situation": "相手エドがサイコ柔道（ODサイコブリッツ）を出し、パリィ長押ししている状況、またはキルステップ（前ステップ）で投げに来る状況",
+    "source_video_id": "3A2AQGnRe8Y",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "【スト6】エドの起き攻めで将来発生する読み合いを8手先まで解説します「まだ時じゃない…」【ももち】",
+    "source_timestamp": "00:00",
+    "source_quote": "相手が端でフリッカー読みでパリィ長押ししてるとき、前キルステで掴みにいかないのはなんでなんですか？",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:15:52.792622",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "315",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

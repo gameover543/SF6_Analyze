@@ -1,0 +1,117 @@
+[
+  {
+    "id": "542b18e38648",
+    "category": "combo",
+    "topic": "立ち中P CHからのコンボ（DRなし）",
+    "content": "ジェイミーの立ち中Pがカウンターヒットすると+7F有利になる。ドライブキャンセルラッシュを使わない場合、立ち中P CHから酔疾歩、さらに立ち中Kに繋いで強爆砕、または酔疾歩から龍捲疾空脚に繋ぐコンボが有効。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "jp",
+    "situation": "立ち中Pがカウンターヒットした時（DRなし）。",
+    "source_video_id": "ye2pXfetCwk",
+    "source_channel": "77daysの部屋",
+    "source_video_title": "なるお君が寝坊したから急遽ジェイミーの使いのお悩み解決！立中Pカウンターヒット始動コンボと強爆廻起き攻め解説編",
+    "source_timestamp": "01:49",
+    "source_quote": "立ち中Pカウンターヒットした時どんなコンボしてますか？ あのね立ち中Pカウンターってねそこまで伸びなくってこれヒットして7フレなんですよね。7フレ。で、立ち中Pがカウンターヒットした時はもう僕ラッシュはキャンセルラッシュはバーンアウトさせれる時とか、あとリーサルの時ぐらいしか使わないかな。あんま走んないかな。キャンセルラッシュしないかな。で、あたった時はもうこれぐらいで我慢してます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:52:26.973257",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c187972c8027",
+    "category": "combo",
+    "topic": "立ち中P CHからのコンボ（新規発見）",
+    "content": "ジェイミーの立ち中Pがカウンターヒット（+7F）した後、弱Kに繋ぐと+5Fとなる。そこからしゃがみ弱Pやターゲットコンボに繋ぐことができる。もし弱Kもカウンターヒットした場合は+7Fとなり、しゃがみ中Pから弱爆砕に繋ぐコンボが可能。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "jp",
+    "situation": "立ち中Pまたは弱Kがカウンターヒットした時。",
+    "source_video_id": "ye2pXfetCwk",
+    "source_channel": "77daysの部屋",
+    "source_video_title": "なるお君が寝坊したから急遽ジェイミーの使いのお悩み解決！立中Pカウンターヒット始動コンボと強爆廻起き攻め解説編",
+    "source_timestamp": "03:22",
+    "source_quote": "たちコワフレーム消費から弱Kを撃つと+5Fなので下弱PやTCが繋がりカウンターヒット時は+7Fで下中P>弱爆砕などが繋がる。タスクはそれ使います。採用。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:52:26.973257",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "106",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "186a053dc431",
+    "category": "oki",
+    "topic": "大爆界後の起き攻め",
+    "content": "ジェイミーのLv3スーパーアーツ（大爆界）で画面端に追い詰めた後、相手との間合いが微妙に離れてしまい、有利フレームが0になるため、直接的な起き攻めは難しい。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "jp",
+    "situation": "画面端で大爆界でコンボを締めた後。",
+    "source_video_id": "ye2pXfetCwk",
+    "source_channel": "77daysの部屋",
+    "source_video_title": "なるお君が寝坊したから急遽ジェイミーの使いのお悩み解決！立中Pカウンターヒット始動コンボと強爆廻起き攻め解説編",
+    "source_timestamp": "02:46",
+    "source_quote": "大爆界のあとで何かいい起き攻めありますか？ 大爆界の後はね、これ微妙に投げ間合い離れちゃうんですよね。これでもゼロフレになっちゃうし、ああ、これ無理しかね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:52:26.973257",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ddc912f7f3a",
+    "category": "oki",
+    "topic": "歩き投げによる起き攻め",
+    "content": "立ち中Pカウンターヒットから弱Kに繋いだ後（+5Fまたは+7F有利）、歩いて投げに行く起き攻めは、1F遅らせてしゃがみ弱Pで暴れてくる相手に有効。ただし、相手の小攻撃に負けないように正確なタイミングでの練習が必要。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "jp",
+    "situation": "立ち中P CH -> 弱Kからの起き攻め。",
+    "source_video_id": "ye2pXfetCwk",
+    "source_channel": "77daysの部屋",
+    "source_video_title": "なるお君が寝坊したから急遽ジェイミーの使いのお悩み解決！立中Pカウンターヒット始動コンボと強爆廻起き攻め解説編",
+    "source_timestamp": "04:36",
+    "source_quote": "お？これ、わりと良い？ほら。これいいな。しっかり。ビー歩きから前投げすれば1フレ遅らせのファジーコパは投げれますねこれ。これいいな。ちょっとこれ練習必要だけど、あのね、さすがにちょっとタイミング。しっかり練習しないとコパに負けちゃうから。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:52:26.973257",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

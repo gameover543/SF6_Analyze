@@ -1,0 +1,218 @@
+[
+  {
+    "id": "a3788a505de7",
+    "category": "neutral",
+    "topic": "Dee Jay 立ち回りでの牽制",
+    "content": "Dee Jayはしゃがみ中Pのような細かい牽制技も強い。これらの技で相手をこすりつつチャンスを伺う。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "立ち回り",
+    "source_video_id": "982HfOPPbS8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】ディージェイは○○をされると嫌がります。特別DJ対策コーチングするぷげら 後編【SF6/ぷげら】",
+    "source_timestamp": "00:37",
+    "source_quote": "なんかもうこすりが強いんですよね。まずしゃが中。空振りに差せないでしょ？無理でしょ？23(F)しかないからかなり厳しいっすね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:27:34.754126",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3083be38bb85",
+    "category": "matchup",
+    "topic": "Dee Jayの立ち中Kの性能",
+    "content": "Dee Jayの立ち中KはJuriのしゃがみ中Pなどと比べると発生が速く、Juri側からすると暴れ潰しや牽制として厄介な技である。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "Juriが牽制技を振ろうとしている時",
+    "source_video_id": "982HfOPPbS8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】ディージェイは○○をされると嫌がります。特別DJ対策コーチングするぷげら 後編【SF6/ぷげら】",
+    "source_timestamp": "06:38",
+    "source_quote": "立ち中K。フレームが軽すぎて立中Pの。意外とDJは嫌がります。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:27:34.754126",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ebae00e41a1",
+    "category": "oki",
+    "topic": "ダウン後のめくり起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、めくり前ジャンプ強Pを使用し、着地後に様々な技（例：しゃがみ中P、立ち中K、立ち弱K、しゃがみ強Pなど）から中ジャックナイフマキシマムまたは強ジャックナイフマキシマムに繋げることで、相手を運びつつ攻め継続が可能です。これにより、ダウンした相手に対して安定して火力を出し、画面端へ運ぶことができます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め、画面中央",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:14",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "108",
+      "110",
+      "116",
+      "306",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5259bd00f90e",
+    "category": "combo",
+    "topic": "ODエアスライサーからのめくり起き攻め",
+    "content": "ディージェイは立ち合いでODエアスライサーがヒットした際に、中P、中ジャックナイフマキシマム (空中ヒット) からめくり前ジャンプ強Pに繋ぐことで、相手への強力な起き攻めを継続し、優位な状況を作り出すことができます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "立ち合いヒット確認後、画面中央",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:24",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116",
+      "306",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d808f492df2c",
+    "category": "oki",
+    "topic": "SA1利用の起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、立ち強KからSA1 (キルトリップ) に繋ぎ、さらに追撃として立ち弱P、立ち強K、強ジャックナイフマキシマムで大ダメージを与えつつ、画面端へ運ぶ強力な連携が可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:42",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ff69b2ff69cd",
+    "category": "oki",
+    "topic": "SA2利用の起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、立ち強PからSA2 (ジャミン・ストローク) に繋ぎ、さらに追撃として立ち弱K、立ち強K、強ジャックナイフマキシマムで大ダメージを与えつつ、画面端へ運ぶ強力な連携が可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:51",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "104",
+      "105",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "13bd82e7d48e",
+    "category": "combo",
+    "topic": "SAゲージフル活用高火力コンボ",
+    "content": "ディージェイは画面中央で、SA1 (キルトリップ) 始動から立ち強P、ODエアスライサー、ODジャックナイフマキシマム、ODジャックナイフマキシマム、SA2 (ジャミン・ストローク)、強キック、EXスカイハイキック、SA3 (ザ・ラストショウ) へと繋ぐことで、SAゲージをフル活用した最大級の高火力を狙うことができます。途中のODジャックナイフマキシマムの回数やキックの種類を調整することで、状況に応じたダメージ効率の良いコンボが可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "画面中央、SAゲージをフル活用できる状況",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "01:54",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "308",
+      "425",
+      "432"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

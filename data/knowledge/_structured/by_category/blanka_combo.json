@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "7aa86c657dc3",
+    "category": "combo",
+    "topic": "SAゲージなし時の中アシストコンボ",
+    "content": "SAゲージが0本の時、中アシストヒット後はしゃがみながら中アシストを押しっぱなしにしてローリングを発動し、ヒット後に中アシストボタンを離してしゃがみ+SPを入力し弱バーチカルローリングで締める。これは非常に使用頻度が高い重要なコンボ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "SAゲージが0本の時、中アシストがヒットした後",
+    "source_video_id": "_GCz_sf20n8",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】初心者向けモダンブランカ解説vol.2",
+    "source_timestamp": "03:38",
+    "source_quote": "SAがない時はこの中アシストをしゃがみながら押して下溜めを作っておいて、このローリングの後にアシストを離して、しゃがみとSPで、この弱バーチカルローリング。これを練習した方が良い。これコンボ練習で一番優先度高い。これめちゃくちゃ使うから。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:53:16.672869",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b9c9aee326da",
+    "category": "combo",
+    "topic": "ブランカ：前大Pパニカン始動",
+    "content": "Blanka's 前大P (forward+heavy punch) punish counter causes an airborne state for the opponent. In this situation, the standard combo route extension (e.g., 立ち強P -> ドライブラッシュ -> 立ち弱K -> 構え強P -> 構え強P) will not fully connect, as the second 構え強P will miss. To extend the combo, an OD構え強P (Overdrive Stance Heavy Punch) is required.",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "Starting combo with 前大P punish counter, opponent airborne.",
+    "source_video_id": "ELkdts8WhFA",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "[Street Fighter 6] Are MenaRD's combos underrated or not? Explained from the perspective of a dog...",
+    "source_timestamp": "01:23",
+    "source_quote": "前大P始動って空中食らいやから通常の伸ばすルートが使えないのよね これが当たらないのよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:56:49.201806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "104",
+      "342"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cff2cc1e65f4",
+    "category": "combo",
+    "topic": "ブランカ：SA1非キャンセル",
+    "content": "In situations where a combo leading to a Super Art 1 (SA1) might not be enough to secure a kill (e.g., opponent has marginal health), and if the SA1 is not a cancelable option from the combo ender, the player might choose to transition into an okizeme (起き攻め) setup instead of activating SA1, to maintain pressure and avoid an incomplete kill attempt.",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "Opponent at marginal health, Blanka has 2 SA bars, attempting a kill with a specific combo and SA1 (non-cancelable).",
+    "source_video_id": "ELkdts8WhFA",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "[Street Fighter 6] Are MenaRD's combos underrated or not? Explained from the perspective of a dog...",
+    "source_timestamp": "01:47",
+    "source_quote": "ギリSA1足りんやろなぐらいやったんですよね まぁSA1足りねぇなみたいなんで…で 普通に伸ばせるんやったらさっきのルートいけるんですけどーメナ…前大Pパニカンやから このルート入らんって咄嗟に思ってでもここまでやっちゃったから…これで できるだけ減らして…で これ超ムズいんすよ 打ち上げやった後…刻んでSA1で倒し切れるかなって たぶん やろうとしたんよ たぶん マジでそのぐらい微妙な体力やった！で ワンチャンリーサルかなみたいな場面やったんですけど たぶんメナも \"これ無理や\" と思って途中で起き攻めに切り替えたんすよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:56:49.201806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "341bc6d66014",
+    "category": "combo",
+    "topic": "Blankaのコンボ選択優先順位",
+    "content": "Blankaのコンボ選択において、単純なダメージ量よりも、ドライブゲージ削り量（バーンアウトを狙う）を優先する選択肢が有効な場合がある。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "コンボを選択する際",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "03:12",
+    "source_quote": "多分スライディングまで行ったら、コンボダメージ自体は増えるけど、ブランカちゃん人形設置出来るってのは無理っていう。今はダメージ優先してました。基本的に俺は最近、コンボ選択はダメージ重視の選択肢じゃなくて、相手のドライブゲージ削り重視の選択肢にしてる。そんぐらいドライブゲージだとは思う。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6cee0c3c88be",
+    "category": "combo",
+    "topic": "Blankaのコンボ締め人形セットアップ",
+    "content": "Blankaはコンボの締めにSA3を使う代わりに、ブランカちゃん人形を設置して次の二択（50/50）に持ち込む方が強力な場合がある。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "コンボの締め方を選択する際",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "15:01",
+    "source_quote": "だからああいいう時にSA3締めとかじゃなくてさあ、もしもよ、ブランカちゃん人形みたいなのを自分が持ってたんであれば、もう途中でコンボダメージちょっと安くなってもブランカちゃん人形置いて次の二択で倒すみたいなことが出来るから強いねんけど…。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ea85a61ee754",
+    "category": "combo",
+    "topic": "基本コンボ1",
+    "content": "屈弱K > 屈弱P > ODサンダー（OD版バーチカルローリング）。このコンボ後、ステップで+1F有利の状況になります。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "06:44",
+    "source_quote": "屈弱K > 屈弱P > サンダー ステステで+1",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31489b5c1cea",
+    "category": "combo",
+    "topic": "基本コンボ2",
+    "content": "立ち弱K > サンダー（バーチカルローリング）。これは4Fの反撃などに有効なコンボです。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "4F反撃",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "06:48",
+    "source_quote": "立ち弱K > サンダー 4F反撃とかに",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c61bae78714e",
+    "category": "combo",
+    "topic": "基本コンボ3",
+    "content": "後ろ中K > 屈中K > サンダー（バーチカルローリング）。これはブランカの基本的なコンボパーツとなります。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "06:52",
+    "source_quote": "後ろ中K > 屈中K > サンダー 基本パーツ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9d164cd14338",
+    "category": "combo",
+    "topic": "基本コンボ4",
+    "content": "屈中P > ラッシュ > 立ち大K > 立ち大P > ワイルドリフト > 中バチカ（中バーチカルローリング） > 中ローリングアタックで密着起き攻め。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "06:56",
+    "source_quote": "屈中P > ラッシュ > 立ち大K > 立ち大P > ワイルドリフト > 中バチカ 中ローリングで密着着攻め",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "206",
+      "306",
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "12a4cfebb203",
+    "category": "combo",
+    "topic": "基本コンボ5",
+    "content": "前大P > ラッシュ > 立ち大P > ワイルドリフト > アマゾンリバーラン。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "07:02",
+    "source_quote": "前大P > ラッシュ > 立ち大P > ワイルドリフト > アマゾンリバーラン",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "206"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7eaaaaee411e",
+    "category": "combo",
+    "topic": "基本コンボ6（画面端）",
+    "content": "画面端で屈中P > ラッシュ > 立ち大K > 立ち大P > ワイルドリフト > 人形設置。このコンボで相手を画面端に固定し、人形設置での起き攻めに移行できます。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "07:08",
+    "source_quote": "画面端 屈中P > ラッシュ > 立ち大K > 立ち大P > ワイルドリフト > 人形設置",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "206"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0e65091b1afb",
+    "category": "combo",
+    "topic": "基本コンボ7（無敵技への反撃）",
+    "content": "相手の無敵技に反撃する際は、立ち大K > 立ち大P > ワイルドリフト > 中バチカ（中バーチカルローリング）または画面端なら人形設置で追撃します。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "無敵技への反撃",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "07:16",
+    "source_quote": "無敵への反撃 立ち大K > 立ち大P > ワイルドリフト > 中バチカor端なら人形設置",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "206",
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d72b9be2d1b",
+    "category": "combo",
+    "topic": "基本コンボ8（中央インパクト）",
+    "content": "中央でドライブインパクトをヒットさせたら、立ち大P > ワイルドリフト > 中バチカ（中バーチカルローリング） > 中ローリングアタックで起き攻めに移行します。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "中央インパクト",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "07:59",
+    "source_quote": "中央インパクト 立ち大P > ワイルドリフト > 中バチカ 中ローリングで起き攻め",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "206",
+      "306",
+      "314",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e5e5a0950799",
+    "category": "combo",
+    "topic": "基本コンボ9（画面端背負いインパクト返し）",
+    "content": "画面端を背負っている状態でドライブインパクト返しをヒットさせたら、大P > ODローリングアタック > 中バチカ（中バーチカルローリング） or SA2 > 中バチカ（中バーチカルローリング） > 3派生で追撃します。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端背負いインパクト返し",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "08:06",
+    "source_quote": "画面端背負いインパクト返し 大P > ODローリング > 中バチカ or SA2 > 中バチカ > 3派生",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "314",
+      "402",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a8adbac5de58",
+    "category": "combo",
+    "topic": "基本コンボ10（大K対空）",
+    "content": "立ち大Kで対空を取った場合、ヒット後は中ローリングアタックかアマゾンリバーランで追撃可能です。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち大K対空",
+    "source_video_id": "sEVtzfXeg80",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute Blanka tutorial! Use this set play to win! [Street Fighter 6] #Str...",
+    "source_timestamp": "08:17",
+    "source_quote": "大K対空 大Kc > 中ローリング or アマゾンリバーラン",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:05:54.122973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "204",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "826076cc19a0",
+    "category": "combo",
+    "topic": "弱Kヒット確認サンダー",
+    "content": "ブランカは、弱Kがヒットしたのを確認して、弱K→サマーソルトスパーク（サンダー）→前ステップ2回と繋ぐことで、相手に+1F有利の状況を作れる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "00:07",
+    "source_quote": "弱k→弱k→サンダー(→前ステ2回)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63336adf2dde",
+    "category": "combo",
+    "topic": "ラッシュ始動中Kコンボ",
+    "content": "ブランカは、ラッシュから後ろ中K（大Kも可）→立ち大P→ブラジリアンアッパー（P派生）→中ブラジリアンバチカ（中ローリングアタックに派生）と繋ぐことでコンボになる。中ブラジリアンバチカガード時は+3F有利となる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "00:32",
+    "source_quote": "ラッシュ後ろ中k(大kも可)→大p→下PP(P派生)→中バチカ(→中ロリ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb94de1af13a",
+    "category": "combo",
+    "topic": "SA3を使ったラッシュコンボ",
+    "content": "ブランカは、ラッシュから後ろ中K（大Kも可）→立ち大P→ブラジリアンアッパー（P派生）→中ローリングアタック→SA3（中ローリングアタック）と繋ぐことで大ダメージコンボになる。SA3はヒット時+9F有利となる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "01:19",
+    "source_quote": "ラッシュ後ろ中k(大kも可)→大p→下PP(P派生)→中ロリ→SA3(→中ロリ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f7ab9792e170",
+    "category": "combo",
+    "topic": "SA3コンボの派生",
+    "content": "ブランカは、上記のSA3を使ったラッシュコンボの中ローリングアタックの部分を、サマーソルトフロップやOD版ドライブラッシュインパクトに変えることで、強力なコンボを構築できる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "01:32",
+    "source_quote": "中ロリをサプフォからインパクトなどいしても強い！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d570f00de2b1",
+    "category": "combo",
+    "topic": "SA3コンボの簡易版",
+    "content": "ブランカは、より簡単なSA3コンボとして、ラッシュから後ろ中K（大Kも可）→立ち大P→ブラジリアンアッパー（P派生）→SA3と繋ぐことができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "01:37",
+    "source_quote": "難しければ下PP→中ロリ→SA3から下PP(P派生)→SA3でも可!!",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7351099d937d",
+    "category": "combo",
+    "topic": "SA1を使ったラッシュコンボ",
+    "content": "ブランカは、ラッシュから後ろ中K（大Kも可）→立ち大P→ブラジリアンアッパー（P派生）→SA1と繋ぐことでコンボになる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "01:45",
+    "source_quote": "ラッシュ後ろ中k(大kも可)→大p→下PP(P派生)→SA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4eccb79ec7c6",
+    "category": "combo",
+    "topic": "画面端でのブラジリアンアッパー派生コンボ",
+    "content": "ブランカは画面端で、立ち大P→ブラジリアンアッパー（P派生）→ODバックステップローリングアタック→ODブラジリアンバチカと繋ぐことでコンボになる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "02:40",
+    "source_quote": "大p→下pp(P派生)→ODバックロリ→ODバチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a29fdab9541b",
+    "category": "combo",
+    "topic": "画面端SA1コンボ",
+    "content": "ブランカは画面端で、立ち大P→ブラジリアンアッパー（P派生）→ODバックステップローリングアタック→SA1（微遅らせ）と繋ぐことでコンボになる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "02:46",
+    "source_quote": "大p→下pp(P派生)→ODバックロリ→SA1(微遅らせ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "326",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7d5f32835c5d",
+    "category": "combo",
+    "topic": "画面端SA3コンボ",
+    "content": "ブランカは画面端で、立ち大P→ブラジリアンアッパー（P派生）→ODバックステップローリングアタック→SA3と繋ぐことでコンボになる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "02:54",
+    "source_quote": "大p→下pp(P派生)→ODバックロリ→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "326",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "72d06242afe6",
+    "category": "combo",
+    "topic": "画面端人形投げコンボ",
+    "content": "ブランカは画面端で、立ち大P→ブラジリアンアッパー（P派生）→ブランカちゃん人形投げ（↓↓P）と繋ぐことでコンボになる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "03:06",
+    "source_quote": "大p→下pp(P派生)→人形(↓↓P)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "240cb718bd63",
+    "category": "combo",
+    "topic": "ドライブインパクトからの画面端コンボ",
+    "content": "ブランカは、ドライブインパクトが画面端で壁貼り付けになった場合、立ち大Pからの画面端コンボ（上記参照）に繋ぐことができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトで相手が画面端に貼り付いた時",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "03:10",
+    "source_quote": "さっきのコンボはインパクトで画面端に貼り付いた時にもできる！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7b223a39e334",
+    "category": "combo",
+    "topic": "ドライブインパクトからの画面端コンボ（入れ替え無し）",
+    "content": "ブランカは、ドライブインパクトがヒットした際に、立ち大P→ODローリングアタック→大ブラジリアンバチカ→ODブラジリアンバチカと繋ぐことで画面端で大ダメージを奪える。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端、ドライブインパクトヒット時",
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "03:24",
+    "source_quote": "インパクト→大p→ODロリ→大バチカ→ODバチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e260a800faad",
+    "category": "combo",
+    "topic": "ODローリングアタックからの入れ替えコンボ",
+    "content": "ブランカは、ODローリングアタックをヒットさせた後、中ブラジリアンバチカ（中ローリングアタックに派生）と繋ぐことで、サイドを入れ替えることができる。中ブラジリアンバチカをガードさせた場合は+7F有利となる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "03:34",
+    "source_quote": "ODロリ→中バチカ(→中ロリ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7bb9a34a34c5",
+    "category": "combo",
+    "topic": "インパクトからの入れ替え人形投げコンボ",
+    "content": "ブランカは、ドライブインパクトがヒットした際に、サマーソルトフロップ→立ち大P→ブラジリアンアッパー（P派生）→ブランカちゃん人形投げ（↓↓P）と繋ぐことで、サイドを入れ替えつつダメージを与えることができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "A8HHHuIq4XA",
+    "source_channel": "oかか",
+    "source_video_title": "【ブランカ解説！初心者～中級者向け】状況別基本コンボ,起き攻め,練習法編！【スト6】",
+    "source_timestamp": "03:46",
+    "source_quote": "インパクト→サプフォ→大P→下pp(P派生)→人形(↓↓P)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:29:38.947211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11cc17dded25",
+    "category": "combo",
+    "topic": "立ち弱K刻みからのサンダー",
+    "content": "ブランカの立ち弱Kヒット時は、立ち弱Kを2回入力し、サンダーに繋ぐことができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち弱Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "立弱K×1,2→サンダー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe22873c85f9",
+    "category": "combo",
+    "topic": "小技始動SA3コンボ",
+    "content": "ブランカの小技ヒット時は、小技2回からラッシュ屈弱P、立ち中K、ラッシュ立ち強K、立ち強P、リフト、中ローリングアタック、SA3と繋ぐことができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "小技ヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:08",
+    "source_quote": "小技×2→ラッシュ屈弱P→立中K→ラッシュ立強K→立強P→リフト→中ローリング→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "35b982d42d27",
+    "category": "combo",
+    "topic": "立ち弱Pカウンターからのコンボ",
+    "content": "ブランカの立ち弱Pがカウンターヒットした際は、ラッシュ立ち強K、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち弱Pカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:22",
+    "source_quote": "立弱Pカウンター→ラッシュ立強K→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1508af614b98",
+    "category": "combo",
+    "topic": "立ち弱Kパニカンからのコンボ",
+    "content": "ブランカの立ち弱Kがパニッシュカウンターヒットした際は、立ち中K、サンダーに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち弱Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:40",
+    "source_quote": "立弱Kパニカン→立中K→サンダー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a7e468e12209",
+    "category": "combo",
+    "topic": "屈弱Pパニカンからのコンボ",
+    "content": "ブランカの屈弱Pがパニッシュカウンターヒットした際は、前中K、屈弱Pを1-2回、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "屈弱Pパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:46",
+    "source_quote": "屈弱Pパニカン→前中K→屈弱P×1,2→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "342"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "05fcb62fe92e",
+    "category": "combo",
+    "topic": "立ち中K/屈中Kからのサンダー",
+    "content": "ブランカの立ち中Kまたは屈中Kがヒットした際は、サンダーに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち中Kまたは屈中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "00:59",
+    "source_quote": "立中Kor屈中K→サンダー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "10d5a8300009",
+    "category": "combo",
+    "topic": "前中Kからのコンボ",
+    "content": "ブランカのレバー前中Kヒット時は、屈弱Pを2回、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "前中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:04",
+    "source_quote": "前中K→屈弱P×2→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a014be7d7c5a",
+    "category": "combo",
+    "topic": "引中Kからのコンボ",
+    "content": "ブランカのレバー後ろ中Kヒット時は、立ち中K、サンダーに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "引中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:11",
+    "source_quote": "引中K→立中K→サンダー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d339e5851ff4",
+    "category": "combo",
+    "topic": "屈中P/屈中Kからのコンボ",
+    "content": "ブランカの屈中Pまたは屈中Kがヒットした際は、ラッシュ立ち強K、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "屈中Pまたは屈中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:17",
+    "source_quote": "屈中Por屈中K→ラッシュ立強K→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f32981bb3816",
+    "category": "combo",
+    "topic": "屈中P/屈中KからのSA3コンボ",
+    "content": "ブランカの屈中Pまたは屈中Kがヒットした際は、ラッシュ立ち強K、立ち強P、ラッシュ立ち強K、立ち強P、リフト、中ローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "屈中Pまたは屈中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:28",
+    "source_quote": "屈中Por屈中K→ラッシュ立強K→立強P→ラッシュ立強K→立強P→リフト→中ローリング→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31eecae4eddf",
+    "category": "combo",
+    "topic": "前中Kカウンターからのコンボ",
+    "content": "ブランカのレバー前中Kがカウンターヒットした際は、屈中K、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "前中Kカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:42",
+    "source_quote": "前中Kカウンター→屈中K→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0af7dfcc7b8b",
+    "category": "combo",
+    "topic": "引中Kカウンターからのコンボ",
+    "content": "ブランカのレバー後ろ中Kがカウンターヒットした際は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "引中Kカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:49",
+    "source_quote": "引中Kカウンター→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8acf980dc14",
+    "category": "combo",
+    "topic": "立ち中Kパニカンからのコンボ",
+    "content": "ブランカの立ち中Kがパニッシュカウンターヒットした際は、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち中Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "01:58",
+    "source_quote": "立中Kパニカン→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8b214a6b548f",
+    "category": "combo",
+    "topic": "前中Kパニカンからのコンボ",
+    "content": "ブランカのレバー前中Kがパニッシュカウンターヒットした際は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "前中Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "02:06",
+    "source_quote": "前中Kパニカン→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1664eff5cc5e",
+    "category": "combo",
+    "topic": "ラッシュ引中Kからのコンボ",
+    "content": "ブランカのラッシュレバー後ろ中Kヒット時は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ引中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "02:15",
+    "source_quote": "ラッシュ引中K→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a29d6076dcbe",
+    "category": "combo",
+    "topic": "ラッシュ屈中K/前中Pからのコンボ",
+    "content": "ブランカのラッシュ屈中Kまたはレバー前中Pヒット時は、立ち強K、屈弱P、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ屈中Kまたは前中Pヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "02:25",
+    "source_quote": "ラッシュ屈中Kor前中P→立強K→屈弱P→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe7b5cb49942",
+    "category": "combo",
+    "topic": "ラッシュ屈中KからのSA3コンボ",
+    "content": "ブランカのラッシュ屈中Kヒット時は、立ち強K、屈弱P、ラッシュ屈弱P、引中K、立ち強P、リフト、中ローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ屈中Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "02:34",
+    "source_quote": "ラッシュ屈中K→立強K→屈弱P→ラッシュ屈弱P→引中K→立強P→リフト→中ローリング→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5897b7bf0f01",
+    "category": "combo",
+    "topic": "ラッシュ前中PからのSA3コンボ",
+    "content": "ブランカのラッシュレバー前中Pヒット時は、立ち強K、屈弱P、ラッシュ屈弱P、立ち中K、ラッシュ立ち中K、立ち強P、リフト、中ローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ前中Pヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "02:52",
+    "source_quote": "ラッシュ前中P→立強K→屈弱P→ラッシュ屈弱P→立中K→ラッシュ立中K→立強P→リフト→中ローリング→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98d89b5a0251",
+    "category": "combo",
+    "topic": "前強Pパニカンからのコンボ",
+    "content": "ブランカのレバー前強Pがパニッシュカウンターヒットした際は、ラッシュ立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "前強Pパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "03:10",
+    "source_quote": "前強Pパニカン→ラッシュ立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ebe1ddec491a",
+    "category": "combo",
+    "topic": "立ち強Kパニカンからのコンボ",
+    "content": "ブランカの立ち強Kがパニッシュカウンターヒットした際は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "03:20",
+    "source_quote": "立強Kパニカン→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df1078fddfbd",
+    "category": "combo",
+    "topic": "立ち強KパニカンからのSA3コンボ",
+    "content": "ブランカの立ち強Kがパニッシュカウンターヒットした際は、立ち強P、ラッシュ立ち強K、立ち強P、ラッシュ立ち強K、立ち強P、リフト、中ローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "03:29",
+    "source_quote": "立強Kパニカン→立強P→ラッシュ立強K→立強P→ラッシュ立強K→立強P→リフト→中ローリング→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "306",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "135dd9343dcc",
+    "category": "combo",
+    "topic": "画面端立ち強Kパニカンからのコンボ",
+    "content": "ブランカの画面端で立ち強Kがパニッシュカウンターヒットした際は、立ち強P、ODバックローリングアタック、強バチカ、ODバチカまたはSA1に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端で立ち強Kパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "03:45",
+    "source_quote": "画面端立強Kパニカン→立強P→ODバックローリング→強バチカ→ODバチカorSA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "03dbab3792b2",
+    "category": "combo",
+    "topic": "ラッシュ立ち強Kからのコンボ",
+    "content": "ブランカのラッシュ立ち強Kヒット時は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ立ち強Kヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "03:59",
+    "source_quote": "ラッシュ立強K→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "479a5774aee1",
+    "category": "combo",
+    "topic": "強ローリングアタックパニカンからのコンボ",
+    "content": "ブランカの強ローリングアタックがパニッシュカウンターヒットした際は、ラッシュアマリバに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "強ローリングアタックパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "04:10",
+    "source_quote": "強ロリパニカン→ラッシュアマリバ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ec1bb892c90",
+    "category": "combo",
+    "topic": "画面端強ローリングアタックパニカンからのコンボ",
+    "content": "ブランカの画面端で強ローリングアタックがパニッシュカウンターヒットした際は、ラッシュ立ち強P、リフト、人形に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端で強ローリングアタックパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "04:18",
+    "source_quote": "画面端強ロリパニカン→ラッシュ立強P→リフト→人形",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e9f1b7788443",
+    "category": "combo",
+    "topic": "画面端強ローリングアタックパニカンからのODローリングコンボ",
+    "content": "ブランカの画面端で強ローリングアタックがパニッシュカウンターヒットした際は、ODローリングアタック、強バチカ、ODバチカまたはSA1に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端で強ローリングアタックパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "04:27",
+    "source_quote": "画面端強ロリパniカン→ODロリ→強バチカ→ODバチカorSA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308",
+      "310",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "99db7ec8bbb5",
+    "category": "combo",
+    "topic": "ODローリングアタックからのSAコンボ",
+    "content": "ブランカのODローリングアタックヒット時は、ODバックローリングアタック、SA1またはSA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ODローリングアタックヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "04:54",
+    "source_quote": "ODロリ→ODバックロリ→SA1,3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "401",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "56fe5ecb4a4f",
+    "category": "combo",
+    "topic": "インパクトパニカンからのコンボ",
+    "content": "ブランカのインパクトがパニッシュカウンターヒットした際は、立ち強P、リフト、弱バチカに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "インパクトパニッシュカウンターヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "05:06",
+    "source_quote": "インパクトパニカン→立強P→リフト→弱バチカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "caab2bb3db73",
+    "category": "combo",
+    "topic": "インパクト壁やられからのコンボ",
+    "content": "ブランカのインパクトで相手が壁やられになった際は、立ち強P、リフト、人形に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "インパクト壁やられ時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "05:18",
+    "source_quote": "インパクト壁やられ→立強P→リフト→人形",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6d9b9f98cf8c",
+    "category": "combo",
+    "topic": "インパクト壁やられからのODローリングコンボ",
+    "content": "ブランカのインパクトで相手が壁やられになった際は、立ち強P、ODローリングアタック、強バチカ、ODバチカまたはSA1に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "インパクト壁やられ時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "05:27",
+    "source_quote": "インパクト壁やられ→立強P→ODロリ→強バチカ→ODバチカorSA1",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "310",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de173e4f81f4",
+    "category": "combo",
+    "topic": "インパクト壁やられからのSA3コンボ",
+    "content": "ブランカのインパクトで相手が壁やられになった際は、立ち強P、強ローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "インパクト壁やられ時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "05:41",
+    "source_quote": "インパクト壁やられ→立強P→強ロリ→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "308",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3e8614f3815",
+    "category": "combo",
+    "topic": "インパクト壁やられからのODバックローリングSA3コンボ",
+    "content": "ブランカのインパクトで相手が壁やられになった際は、立ち強P、ODバックローリングアタック、SA3に繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "インパクト壁やられ時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "05:50",
+    "source_quote": "インパクト壁やられ→立強P→ODバックロリ→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ff68652a8204",
+    "category": "combo",
+    "topic": "人形ODサンダーヒット時のコンボ",
+    "content": "ブランカの人形設置後、ODサンダーヒット時は以下のいずれかのコンボに繋げられる。1. 屈強Kフレーム消費、バックジャンプ中P、人形、強バチカ。2. 屈強Kフレーム消費、前ステップ中バックローリングアタック、強バチカ、ODバチカ、またはSA1。3. バックサポートフォー、強バックローリングアタック、ラッシュ立ち強K、ODバックローリングアタック、SA3。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "人形設置後ODサンダーヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "06:02",
+    "source_quote": "人形ODサンダーヒット：\n・屈強Kフレーム消費＋バックJ中P→人形→強バチカ\n・屈強Kフレーム消費→前ステ中バックロリ→強バチカorODバチカorSA1\n・バックサポフォー→強バックロリ→ラッシュ立強K→ODバックロリ→SA3",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "114",
+      "401",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1af1bb449774",
+    "category": "combo",
+    "topic": "SA2人形ODエリアルヒット時コンボ",
+    "content": "ブランカのSA2人形設置後、ODエリアルがヒットした際は、リフト、バックサポートフォー、人形、ODバックローリングアタック、遅らせSA1、（ODバチカ2）、ODコマ投げに繋げられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "SA2人形設置後ODエリアルヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "07:23",
+    "source_quote": "SA2人形ODエリアル：ヒット：リフト→バックサポフォー→人形→ODバックロリ→遅らせSA1→（ODバチカ2）→ODコマ投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ac5d06afb79c",
+    "category": "combo",
+    "topic": "ODサンダーSA2ルート",
+    "content": "ブランカのODサンダーヒット時は以下のSA2ルートが利用できる。1. 中央：ODサンダー、SA2、強ローリングアタック646。2. 中央後ろ：ODサンダー、SA2、強ローリングアタック646、ODバチカ689。3. 入れ替え：ODサンダー、弱バチカ3、ODエリアル467。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ODサンダーヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "08:41",
+    "source_quote": "ODサンダーSA2ルート：\n中央：ODサンダー→SA2→強ロリ646\n中央後ろ：ODサンダー→SA2→強ロリ646→ODバチカ689\n入れ替え：ODサンダー→弱バチカ3→ODエリアル467",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6980d99b64ae",
+    "category": "combo",
+    "topic": "立ち強P SA2ルート",
+    "content": "ブランカの立ち強Pヒット時は以下のSA2ルートが利用できる。1. 中央：立ち強P、SA2、立ち強P、中バチカ (3フレ)、中バチカ (3フレ)。（※端では中バチカ689）2. 中央後ろ：立ち強P、SA2、立ち強P、中バチカ (3フレ)、ODエリアル649。3. 入れ替え：立ち強P、SA2、立ち強P、中バチカ (3フレ)、ODエリアル487。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち強Pヒット時",
+    "source_video_id": "UmsCPkopyEI",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】ブランカ 実戦向けコンボ 起き攻め セットプレイ SF6 Blanka Combo Oki Setup",
+    "source_timestamp": "09:11",
+    "source_quote": "立強PSA2ルート：\n中央：立強P→SA2→立強P→中バチカ3→中バチカ3 （※端中バチカ689）\n中央後ろ：立強P→SA2→立強P→中バチカ3→ODエリアル649\n入れ替え：立強P→SA2→立強P→中バチカ3→ODエリアル487",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:01:47.121122",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "baaf2151fe18",
+    "category": "combo",
+    "topic": "ラッシュ中Kからの連携",
+    "content": "ブランカのラッシュ中Kがヒットした場合はフルコンボに移行できる。ガードされた場合は大幅に有利となる。最速の立ち大P（5大P）は4F暴れと相打ちになりコンボへ繋げることができ、シミーも可能。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ中Kヒット/ガード時",
+    "source_video_id": "dS_Bj3rfxzI",
+    "source_channel": "ドゴル",
+    "source_video_title": "[スト6] ブランカのラッシュの使い方解説 (生ラッシュ・起き攻め)",
+    "source_timestamp": "00:10",
+    "source_quote": "ヒットでフルコン始動、ガードで大幅有利 最速5大Pで4F暴れと相打ちコンボ、シミーも可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:54:36.534329",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "427e0ab15f33",
+    "category": "combo",
+    "topic": "ラッシュ5大Kの火力",
+    "content": "ブランカのラッシュ5大Kは、ヒットするとフルコンボに移行でき、ラッシュ3中Kよりも火力が高い。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ5大Kヒット時",
+    "source_video_id": "dS_Bj3rfxzI",
+    "source_channel": "ドゴル",
+    "source_video_title": "[スト6] ブランカのラッシュの使い方解説 (生ラッシュ・起き攻め)",
+    "source_timestamp": "00:41",
+    "source_quote": "ヒットでフルコン始動 3中Kより少し火力が高い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:54:36.534329",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "58ec80ccbffd",
+    "category": "combo",
+    "topic": "ラッシュ5弱Kからの連携",
+    "content": "ブランカのラッシュ5弱Kは、持続当てやカウンターヒット時に立ち大P（5大P）に繋がる。もし立ち大Pが繋がらなかった場合は、サマーソルトビーチで安全に回避する。また、エレキック（5中K）は持続当てでなくても繋がり、どちらに繋ぐかはプレイヤーの好みで選択できる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ5弱Kヒット時",
+    "source_video_id": "dS_Bj3rfxzI",
+    "source_channel": "ドゴル",
+    "source_video_title": "[スト6] ブランカのラッシュの使い方解説 (生ラッシュ・起き攻め)",
+    "source_timestamp": "01:08",
+    "source_quote": "持続当て、カウンターで5大Pが繋がる 5大Pが繋がらなかったらサプバで逃げる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:54:36.534329",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d2fdf6e33570",
+    "category": "combo",
+    "topic": "しゃがみ中Pからのコンボ",
+    "content": "ブランカのしゃがみ中Pは地上戦で振る技で、基本的にはキャンセルラッシュまでセットで使います。ガード時は【しゃがみ弱P or しゃがみ弱K】で連ガを作ります。ヒット時は【しゃがみ中P＞キャンセルラッシュ＞立ち強K＞立ち強Pリフト＞弱バチカ】でコンボになります。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "地上戦、ヒット時/ガード時",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "01:02",
+    "source_quote": "まずは2中P。地上戦で振るのだ。基本的にCRまでセットで使うのだ。ガード時は2小Pか小Kで連ガを作るのだ。ヒット時は2中P＞CR＞大K＞大Pリフト＞弱バチカでコンボなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "106",
+      "107",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "591cb2a65a35",
+    "category": "combo",
+    "topic": "しゃがみ中PからのSA1/SA3コンボ",
+    "content": "ブランカの【しゃがみ中P＞キャンセルラッシュ＞立ち強K＞立ち強Pリフト】からのSA1を使う場合はそのままSA1に繋ぎます。SA3を使う場合は、弱バチカの代わりに中ローリングアタックで拾ってからSA3に繋ぎます。画面端ではリフト後に人形設置で+5Fの状況を作れます。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Pからのコンボ、SAゲージがある場合、画面端",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "01:16",
+    "source_quote": "SA1を使う場合はリフト後にSA1で。SA3を使う場合は弱バチカを中ロリにするのだ。で画面端はリフト後に人形設置で+5で。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "108",
+      "306",
+      "401",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f0abb43350d",
+    "category": "combo",
+    "topic": "確定反撃コンボ（人形なし）",
+    "content": "ブランカの確定反撃は、基本的には立ち強Kで拾って立ち強Pリフトに繋ぐルートが基本です。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "確定反撃時、人形設置なし",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "03:24",
+    "source_quote": "次に確定反撃コンボなのだ。確定反撃は大Kで拾って大Pリフトのルートなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "652860f8f299",
+    "category": "combo",
+    "topic": "確定反撃コンボ（人形あり）",
+    "content": "ブランカの確定反撃で、人形がある状態ならば【立ち強K＞立ち強P＞ODサンダーショット＞強バクロール】から、さらに【強バチカ＞ODバチカ】または【SA3】に繋げられます。他にも、パニッシュカウンターから【生ラッシュ＞立ち強P＞キャンセルラッシュ＞立ち強P＞ODバクロール＞SA3】のコンボもあります。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "確定反撃時、人形設置あり",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "03:29",
+    "source_quote": "また人形がある状態なら大K大PODサンダー強バクロリから強バチカODバチカやSA3も入るのだ。他にも強バクロリR大PCRODバクロリSA3とかもあるのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "47f8500773da",
+    "category": "combo",
+    "topic": "ドライブリバーサル確定反撃",
+    "content": "ブランカのドライブリバーサルからの確定反撃は、【しゃがみ弱P＞しゃがみ弱P＞弱バチカ】がおすすめです。ダメージにこだわるなら【しゃがみ弱P＞前中K＞しゃがみ弱P＞弱バチカ】の方が高いです。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ドライブリバーサル確定反撃時",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "03:49",
+    "source_quote": "次にDリバの反撃。2小P2小P弱バチカがおすすめなのだ。一応【2小P6中K2小P弱バチカ】とかの方が高いからこだわるならこっちのコンボなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "df4e802bc578",
+    "category": "combo",
+    "topic": "インパクトコンボ",
+    "content": "ブランカのドライブインパクトヒット時は、立ち強Pリフトのルートが基本です。画面端では人形設置に繋げられます。壁やられ時も立ち強Pリフトでコンボが可能です。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時、壁やられ時",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "04:00",
+    "source_quote": "最後にインパクトコンボ。大Pリフトのルーが基本なのだ。これも画面端なら人形設置なのだ。壁やられでも大Pリフトでコンボできるのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "410ad66c3087",
+    "category": "combo",
+    "topic": "入れ替えコンボ",
+    "content": "ブランカの入れ替えコンボは、【立ち強P＞ODローリングアタック＞中バチカ】です。このコンボ後は中ローリングアタック消費で起き攻めが可能です。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "入れ替えコンボ時",
+    "source_video_id": "YieGaq2_xwY",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ブランカ解説",
+    "source_timestamp": "04:10",
+    "source_quote": "次が入れ替えコンで、大P＞ODロリ＞中バチカ。中ロリ消費で起き攻めなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:08:17.346000",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "306",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2e663d42a42",
+    "category": "combo",
+    "topic": "基本コンボ1",
+    "content": "立ち弱Kから立ち弱Kに繋ぎ、キャンセルして弱サンダーを出す。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "00:44",
+    "source_quote": "はい、まずワズですね、ブランカの基本コンボの弱K弱Kサンダーですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5f218a3c72c7",
+    "category": "combo",
+    "topic": "ダウン後の固めコンボ",
+    "content": "ダウンさせた後の密着から、しゃがみ中Kから立ち弱Pに繋ぎ、キャンセルして弱サンダーを出す。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ダウンさせた後の密着時",
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "01:24",
+    "source_quote": "はい、続いてですね、続いては引き中キック弱パンチサンダーですね。このコンボの使い方がとしては、え、相手をダウンさせた後に、はい、このように固めるために使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "65af12c44661",
+    "category": "combo",
+    "topic": "ダウンを奪うコンボ",
+    "content": "立ち強Pからワイルドリフトに繋ぎ、アマゾンリバーランでダウンを奪う。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "01:53",
+    "source_quote": "はい、続いてのここは、え、強パンチからワイルドリフト行ってアマゾンリバーランですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "204",
+      "206"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3c98f3754afd",
+    "category": "combo",
+    "topic": "ラッシュからのヒット確認コンボ",
+    "content": "ドライブインパクトからのドライブラッシュ引き中K（しゃがみ中K）をヒット確認し、立ち強P→ワイルドリフト→弱バチカへ繋ぐ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット後",
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "02:18",
+    "source_quote": "続いてのコンボは、え、ラッシュ引き中K（ここでヒット確認）強Pワイルドリフト弱バチカですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "206",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "583efc45a35a",
+    "category": "combo",
+    "topic": "ラッシュからのヒット確認コンボ2",
+    "content": "ドライブラッシュ前中Pをヒット確認し、立ち強K→しゃがみ弱P→弱バチカへ繋ぐ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "02:55",
+    "source_quote": "続いては中段択のラッシュ前中P（ここでヒット確認）強K下弱P弱バチカですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "337d63ba50b5",
+    "category": "combo",
+    "topic": "強ローリングパニカンからの追撃",
+    "content": "強ローリングがパニッシュカウンターになった場合、ドライブラッシュからアマゾンリバーランへ繋ぐ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "強ローリングがパニッシュカウンターになった時",
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "03:22",
+    "source_quote": "続いてですね、続いては、え、強ロリ（パニカン）ラッシュアマリバを出すというものになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "027bdc4aee9a",
+    "category": "combo",
+    "topic": "パニカンからの大ダメージコンボ",
+    "content": "立ち強Kがパニッシュカウンターになった場合、または相手の無敵技や隙の大きい技をガードした後に、立ち強P→ワイルドリフト→中ローリング→SA3へ繋ぐ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kがパニッシュカウンターになった時、または相手の無敵技や隙の大きい技をガードした時",
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "03:57",
+    "source_quote": "続いてのコンボはですね、相手が無敵技などを打ってきた時に使える。強K（パニカン）強Pワイルドリフト中ロリSA3。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "206",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c70ec3f11bad",
+    "category": "combo",
+    "topic": "下段始動キャンセルラッシュコンボ",
+    "content": "しゃがみ中Pをキャンセルしてドライブラッシュに繋ぎ、引き中K（しゃがみ中K）→立ち強P→ワイルドリフト→SA1へ繋ぐ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "04:47",
+    "source_quote": "はい、こっからですね、え、キャンセルラッシュを使ったコンボになります。下中P.キャンセルラッシュ→引き中K→強P→ワイルドリフト→SA1。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108",
+      "109",
+      "206",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "911ac5d0ac6e",
+    "category": "combo",
+    "topic": "下段始動キャンセルラッシュコンボ2",
+    "content": "しゃがみ中Kをキャンセルしてドライブラッシュに繋ぎ、引き中K（しゃがみ中K）→立ち強P→ワイルドリフト→SA1へ繋ぐ。ヒット確認は引き中Kで行う。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "04:56",
+    "source_quote": "はい、下中K.キャンセルラッシュからも同じようなコンボに繋ぐことができます。ヒット確認は引き中Kでしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "206",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "47af9d82c11a",
+    "category": "combo",
+    "topic": "エリアルコンボ",
+    "content": "しゃがみ中PからODワイルドリフトに繋ぎ、ジャンプ中P→強エリアルローリングへ繋ぐ。ジャンプ中Pの後の強エリアルローリングは、少し遅らせて入力するのがコツ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "05:07",
+    "source_quote": "はい、続いて、続いては、え、ブランカで、まちょっと癖があって難しいコンボなんですけど、下中P→ODロリ→ジャンプ中P→強エリアルロリと。このジャンプ中パンチの後の強エリアルローリングを遅らせるのが、え、鍵となってきます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "114",
+      "206",
+      "332"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "158625561a13",
+    "category": "combo",
+    "topic": "画面端大ダメージコンボ",
+    "content": "画面端限定で、立ち強P→ODバックステップローリング→強バチカ→ODバチカへ繋ぐ。ドライブゲージを使わずに大ダメージを与えられる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "43-5lJDgxKk",
+    "source_channel": "saga",
+    "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+    "source_timestamp": "05:40",
+    "source_quote": "はい、最後にですね、最後に、え、画面端のコンボで強P→ODバクロリ→強バチカ→ODバチカですね。このコンボね、ブランカでノーゲージだと、え、かなり減るコンボなので、ましっかり画面端では、まこのコンボにいけるように頑張ってみましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:50:43.334851",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "95ee55aa92d2",
+    "category": "combo",
+    "topic": "立ち強P始動SA2コンボ",
+    "content": "ブランカのSA2始動コンボ。立ち強PからSA2を起動し、SA2ヒット後、立ち強P、しゃがみ中K、弱ローリングアタック、人形設置と繋げる。SAゲージを効率的に消費し、ダメージを与えつつ有利な状況を作るための重要なコンボ。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "SAゲージが溜まっている時",
+    "source_video_id": "eoqRetuXxyA",
+    "source_channel": "えまおチャンネル(emaoch)",
+    "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+    "source_timestamp": "00:26",
+    "source_quote": "まずはこちら大Pから始めるコンボですね。このコンボはもうSA使ってガンガンいきたいです。SAゲージをガンガン回してこのコンボでダメージを取りつつ有利な状態で試合を運んでいくっていう中での一番大事なコンボかなと思いますので、ぜひ練習してみて ください。コンボの内容ですが、大Pから指導してSA2起動。ここがまず難しいです。でこの後大P中バシか斜め、もう一回中バシかちょっとためてから斜めでブランカちゃんの人形設置まで。ここまでがセットになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T05:47:37.672635",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "304",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c804e926dceb",
+    "category": "combo",
+    "topic": "SA2めくりコンボ",
+    "content": "ブランカのSA2めくりコンボ。SA2を起動した後、ODローリングアタックで相手をめくり、そこから立ち弱P、しゃがみ強K、ODローリングアタック、人形設置と繋げる。相手に触りにいけてない時やSAゲージが余っている時に有効で、相手にわかっていても対策が難しい。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "相手に触りにいけてない時、SAゲージが余っている時",
+    "source_video_id": "eoqRetuXxyA",
+    "source_channel": "えまおチャンネル(emaoch)",
+    "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+    "source_timestamp": "01:03",
+    "source_quote": "さて続いては、まあちょっととりあえず出してみようみたいなタイミング。なかなか相手を触りに行けてないしっていう時にやるめくりのコンボになってます。結構分かってても対策は難しいコンボなので、まあSAゲージがちょっと使えてないっていう方はとりあえずSA2を出してこのコンボを当てに行ってみるっていうようなやり方ができると結構相手を倒しやすいんじゃないかなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T05:47:37.672635",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "111",
+      "310",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f5ebff1b652",
+    "category": "combo",
+    "topic": "中段始動SA2コンボ",
+    "content": "ブランカのSA2中段始動コンボ（クラシック専用）。立ち中P（オーバーヘッド）からコンボを開始し、立ち強K、立ち弱P、ODサンダーショット（2段目ヒット後）を繋げてSA2を起動する。SA2ヒット後は強ローリングアタックで打ち上げ、人形設置でコンボを締める。相手が中段を意識していない場合に有効。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "相手が中段ガードを意識していない時",
+    "source_video_id": "eoqRetuXxyA",
+    "source_channel": "えまおチャンネル(emaoch)",
+    "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+    "source_timestamp": "01:47",
+    "source_quote": "続いて最後が中段から始まるコンボですね。こちらはちょっとモダンの方は使えないコンボになってるんですけど、中段始動でSA2を起動した時のブランカちゃん設置までのコンボになってます。で、この対策を知ってる相手だと中段かなり注意して当たらないんですけど、そうなってくると逆にラッシュ中足が刺さったりします。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T05:47:37.672635",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "105",
+      "109",
+      "308",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

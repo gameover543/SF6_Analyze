@@ -1,0 +1,242 @@
+[
+  {
+    "id": "eb58b648da20",
+    "category": "combo",
+    "topic": "中央リーサルコンボ（SA3込み）",
+    "content": "2中PキャンセルラッシュからのSA3まで含めた中央リーサルコンボ。4大P、中弾、生ラッシュ2中P、キャンセルドライブラッシュ4大Pを低めに拾い、大ニー、中アパカと繋ぐ。5500ダメージを狙う。4大Pは低めに拾わないと大ニーからの繋ぎが不安定になるためディレイをかける。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "2中PキャンセルラッシュからSA3でリーサルを狙う時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "01:57",
+    "source_quote": "で、中パンアッパーからネクサスじゃなくて弾撃って生ラッシュしゃがみ中パンから、えーディレイアッパー。大ニー。で、きりもみにさせてから中アパカ。これでSA3で5500。ここリーサルラインとしてこのコンボ狙います。これね。で低めでアッパー。低めじゃないとこの大ニーきりもみ中アパカが入らないから、アッパーでディレイ。これよく使います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "406",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "21510fd6625e",
+    "category": "combo",
+    "topic": "中央リーサルコンボ（社会人Ver.）",
+    "content": "2中Pキャンセルラッシュからリーサルを狙う際の難易度低めのコンボ。立ち大K、キャンセルドライブラッシュ6大K、4大P、大ニー、弱アパカと繋ぐ。SA3まで含めて5400ダメージ程度で、ダメージロスが少ないため実用的。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "2中Pキャンセルラッシュからリーサルを狙う時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "02:32",
+    "source_quote": "だけど別に、中パンラッシュから立ち大K、前大K、アッパー、大ニー、弱アパカ、SA3とかでも5400は減るから、100ぐらいしか下がってないんで、別にこっちでもいいと思う。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "406",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "307728ac5f69",
+    "category": "combo",
+    "topic": "立ち中Pカウンターヒット時コンボ",
+    "content": "ラッシュ立ち中Pまたは立ち中Pがカウンターヒットした時のコンボ（難易度低め）。立ち大K、キャンセルドライブラッシュ6大K、4大P、大ニー、弱アパカと繋ぐ。ダメージは4300程度。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "ラッシュ立ち中Pまたは立ち中Pがカウンターヒットした時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "03:10",
+    "source_quote": "もちろん実はこれもここまでやんなくても、ラッシュ中パン当たったらば立ち大Kってすると、ラッシュ中パン立ち大Kキャンセル立ち大K、前大K、アッパー、大ニー弱アパカって言う簡単ルートでもなぁ、変わんないっす。んな変わんないっす。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11fcad514bd5",
+    "category": "combo",
+    "topic": "画面端立ち中Pカウンターヒット時コンボ（上級者Ver.）",
+    "content": "ラッシュ立ち中Pまたは立ち中Pがカウンターヒットし、画面端付近でのリーサルを狙う上級者向けコンボ。2大P、キャンセルドライブラッシュ4大P、中弾、生ラッシュ立ち大K、キャンセルドライブラッシュ4大Pを低めに拾い、大ニー、中アパカと繋ぐ。4800ダメージ程度。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "ラッシュ立ち中Pまたは立ち中Pがカウンターヒットし、画面端付近でのリーサルを狙う時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "03:24",
+    "source_quote": "まあできるんだったら、アッパー玉、生ラッシュ立ち大K、キャンセルラッシュ、でアッパーを低めに拾って大ニー中アパカ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1fb742eb7408",
+    "category": "combo",
+    "topic": "中Pカウンターヒット時ODゲージ使用コンボ（中央、高ダメージ）",
+    "content": "中Pカウンターヒットし、ODゲージがある時の中央コンボ。4大P、キャンセルドライブラッシュ立ち大K、中弾、生ラッシュ4大P、タメアパカと繋ぐ。SAを使わずに5900ダメージ程度。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "中Pカウンターヒットし、ODゲージがある時 (中央)",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "05:34",
+    "source_quote": "こんぐらいの体力だったら中パンカウンターからゲージあれば、中パンカウンターアッパー、ラッシュキャンセル立ち大K、中ショット、で生ラッシュからアッパー、タメアパカって入れるとこんぐらいの体力がいっちょSA使わなくても中パンカウンターだけで伸びますと。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "73fcc957c998",
+    "category": "combo",
+    "topic": "2大P確認キャンセルラッシュリーサルコンボ（社会人Ver.）",
+    "content": "2大Pからのキャンセルラッシュでリーサルを狙う際の難易度低めコンボ。立ち大K、キャンセルドライブラッシュ6大K、4大P、大ニー、弱アパカと繋ぎ、SA3で締める。ダメージは高いルートと大きく変わらない。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "2大Pからのキャンセルラッシュでリーサルを狙う時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "09:54",
+    "source_quote": "これもステハイから大K大Kなんかステハイアッパー大ニー弱アパカとかでも大してダメージ変わらんのでこっちでいいです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "406",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cfb18a417f4e",
+    "category": "combo",
+    "topic": "中央無敵技確反リーサルコンボ",
+    "content": "中央での無敵技の確定反撃コンボでリーサルを狙う。6大Kから少し歩いて4大P、中弾、生ラッシュ2中P、キャンセルドライブラッシュ2大P、キャンセルドライブラッシュ4大P、大ニー、中アパカと繋ぐ。SA3込みで5900ダメージ程度。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "無敵技の確定反撃 (中央、リーサル向け)",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "16:22",
+    "source_quote": "一応中央でステハイ歩いてアッパー玉、えーと最初に紹介したキャンセルラッシュの時のあのリーサルコンに行ける。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "406",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e9f5dc37f59",
+    "category": "combo",
+    "topic": "無敵技確反（社会人Ver.）",
+    "content": "無敵技の確定反撃で、迷ったらこのコンボ。立ち大K、キャンセルドライブラッシュ立ち大K、キャンセルドライブラッシュ6大K、4大P、大ニー、弱アパカと繋ぐ。ダメージは高いルートと大きく変わらないため、実用的。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "rashid",
+    "situation": "無敵技の確定反撃",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "16:36",
+    "source_quote": "これもステハイから大K大Kなんかステハイアッパー大ニー弱アパカとかでも大してダメージ変わらんのでこっちでいいです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

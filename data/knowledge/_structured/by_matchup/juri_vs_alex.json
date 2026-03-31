@@ -1,0 +1,369 @@
+[
+  {
+    "id": "0f1410cdc794",
+    "category": "matchup",
+    "topic": "弱フラッシュアックスガード後",
+    "content": "Alexの弱フラッシュアックスをガードした際、Alex側は-4Fとなりますが、ガード後に距離が離れるため、ほとんどの4F確反技は届きません。この状況で確実な反撃を狙うには、距離が近ければ5～6F技、遠い場合は8F技を打ち返しましょう。Alex側が技を出すには実質9F技の発生が必要となります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "弱フラッシュアックスガード後",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "01:09",
+    "source_quote": "この弱アックスをガードした時の対応ですが弱アックスをガードさせられた後はアレックス側も4F技は届かないので近い場合は5～6F技 遠い場合は8F技を打ってきます -4Fから早くて5F技なので実質発生は9F",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0039a8e8ac1a",
+    "category": "matchup",
+    "topic": "弱フラッシュアックスヒット後",
+    "content": "小技2発などからのAlexの弱フラッシュアックスがヒットした場合、近めの距離でAlex側が+3F有利となります。この後はAlexがコマ投げか打撃を仕掛けてくるガチ2択になります。ただし、小技3発や中攻撃先端気味からのヒット時はコマ投げが届かないため、ガードや後ろ下がりで問題ありません。Alexとの距離を正確に見極め、コマ投げの択があるか判断することが重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "弱フラッシュアックスヒット後",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "01:43",
+    "source_quote": "弱アックスがヒットした場合 小技2発などからの弱アックスの場合ヒット後は近めの距離で+3Fを取られます なので、その後はコマ投げと打撃の完全二択になります 小技3発や 中攻撃先端気味からの弱アックスからはコマ投げが届きません この時はコマ投げの択はないのでガードや後ろ下がりで問題ありません 弱アックスヒット時はアレックスとの距離を見極めてコマ投げがあるかどうかの判断ができるとより守りやすくなると思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d9fa9ad444b",
+    "category": "matchup",
+    "topic": "中フラッシュアックスガード後",
+    "content": "Alexの中フラッシュアックスをガードした際、Alex側は-6Fとなります。ガードした距離が近ければ、Juri側から6F確反技を確定させることができます。6F技が届く距離かを見極め、確実な反撃を入れましょう。ガード後に距離が離れた場合でもAlex側は-6Fなので、必ず届くリーチの長い技で反撃することを心がけてください。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "中フラッシュアックスガード後",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "02:25",
+    "source_quote": "中アックスは弱アックスと違いガードした距離が近ければ6F確反が入ることもあります 6F技が届くかどうかの見極めが必要ですがこれも大事なのは必ず届く攻撃を打ち返すことです ガード後に離れた場合でもアレックス側の-6Fなのでリーチの長い技で先に触るようにしましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1790ddc12e70",
+    "category": "matchup",
+    "topic": "フラッシュチョップ（タメ無し）対策",
+    "content": "Alexがフラッシュチョップを牽制技のように振ってくる場合、インパクトで返すのが有効です。フラッシュチョップの発生は26F、全体硬直は62Fと遅いため、インパクトで返されることはほとんどありません。意識して見えていれば十分インパクトで返せるレベルの技です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "フラッシュチョップ牽制時",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "02:57",
+    "source_quote": "まずはフラッシュチョップを牽制技のように振ってくる相手にはインパクトで返しましょう 発生は26Fとインパクトの発生と同じフレームの遅さで全体は62Fもあるのでインパクトが返されることもほとんどないです 意識していれば、見てから十分インパクトで返せるレベルだと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71c8947bbc06",
+    "category": "matchup",
+    "topic": "タメ大Pフラッシュチョップ対策",
+    "content": "Alexのタメ大Pフラッシュチョップは連続ガードとなり、ガードした側はドライブゲージ1.5本を削られ、さらに+2Fの不利フレームを負います。これに対しては、Alexの溜めモーションが見えたらパリィを押すようにしましょう。パリィに成功すればドライブゲージが2本回復し、Alex側は+2Fですが距離が離れるため、ガード後のコマ投げの択は発生しません。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "タメ大Pフラッシュチョップガード時",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "03:17",
+    "source_quote": "一番多く使われる打ち方が溜め大Pフラッシュチョップですね これは連続ガードな上にドライブゲージが1.5本削られてさらにプラスフレームを取られるという強さを誇ります これに対しては、まずマリサのようなアーマー性能はないので溜め大P発生前に潰せると一番なのですが 最低限やりたいことはアレックスのためが見えたらパリィを押す ということです 溜め大Pフラッシュチョップをパリィできればドライブゲージが2本回復します パリィ後はアレックスの+2Fですが距離が離れている場合がほとんどなのでガード後にコマ投げの択はありません",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f9d9a56a3f61",
+    "category": "matchup",
+    "topic": "フラッシュアックス/フラッシュチョップからの連携対策",
+    "content": "Alexが連続ガードにならないフラッシュアックスやフラッシュチョップの連携（例: 立ち中Pからのアックス、溜め大Pチョップではない小技からのアックスや中攻撃からのチョップ）を仕掛けてきた場合、全てにインパクトが確定します。積極的にインパクトを狙って反撃しましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "連続ガードにならないフラッシュアックス/チョップ連携時",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "04:20",
+    "source_quote": "連続ガードにならないフラッシュアックスフラッシュチョップ連携にはすべてインパクトが確定します 立ち中Pからのアックス溜め大Pからのチョップは連続ガードなのでインパクトは押しても出ませんが 小技からのアックス、中攻撃からのチョップなど入れ込んでくる相手にはインパクトが確定するので狙ってみてもいいと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60f9d93601f0",
+    "category": "matchup",
+    "topic": "エアスタンピードガード後のコマ投げ対策",
+    "content": "Alexのエアスタンピードガード後は、ODコマ投げが重なるため、Alex側は打撃かODコマ投げのガチ2択を仕掛けてきます。これに対する最も有効な対策は垂直ジャンプです。Alex側が打撃択として狙えるのはコパンアックスくらいしかなく、中攻撃で始動しようとすると垂直飛びの相手には空中くらいになって単発ヒットでリターンがかなり少ないためです。エアスタンピードガード後は迷わず垂直ジャンプを選択しましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "エアスタンピードガード後",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "06:13",
+    "source_quote": "まずは、エアスタンピードガード後 構えから派生する攻撃ですね この技はガードでアレックス+2F ガード後はODコマ投げが重なるので打撃とのガチ二択になってしまいます しかしこの三択に対してはコマ投げケアの垂直ジャンプが圧倒的に有効です スタンプガード後のアレックス側の打撃択はコパンアックスくらいしかありません 下段始動の場合は、小足の後にコパンが届かない 中攻撃から始動しようとすると垂直飛びの相手に対して攻撃が空中くらいになって単発ヒットという具合にリターンがかなり少ないです それに対して垂直ジャンプでコマ投げをかわばジャンプ攻撃からフルコンボ となるのでリターンがかなり大きいです エアスタンピードガード後は垂直ジャンプがおすすめです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "114",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d9192714a4c8",
+    "category": "matchup",
+    "topic": "スタンプ対策",
+    "content": "Alexはスタンプを出す際に必ず構えを挟む必要があります。Alexが構えたのが見えたら即座に垂直ジャンプで対応しましょう。Alexが最速で構えからスタンプを出してきた場合でも、垂直ジャンプからの攻撃が確定します。これにより、相手はAlexがスタンプを出してこなくても垂直ジャンプへの対策を考えざるを得なくなるため、十分な抑止力となります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "Alexがスタンプを出す際",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "07:04",
+    "source_quote": "スタンプそのものに対する対策はアレックスはスタンプを出すのに構えを経由しなければ出せません なのでアレックスが構えたのが見えたら即垂直ジャンプ そうすれば最速で構えからスタンプを出してきた場合に垂直ジャンプからの攻撃が確定します スタンプしてこなくても相手は垂直ジャンプに対する対策も考えなくてはいけなくなるので十分な抑止力になると思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9187c6aa3ccd",
+    "category": "matchup",
+    "topic": "エアニー後の起き攻めコマ投げ対策",
+    "content": "AlexがODエアニーや画面端でのエアニー後、起き上がりにコマ投げを重ねてくる場面では、Alex側も打撃択でダメージを取ることが可能です。この状況は読み合いとなります。コマ投げを警戒するなら垂直ジャンプやバックステップ、打撃を警戒するならガードをしっかり行うなど、相手の行動を考えた上で対応しましょう。Alexは動きが遅く、なかなか仕掛ける場面を作りづらいキャラであるため、やっと掴んだ起き攻めシーンでは様子見をする可能性が低いと予測できます。強気に無敵技をパナすのも有効な選択肢です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "ODエアニーや画面端でのエアニー後",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "07:49",
+    "source_quote": "このシーンはアレックス側も打撃択でダメージを取ることが可能なのでここは読み合う必要があります こういう読み合いのシーンで必要な考え方として まずはコマ投げか打撃かの二択になってるからどちらに対応するかしっかり考えるということ 打撃もコマ投げもしっかり埋まってるのに なんとなくコパン暴れとかしてもどちらにも負けることになります コマ投げ読みなら垂直ジャンプやバクステ 打撃読みならしっかりガード と相手の行動を考えた上での行動をしましょう さらにアレックス視点からすると動きが遅く、なかなか仕掛ける場面を作りこいアレックスが、やっと掴んだ起き攻めシーンなので通常キャラに比べると様子見をする可能性は低いと僕は思ってます 強気に無敵技をパナすのも有効な選択肢だと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71d8b369c040",
+    "category": "matchup",
+    "topic": "小技キャンセルラッシュコマ投げ対策",
+    "content": "Alexの小技キャンセルラッシュからのコマ投げは、全て4F暴れで潰すことが可能です。立ちコパンキャンセルラッシュからのコパンに対しては4F暴れで相打ちになりますが、それ以外の行動に対しては4F暴れで一方的に勝つことができます。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "小技キャンセルラッシュコマ投げ時",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "08:47",
+    "source_quote": "小技からキャンセルラッシュしてそのままコマ投げ 実はアレックスの小技キャンセルラッシュコマ投げはすべて4F暴れで潰すことが可能です 立ちコパンキャンセルラッシュからのコパンのみ4F暴れで相打ちになりますがそれ以外の行動に対しては",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c24670c0454",
+    "category": "matchup",
+    "topic": "中攻撃キャンセルラッシュコマ投げ対策",
+    "content": "Alexの中攻撃キャンセルラッシュからのコマ投げは、打撃で暴れ潰しされるため、読み合いの状況となります。中攻撃キャンセルラッシュには、無敵技での割り込みが非常に強力です。もしOD無敵技を持っていないキャラや、OD無敵技での割り込みが難しい場合は、Dリバーサルも効果的な対処法となります。Alexはコパンで連続ガードを作って攻め継続してくるタイプではないため、キャンセルラッシュに対しても攻め側がアドバンテージを取りやすいです。相手が小技キャンセルラッシュを多用してくる場合は最速4F暴れ、中攻撃ラッシュを多用してくる場合は無敵技やDリバーサルでの対処を心がけましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "中攻撃キャンセルラッシュコマ投げ時",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "09:12",
+    "source_quote": "中攻撃からのキャンセルラッシュは打撃で暴れ潰しされるので読み合いになってしまいますが中攻撃キャンセルラッシュには無敵技での割り込みが強力です アレックスはあまりコパンで連続ガードを作って攻め継続してくるタイプではないのでキャンセルラッシュからも攻めに対してアドバンテージを取れます OD無敵技を持ってないキャラやOD無敵技での割り込みが難しい場合はDリバも効果的です 小技キャンセルラッシュを多用してくる相手には最速4F暴れ 中攻撃ラッシュを多用してくる相手には無敵技やDリバでも対処を心がけましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "87764c447bbb",
+    "category": "matchup",
+    "topic": "構えを使った起き攻め対策",
+    "content": "Alexは特定の技（コンボの締めを中アックス、中P大Pタゲコン、構え大Kなど）から構えに移行し、起き攻めを仕掛けてきます。この状況での打撃択はコパンからのラリアット、またはそのままラリアットで、ヒットすればコンボに繋がります。しかしAlexの本命はラリアットをガードさせて+3Fを取り、コマ投げを決めることです。打撃択をガードできたとしても安心せず、ラリアットの後にコマ投げの択があると常に意識しておきましょう。構えからの投げは通常投げとモーションが異なりますが、投げ抜けが可能です。また、構えの状態から後ろ下がりシミーはガードができないためほぼ不可能です。代わりに小ジャンプでめくり飛びを仕掛けてきますが、このめくり飛びに対して投げ抜けを入力しているとAlexの攻撃が確定してしまい、無敵技を出してもほとんどの場合スカるため、シミーと同様の効果を持つ攻め択となります。構えからの起き攻めでは、直接コマ投げはできないことを認識しておいてください。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": "構えからの起き攻め",
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "11:33",
+    "source_quote": "最後に構えを使った起き攻めについてアレックスは特定の技から構えに移行することができます コンボの締めを中アックス 中P大Pタゲコン構え大K これらの後に構えた状態で起き攻めをしてきます ここからの択は打撃択はコパンからラリアットもしくははそのままラリアットとしてきます ヒットすればそのままコンボに繋ぐことができます しかし アレックスの本懐はラリアットをガードさせて+3Fを取り コマ投げを決めることです 打撃択をガードできても安心せずラリアットの後にコマ投げがあると覚えておいてください 次に投げ択ですが構えからの投げで通常投げとモーションが違いますがこの投げに対しては投げ抜けが可能です 次にシミー択ですが構えの状態から後ろ下がりシミーはほぼできません 構え状態はガードができないのでなので後ろ下がりシミーの代わりに起き攻めに小ジャンプでめくり飛びをしてきます このめくり飛びに対して投げ抜けを押していると確転を取られて無敵技をパナしてもほとんどの場合スカります シミーと同等の効果がある攻め択になります なので構えからの起き攻めは打撃択はガード後もラリアットで有利を取られてさらにコマ投げ択がある 投げ択は特殊投げだが投げ抜けも可能 起き攻め小ジャンプから攻めもある ただ構え起き攻めから直接コマ投げはできないと認識しておいてください",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "110",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e15efe729eec",
+    "category": "general",
+    "topic": "Alex対策のまとめ",
+    "content": "Alex対策のポイントは以下の3点です。\n1. フラッシュアックスに対しては、無理に確反を狙わず、安全に触り返すことを優先しましょう。\n2. フラッシュチョップに対しては、パリィやドライブリバーサルを活用して対処します。\n3. コマ投げの状況は、Alexの行動ごとに適切な対応を使い分けることが重要です。\nこれらの点を意識するだけで、Alex戦は大幅に楽になります。Alexは荒らし性能は高いものの、防御面は弱いキャラクターなので、一度ペースを掴んだら一気にKOまで持っていきましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "alex",
+    "situation": null,
+    "source_video_id": "gO0OHeIkZio",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Alex Countermeasures: The Latest Version - A Must-See for Those Who Struggle A...",
+    "source_timestamp": "13:12",
+    "source_quote": "今回のアレックス対策は以上となります ポイントをまとめると、フラッシュアックスには無理に確反を狙わず触り返す フラッシュチョップにはパリィとドライブリバーサル コマ投げはシーンごとにしっかり対応を分ける この3つを意識するだけでアレックス戦はかなり楽になります あとは、アレックスは荒らし性能は高いと思いますが守りは弱いキャラです 一度ペースを掴んだら一気に倒しきっちゃいましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:41:36.681389",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "848da1d28c96",
+    "category": "matchup",
+    "topic": "エド 弱ブリッツ (-5F)",
+    "content": "エドの弱ブリッツはガードされて-5Fです。密着でガードできた場合は立ち弱Pから追撃できますが、距離が少しでも離れると立ち弱Pが届かないことがあります。距離判断が難しい場合は、リーチの長い立ち弱K > 昇龍拳（OD版でも可）で確定反撃するのがおすすめです。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ed",
+    "situation": "エドの弱ブリッツがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "06:01",
+    "source_quote": "エドの弱ブリッツ。ガードされて-5Fです。密着でガードできた場合は立ち弱Pから追撃できますが、距離が離れると立ち弱Pが届かないことがあります。距離判断が難しい場合は、リーチの長い立ち弱Kから確定反撃するのがおすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "43e445056a7e",
+    "category": "matchup",
+    "topic": "エド 立ち中K (-5F)",
+    "content": "エドの立ち中Kはガードされて-5Fです。ケンは立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ed",
+    "situation": "エドの立ち中Kがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "07:05",
+    "source_quote": "エドの立ち中K。ガードされて-5Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

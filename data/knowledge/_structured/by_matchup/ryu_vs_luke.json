@@ -1,0 +1,593 @@
+[
+  {
+    "id": "a95f9f59c315",
+    "category": "defense",
+    "topic": "弱Pガード後の反撃",
+    "content": "ルークの立ち弱Pをガードした際、先端ヒットで-2F、めり込みで-3Fの不利フレームがある。ルーク側が不利なので、弱Kなどで反撃できる。ただし、弱攻撃はガードストップが短く、弱Pか投げかの判断が難しいため、対応に慣れる必要がある。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち弱Pガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "00:54",
+    "source_quote": "弱P、この技は確定がとれるわけではなく、ルーク側不利なのでガードしたら弱Kあたりを振りかえしておけば良いんですが、弱攻撃なのでガードストップが短く弱Pだと認識するのが遅れてその判断がなかなかできず、スト5の頃から僕は嫌いな技です。それを利用してルーク側不利フレームなのに続けて投げとかやってくる人もいましたね。慣れるしかないですかね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "379151cf8ce3",
+    "category": "defense",
+    "topic": "強Pガード後の反撃",
+    "content": "ルークの立ち強Pをガードした際、先端ヒットで-5F、めり込みで-6Fの不利フレームがある。弱Kなどから反撃可能だが、必殺技キャンセル可能なので、下手に技を出すとキャンセル技で潰される。先端ガード時以外はOD昇龍拳などで両対応が可能。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち強Pガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "01:22",
+    "source_quote": "強P、弱Kなどから反撃可能ですが必殺技キャンセル可能なため下手に技を出すとキャンセル技でつぶされます。読み合うか、先端ガードじゃなければOD昇龍ぶっぱなしでキャンセルされてもされてなくても両対応という対策もできます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d925ded36158",
+    "category": "defense",
+    "topic": "強Kガード後の反撃",
+    "content": "ルークの立ち強Kをガードした際、先端ヒットで0F、めり込みで-5Fの不利フレームがある。食い込めば弱Kなどから反撃可能だが、先端ガード時は五分になるので注意が必要。また、8Fから足元無敵があるため、下段技をすかして攻撃される可能性がある。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの立ち強Kガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "01:39",
+    "source_quote": "強K、こちらも食い込めば弱などから反撃可能ですが先端ガード時は五分になるので注意です。8Fから足元無敵があるので下段技をすかして攻撃されます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f33e85f3837f",
+    "category": "defense",
+    "topic": "しゃがみ中Pガード後の対応",
+    "content": "ルークのしゃがみ中Pはガード時+1Fでルーク側有利なので、要注意。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのしゃがみ中Pガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "01:57",
+    "source_quote": "しゃがみ中P、ルーク側有利なので要注意です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "09b4a883c57e",
+    "category": "defense",
+    "topic": "しゃがみ強Pガード後の反撃",
+    "content": "ルークのしゃがみ強Pをガードした際、-13Fの不利フレームがある。ガード時は強Pなどで確定反撃が可能。この技は対空としても機能するため、めくりジャンプがこの技で落とされることがある。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのしゃがみ強Pガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "02:01",
+    "source_quote": "しゃがみ強P、ガード時は強Pなどから確定とれますが、基本対空かコンボ用だとおもうのでガードする機会はあまりないとおもいます。めくりの軌道のジャンプもけっこうこの技で落とされることがあってかなり良い技だなーとおもいます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "799ea25852f1",
+    "category": "defense",
+    "topic": "しゃがみ強Kガード後の反撃",
+    "content": "ルークのしゃがみ強Kをガードした際、-9Fの不利フレームがある。先端ガード時でも、しゃがみ中Kが確定するので、しゃがみ中K始動コンボで反撃すると良い。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのしゃがみ強Kガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "02:28",
+    "source_quote": "しゃがみ強K、先端ガード時でもしゃがみ中Kが確定するので基本しゃがみ中K始動コンボで反撃で良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "205"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6211878f774a",
+    "category": "defense",
+    "topic": "アウトローキックガード後の反撃",
+    "content": "ルークのアウトローキックをガードした際、-5Fの不利フレームがある。弱Kなどで確定反撃が可能。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのアウトローキックガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "02:59",
+    "source_quote": "アウトローキック、弱Kなどから確定とれます。コンボ始動などで使われるのであまりガードする機会は無いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89ffd3d1b70c",
+    "category": "defense",
+    "topic": "ダブルインパクト割り込みと反撃",
+    "content": "ルークのダブルインパクトは、1段目をガードしたら弱Pを連打しておくことで、1段目と2段目の間の4Fの隙に割り込める。2段目までガードしてしまった場合は、キャンセルされるか否かを読んで対応する必要がある。ルークがキャンセル中フラッシュナックルホールド版を選択した場合、リュウのOD昇龍拳はカス当たりになるので、OD昇龍拳ではなく真・波動掌で反撃する。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのダブルインパクトガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "03:08",
+    "source_quote": "ダブルインパクト、連続ガードではなく、1段目と2段目の間は4Fで割り込めるので基本的に1段目をガードしたら弱Pを押しておくと良いかと思います。2段目をガードしてしまった場合はキャンセルされるのかされないのかを読み合う感じかと思います。OD昇龍を撃つ場合、キャンセル中サンドブラスト（弱は連続ガード）などなら勝てますがキャンセル強フラッシュナックルホールド版だとスカってしまうので微妙です。真・昇龍拳でも良いですが反応がちょっと遅れると強フラッシュナックルホールド版の場合カスあたりになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "208",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b6a8f8558257",
+    "category": "defense",
+    "topic": "トリプルインパクト反撃",
+    "content": "ルークのトリプルインパクトは、2段目、3段目ともに確定反撃が取れる。3段目は必殺技キャンセル可能なので、素直に反撃するのではなく、OD昇龍拳ではなく真・波動掌で反撃する。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのトリプルインパクトガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "04:25",
+    "source_quote": "トリプルインパクト、2段目、3段目ともに確定とれますが3段目は必殺技キャンセル可能なためこちらも素直に反撃することはあまりないかと思います。ただ、こっちは真・昇龍拳は強フラッシュナックルホールド版にスカりましたので真・波動掌じゃないとダメです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "208",
+      "209",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "201ab5bf4eb9",
+    "category": "defense",
+    "topic": "スナップバックコンボ反撃",
+    "content": "ルークのスナップバックコンボは、どこで止められても確定反撃が取れる。ただし、止められたのを見てから反撃しようとすると間に合わないので、2段目を見た時点で中Pなどを連打して反撃するのが良い。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのスナップバックコンボガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "05:00",
+    "source_quote": "スナップバックコンボ、どこで止められても確定取れますが止められたの見てから反撃しようとすると間に合わないので、2段目見た時点で中Pなどを連打しておくのが良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "208"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ff095a3fc63",
+    "category": "defense",
+    "topic": "ノーズブレイカーガード後の反撃",
+    "content": "ルークのノーズブレイカーをガードした際、-8Fの不利フレームがある。中Pなどから確定反撃が可能。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのノーズブレイカーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "05:21",
+    "source_quote": "ノーズブレイカー、下段始動のタゲコンです。中Pなどから確定とれます。この技はどういう時に使うんですかね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f9b20cf5023",
+    "category": "matchup",
+    "topic": "サンドブラスト対処法",
+    "content": "ルークのサンドブラスト（弱）は発生が早く、隙が大きいが飛距離が短い。強は発生が遅く、隙が少ないが飛距離が長い。弱中を近距離でガードした場合は弱Kで確定反撃が可能。リュウの波動拳と同じ全体動作47F。リュウの波動拳に比べて弾が残らないため、弾多めの相手にはジャンプ攻撃で攻めても良い。近距離でジャストパリィできた場合はしゃがみ強Kや中昇龍拳で確定反撃可能だが難しい。リュウの竜巻旋風脚は全強度でサンドブラストを抜けられるので、読み合いで使うのは有効。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのサンドブラストに対する立ち回り",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "05:30",
+    "source_quote": "サンドブラスト。弱は発生が早く隙が大きく飛距離が短い。強はその逆です。弱中を近めでガードした際は弱Kから確定取れます。スト5と比べるとこのサンドブラスト主体で立ち回ってくる人が多くなった気がしててフレーム調べてみると、全体動作47Fでリュウの波動拳と同じなんですね。スト5だと弾打ち合いでリュウ側が押せたと思うんですがスト6はこんな感じで押せないですね。欠点があるとするなら弾が残らないので、リュウだったらこのくらいの距離で波動拳をガードさせたあとに最速波動拳を撃っても対空が間に合いますが、ルークはどこでガードしても常にジャンプ攻撃のリスクを抱えているというところですかね。なので弾多めの人にはある程度飛んでも良いかと思います。あと、近めでジャストパリィできればしゃがみ強Kや中昇龍拳が確定しますがなかなか難しいです。他には、竜巻旋風脚で全強度抜けられますのでここぞというときに読みで使うのはありだと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "205",
+      "307",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3bd30d8ebca2",
+    "category": "defense",
+    "topic": "フェイタルショットガード後の反撃",
+    "content": "ルークのフェイタルショットはガード時-21Fの不利フレームがある。OD昇龍拳などで確定反撃が可能。この技はサンドブラスト後にODゲージ1本消費で派生可能で、ヒット時や削り時に使われる。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのフェイタルショットガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "06:37",
+    "source_quote": "フェイタルショット、サンドブラスト後にODゲージ1本消費で派生可能な技です。確定取れますが、基本ヒット時とか削り時にしか使われないと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7612ca30091d",
+    "category": "defense",
+    "topic": "フラッシュナックルガード後の反撃",
+    "content": "ルークのフラッシュナックル（通常版）は弱が-18F、中が-10F（先端-8F）、強が-4F（先端-3F）の不利フレーム。ホールド（ジャスト）版は弱のみ確定反撃が取れる。先端ガード時は硬直差が変わるため注意が必要。弱通常版(-18F)は強Kで反撃できる。中フラッシュナックルのジャスト版を絡めたコンボを食らっている時に、ドライブインパクトを連打しておくと、相手のジャストコンボミス時に確定反撃できる。ODフラッシュナックルはヒット時は2段技だがガード時は1段で止まるので、反撃タイミングに注意が必要。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのフラッシュナックルガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "06:48",
+    "source_quote": "フラッシュナックル。通常版は全て確定があり、ホールド（ジャスト版）は弱のみ確定がとれます。ただ、先端ガードで硬直差が変わるので要注意です。弱の通常版が-18Fもあったのしらずに戦ってましたね。今後は強Kから反撃したいと思います。中フラッシュナックルのジャスト版を絡めたコンボをくらってる時にDインパクト連打しておくとジャストコンボみすったときに確定するという対策があるそうですね。ODフラッシュナックルはヒット時は2段ですがガード時は1段で止まりますので反撃タイミングに注意です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c1f799227838",
+    "category": "defense",
+    "topic": "ノーチェイサーガード後の対応",
+    "content": "ルークのアベンジャー〜ノーチェイサーはガード時-6Fの不利フレームがある。ただし、先端ガード時は0Fになるので注意が必要。OD昇龍拳などで確定反撃が可能。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのノーチェイサーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "08:26",
+    "source_quote": "ノーチェイサー、ガード時は確定とれますが先端は五分になるので要注意です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "482f22912d56",
+    "category": "defense",
+    "topic": "インパラーガード後の反撃",
+    "content": "ルークのアベンジャー〜インパラーは中段技で、ガード時-8Fの不利フレームがある。OD昇龍拳などで確定反撃が可能。先端ヒットした場合は-3Fまで不利フレームが減り、確定反撃が取れなくなるので注意が必要。リーチが長く、足の先まで攻撃判定がある。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのインパラーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "08:32",
+    "source_quote": "インパラー。中段技です。ガード時は確定とれますが、先端だとルーク側不利フレームが減り、確定とれません。けっこう足の先っぽまで攻撃判定があってリーチ長いですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f8eb7d9d203f",
+    "category": "defense",
+    "topic": "ライジングアッパーガード後の反撃",
+    "content": "ルークのライジングアッパーは、弱が-27F、中が-29F、強が-33F、OD版が-40Fと大きな不利フレームがある。OD版は完全無敵の昇龍系で、ジャンプ攻撃始動や入れ替えからの反撃も可能。ガード・パリィ時は強K始動で反撃すると良い。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのライジングアッパーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "08:45",
+    "source_quote": "ライジングアッパー、対空無敵があり、OD版は完全無敵のある昇龍系の技です。強K始動反撃で良いと思います。OD版はジャンプ攻撃始動や入れ替えてから反撃も可能です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68764cef961a",
+    "category": "defense",
+    "topic": "バルカンブラスト対策",
+    "content": "ルークのSA2バルカンブラストはガード時-29Fの不利フレームがあり、打撃投げ無敵。ガード・パリィ時は強Kで反撃すると良いが、遠目でパリィした場合はドライブラッシュから距離を詰めて反撃すると良い。発生6Fでリュウの真空波動拳より早く、弾の打ち合いで弾抜け技としても使われるのが厄介。ただし、竜巻旋風脚の弾抜けは4段目のみが高めに判定があるためバルカンブラストを抜けられない。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのSA2バルカンブラストガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "09:11",
+    "source_quote": "バルカンブラスト。打撃投げ無敵があります。ガード・パリィ時は強Kから反撃で良いと思いますが、遠めでパリィすることも有ると思いますので、その場合はDラッシュから反撃すると良いです。発生6Fでリュウの真空波動拳より発生早かったんですね。弾の打ち合いで弾抜け技としても使われるのが厄介ですね。ちなみにあまり意味のない知識ですが竜巻旋風脚の弾抜けは4段目のみが高めに判定があるのか抜けられませんでした。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "404",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc515e8c6a46",
+    "category": "defense",
+    "topic": "イレイザーガード後の反撃",
+    "content": "ルークのSA3イレイザーはガード時-26Fの不利フレームがあり、完全無敵。ガード・パリィ時は強Kで反撃すると良い。発生は5Fで早いがリーチがかなり短い。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのSA3イレイザーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "09:42",
+    "source_quote": "イレイザー。完全無敵があります。ガード・パリィ時は強Kから反撃で良いです。発生は5Fで早いですがリーチがかなり短いですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b516bb04d378",
+    "category": "defense",
+    "topic": "ペイルライダーガード後の反撃",
+    "content": "ルークのSA3（CA）ペイルライダーはガード時-42Fの不利フレームがあり、完全無敵。最遠距離だと1F-30Fまで無敵で、無敵時間が非常に長い。弾抜け技としても使える。発生が10Fと遅めなので弱攻撃で詐欺重ねできるが、他の発生の早い無敵技が豊富なので意識する必要はない。ガード・パリィ時はガードバックが多めなので、ジャンプ・前ステップ・ドライブラッシュ・ドライブインパクトなどで距離を詰めてから反撃するのが良い。特にジャンプ攻撃が最も簡単。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのSA3（CA）ペイルライダーガード時",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "09:54",
+    "source_quote": "ペイルライダー。完全無敵があります。最遠距離だと1-30Fまで無敵だそうでかなり無敵時間がながいですね。なので弾抜け技としても使われます。発生は10Fで遅めなので弱攻撃で詐欺重ねできますが、他の発生の早い無敵技も豊富なのであまり意識する必要はないかと思います。ガード・パリィ時はガードバックが多めなので、ジャンプ・前ステ・Dラッシュ・Dインパクトなどで距離を詰めてから反撃するのが良いですが、ジャンプが一番簡単かなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "415ace753057",
+    "category": "defense",
+    "topic": "フラッシュナックルの反撃",
+    "content": "ルークのフラッシュナックルは、相手のミスでガードになることが少なくない。不利フレームの状況に応じて、適切な反撃技を選択できるように知識として覚えておくべき。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": "luke",
+    "situation": "ルークのフラッシュナックルをガード時（相手のミス）",
+    "source_video_id": "9Z-Ziqqto78",
+    "source_channel": "けんてぃちゅーぶ【スト6攻略】",
+    "source_video_title": "【スト6】対ルーク 確定反撃集+技性能紹介・対策、ダブル・トリプルインパクト対策など 自キャラリュウでの反撃",
+    "source_timestamp": "10:36",
+    "source_quote": "フラッシュナックルは意外と相手のミスでガードすることがけっこうあるので、不利フレームに応じた最適な反撃を入れられるようになると良いんじゃないかと思いました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:11:52.928621",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

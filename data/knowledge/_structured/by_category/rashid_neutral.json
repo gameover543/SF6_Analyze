@@ -1,0 +1,812 @@
+[
+  {
+    "id": "4d2e90c70da0",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃の練習",
+    "content": "最初に練習することは、ジャンプ中攻撃を相手にちゃんと当てること。間合いと、早すぎると当たらないのでジャンプの降り際に押すタイミングを覚えること。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "01:58",
+    "source_quote": "なのでまず最初に練習することは、ジャンプ中攻撃を相手にちゃんと当てること。あと間合いとかもね。ここは遠いから届かない。まずジャンプ攻撃が届く距離っていうのをちゃんと把握して、で、あと(攻撃ボタンを押すのが)早すぎると当たらないから、ちゃんとジャンプの降り際に落ちてくる時に押すっていう。この距離とタイミングをまずは覚えましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "587e52cc5c51",
+    "category": "neutral",
+    "topic": "飛び道具（ワール）の軌道変更",
+    "content": "方向キーを入力しないSPボタンで出るワール（飛び道具）は、SPを押してから前方向を入力すると前に飛び、何も押さないと中くらい、後ろを押すと手前に飛ぶ。これで軌道を変化させることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "09:05",
+    "source_quote": "方向キーを入れないでSPを押して出るこのワール。SP押してから前入れると前に飛んで、何も押さないと中くらい、後ろ押すと手前に飛びます。これで軌道を変化する事が出来ます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "456bf27f7b5f",
+    "category": "neutral",
+    "topic": "ワール（飛び道具）を使った立ち回り",
+    "content": "遠い時は一番遠くに飛ぶワール（前入力）を撃ち、距離が近づいてきたら手前のワール（後ろ入力）を撃つ。これにより相手にジャンプ攻撃を誘発させ、ジャンプ攻撃を当てたらODイーグル・スパイクで追撃することもできる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "09:12",
+    "source_quote": "で基本的にはこの、遠い時は前、一番遠くに飛ぶ奴を撃って、ちょっと距離が近づいてきたら手前の奴を撃つ。手前の奴を撃つと相手がこのワールをジャンプしてやろうと思った場合に当たります。なので相手に跳ばれるリスクがちょっと減る。しかもこれが空中ヒットしたらODイーグルとかで追撃とかも出来るのでリターンもある。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "291f8afb0dc8",
+    "category": "neutral",
+    "topic": "ためワール（溜め飛び道具）",
+    "content": "ワールの本命はためワール（SPボタン長押し）。ためワールで気流を作り出すことができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "09:56",
+    "source_quote": "ただこの、ワールの本命はこれじゃないです。ワールの本命はこの『ため』、ためワール。ためワールが一番本命で、なるべく相手との距離を離して、まずこのためワールで気流を作ります。この気流ね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5c36592f1c9d",
+    "category": "neutral",
+    "topic": "気流中の行動",
+    "content": "気流がある状態だとラシードの必殺技が全部パワーアップし、ジャンプの軌道も変化する。通常は画面端から届かない前ジャンプ攻撃も届くようになり、一気に相手に触ることができる。そこから中アシストコンボに繋げる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "気流発生中",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "10:20",
+    "source_quote": "この気流が、あるとラシードの必殺技が全部パワーアップして、この弱ミキサーとか、あとはジャンプとかも。普通だったら画面端から前ジャンプって届かないけど、こうためる事によって一気に相手に触る事が出来るジャンプの軌道になります。でここからまたいつもの中アシストコンボにしていく。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a1957bc48119",
+    "category": "neutral",
+    "topic": "ためワールからの攻め",
+    "content": "相手との距離を離して安全にためワール（気流）が作れそうだったら、すかさずワールをためて前ジャンプ中攻撃を狙う。この動きを取り入れることで、ジャンプ以外にも相手に触る手段が増え、相手の対応が大変になる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "遠距離から安全にためワールが可能な時",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "10:55",
+    "source_quote": "なので相手との距離を離して安全にためワールが来そうだったら、すかさずワールをためて、で前ジャンプ。この動きを取り入れていきましょう。そうすればジャンプ以外にも相手に触る手段っていうのが増えるんで、相手も対応が大変になります。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8aeb5df238cd",
+    "category": "neutral",
+    "topic": "ワールウィンドショットの立ち回り",
+    "content": "ラシードのワールドウィンドショット（N SP）は、相手に嫌がらせをしたい時にだけ使いましょう。ホールドすることで気流を発生させ、各技の性能をアップさせることができます。特に強化弱ミキサー（SPホールド）は、ヒットしてもガードされても強いため、積極的に狙いましょう。ホールドで気流を狙うタイミングは、相手をダウン（中ミキサー）させた時が狙い目です。対策を知らない相手にはハメ殺せます。この技は短めなので、当てづらい時はステップしてから撃ちましょう。中足（N中K）にはもれなくキャンセルラッシュを入れ込みましょう。ガード時とヒット時で考える必要はありません。ガードされている時は投げに行きましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "00:23",
+    "source_quote": "ワールウィンドショットは相手に嫌がらせをしたいときだけ使います。さらにこのキャラの弾はホールドで気流を発生させることができ、各技の性能をアップすることができます。特に強いのが、強化弱ミキサーで、この技はガードされてもヒットしてもくそ強いので積極的によりましょう。ホールドで気流を狙えるタイミングは、相手をダウン（中ミキサー）させた時が狙い時です。対策を知らない人をハメ殺せ。ラシードが立ち回りで使う技は基本これだけでもいいです。この技は短めなので当てづらいときは、ステップしてから撃ちましょう。大抵届きます。そして、中足にはもれなくキャンセルラッシュを入れ込みましょう。ガード時とかヒット時とかそんなめんどくさいこと考えなくてもいいです！ガードされているときは投げに行けたら、完璧。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e010b030442b",
+    "category": "neutral",
+    "topic": "ラッシュ小足の活用",
+    "content": "ラシードのラッシュ小足（生ラッシュ→しゃがみ弱K）は、下段攻撃であり、ガードが難しい上にヒット時もガード時も強力な技です。ヒットした場合は、中足（N中K）からコンボに繋げましょう。ガードされた場合は、投げにいきましょう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "01:16",
+    "source_quote": "中足と弾だけで戦うのは、途中で限界が来るので余裕がある人はラッシュ小足を使いますしょう。この技は下段で、ガードが難しい上にヒットしても、ガードしても強い技です。ヒットしたら、中足からコンボに繋げてガードされたら、投げに行こう！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ab1250b66163",
+    "category": "neutral",
+    "topic": "ワールウィンドショットの運用",
+    "content": "竜巻の飛んでいく軌道はボタン強度によって変わる。慣れるまではモダンは6入力、クラシックは弱版のワールをメインに使う。開幕位置から一歩下がった間合いで、N入力で届かない場合は6入力（前ステップ）で相手にヒットするように撃つのが有効。相手が飛びを多用する場合は4入力（後ステップ）の弱ワールを使うと便利。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "牽制、飛び道具対策",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "05:51",
+    "source_quote": "この弾の通常版は斜め上に上昇する弾でボタンの強度によって竜巻の飛んでいく軌道が変わります。慣れるまではモダンでは6入力、クラでは弱版のワールを中心に使うのがおすすめです。撃つ距離についてですが開幕位置から一歩下がったこの間合いを心がけましょう。この間合いの場合Nで打っても当たらず6入れすることでちょうど相手にヒットするようになります。しかしながらワールは硬直が長くこの距離は相手の飛びを通されやすい距離です。こういった飛びを多用する相手に便利になってくるのが4入れの弱ワールになります。先ほどの距離のでこれを打つことででちょうど相手にワールがヒットするようになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d424e95a0664",
+    "category": "neutral",
+    "topic": "キャンセルラッシュからの攻め",
+    "content": "7月24日のアップデートでキャンセルラッシュの難易度が緩和された。ラシードは2中Kのヒット間合いまで歩いてキャンセルラッシュを仕掛けるのが初心者でもやりやすくなっている。ステップからの2中Kキャンセルラッシュも可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、中距離での攻め",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "11:37",
+    "source_quote": "7月24日のアプデにてキャンセルラッシュの難易度が緩和され使いやすくなりました。なので2中Kの間合いまで歩いて行ってキャンセルラッシュという行為が初心者でもやりやすくなっています。開幕位置から歩いて2中K、レバーを倒さずにパリィボタンという入力がおすすめです。ラシードはステップも素早いのでステップ＞2中Kからこれをやってもかまいません。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "137bb579ec22",
+    "category": "neutral",
+    "topic": "ラシードの基本立ち回り",
+    "content": "ラシードの基本戦術はワールで待機し、ワールを最大まで溜めて強化された技で攻めること。イウサールが溜まったら発動して大ダメージを狙う。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "試合全体、ゲージ状況",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "00:23",
+    "source_quote": "ラシードの戦い方はまずワールで待つって感じなのだ。ワールは弱中強で軌道が変わるのだ。でワールを最大まで溜めると一部の技や行動が強化されるのだ。なのでワールで待って隙があれば最大溜めして強化した技で攻めるって感じなのだ。でイウサールがたまったら発動で大ダメージ。ざっくりまとめるとワールで待って風溜めれたら攻めてイウサールで大ダメージ。こんな感じなのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0146183ea654",
+    "category": "neutral",
+    "topic": "ワールの使い方",
+    "content": "ワールは弱版を地上にいる相手への牽制、強版を相手の飛びへの対空として使う。風溜めが完了したら、風弱ミキサーで触りにいく。風弱ミキサーはガードされても+2Fの有利フレームを取れるため強力。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "地上戦、対空、風溜め後",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "00:54",
+    "source_quote": "弱は地上にいる相手に当てる感じで。強は相手が飛んできたときに当たるので。牽制というかいぶしみたいな使い方なのだ。で風が溜めれたら弱ミキサーで触りに行くのだ。風弱ミキサーはガードで+2なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "889c37404b48",
+    "category": "neutral",
+    "topic": "近づき方と固め",
+    "content": "相手に近づくためにはジャンプや前ステップも有効。立ち中Pやしゃがみ中Pはどちらもガードさせて有利フレームを取れる。特にしゃがみ中Pは距離が離れると有利フレームが増加する。しゃがみ中Pから強サイクロン6K派生を出すと+1F有利になり、密着からの読み合いに持ち込める。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中距離からの接近、近距離固め",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "01:08",
+    "source_quote": "後はジャンプや前ステで近づくのもありなのだ。で次が中Pと2中P。二つともガードされて+なのだ。2中Pは距離によって+が増えたりするのだ。とりあえず触るときに使うのだ。で中P2P中Pから強サイクロン6K派生で+1取れるのでおすすめなのだ。これで密着有利取って読み合うのつよいのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9bb96dc13a43",
+    "category": "neutral",
+    "topic": "ランとスライディング",
+    "content": "前ステップ後に前入力しっぱなしにするとラシードが走り出す「ラン」となる。ラン中に6+Pでスライディングが出るが、これはガードされると反撃されるので注意が必要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "接近、崩し",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "01:50",
+    "source_quote": "で次がランなのだ。前ステした後に前いれっぱでラシードが走り出すのだ。ラン中に6Pでスライディングもできるのだ。ただこれはガードされたら反撃されるので注意なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de610496ea8f",
+    "category": "neutral",
+    "topic": "イウサール発動後の前ステップラン",
+    "content": "イウサール発動時に相手が近くにいてすぐに攻撃が当たってしまうような状況では、前ステップランで相手を押し出すのが良い。そうしないと相手にパリーされて消されてしまう。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "イウサール発動後、相手が近くにいる場合",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "05:02",
+    "source_quote": "で発動後に相手が近くて。すぐ当たってしまい。そうなた時は前ステランで押すのだ。そうしないとすぐパリイされて消えちゃうのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3144e9a3c139",
+    "category": "neutral",
+    "topic": "溜めワールパリィ釣り",
+    "content": "ラシードの溜めワールウィンドショット（溜め214KK）はパリィを誘うことができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "溜めワールウィンドショット（溜め214KK）使用時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "01:41",
+    "source_quote": "1溜めワールでパリィ釣りできる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "09ed032bfca2",
+    "category": "neutral",
+    "topic": "DR5MP様子見",
+    "content": "ラシードが前ステップからのドライブラッシュ立ち中P（DR 5MP）を出すと+1Fとなり、投げ間合い外なので相手の様子を見たい時に有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手の様子を見たい時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "06:54",
+    "source_quote": "前ステ>DR 5MP +1F 投げ間合い外なので様子見したい時に使う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a9adaf79e371",
+    "category": "neutral",
+    "topic": "画面端での暴れ潰し連携",
+    "content": "画面端でしゃがみ弱P、弱K、立ち弱P、ODサイクロン、ODパワーウェイブを組み合わせた暴れ潰し連携が有効です。パニッシュカウンター時は中足が繋がります。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端での攻め",
+    "source_video_id": "8HoDt0ln8sc",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのラシード対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:05",
+    "source_quote": "画面端でのしゃがコパ小足立ちコパODウェイブの暴れ潰しが有効、パニカンで中足が繋がる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:22:04.408794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "982787a22ff9",
+    "category": "neutral",
+    "topic": "中足ラッシュ弱ガード後の行動",
+    "content": "ラシードのしゃがみ中Kドライブキャンセルラッシュを弱攻撃で止めた場合、連続ガードを作ることができます。弱攻撃の後は中アシストコンボに繋ぐのがおすすめです。シミーは危険な選択肢です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Kドライブキャンセルラッシュ後の相手のガード時（弱攻撃で連続ガード可能）",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "02:38",
+    "source_quote": "中足ラッシュについて 中足CDR弱の場合 連続ガードを作れる 弱のあとは アシ中がおすすめ シミーX",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "460a5ebfa478",
+    "category": "neutral",
+    "topic": "中足ラッシュ中ガード後の行動",
+    "content": "ラシードのしゃがみ中Kドライブキャンセルラッシュを中攻撃で止めた場合、無敵昇龍技を持たない相手には特に有効です。中攻撃の後は弱攻撃に繋ぐのがおすすめです。シミーは有効な選択肢となります。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Kドライブキャンセルラッシュ後の相手のガード時（中攻撃で連続ガード可能）",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "02:56",
+    "source_quote": "中足ラッシュについて 中足CDR中の場合 無敵昇竜がないキャラにおすすめ 中のあとは 弱がおすすめ シミーO",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a4422b84bfaa",
+    "category": "neutral",
+    "topic": "ラシードの攻め継続を重視した立ち回り",
+    "content": "ラシードの立ち回りにおいて、相手に難しい対応を強いるために、ワールとドライブラッシュを主要な攻撃手段として活用し、積極的に攻めを継続しましょう。立ち中Kや立ち大Kでの置き技や差し返し、しゃがみコパでのラッシュ止めといった、高度な地上戦の駆け引きは相手に任せ、自分はよりシンプルで強い攻めを展開することが重要です。これにより、ラシードのリーチの短さが問題になりにくく、相手に常に防御的な選択を迫ることができます。相手にドライブインパクトを出させることで、結果的に相手に「受け」の行動を強いるのが重要です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "地上戦、中立時",
+    "source_video_id": "Zikcm7bNHxU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Don't let the short reach bother you! How to circumvent ground combat and force your opp...",
+    "source_timestamp": "",
+    "source_quote": "自分のラシードは置き技や差し替えしといった動きをほぼしません。それはひとえに言って難しいからです。(00:46)\nなので自分はワールとラッシュの三択をかけて強引にターンを取る。それをきかっけにゴリゴリに攻めて勝つといったスタイルを徹底しています。(01:18)\nこの姫感覚でワールとラッシュの二択を仕掛けるのがバチクソに強いです。相手に難しい対応を求められる、つまり後手に回せるのがとても強いなと感じてます。(01:33)\nこの立ち回りの良い所は 自分はそれほど難しい事を行っていないのに も関わらず 相手側の負担が 大きい事が上げられます ラッシュとワール両方 咎めるのは無理です(02:58)\n何ででも置き書きが対応する動きは本当に難しいのです、そんな難しい事は相手にさせときゃ良いのです(03:00)\nワールにインパクトを合わされると激痛ではありますが、相手がこちらの動きに対応する「受け」に回っています 受けさすのががとても大事(02:42)\n地上戦頑張りすぎる方はワールが少ない印象あります。コッツは相手を後手に回す、対応させることが重要です。(04:31)\nラシードは立ち回りで頑張りすぎること厳禁だと思ってます。地上戦は誤魔化したり相手に委ねてとっととラシードの強みである攻めの継続力を押し付けましょう。(05:04)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:37:26.597184",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "105",
+      "602",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57ceb45f3c30",
+    "category": "neutral",
+    "topic": "Dゲージ回復・削り",
+    "content": "ラシードは歩きから大P > 大ワールに繋げることでDゲージを増加させられる。削りとして使うのも非常に有効。持続2中PもDゲージ回復や削りに非常にオススメ。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "Dゲージ回復・削り",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "01:36",
+    "source_quote": "単に歩いて大P＞大ワールなんかもオススメです。こちらも調整により歩きによるDゲージ増加量が増えた事から なかなかどうして、見逃せない回復量となってます。同じような役割として持続2中P、削りに行くときはこちらもとってもオススメ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "869031489d4e",
+    "category": "neutral",
+    "topic": "通常技のリーチ",
+    "content": "ラシードの通常技はリーチが少し短い。そのため、飛び道具や空中技を駆使して立ち回りを補完する必要がある。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "00:20",
+    "source_quote": "ラシードなんですけど、通常技のリーチが少し短いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b4a934d66a6c",
+    "category": "neutral",
+    "topic": "飛び道具ワールとアラビアンスカイハイの活用",
+    "content": "飛び道具の「ワール」をうまく使い、空中技である「アラビアン・スカイハイ」を絡めて相手を翻弄する。アラビアン・スカイハイはクロスアップにも使えるため、攻めの選択肢として活用する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "00:29",
+    "source_quote": "なんでね、この飛び道具のワールをうまく使ったり、空中技【アラビアン・スカイハイ】をね、うまく使って相手を翻弄しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a301e524b64f",
+    "category": "neutral",
+    "topic": "しゃがみ中Kからの弱スピニングミキサー",
+    "content": "地上戦では「しゃがみ中K」からの「弱スピニングミキサー」が強力。ガードされても確定反撃がない（硬直差-2F）ため、積極的に連携に組み込んでいく。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "地上戦",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "01:43",
+    "source_quote": "で、地上戦で強力なのがね、このしゃがみ中Kからの弱スピニングミキサー。こちらね、確定反撃ありません。なんでガードされても大丈夫なんで、しゃがみ中Kにね、入れ込んでいくといいかもしれません。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "937dae1501d9",
+    "category": "neutral",
+    "topic": "ラシードのワールドウィンド・ショット（ワール）",
+    "content": "ラシードのワールドウィンド・ショットは、出すボタンの強さで横方向への飛距離が変わる。弱だと相手に近く、中だとダメージが高く追撃しやすい。強だと垂直上昇し、対空や対空ずらしに使える。押しっぱなしにすることでヒット回数とダメージが増加する。OD版は竜巻が真っすぐ飛び、ヒットすると相手が浮き上がって追撃可能。飛び道具として使える。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "距離調整、コンボ、対空、飛び道具対策",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "02:04",
+    "source_quote": "出すボタンの強さで、横方向への飛距離が変わるんだ。弱だと前へ進んで攻撃して、隙も小さい。中ボタンだと、斜め上に上昇しながら攻撃。強で出すと、垂直に上昇しながら攻撃する。この技は、出す時にボタンを押し続けておくとヒットする回数とダメージが増える特徴がある。OD版だと竜巻が真っ直ぐに飛ぶようになる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf7ca6cbc9c5",
+    "category": "neutral",
+    "topic": "ラシードのアラビアン・サイクロン",
+    "content": "ラシードのアラビアン・サイクロンは、単体でも連携に使えるが、派生する移動技と組み合わせると効果倍増。強アラビアン・サイクロンと組み合わせると、ガードされても攻めを継続できる良い連携となる。近距離手段や近距離での連携、コンボに大いに活用できる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "固め、連携、コンボ",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "02:44",
+    "source_quote": "こいつは、単体でも連携に使える便利な技だけど……派生する移動技と合わせれば、効果倍増なんだよね。接近手段や近距離での連係、コンボに大活躍だ。強のアラビアン・サイクロンと合わせれば……ガードされても攻め続けられる、良い連携になるんだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "329"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6cdc1bfaedbc",
+    "category": "neutral",
+    "topic": "ラシードのアラビアン・スカイハイ",
+    "content": "ラシードのアラビアン・スカイハイは空中で回し蹴りによって気流を発生させ、再ジャンプする技。ジャンプ後、空中攻撃での再行動が可能。空中からの攻撃タイミングをずらし、相手を惑わせる。生ジャンプから出すことができ、出すボタンでジャンプするまでの時間と距離が変わり、使い分けることで攻めの幅が広がる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "空中での軌道変化、空中コンボ",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "05:16",
+    "source_quote": "空中で回し蹴りによって気流を発生させ、再度ジャンプする技。ジャンプ後、空中攻撃での再行動が可能。空中からの攻撃タイミングをずらし、相手を惑わせる技だ。ジャンプしてる相手への、空中コンボにも使えるんだぜ。出すボタンでジャンプするまでの時間と距離が変わるからいい感じに使い分けできると、幅が広がるぜ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "378df6570969",
+    "category": "neutral",
+    "topic": "ラシードのSA2（イウサール）",
+    "content": "ラシードのSA2は、ゆっくり移動する竜巻を蹴り飛ばして使う技。近距離でキャンセルから出して連携もコンボも狙える。遠距離からの攻め、コンボ、バーンアウト中の相手、飛び道具対策に有効。蹴り飛ばした竜巻は飛び道具のように使えるため、相手の飛び道具に当てると飛び道具のように使える。コンボにも使えるし、切り返しにも使える、両方いいとこどりの性能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "遠距離からの攻め、コンボ、バーンアウト中の相手、飛び道具対策",
+    "source_video_id": "C8vMFee2oH4",
+    "source_channel": "ももち / Momochi",
+    "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+    "source_timestamp": "08:40",
+    "source_quote": "ゆっくりと移動する竜巻を、蹴り飛ばしに使えるし……近距離でキャンセルから出して、連携もコンボも狙える。便利で、使い手の個性が出る面白い投げ技なんだよね。蹴り飛ばした竜巻が飛び道具みたいに使えるんだ。バーンアウトしてたら最高。だからコンボにも使えるし、切り返しにも使えるって言う、なんか両方いいとこどりな性能。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:57:02.411934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

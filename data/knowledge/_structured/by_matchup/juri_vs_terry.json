@@ -1,0 +1,304 @@
+[
+  {
+    "id": "b1bf7e35433f",
+    "category": "defense",
+    "topic": "中足タゲコンファイアキックへの割り込み",
+    "content": "テリーの中足タゲコンファイアキック（2中K→2強K→214弱K）をガードした際、相手が必殺技キャンセルをしてきた場合はOD無敵技で割り込むことができます。キャンセルラッシュされている場合のみ入力のタイミングがシビアですが、落ち着いて入力すれば大丈夫です。ゲージを2本消費します。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが中足タゲコンファイアキックをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "03:07",
+    "source_quote": "一つはファイアーキックガード後OD無敵技",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e3acaf3db2e6",
+    "category": "defense",
+    "topic": "中足タゲコンファイアキックへの最速コパン",
+    "content": "テリーの中足タゲコンファイアキック（2中K→2強K→214弱K）をガードした際、ゲージを節約したい場合は最速コパンで割り込むことができます。ほとんどの必殺技キャンセルを発生前に潰してカウンターが取れます。しゃがみコパンだとクラックシュートをキャンセルされると潰される場合があるので、4F立ちコパンを持っているキャラは立ちコパンがベストです。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが中足タゲコンファイアキックをガードさせてきた時（ゲージを節約したい場合）",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "03:33",
+    "source_quote": "なので、おすすめの対策はファイアーキックガード後、最速コパン",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a4c08c692561",
+    "category": "defense",
+    "topic": "中P強Pタゲコンへの対処",
+    "content": "テリーの立ち回りにおける中P強Pタゲコンは硬直差-5Fです。5F技が届く距離でガードできれば確反が入りますが、そうでない場面が多いです。タゲコンをガードした場合は、中足（+5F以上）を打ち返しましょう。相手は暴れることができなくなります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが中P強Pタゲコンをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "04:41",
+    "source_quote": "そうすれば、タゲコンタゲコンとしてきた場合は安全にカウンターを取れますし、+5Fから7Fもしくは8Fの技なので相手も暴れることもできません。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5a5058f5e1b5",
+    "category": "defense",
+    "topic": "弱クイックバーンへの対処",
+    "content": "テリーの弱クイックバーン（214弱P）は、2段目が中段で、見てから立ちガードが可能です。ガード後は5F以内の技で確反が確定します。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが弱クイックバーンをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "06:35",
+    "source_quote": "クイックバーンは見てから立ちガード、ガード後は5F以内の技で確反",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b44285e7d8b",
+    "category": "defense",
+    "topic": "中バーンナックルへの対処",
+    "content": "テリーの中バーンナックル（214中P）は、ガードした距離によって硬直差が変わります。相手にガードさせた際に、画面が揺れる（テリー有利）か揺れない（こちら有利）かを見極め、揺れたら暴れずに、揺れなければ4F技で暴れましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが中バーンナックルをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "06:57",
+    "source_quote": "その見極めは、ガード時に画面が揺れたらテリー有利なので、暴れないようにしましう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd09c6f35163",
+    "category": "defense",
+    "topic": "強バーンナックルへの対処",
+    "content": "テリーの強バーンナックル（214強P）は発生が遅いため、見てからインパクトで確定を取ることが可能です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが強バーンナックルをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "07:29",
+    "source_quote": "強は発生が遅いので見てればインパクトで確定も可能",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "28550606f814",
+    "category": "neutral",
+    "topic": "中パワーウェイブ・中バーンナックルの距離管理",
+    "content": "テリーの中パワーウェイブ（236中P）はパリィで対応可能で、中バーンナックル（214中P）はガード時に確定が取れる距離があります。この両方に対して、常に有利な立ち回りができるように、トレモで最適な距離感を身につけましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "立ち回り",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "08:53",
+    "source_quote": "中パワーウェイブ、中バーンナックル共に共通した距離での立ち回りが対策",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "098d69a5fc91",
+    "category": "defense",
+    "topic": "クラックシュートへの対処",
+    "content": "テリーのクラックシュートはどの強度をガードしてもこちらが有利です。ドライブゲージ削りも大きくないため、特に注意する技ではありません。ガードした後は、先に発生の速い技を振って確定を取りましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "テリーがクラックシュートをガードさせてきた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "10:32",
+    "source_quote": "ガードした後は、先に打撃を振って当てる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ca420d9b77f",
+    "category": "defense",
+    "topic": "バーンアウト時のクラックシュートループ対策",
+    "content": "ジュリがバーンアウトしている時、テリーは弱P→中P→クラックシュートのループで固めてきます。このループは2回ガードすれば距離が離れてループができなくなります。相手がそのタイミングで歩き投げや歩いてコパンからのループを狙ってくるので、その隙を逃さずに割り込みましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "ジュリがバーンアウトしている状況",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "11:06",
+    "source_quote": "実は2ループガードすれば距離が離れてループできなくなります",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1947cc309f27",
+    "category": "defense",
+    "topic": "画面端柔道への対処",
+    "content": "テリーの画面端柔道は投げの後に前ステップで+3F有利となり、密着状態になるため後ろ下がりシミーができません。しかし、ジュリよりも投げの後の距離が離れないため、前歩きで擬似的なシミーやラッシュを使ったシミーは可能です。警戒すべき優先順位は、最も火力の出るシミー、次に投げ、最後に打撃です。投げ抜けを減らし、バックステップや前ジャンプを増やすことで対策しましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "画面端でテリーに柔道をかけられた時",
+    "source_video_id": "Y7AwdX2_O-I",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Terry Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "11:53",
+    "source_quote": "投げ抜けを減らしてバクステ、前ジャンプを増やして対策しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:52:58.436692",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "92148afdd49d",
+    "category": "defense",
+    "topic": "JuriのラッシュへのSA1タイミング",
+    "content": "ジュリは、自身のラッシュ中に相手のSA3を合わされた場合、最速でSA1を出すと負けてしまうが、ディレイをかけてSA1を出すことで相手のSA3に打ち勝つことができる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "terry",
+    "situation": "Juriのラッシュ中に相手のSA3を合わされた時",
+    "source_video_id": "cqwz_oF7pUk",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのジュリ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:41",
+    "source_quote": "ラッシュにSA3を合わされた場合、最速SA1だと負けるがディレイSA1なら勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:08:55.518550",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

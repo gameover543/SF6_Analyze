@@ -1,0 +1,58 @@
+[
+  {
+    "id": "24e97f6b7bac",
+    "category": "neutral",
+    "topic": "相手の攻めに対する警戒",
+    "content": "相手が攻めてくる状況（特にドライブゲージが5本など）では、しゃがみ中Kからのラッシュキャンセルを警戒し、しゃがみガードを徹底することが重要。相手の飛びやラッシュの頻度を見て、JP側も対応を変える必要がある。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "ken",
+    "situation": "相手のドライブゲージが5本、または積極的に攻めてくる時",
+    "source_video_id": "mmJusdic1Yg",
+    "source_channel": "りゅうせい",
+    "source_video_title": "Guaranteed to increase your MR! A complete explanation of JP ground combat and bullet theory from...",
+    "source_timestamp": "01:53",
+    "source_quote": "相手のね、撃ちたい技とか、リターン出せる状況で警戒度を高めると良いと思う。あ、そろそろドライブゲージ5本になってるから、まあ中足ラッシュキャンセル狙って来るなとか。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:39:17.882544",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1bc845b3d20e",
+    "category": "neutral",
+    "topic": "置き技による迎撃",
+    "content": "相手が歩いて間合いを詰めてくる場合、JPのしゃがみ中Pは置き技として強力な迎撃手段となる。ただし、距離が離れたり空振ると反撃を受けるリスクがあるため、ヒットさせることが重要。ヒットすれば有利な状況を作れる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "ken",
+    "situation": "相手が歩いて近づいてくる時",
+    "source_video_id": "mmJusdic1Yg",
+    "source_channel": "りゅうせい",
+    "source_video_title": "Guaranteed to increase your MR! A complete explanation of JP ground combat and bullet theory from...",
+    "source_timestamp": "02:22",
+    "source_quote": "これが歩いて当てにくるとかだったら、しゃがみ中Pで置き技で迎撃するっていうのもアリ。こういう展開になるから。当たってるでしょ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:39:17.882544",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

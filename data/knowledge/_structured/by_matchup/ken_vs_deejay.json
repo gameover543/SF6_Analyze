@@ -1,0 +1,334 @@
+[
+  {
+    "id": "e1733d4d5ef2",
+    "category": "defense",
+    "topic": "DJのニーショット（急降下キック）対策",
+    "content": "DJがニーショット（前ジャンプ中に2+弱K）を使ってきた場合、昇龍拳で対空しましょう。もし昇龍拳での対空が難しいと感じる場合は、しゃがみ属性の上に強い技、例えばケンであればしゃがみ強Pのような技を使って対空することも有効です。これらの技は反応が遅れても相手を落とせる可能性があります。理想的には通常の飛び込みも落とせる対空技を使いましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがニーショットを使ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "00:34",
+    "source_quote": "まずこのニーショットの対策。これ結構昇龍拳を入力中に食らっちゃったりもするのでもし昇龍拳で対空するのが難しいなって思ってる人はしゃがみ属性のの上に強い技。ケンだったらしゃがみ大Pとか。こういう技で対空してあげると意外と反応が遅れても落とせます。で出来れば(DJの)通常技、通常飛び込みも落とせる技で両対応するのが理想です。ちょっと自分のキャラクターでどっちも落とせる技を探してみて昇竜拳が難しい場合はこれで対空するのもアリです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bba4b529d724",
+    "category": "defense",
+    "topic": "DJのエアスラッシャー（波動拳）対策",
+    "content": "DJのエアスラッシャー（波動拳）に対しては、必ずパリィで対応しましょう。通常ガードし続けるとドライブゲージを削られてしまいます。もしDJがエアスラッシャーを連発してくる場合は、一度パリィを取ってから押しっぱなしにしておくことも有効です。これにより、相手が連発すればするほど自分のドライブゲージが増えていきます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがエアスラッシャーを撃ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "01:02",
+    "source_quote": "で次、球(エアスラッシャー-4ため6+P)ね。球もかなり強いんですけどこれにはちゃんとパリィをしましょう。これを普通にガードしているとドライブゲージをどんどん削られちゃうんで、球にはちゃんとパリィをしましょう。でめちゃくちゃ連打してくる場合は、パリィを押しっぱなしにしておくのもアリ。そうすると相手が連発してくれるとその分ドライブゲージ増えてくんで。めちゃくちゃ球撃ってくる人には一回(パリィ)取ってから押しっぱなしにするのもアリです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "375864ffd63d",
+    "category": "defense",
+    "topic": "DJのODジョースクール（214K）対策",
+    "content": "DJのODジョースクール（214K）は中段と下段の崩しが強力で、ガード後に反撃がありません。ローリスクで対応するなら、ODジョースクールを見たらパリィを押しましょう。これにより中段・下段どちらの派生も防げます。もしリターンを取りたい場合は、中段派生または下段派生を確認してドライブインパクトで返すのが確定です。ただし、相手が何もしなかった場合（消極的な行動）、ドライブインパクトは確定せず、相手に返されてしまいます。相手もドライブゲージ2本を使っているため、様子見してくれるならそれもアリです。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがODジョースクールを使ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "01:28",
+    "source_quote": "このODジョースクール(214K)。この技ね崩しとしてかなり有効で、中段食らうとそっからフルコンで下段択もあってガードして反撃がないです。これはかなり強いんですが一応これの対策は、ローリスクに行くんだっったらパリィが良いです。このODジョースクールを見たらパリィしておく。出来ればこの下段派生のタイミングでジャストパリィになるタイミングで押すのがベストだけど、とりあえずこのパリィを押しておけば中下で崩れるってことはないです。でさらに、ちょっとリターンを取りたい場合にはODジョースクールを見たらインパクト。このインパクトが実は中段派生にも下段派生にも確定です。どっちも確定。なのでODジョースクールを見たらインパクトを押すっていうのも対策の1つです。インパクトがダメな(負ける)場合は、ODジョースクールから何もしない。DJ側がこれを選ぶとインパクトが確定しないので、逆に返されちゃうんですけど、まあ相手もドライブゲージ2本使ってこういう消極的な行動をしてるんで、まあこれはこれで相手がこうやって様子見してくれるんだったらアリかなというところで、インパクトを見せるのが大事です。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f52019ce1742",
+    "category": "defense",
+    "topic": "DJの通常ジョースクール対策",
+    "content": "DJの通常ジョースクールはOD版と異なり初段の判定がないため、反応しにくいです。これに対してドライブインパクトを合わせるのは難しいため、ノーマルジョースクールを見たらパリィで対処するのが安全です。ノーマルジョースクールの下段派生をガードするとDJ側が-3Fで、中段派生をガードするとDJ側が+1Fとなります。中段派生をガードした場合は相手が有利なので、その後は手を出さないようにしましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJが通常ジョースクールを使ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "02:41",
+    "source_quote": "でノーマルのジョースクールも基本的には一緒なんですけどノーマルジョースクールはODと違って初段の判定がないのでちょっね反応がしにくいです。これにねインパクトを合わせるのは結構個人的には難しいんで、まあノーマルジョースクール見たらパリィをしておくのが安全かなと思います。で注意しないといけないのが、このノーマルジョースクールは下段をガードしたら-3。中段をガードするとDJがプラスです。WHY? スト6七不思議のうちの1つ。なのでその後は中段ガードしたら手を出さないようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "139cc4f0624c",
+    "category": "defense",
+    "topic": "DJのフェイント対策",
+    "content": "DJが固めで使ってくるソバットフェイント、エアスラッシュフェイント、サマーフェイントの3種類には注意が必要です。ソバットフェイントには見てから小技で反撃しましょう。ジャックナイフフェイント（サマーフェイント）には対空技で対応します。ジャックナイフフェイントは特殊やられになるため、通常技での対空が有効で、その後追撃を決めることができます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがソバットフェイントやジャックナイフフェイントを使ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "03:19",
+    "source_quote": "DJが固めて使ってくるこのフェイント。これ結構ね種類があって厄介なんですけど、ソバットフェイント。エアスラッシュのフェイント。あとサマーのフェイント。この3種類があります。でこれはもう正直意識するしかないんですけど、頑張って見てから止められるようになると良いです。僕は出来ません。一応このソバットフェイントには見てから小技。でジャックナイフのフェイントには対空と。でこれ一応特殊やられになるので、通常技で対空する方が良くて、その後にこういう追撃が来たりします。なので甘えたこのジャックナイフの派生にはしっかりお仕置きをしていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "be41b114843c",
+    "category": "defense",
+    "topic": "DJの立ち強Kと6中K対策",
+    "content": "DJの立ち強K（サンライズヒール）と6中Kは強力な通常技ですが、技が大振りな分、ドライブインパクトが確定します。これらの技はキャンセルが効かないため、相手が頻繁に振ってくるようなら、 Drive Impactを敢えて見せていく勇気も必要です。また、これくらいの距離でDJが空振りするタイミングに合わせて垂直跳びを置くと、相手の空振りに垂直跳びを当てることができ有効です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJが立ち強Kや6中Kを振ってきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "04:04",
+    "source_quote": "で次がDJの優秀な通常技。この立ち強Kと6中K (サンライズヒール)。これはかなり強力なんですけど、一応弱点もあって、技が大振りな分ドライブインパクトが確定します。どっちもキャンセルが利かないのでうまくインパクトを噛み合わせられれば立ち強Kにも6中Kにもインパクトは確定します。なのであまりにもこうやってブンブン振ってくるんだっら時にはインパクトを見せる勇気も必要です。逆に見せられるとDJ側もこの立ち強K6中Kあたりはちょっと振りにくくなるはず。で更にDJの6中Kなんですけど、あとこの立ち強Kとか6中Kには垂直跳びも結構有効で、これくらいの距離で垂直跳びを置いておくと、タイミングが噛み合うと相手の立ち強Kとか6中Kの空振りに垂直跳びを当てることが出来ます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "106d79ba4b1a",
+    "category": "defense",
+    "topic": "DJの6中K（サンライズヒール）後のガードと反撃",
+    "content": "DJの6中K（サンライズヒール）をガードする際は、必ず立ちガード（+1F）をしましょう。しゃがみガードするとDJ側が+2Fとなり不利です。立ちガードできた場合、その後の投げ連携をケンであれば4F技（例：弱P）で割り込むことができます。しゃがみガードだと4F技では割れません。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJの6中Kをガードした時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "04:34",
+    "source_quote": "この6中Kは実は立ちガードするとDJ側が+1。しゃがみガードするとDJ側が+2になります。出来ればこれは立ちガードしたい。で一応これを覚えておくとDJ側がこの6中Kから投げっていう連携をしてきた場合に、立ちガードをしていれば4Fで割れます。逆にしゃがみガードをしてると4Fで割れないです。なのでこの6中Kから投げをしてくる場合に、立ちガード出来たら4Fで投げを割るというのもアリです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c6369443b1a5",
+    "category": "defense",
+    "topic": "DJのドライブラッシュ対策",
+    "content": "DJのドライブラッシュからの攻めに対しては、無理に付き合わないことが重要です。ラッシュ打撃を食らうのが最悪なので、以下の対策を取りましょう。一番良いのは打撃のタイミングでパリィを押すことです。ジャストパリィが取れればラッキーです。あるいは、ラッシュが来そうなタイミングで垂直跳びを置いておくことで、相手のラッシュの終わり際に被せたり、攻めをスカさせることが可能です。垂直跳びの使いすぎは相手に Drive Rushからの対空で反撃される可能性もあるので、使い分けが重要です。打撃を被弾しないことを最優先に、投げを食らうのは安いと割り切るのも手です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがドライブラッシュで攻めてきた時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "05:31",
+    "source_quote": "そして最後は、DJの代名詞とも言えるこのドライブラッシュね。これが一番困ってる人も多いと思うんですが、これの対策が一番難しい。というかこれ正直結構正解がなくて、個人的には見てから止めるのはかなり難しいと思ってるんで、正直ねもうあまり付き合わない方が良いかなとは思っています。押すととしたらラッシュ打撃のタイミングでパリィが丸いかな。DJ的にもこれは止められたくないので、なるべく早い技を撃ちたいんですよね。でドライブラッシュから投げっていう選択肢はDJ側も止められちゃうから、あんまり選びたくない。DJのラッシュって速さはすごい速いんだけど距離はそこまで長くないから、ラッシュから直接投げるっていうのがそこまで有効ではないので、やるならパリィか、もしくはさっき言った垂直もまあまあ有効で、ラッシュ来そうなタイミングで垂直跳びを置いておくと、相手のラッシュの終わり際に被さったりする事もあります。ただあんまりやりすぎると向こうもドライブラッシュからの対空っていうのも上手い人なら出来るので、多用は禁物ですが、混ぜるのもアリ。とにかくDJのドライブラッシュには無理に付き合わずに、最悪投げを受け入れるぐらいは安いと思って、とにかく打撃を被弾しない事が大事です。押すなら個人的にはパリィがおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d96061f61a49",
+    "category": "defense",
+    "topic": "DJの起き攻め対策（中央投げや中ソバット後）",
+    "content": "DJは中央での通常投げの後や中ソバットの後に、前ステップからのドライブラッシュで攻めてくることがあります。ダウン中にDJをよく見て、緑色に光ってドライブラッシュを仕掛けてきたら、無敵技で切り返しましょう。これは確定で反撃できます。相手のDJ側はガードできないフレームなので、この状況を逃さずに大ダメージを与えましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJが中央投げや中ソバット後に起き攻めに来る時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "07:25",
+    "source_quote": "DJって実は起き攻めの状況があんまり良くないシーンがあって、それが中央の通常投げの後。これめっちゃ離れるので中央の投げはあんまり起き攻めがないです。まあDJはここから球を撃つか、前ステしてドライブラッシュで攻めてくる。あともう1個、中ソバットの後、この後にも前ステからドライブラッシュで強引に詰めてくるみたいな事があります。でこれに対しては、ダウン中にDJをよく見ておいてこう緑に光ったら無敵技を撃ちましょう。これ確定です。この起き攻めの場合は相手のDJ側はガードが出来ないフレームなので、相手をよく見て緑に光ったら無敵技。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c97a0b84240",
+    "category": "matchup",
+    "topic": "DJの対空を崩す攻め方",
+    "content": "DJの対空は溜めがない場合、4強K（フェイスブレイカー）やODジョースクールなど横のリーチが短い技に限定されます。そのため、DJが下タメを作っていないことを確認したら、空ジャンプを混ぜてめくり気味の飛びやスカし飛びを狙いましょう。これによりDJは対空しにくくなり、スカったところに確定反撃を取ることができます。DJ相手には、相手が下タメを作っているかいないかを確認することが非常に重要です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJが溜めなしで対空してくる、または溜めを作らないタイプのDJと対戦している時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "08:54",
+    "source_quote": "一応DJって対空がちょっと難しくて、ためがあればこのジャックナイフの対空がすごく強いんですけど、逆にためがない時って後ろ大キックとかODジョースクールみたいな対空になるんですけど、この技も発生しちゃえば強いんですけどリーチが横に結構短いです。なのでこれくらいの距離から攻撃を出すと対空されるんですけど、空ジャンプを混ぜると結構スカります。しかもスカりに確定が取れるので、なのでDJに下ためがないのを確認して、「あっコイツため作ってないな」と思った時に、これくらいの距離からすかし跳びも混ぜると結構DJ側はね対空がしにくくなるんじゃないかなと思います。あと元々4強KがメインのDJも居るので、あんまり下ためを作らないタイプそういう人にはすかし跳びを混ぜるのもおすすめ。あとは下ためがない場合結構めくり気味の跳びも落としにくいですねDJは。なのでDJ相手には相手の下ためを確認するのがとても大事です。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f1c684a4038a",
+    "category": "matchup",
+    "topic": "SAゲージがないDJへの攻め方",
+    "content": "DJのSA1（スーパーアーツ1）には無敵がありません。これはDJの明確な弱点です。DJがバーンアウト中で、かつSAゲージが2本未満（無敵技が出せない状況）の時には、強攻撃からドライブインパクトが確定で入ります。この状況ではDJは攻撃を避けることもガードブレイクすることもできないため、露骨に攻めに転じて問題ありません。中央でも積極的に攻め込みましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "DJがバーンアウト中かつSAゲージが2本未満の時",
+    "source_video_id": "EfeDBESMRkI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】DJ対策【リニア】",
+    "source_timestamp": "09:56",
+    "source_quote": "DJはSA1に無敵がないです。これは結構明確な弱点で、ほら、SA1には無敵がない。なのでSAゲージが2本以上ないと無敵技の割り込みが出来ないくて、つまりDJがバーンアウトしている時に相手の（DJの）SAゲージが1本しかない時、この時は強攻撃→インパクト。これが確定です。跳べないし割れないし。なのでバーンアウトしているDJにSAゲージがない時にはもう露骨に攻めに行ってOK！中央でもガンガン行きましょう！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:41:11.738970",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0e224e3a1504",
+    "category": "matchup",
+    "topic": "ディージェイ 中ソバット (-6F)",
+    "content": "ディージェイの中ソバットはガードされて-6Fです。ケンはリーチの長い立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "deejay",
+    "situation": "ディージェイの中ソバットがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "06:22",
+    "source_quote": "ディージェイの中ソバット。これもガードされて-6Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

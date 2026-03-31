@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d00f9236e7a6",
+    "category": "oki",
+    "topic": "ドライブラッシュからの読み合い",
+    "content": "ドライブラッシュからの構えは、ヒット時はコンボ、ガード時は+2Fとなり、中コマンド投げで相手の暴れ潰しができる。また、構え中には相手のOD無敵技（例：ケンの昇龍拳、豪鬼やラシードのSA1）を避けることができ、前歩き入力で移動して追撃が可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ken",
+    "situation": "ドライブラッシュからの構え",
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "12:28",
+    "source_quote": "プラ2あるってことは中コマ投げで暴れに勝てます。プラ2あるってことは立ち中パン、まあ引き中Kがいいか。引き中Kで暴れを潰して。しかもガードされてもまだ有利有利ここまでいける。だからさっきの投げとこれコパンに加えてこういう起き攻めがあり。自分がSAに持ってて相手をこの辺ぐらいまで追い込んだら。まじで色んな行動に、えーとODフラッチョを入れ込む。これ入れ込みまくる。ってするといざ当たった時に二段目でSAキャンセルします。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2355e6822fe1",
+    "category": "defense",
+    "topic": "起き攻め：相手のパナし",
+    "content": "起き攻めで相手がリバーサル（昇龍拳など）をパナしてきた場合は、溜め大Pのアーマーで耐える。SAはアーマーブレイクされる可能性があるため確認が必要だが、ケン相手には溜め大Pのアーマーが2段分耐えられる。小パン暴れも同様に耐えられる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ken",
+    "situation": "起き攻め、相手のパナし",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "09:51",
+    "source_quote": "溜め大Pのアーマーで耐える。SAは無理",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

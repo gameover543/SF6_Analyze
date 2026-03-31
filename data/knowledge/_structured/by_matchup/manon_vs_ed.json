@@ -1,0 +1,143 @@
+[
+  {
+    "id": "d76f57e8c125",
+    "category": "oki",
+    "topic": "弱デカガジェ後の起き攻め",
+    "content": "弱デカガジェでダウンさせた後に、ラッシュしゃがみ中Kを重ねる練習。ダミーの起き上がり行動として、「ODサイコアッパー（ODリバーサル）と何もしない」を設定し、ドライブリバーサルもランダムでONにする。弱デカガジェからラッシュしゃがみ中Kを重ねると、相手がODアッパーをしてきても詐欺れる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ed",
+    "situation": "弱デカガジェ後の起き攻め",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "10:56",
+    "source_quote": "起き攻めを練習しておかないとどういうことがあるかっていうと、弱デカガジェからこうやってラッシュ中Kを重ねるやつとかあると思うんですけど、たまにうまくラッシュが出なくて、パリィで終わっちゃうみたいなのがたまにあるんで、起き攻めでしっかり技を重ねる練習っていうのももう一つ大事だと思います。これレコーディング相手はエドにしてほしいんですけど、エドでODサイコアッパーと、何もしないをオンにしてください。あと、ドライブリバーサルもランダムで、行わないと起き上がり発動、1、1でガード発動はゼロ。これでオンにしてください。…ODアッパー食らっちゃったんですけど、これがちゃんとできると、まずDリバは詐欺れます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50f4bdc2cbc8",
+    "category": "oki",
+    "topic": "強ポワンからの起き攻め",
+    "content": "強ポワンでダウンさせた後に、前ステラッシュ立ち弱Pを重ねる練習。相手のダウンリバーサルとして「ODサイコアッパー（ODリバーサル）と何もしない」を設定し、ドライブリバーサルもランダムでONにする。重ねた弱Pが当たっていればそのままコンボへ、ODアッパーをガードできたら反撃。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ed",
+    "situation": "強ポワン後の起き攻め",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "11:38",
+    "source_quote": "二つ目の起き攻めが強ポワンから前ステラッシュ弱P重ねからの対応、これを重ねる練習です。これを出来るとどういうことがあるかというと、これレコーディング相手はエドにしてほしいんですけど、エドでODサイコアッパーと、何もしないをオンにしてください。あと、ドライブリバーサルもランダムで、行わないと起き上がり発動、1、1でガード発動はゼロ。これでオンにしてください。ちゃんと重なってれば、この様にODアッパーも詐欺ることがでができます。ちなみエドの場合だと、ODアッパーじゃなくて、SA1、サイコストーム。これもしかりガードすることができます。で、これらの選択肢の中で、リバガードしたらコマ投げ、当たっていたら引き強Pからコンボに行く。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "180b3adfe585",
+    "category": "oki",
+    "topic": "大足ダウン後の起き攻め",
+    "content": "大足（しゃがみ強K）でダウンさせた後に、前ステしゃがみ中Pを重ねる練習。大足からの前ステは有利フレームが+8Fあるため、ここから最速で弱コマ投げを打つ練習。相手が4F暴れで反撃してきても勝つことができる。打撃の他に投げという選択肢もある。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ed",
+    "situation": "大足ダウン後の起き攻め",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "13:39",
+    "source_quote": "起き攻め三つ目が大足から前ステ2中P、これを重ねる練習です。大足から前ステが+8F取れるので、ここから最速で弱コマ投げを打てば、相手が仮に4Fとかで暴れたとしても、こうやって勝つことができます。まあ当たり前なんですけど、相手が暴れてるんで当然中Pでも勝つは勝つんですけど、一応打撃の他に投げっていう選択肢もあります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "201",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "371a3314d498",
+    "category": "defense",
+    "topic": "強ポワーンからの前ステラッシュ5弱P持続重ね",
+    "content": "マノンが強ポワーンをヒットさせた後、前ステップからラッシュ5弱Pを持続重ねにすると、発生の遅い無敵技を持つキャラに対して、技を重ねつつガードもできる詐欺重ねになります。特にエドのSA1（発生13F）に対しては、しっかりガードすることができます。",
+    "characters": [
+      "manon",
+      "ed"
+    ],
+    "matchup": "ed",
+    "situation": "強ポワーンヒット後、相手が無敵技を持つ時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "07:33",
+    "source_quote": "前ステラッシュ5弱Pは持続重ねになります。これにより、発生の遅いエドの無敵技に対し技を重ねつつガードもできる、詐欺重ねとなります エドはSA1の発生も13Fと遅いのでこちらもがっしりガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "371a3314d498",
+    "category": "defense",
+    "topic": "強ポワーンからの前ステラッシュ5弱P持続重ね",
+    "content": "マノンが強ポワーンをヒットさせた後、前ステップからラッシュ5弱Pを持続重ねにすると、発生の遅い無敵技を持つキャラに対して、技を重ねつつガードもできる詐欺重ねになります。特にエドのSA1（発生13F）に対しては、しっかりガードすることができます。",
+    "characters": [
+      "manon",
+      "ed"
+    ],
+    "matchup": "ed",
+    "situation": "強ポワーンヒット後、相手が無敵技を持つ時",
+    "source_video_id": "PoAI6qhC_KI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！状況別マノンの実践起き攻め45選！",
+    "source_timestamp": "07:33",
+    "source_quote": "前ステラッシュ5弱Pは持続重ねになります。これにより、発生の遅いエドの無敵技に対し技を重ねつつガードもできる、詐欺重ねとなります エドはSA1の発生も13Fと遅いのでこちらもがっしりガードできます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:41:01.052891",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "70569b8a7b9d",
+    "category": "matchup",
+    "topic": "リュウ 中足刀 (-8F)",
+    "content": "リュウの中足刀はガードされて-8Fです。ケンはしゃがみ大Kで確定反撃できます。その後、攻めの選択肢として表裏択などを仕掛けることが可能です。もししゃがみ大Kが届かない距離の場合は、リーチの長い立ち中K > 強昇龍拳（OD版でも可）で確定反撃を狙いましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ryu",
+    "situation": "リュウの中足刀がガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "09:14",
+    "source_quote": "リュウの中足刀。これはガードされて-8Fです。しゃがみ大Kで確定反撃できます。しゃがみ大Kはセットプレイへの移行、立ち中Kはリーチの長さが特徴です。しゃがみ大Kが届かない距離の場合は、リーチの長い立ち中K > 強昇龍拳で確定反撃を狙いましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "105",
+      "109",
+      "306",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a2b62528ef0a",
+    "category": "neutral",
+    "topic": "波動拳の運用と弱点",
+    "content": "モダンケンは波動拳(必)の弾速を撃ち分けることができません。これにより、相手にタイミングを読まれやすく、ジャンプ攻撃やドライブインパクトを透されやすくなります。クラシックケンの波動拳と比べて隙が大きく、なおさらその弱点を突かれやすいです。そのため、波動拳を連発するのは控え、様子見の布石として使うのが良いでしょう。ただし、OD波動拳は発生が早く、相手の弾に撃ち勝てるため、相手の弾に合わせてドライブインパクトやドライブラッシュで接近し、コンボや投げを狙う強い行動となります。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ryu",
+    "situation": "遠距離での牽制",
+    "source_video_id": "p8o4VzXC-PM",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "[For Street Fighter 6 Beginners] Modern Ken Explained! Recommended Easy Combos and Anti-Airs! How...",
+    "source_timestamp": "07:23",
+    "source_quote": "モダンケンで出せる波動拳は中版とOD版の2つのみ。OD版はゲージを使うので連発できるものじゃない。よって中波動拳を撃つのがメインになるんだけど、弾速を変えることができないので、相手にタイミングを読まれやすくなってしまい、ジャンプ攻撃やドライブインパクトを透されるリスクが高くなってしまうのだ。しかもケンの波動拳はリュウに比べて隙が大きいので、なおさらその弱点を突かれやすくなる。なのでモダンケンで弾を連発するのは控えたほうがよく、飛ばせて落とすのの伝統スタイルはほかの弾キャラよりやりづらいと思ったほうがいいのだ。弾キャラではあるけど弾を軸に戦うのは向いてないということか。状況にもよるので一概には言えないけど、弾でどうこうするのは他キャラよりも弱いと言わざるを得ないのだ。ただOD波動拳は結構強く、相手の弾に撃ち勝ってからドライブラッシュで急接近し、そこからコンボや投げを狙うことが可能。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:59:59.537859",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "303",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

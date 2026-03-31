@@ -1,0 +1,289 @@
+[
+  {
+    "id": "7fa7b217c54f",
+    "category": "matchup",
+    "topic": "ルーク対策",
+    "content": "ルークの中足にドライブインパクトを合わせて、パニッシュカウンターからコンボを決める。ルークが遠すぎてドライブインパクトが届かない場合は、弱攻撃でキャンセルする。\n\nルークが中距離で大パンチを出してくる場合、ドライブインパクトで差し返す。\n\nルークの中足差し込みに対しては、ドライブインパクトで差し返す。\n\nルークの中足差し込みに対しては、ドライブインパクトで差し返す。\n\nルークの弱攻撃や中攻撃をガードした際、相手がラッシュで詰めてきた場合は、ドライブインパクトで差し返す。これは難しい選択肢。\n\nルーク戦の立ち回りでは、ルークのラッシュが届かない程度の近い間合いを保ちつつ、相手の大パンチに対してはドライブインパクトで差し返す。ラッシュを誘って大パンチをドライブインパクトで差し返すことを狙う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "null",
+    "source_video_id": "G8TiVdF8dx0",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】超雑な全キャラ対策！立ち回りで考えてること！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "01:13",
+    "source_quote": "1個目は、ま、俺はこれぐらいかな、なんかこのジャスパ、ジャスパ狙ってる。これ。中足にジャスパ、これ。これなんか弱中はめっちゃ確る。中の距離でさ、こうやってやってくわけよ。そしたら、これ。弱も、ま、これ弱のさ、この距離感いるんやけど、中の距離でいると弱の時はラッシュが確がする。これ。中足にジャスパ狙ってたら中距離で。そしたら弱は、今みたいに。結構確でする。これ。これが一個と、あと大パン差し返してるだけやね。なんか歩いてって中足出してプレッシャーかけて、大パン来るなと思ったら大パン来るから大パンに差し返してる。前歩き見してたらこの大パンが来るから大パンになんかこう差し返したりしてる。これガチでこの２つぐらい。立ち回りで意識してんのこれぐらいかな。で、遠すぎたらラッシュが効くになっちゃうから近く、近目で。ま、これぐらいで戦ってるって感じかな。で、ここで中足出して、大パン差し返したりとか。大パン差し返し狙ったりとかしてる。終わり。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:03:13.062098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "108b2333276a",
+    "category": "defense",
+    "topic": "無敵技への確定反撃",
+    "content": "ルークの昇龍拳系の無敵技に対して、確定反撃を準備しておく。特にSA3（パーフェクトナックル）はヒット後に相手が跳ね返る特性があるため注意が必要。跳ね返った後に安定して大ダメージを与えるコンボを練習しておく。難しいコンボを狙って失敗するよりも、確実な弱攻撃などでの反撃を優先する。SA3に対しては、ケンであればOD昇龍拳、またはドライブインパクトからのコンボなどが有効。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "相手の無敵技ガード時または空振り時",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "01:04",
+    "source_quote": "無敵技に対しての確定反撃を調べる。SA3が跳ね返るので特に注意。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d5df4f36a57",
+    "category": "defense",
+    "topic": "サンドブラストへのジャストパリィからの反撃",
+    "content": "ルークのサンドブラスト（波動拳）に対して、強度（弱中強）を読んでジャストパリィを狙う。特に中距離での強サンドブラスト（発生20F）や中サンドブラスト（発生21F）に対してジャストパリィが取れた場合、ドライブラッシュを仕込んでおくと確定反撃として機能する。普通のパリィではドライブラッシュからの反撃は間に合わない。ケンの場合、ジャストパリィからの大Kなどでコンボに繋ぐことができる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "中距離でのサンドブラスト",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "02:26",
+    "source_quote": "強度を読むことができたら、ジャストパリィを狙う。パリィを取れたらラッシュまで仕込んでおくとジャストのとだけラッシュが出て確定が取れる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "521af1e971a8",
+    "category": "defense",
+    "topic": "空中フラッシュナックルへの対策",
+    "content": "ルークの空中フラッシュナックルは、通常の飛び込みとほぼ完全な2択として機能する非常に強力な技。見てから昇龍拳などで対空するのは難しい。読めた場合は、相手の着地を狙って攻撃（着地狩り）を仕掛けることを意識する。ケンの場合、昇龍拳で対空を試みると、相手の空中フラッシュナックルに潰されたり、ドライブインパクトで返されたりすることがあるため、着地狩りを優先する。溜め版もあるため注意が必要。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "ルークが空中フラッシュナックルを出すと読んだ時",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "05:39",
+    "source_quote": "通常飛びとほぼ完全2択。読めた際はしっかり着地狩りをしたい。溜め版もあるので注意。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b2c297ed2a71",
+    "category": "defense",
+    "topic": "スナップバックコンボへの対策",
+    "content": "ルークのターゲットコンボ「スナップバックコンボ」（立ち中P連打）は、以下の不利フレームを持つ：\n- 2段目ガード時: -8F\n- 3段目ガード時: -14F\n- 4段目ガード時: -12F\n2段目ガード後は、5Fの技（例：ケンの立ち中Pなど）で確定反撃を狙うのが安定。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "スナップバックコンボガード時",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "09:36",
+    "source_quote": "2段目が-8F、3段目が-14Fで4段目が-12F。2段目ガードしたら5Fの技を擦っておくのが丸い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "206",
+      "207",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ccef7073cbf1",
+    "category": "neutral",
+    "topic": "屈中P、屈中Kの差し返し",
+    "content": "ルークの屈中P（全体22F）や屈中K（全体31F）は、見てから差し返すのは難しい。これらの技の発生や持続に合わせて、リーチの長い技を振る（\"あわせる\"）という感覚で立ち回る。ケンの場合、大Pや大Kが有効な差し返し技になりうる。相手の技の空振りを誘って、リーチの長い技で一方的に殴る「空振り選手権」を意識する。ルークの技の出し方によっては潰されることもあるが、そのリスクを受け入れる必要がある。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "中距離での屈中P、屈中K",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "10:10",
+    "source_quote": "正直見てから返すのが難しい。リーチの長い技を”あわせる”という感覚 空振り選手権開催する。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b5a2ee4688da",
+    "category": "defense",
+    "topic": "屈大Kへの確定反撃",
+    "content": "ルークの屈大Kはガードで-9F。この技には無意識レベルで確定反撃が取れるように練習する。ケンの場合、屈大Kをガードした後は屈大Kで確定反撃可能。足払い系の攻撃に対しては足払いで返す、といった決め打ちも有効。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "屈大Kガード時",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "12:29",
+    "source_quote": "ガードで-9F 無意識で確定とれるようになりたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e2e173948ee",
+    "category": "defense",
+    "topic": "立ち大Pへの確定反撃",
+    "content": "ルークの立ち大Pはガードで-6F。このフレームに対しての確定反撃は実戦では難しいことが多い。ルークは立ち大Pガード後にサンドブラストにキャンセルしてくることが多いため、基本的にはサンドブラストの対策に移行する。ケンの場合、OD昇龍拳が6F無敵技なので、立ち大Pガード後にOD昇龍拳で確定反撃が可能となる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "立ち大Pガード時",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "13:05",
+    "source_quote": "ガードで-6F 6Fの無敵技があればサンドブラストでキャンセルしても確定する。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "963ed4805385",
+    "category": "matchup",
+    "topic": "中央前投げ後の連携",
+    "content": "ルークが画面中央で前投げをした後、攻めを継続するためにはドライブラッシュをする必要がある。しかし、ルークがドライブラッシュをすると、相手は無敵技を確定させることができる。ケンの場合、ルークのドライブラッシュに対してOD昇龍拳を確定で入れることができる。ルークは無敵技がないため、ドライブラッシュ後の攻め継続にはリスクが伴う。他のキャラであれば、ルークのドライブラッシュ後に無敵技を確定で入れられる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "画面中央での前投げ後",
+    "source_video_id": "5dVa7-raB14",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】１５分でできるルーク対策！！足切りされないために！！【キャラ対策】#スト6　#ストリートファイター6",
+    "source_timestamp": "13:29",
+    "source_quote": "ラッシュしないと継続できないがラッシュすると無敵技が確定する",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:04:48.722238",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "717cb3181f48",
+    "category": "matchup",
+    "topic": "ルーク 溜め無し大ナックル (-4F)",
+    "content": "ルークの溜め無し大ナックルがガードされてめり込んだ場合、-4Fとなります。ケンは立ち弱P > 屈中K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "luke",
+    "situation": "ルークの溜め無し大ナックルがガードされてめり込んだ時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "01:20",
+    "source_quote": "ルークの溜め無し大ナックル。これも-4Fです。立ち弱Pから屈中K昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

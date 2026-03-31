@@ -1,0 +1,771 @@
+[
+  {
+    "id": "c5d90c39c6e1",
+    "category": "oki",
+    "topic": "小技連打キャンセルを活用した起き攻め",
+    "content": "相手をダウンさせた後の起き攻めでは、このゲームの小技は「連打キャンセル」が効く仕様を利用する。例えば、DJのしゃがみ弱Pはガードさせて-1Fだが、技の硬直中も連打キャンセルでさらに小技を出すことができるため、相手が暴れても小技で潰すことができる。これは立ち/しゃがみ関係なく適用される。これを「暴れ潰し」として利用し、相手が小技で暴れてくる読み合いに勝つ。",
+    "characters": [
+      "deejay",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "相手をダウンさせた後の起き攻め",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "02:00",
+    "source_quote": "さっきも質問させてもらったんですけど相手をダウンさせた後の起き攻めは具体的にどのような事をすればいいのでしょうか？このゲームの基本的な読み合いが…このゲームまあ一部技は例外があるんですけど、基本的にこれコパンガードさせたら硬直差-1Fって書いてますよね？これディージェイ側が-1Fってことなんですよ。でリュウにガードしたら最速でしゃがみ弱P押してもらう設定にしました。これ-1Fなのにも勝つんすよ。これ-1Fのはずなのに暴れに勝っている。これなんでかって言ったら小技だけ、連打キャンセルが効くようになってるんですよこのゲームだいたいね。「連打キャンセルってなんやねん」って言うと...技中いつでもずっと...「コパンはコパンでだけキャンセルできる」と思ってください。もうそういう仕様ですコパンは…技の硬直中でもずっと（コパンに）キャンセルできる。立ちしゃがみ関係なく？立ちしゃがみ、あの〜。行けますよこれも。コパンは連打キャンセルがかかる。もうだいたい、だいたいそういう仕様このゲーム。コパンがなんで不利なのに暴れを潰せるのかって言うと連打キャンセルで潰してるんですよ。だからこのゲームの超基本の読み合いはコパンをガードさせました。ガードさせたらフレーム自体は不利なんですけどこの連打キャンセルの暴れ潰しでまず読み合う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e8c97230191",
+    "category": "oki",
+    "topic": "ラッシュ中P後の択",
+    "content": "ラッシュ中Pガード後は+6Fなので、主な選択肢は①投げ、②小足コパン、③シミー。また、④中P→しゃがみ中P→弾といった連携で、自分のドライブゲージを回復しつつ相手のドライブゲージを1.5本削ることができ、ほぼやり得。相手のドライブゲージを削るために、生ラッシュ中Pを止める必要がある。崩しにならない固めるだけの生ラッシュ連携も有効。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "相手ガード後",
+    "source_video_id": "yKILclTtq5c",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】立ち回りから詐欺飛びルートまで！ ディージェイの基本をまるっと解説！",
+    "source_timestamp": "04:57",
+    "source_quote": "ほんで メインウェポンンおラッシュ中Pなんですけど… ヒットかガード まぁだいたいガードやと思うんやけど ガードさせたらこれ+6Fなんですね ラッシュ中Pガード後は①投げ ②小足コパン ③シミー 主な選択肢はこんな感じです もしくは【中P→しゃがみ中P→弾】といったお茶を濁す連携をするのもアリ 見てもろうたらわかると思うんですけど… こんな感じで… あんま崩しにもなってないし なんか固めるだけの生ラッシュとかあるんですけど たとえばこういうお茶濁すだけの連携 これドライブゲージ見てください！ ドライブゲージが削れます 自分のDゲージは回復して 相手のDゲージは1.5本ぐらい削れる だから実はドライブラッシュをなんで止めたいかっていうと… 一部キャラは ここらへんまで連携で削られちゃうから止めたいんすよ 崩されなかったらオッケーとかじゃなくて結構連携で削られちゃうんすよ だから生ラッシュってガードされてるうちは 崩せなくて焦れたりするかもしんないんですけど 止められないうちは\"やり得\"なんですよ マジで マジでやり得！ だからこれがいい これがかなりいい",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:40:12.213756",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ad3b5879625",
+    "category": "oki",
+    "topic": "ラッシュ中P後のヒット確認",
+    "content": "ラッシュ中Pの強みはヒット確認ができること。ガードされたらガード用連携（お茶を濁す連携）へ移行し、ヒットしたら大Kに繋ぐ。これをちゃんと整理してヒット確認するだけで勝率が変わる。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ中Pヒット/ガード後",
+    "source_video_id": "yKILclTtq5c",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】立ち回りから詐欺飛びルートまで！ ディージェイの基本をまるっと解説！",
+    "source_timestamp": "06:51",
+    "source_quote": "中Pのいいところはヒット確認ができる！ ガードならガード用連携 ヒットなら4大Kに繋げる ヒット確認ができるところがラッシュ立中Pの強み っていう感じ 使い分けですね まぁ止まらんなって思ったら僕は立中Pの方が圧倒的に多いですけど 生ラッシュ中Pした後はガードとヒットがそんな感じ 生ラッシュ中Pからの択を… ちゃんと整理してヒット確認するだけで結構… 勝率変わります",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:40:12.213756",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c23a4bef193f",
+    "category": "oki",
+    "topic": "端投げ後の連携（ザンギエフ以外）",
+    "content": "端で投げた後、前ステップから立中Pを重ねるのが丸い。投げ後の状況が良く、プラス15F取れるキャラは他にいない。立中P重ね後に相手がグラップするならシミー、飛びで反撃するならサマー対空が可能。相手が投げ間合い外になるようにぼっちゃが（しゃがんで待ち）するのも有効。ザンギエフ以外のキャラに対しては、立中Pを当てた後ぼっちゃがでOKで、一歩歩けば投げも届く。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "端投げ後",
+    "source_video_id": "yKILclTtq5c",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】立ち回りから詐欺飛びルートまで！ ディージェイの基本をまるっと解説！",
+    "source_timestamp": "07:22",
+    "source_quote": "あと触った後もやな 触った後… こんな感じで触るじゃないですか 触って 生中Pとか ラッシュ立中Pとかやって… いろいろやって端まで連れていったらもう結構いろいろできます それこそ 投げから前ステで15F有利かな？最速やと… 端前投げのあと +15F取れるキャラっていないんですよ絶対 ディージェイがたぶん一番端前投げ後の状況よくって… だから端で前投げ後はもう カーニバル！ 【端前投げ→前ステップ→立中P重ね】から始めるのが丸い 投げました 立中P重ね後 相手がグラップするならシミーできるし… 前ジャンプにもサマー対空が可能 投げました 立中Pやったあと… これぼっちゃがでいいんですよ 実は！ 立中Pガードさせたあとってぼっちゃがで… 投げ間合い内じゃないんすよ！ほら これ覚えててほしい 投げ間合い外になる だから… 結構よくある 前ジャンプ・後ろジャンプ… 溜め作れます！ これは 投げ間合い広いキャラも？ ザンギが一番広いらしいんでザンギで試しましょうか ザンギに投げられるは全然あり得る ザンギは投げれます はい… ザンギだけ一瞬後ろ歩いてください もうこれはキャラの強みっすね だからザンギだけ気をつけないといけない ザンギ戦以外は 立中PのあとぼっちゃがでOK一歩歩けば投げも届く なんでまぁあの こうやったあとウ〇コ座りでいいんすよ これで一歩歩いたらこれディージェイ投げ間合いないんすよ もうちょっと歩くだけで投げ間合いこれ ほらこれで投げ間合いやから… だから立中Pガードさせたあと ①投げにいく ②投げを釣る ③飛びに対してサマーを出すためにぼっしゃがする でいい！ 端の投げ後の攻めはこれが基本でいいと思う！ まぁたまにコパンから投げとかも展開でやったりしますけど… で 飽きるんでってか同じやと… 受けられちゃうんで 【立弱Pスカレー→前中K】ってやるとこの間合いで+3Fなんですけど これも一歩歩いたら投げ間合いです！ これ俺最初微妙かなと思ったんですけど 思った以上に投げ間合い届くから… これやっていいと思う こっちのいいところは… もうこの時点で溜めが作れちゃうんすよ 前中Kの全体Fが長いからここで実は溜めれるんすよね",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:40:12.213756",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d445d55b6e2",
+    "category": "oki",
+    "topic": "簡単な詐欺飛びルート",
+    "content": "簡単な詐欺飛びルートは以下の3つ。\n1.  地上にいる相手に大サマーソルトキック→ジャンプ大Pで詐欺飛び。\n2.  地上にいる相手に中サマーソルトキック→大サマーソルトキック→最速ニーショットで詐欺飛び。\n3.  インパクト壁やられ後、大P→ジョスクール大K派生→大サマーソルトキック→弱サマーソルトキック→降りジャンプ大Pで詐欺飛び。\nこれらの詐欺飛びはよく使う。ジャンプ大Pはジャストパリィされても-2Fなので確定反撃はない。このゲームの5F詐欺はジャストパリィされても-2Fなので確反がないため、詐欺飛びは非常に強い。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "詐欺飛び",
+    "source_video_id": "yKILclTtq5c",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】立ち回りから詐欺飛びルートまで！ ディージェイの基本をまるっと解説！",
+    "source_timestamp": "13:26",
+    "source_quote": "で 最後に簡単な詐欺飛びルートを言いますけど… 詐欺飛びルートすごい簡単なのが ①地上の相手に大サマー ジャンプ大P ②地上の相手に中サマー→大サマー→最速でニーショット ③インパクト壁やられ後 大P→ジョスクール大K派生→大サマー→弱サマー→降りジャンプ大P この3つはよく使ってます ジャンプ大Pをジャストパリィされても-2Fなので確定はありません 覚えとくといいのがこのゲームの5F詐欺って ジャストパリィされても-2Fやから確反ないんすよ だから詐欺飛びはマジで強い！ これは覚えとくと全キャラ共通やと思うから役立つと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:40:12.213756",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "200",
+      "317",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c5d90c39c6e1",
+    "category": "oki",
+    "topic": "小技連打キャンセルを活用した起き攻め",
+    "content": "相手をダウンさせた後の起き攻めでは、このゲームの小技は「連打キャンセル」が効く仕様を利用する。例えば、DJのしゃがみ弱Pはガードさせて-1Fだが、技の硬直中も連打キャンセルでさらに小技を出すことができるため、相手が暴れても小技で潰すことができる。これは立ち/しゃがみ関係なく適用される。これを「暴れ潰し」として利用し、相手が小技で暴れてくる読み合いに勝つ。",
+    "characters": [
+      "deejay",
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "相手をダウンさせた後の起き攻め",
+    "source_video_id": "AJmHAIYahMw",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】弾への対処や起き攻めに関する基本的な読み合いについて教えます",
+    "source_timestamp": "02:00",
+    "source_quote": "さっきも質問させてもらったんですけど相手をダウンさせた後の起き攻めは具体的にどのような事をすればいいのでしょうか？このゲームの基本的な読み合いが…このゲームまあ一部技は例外があるんですけど、基本的にこれコパンガードさせたら硬直差-1Fって書いてますよね？これディージェイ側が-1Fってことなんですよ。でリュウにガードしたら最速でしゃがみ弱P押してもらう設定にしました。これ-1Fなのにも勝つんすよ。これ-1Fのはずなのに暴れに勝っている。これなんでかって言ったら小技だけ、連打キャンセルが効くようになってるんですよこのゲームだいたいね。「連打キャンセルってなんやねん」って言うと...技中いつでもずっと...「コパンはコパンでだけキャンセルできる」と思ってください。もうそういう仕様ですコパンは…技の硬直中でもずっと（コパンに）キャンセルできる。立ちしゃがみ関係なく？立ちしゃがみ、あの〜。行けますよこれも。コパンは連打キャンセルがかかる。もうだいたい、だいたいそういう仕様このゲーム。コパンがなんで不利なのに暴れを潰せるのかって言うと連打キャンセルで潰してるんですよ。だからこのゲームの超基本の読み合いはコパンをガードさせました。ガードさせたらフレーム自体は不利なんですけどこの連打キャンセルの暴れ潰しでまず読み合う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:22:22.889223",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8756d2f036ae",
+    "category": "oki",
+    "topic": "ODジョスクールからの択",
+    "content": "ODジョスクールをガードさせた後、中段派生であるファンキースライサーを遅らせて打つと、相手が遅らせパリーで中段を守ろうとしていた場合に投げ無敵のジャグリンステップ（ジョスクール中に+K）がヒットし、パニッシュカウンターとなる。このジャグリンステップでの択は有効である。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "相手がDee JayのODジョスクールをガードした時",
+    "source_video_id": "tGiwK1SD1g4",
+    "source_channel": "ストーム久保",
+    "source_video_title": "無意味に思えたディージェイの移動技を研究したら対策の対策になった【スト6/ストーム久保】【ビミョ技研究所】",
+    "source_timestamp": "02:26",
+    "source_quote": "あっ連ガが活きた。中段派生見てから立てるよね。さすがにこのモーションだったら。卓になってないと思うんだけどなー。しかもまあ、パリーで良いからな。超遅らせてみて、か。まあそうだもんな。でも、こんだけ遅らせてファジーパリーされるってことはジャグリングウェイ当たるかやっぱ。そうゆう、こと？！もしかして。ジャグリンステップか、俺がやってるのは。確かにODジョス→ファンキースライサーが連ガで、それにたいして中段を食らわないように遅らせパリーを押すってなると、ジャグリンステップから通るか。無くは無いというか、ありそうな話だよな。何か入れ込み全部当たるな。残るんかーい！！当たるんかーい！！全然簡単にファジーでガードがパリーされるから。やっぱ、ふーどさんが使ってないってことは、そういうこと、じゃないかな。唯一、ジャグリンステップか、だけはなんか、可能性感じたけど",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:17:16.064339",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "317",
+      "318",
+      "319",
+      "335"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6833f41a6f15",
+    "category": "oki",
+    "topic": "中Kからのジョスクール攻め継続",
+    "content": "立ち中K（前方向+中キック）を相手にガードさせた場合、DJ側は-1F不利フレームですが、ここでジョスクールの弱K派生を出すと相手の技を潰したり、遅らせ投げを狩ったりできます。中Kがヒットした場合は2中P（しゃがみ中パンチ）からコンボに移行でき、ガードされた場合でもジョスクールで攻めを継続できます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "起き攻めで立ち中Kを重ねた後、または立ち中Kをガードさせた後",
+    "source_video_id": "O7v-Qh2LH8c",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】勝てるようになる『ディージェイの使い方』解説~中級者編~強い技の使い方やコンボ、対空などを紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "03:04",
+    "source_quote": "立ち中KはガードさせてDJ側が-1Fです。これは起き攻めで中Kを重ねてヒットなら2中Pからコンボに行くことができる。この起き攻めは中Kをガードされると攻めが終わってしまう。ここでジョスクールを使えば中Kを重ねているのに攻めが継続する。なので中Kからのジョスクールはめちゃくちゃおすすめです！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:44:04.114895",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a1a41c9c0bf6",
+    "category": "oki",
+    "topic": "6中Kからのフレーム有利状況",
+    "content": "6中K（前方向+中キック）はガードさせてDJが+1F有利、かつ投げ間合いなので、投げの選択肢に移行できます。相手が投げを嫌がって投げ抜けをしてくる場合は、ジョスクールの弱K派生や後ろ下がりで投げ抜けを狩ることができます。また、バックステップやバックジャンプ、後ろ下がりをする相手には2弱K→2弱P→中ソバットで追撃が可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "6中Kをガードさせた後",
+    "source_video_id": "O7v-Qh2LH8c",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】勝てるようになる『ディージェイの使い方』解説~中級者編~強い技の使い方やコンボ、対空などを紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "06:42",
+    "source_quote": "続いて強いのが6中K。ガードさせてDJが+1Fです。しかも投げ間合いなので投げの選択肢に行けます。投げを嫌がって投げ抜けをする場合ジョスクールや後ろ下がりで狩れます。バクステやバックジャンプ、後ろ下がりには2弱K→2弱P→中ソバットでOKです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:44:04.114895",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "abba4ed19492",
+    "category": "oki",
+    "topic": "歩きでの柔道と投げ抜け狩り",
+    "content": "ディージェイは画面端で投げがループする性能を持っています。特に、相手の投げ抜けや無敵技を警戒しつつ、歩きで接近して投げを狙う『歩き柔道』がおすすめです。相手が無敵技を警戒して後ろ下がりをする行動を投げで狩ることができます。投げを狩る際に最大リターンを狙うなら立ち大P（強パンチ）を使うのが良いですが、難しい場合は2強P（しゃがみ強パンチ）を使うのがおすすめです。2強Pからのコンボは2強P→強P→2弱P→中ジャックナイフマキシマム→強ジャックナイフマキシマムです。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "画面端で相手をダウンさせた後",
+    "source_video_id": "O7v-Qh2LH8c",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【スト6】勝てるようになる『ディージェイの使い方』解説~中級者編~強い技の使い方やコンボ、対空などを紹介！【STREET FIGHTER 6】【ストリートファイター6】",
+    "source_timestamp": "07:56",
+    "source_quote": "続いてDJの柔道について話します。DJは柔道を持っているキャラなので画面端で投げがループします。歩き以外にも前ステからも柔道可能。前投げ→前ステ→弱P空振りで+3。ただ俺がおすすめするのは前ステより歩きの柔道です！なんでかというと、前ステからの弱P空振りのセットプレイは相手の無敵技を警戒して後ろに下がると後ろ投げを食らってしまう。なので、相手の無敵技を警戒しながら投げも狩れる歩きがおすすめ！投げを狩る時に最大リターンが欲しい場合強Pで狩るのがおすすめです。投げを狩る時におすすめの技が2強Pです。2強P→強P→2弱P→中ジャック→強ジャック。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:44:04.114895",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "be0bd90295b5",
+    "category": "oki",
+    "topic": "地上大ジャックヒット後のセットプレイ",
+    "content": "地上での大ジャックナイフマキシマムヒット後、前ステップをすることで+4Fとなり、投げが埋まります。打撃（引き大Kなど）で埋めることも可能です。この連携はシミーができませんが、相手が5F以上の技を振った場合、しゃがみ大Pでゲージ節約しつつコンボが可能です。4F技で暴れた相手には引き大Kで相打ちから+13Fでコンボが繋がります。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "地上大ジャックナイフマキシマムヒット後",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "09:00",
+    "source_quote": "セットプレイ① 地上大ジャックヒット時ステステ+4F 地上大ジャックヒット後ステステで投げが埋まる 打撃ももちろん埋めれる このセットプレイはシミー不可 相手が5F以上の技を振った場合 下大Pでゲージ節約できる 4Fでも相打ち+13Fでコンボ可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "425",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9b6ca36fcce4",
+    "category": "oki",
+    "topic": "ODジョス中派生からの連携",
+    "content": "画面端でODジョスクール中派生→大ソバット→しゃがみ中P空振り、とすることで投げ間合い外で+6Fとなり、打撃、投げ、シミー、対空の全てが可能になります。これは非常に強力な起き攻めです。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "09:59",
+    "source_quote": "セットプレイ② ODジョス中派生→大ソバット→下中P空振り（画面端）投げ間合い外で+6F 投げ、打撃、シミー、対空可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "317",
+      "318",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46cf92fd2639",
+    "category": "oki",
+    "topic": "地上大ジャック後の安全飛び",
+    "content": "地上での大ジャックナイフマキシマムヒット後、ジャンプ大攻撃が安全飛びになります。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "地上大ジャックナイフマキシマムヒット後",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "10:28",
+    "source_quote": "セットプレイ③ 地上大ジャックヒット→ジャンプ大攻撃が安全飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46b91ccbe36a",
+    "category": "oki",
+    "topic": "中ジャック大ジャック後の安全飛び",
+    "content": "中ジャックナイフマキシマム→大ジャックナイフマキシマムの後、最速ニーショットで安全飛びになります。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "10:36",
+    "source_quote": "セットプレイ④ 中ジャック→大ジャック→最速ニーショットが安全飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "306",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c7a8bb94b6db",
+    "category": "oki",
+    "topic": "ブッチンダ式起き攻め",
+    "content": "大ジャックナイフマキシマムから最速ニーショット→しゃがみ弱K→しゃがみ弱P（下段）と繋ぐと、安全飛びに見せかけて下段攻撃になるセットプレイです。下段ガードを警戒して立ちガードする相手に刺さります。また、投げも埋まります。これは非常に強力な起き攻めです。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "10:53",
+    "source_quote": "セットプレイ⑤ 大ジャック→最速ニーショット→下小K,下小P（中ジャック） 安全飛びに見せかけた透かし下段になる 下段警戒パリィも投げれる 詳しくはブッチンダさん見てください",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "107",
+      "200",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a0fcf70112d3",
+    "category": "oki",
+    "topic": "中ジャック大ジャック後の打撃/投げ/シミー",
+    "content": "中ジャックナイフマキシマム→大ジャックナイフマキシマムの後に引き強Kをすると+5Fとなり、打撃、投げ、シミーの全てが可能になる強力なセットプレイです。打撃択としては、引き強K→ODエアースラッシャー→しゃがみ小P→中ジャックナイフマキシマム→大ジャックナイフマキシマムでループもできます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "11:17",
+    "source_quote": "セットプレイ⑥ 中ジャック→大ジャック→引き強Kで+5F 打撃、投げ、シミーが可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "425",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6b0d4ee5ebd2",
+    "category": "oki",
+    "topic": "SA2空中ヒット後の追撃",
+    "content": "SA2が空中ヒットした際も、引き強Kで+5Fとなり、上記と同様に打撃や投げなどの起き攻めが可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "SA2空中ヒット時",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "11:42",
+    "source_quote": "セットプレイ⑦ SA2空中ヒット時は引き強Kで+5F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6f294588d17e",
+    "category": "oki",
+    "topic": "中ソバット後起き攻め：打撃重ね",
+    "content": "中ソバットヒット後の起き攻めは+34Fで、ラッシュ前中K→しゃがみ大P（またはしゃがみ中P）→大ジャックナイフマキシマムで打撃重ねが可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "中ソバットヒット後",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "11:59",
+    "source_quote": "中ソバット後起き攻め 打撃重ね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "425",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5e7218815988",
+    "category": "oki",
+    "topic": "中ソバット後起き攻め：投げ/SA2/弱マシンガン後",
+    "content": "中ソバットヒット後、投げも+34F、SA2地上ヒット後も+34F、弱マシンガンブロー後も+34Fになります。この+34Fの時はラッシュ前中Kが有効です。ただし投げ後は中ソバットより距離が離れるため、遠目に当たることが多いです。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "中ソバットヒット後",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "12:15",
+    "source_quote": "投げ後も+34F SA2地上ヒット後も+34F 弱マシンガン後も+34F +34Fの時はラッシュ前中K",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "afa655bcab18",
+    "category": "oki",
+    "topic": "ラッシュ前中Kからのシミーと詐欺飛び",
+    "content": "ラッシュ前中Kから相手が後退した場合はシミー、それ以外の場合は詐欺飛びに移行できます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "13:00",
+    "source_quote": "ラッシュ前中Kからシミー 詐欺飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3c2829628231",
+    "category": "oki",
+    "topic": "投げからの弱ソバット起き攻め",
+    "content": "投げから弱ソバットに繋ぐと、投げ間合い外で+8Fとなり、打撃、投げ、シミーの択をかけることができます。これは非常に強力な起き攻めです。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "投げヒット後",
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "13:05",
+    "source_quote": "投げ→弱ソバット+8F（投げ間合い外） 打撃、投げ、シミー可能 最高だねコレ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "59d5317940bf",
+    "category": "oki",
+    "topic": "対空からのブッチンDA式安全飛び",
+    "content": "対空のODエアースラッシャーから大ソバットに繋ぎ、さらに安全飛びに移行するブッチンDA式連携は強力です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5buLfWSq5rI",
+    "source_channel": "底辺youtuberのネタ動画",
+    "source_video_title": "【初心者 サブキャラ使い向け】立ち回りやセットプレイなどディージェイを全く知らない人が使えるようになるための解説【スト6】",
+    "source_timestamp": "13:32",
+    "source_quote": "対空からブッチンDA式 安全飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:13:39.536362",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb88763bbc80",
+    "category": "oki",
+    "topic": "画面端ヘイヘイループからの起き攻め",
+    "content": "ディージェイの画面端ノーゲージコンボ後の起き攻めです。地上で`しゃがみ強P > しゃがみ中P > 中ヘイヘイ > 強ヘイヘイ`がヒットした場合、相手をダウンさせ、様々な起き攻めを継続できます。例えば、`引き強K`を空振りしてフレーム消費後、投げを埋めることができます。また、`最速ジャンプニーショット`は安全飛びになるため、相手の無敵技を誘うことも可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "画面端、ノーゲージ、ダウン後",
+    "source_video_id": "c7Zo42qS4Hw",
+    "source_channel": "まりゅーちゃんねる",
+    "source_video_title": "【 スト6 】ディージェイオススメコンボ31選！ 初心者さん向けモダン&クラシック両対応！  #CCJP 【VTuber】《 ストリートファイター6 STREETFIGHTER6 SF6 》",
+    "source_timestamp": "01:55",
+    "source_quote": "画面端ノーゲージ。ヘイヘイループ。七色の起き攻め可能。画面端地上で中ヘイヘイが当たった場合、さらに強ヘイヘイで追撃が可能になりそこから様々な攻めを継続することができます。引き強キック空振りでフレームを消費してから投げを埋めてみたり、最速ジャンプニーショットが安全飛びになっているので無敵技を釣ることもできます。他にも色々な起き攻めネタがあるのんで気になった方はショートを見てください。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:35:35.045787",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "110",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ebae00e41a1",
+    "category": "oki",
+    "topic": "ダウン後のめくり起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、めくり前ジャンプ強Pを使用し、着地後に様々な技（例：しゃがみ中P、立ち中K、立ち弱K、しゃがみ強Pなど）から中ジャックナイフマキシマムまたは強ジャックナイフマキシマムに繋げることで、相手を運びつつ攻め継続が可能です。これにより、ダウンした相手に対して安定して火力を出し、画面端へ運ぶことができます。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め、画面中央",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:14",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "108",
+      "110",
+      "116",
+      "306",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d808f492df2c",
+    "category": "oki",
+    "topic": "SA1利用の起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、立ち強KからSA1 (キルトリップ) に繋ぎ、さらに追撃として立ち弱P、立ち強K、強ジャックナイフマキシマムで大ダメージを与えつつ、画面端へ運ぶ強力な連携が可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:42",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ff69b2ff69cd",
+    "category": "oki",
+    "topic": "SA2利用の起き攻め連携",
+    "content": "ディージェイはジュリがダウンした後の起き攻めで、立ち強PからSA2 (ジャミン・ストローク) に繋ぎ、さらに追撃として立ち弱K、立ち強K、強ジャックナイフマキシマムで大ダメージを与えつつ、画面端へ運ぶ強力な連携が可能です。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": "juri",
+    "situation": "相手ダウン後の起き攻め",
+    "source_video_id": "wgpheRLyrtY",
+    "source_channel": "フィリッポ髭ザーギ",
+    "source_video_title": "【スト6】ディージェイでハイマスター到達するまでに使ってた頻出コンボまとめ",
+    "source_timestamp": "00:51",
+    "source_quote": "この動画では、格ゲー初心者だった俺がハイマスター (MR1600) まで上がる中で使っていたコンボを紹介します。火力・運び・起き攻めを意識したルートを中心にまとめています。参考になれば幸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:13:17.205422",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "104",
+      "105",
+      "307",
+      "425"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

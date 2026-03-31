@@ -1,0 +1,180 @@
+[
+  {
+    "id": "888e7adb8d1d",
+    "category": "matchup",
+    "topic": "Rashidのワールウインドショットへの対策",
+    "content": "RashidのワールウインドショットやODワールウインドショットに対して、Alexは立ち強Pでパニッシュカウンターを取り、ストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "Rashidのワールウインドショット系をガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "01:49",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "37feaf8a14ff",
+    "category": "matchup",
+    "topic": "Rashidの地上牽制技への対策",
+    "content": "Rashidのしゃがみ中Kや立ち強Kなどの地上牽制技に対して、Alexは立ち中Pでパニッシュカウンターを取り、ODラリアットで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "Rashidの地上牽制技をガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "01:52",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "106",
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c44b1cd37cc6",
+    "category": "matchup",
+    "topic": "Rashidのドライブラッシュ攻撃への対策",
+    "content": "Rashidのドライブラッシュからの立ち強Kに対しては投げ、しゃがみ中Kに対してはしゃがみ強Kでパニッシュカウンターを取り、ストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "Rashidのドライブラッシュ攻撃をガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "02:12",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "111",
+      "218"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3fbf2eadbef5",
+    "category": "matchup",
+    "topic": "Rashidのドライブインパクト対策",
+    "content": "Rashidのドライブインパクトに対して、Alexはドライブインパクトを返し、しゃがみ中Pからのコンボで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "Rashidがドライブインパクトを仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "02:18",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "14dedc45994f",
+    "category": "matchup",
+    "topic": "RashidのSA1への割り込み",
+    "content": "RashidのSA1に対しては、AlexのSA3で割り込むことができます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "RashidのSA1が発動された時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "02:34",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93c5227b0ce7",
+    "category": "matchup",
+    "topic": "Rashidのジャンプ強Kへの対策",
+    "content": "Rashidのジャンプ強Kに対しては、Alexの立ち強Pでパニッシュカウンターを取り、ODフラッシュチョップで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "rashid",
+    "situation": "Rashidがジャンプ強Kを仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "03:15",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "119",
+      "216",
+      "302",
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

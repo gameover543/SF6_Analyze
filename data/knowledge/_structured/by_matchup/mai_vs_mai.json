@@ -1,0 +1,62 @@
+[
+  {
+    "id": "80a898caacc7",
+    "category": "matchup",
+    "topic": "舞戦の対策",
+    "content": "舞戦で相手の投げ抜けや打撃技の隙を見つけたら、ザンギエフの必殺技「シベリアンエクスプレス」で投げる。",
+    "characters": [
+      "zangief",
+      "mai"
+    ],
+    "matchup": "mai",
+    "situation": "相手が投げ抜けや打撃技の隙を見せた時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:48",
+    "source_quote": "舞戦に困ってる人いませんか？実は簡単な方法があります 適当な隙を見つけたらこうやって こうして こうです、簡単でしょう？",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80a898caacc7",
+    "category": "matchup",
+    "topic": "舞戦の対策",
+    "content": "舞戦で相手の投げ抜けや打撃技の隙を見つけたら、ザンギエフの必殺技「シベリアンエクスプレス」で投げる。",
+    "characters": [
+      "zangief",
+      "mai"
+    ],
+    "matchup": "mai",
+    "situation": "相手が投げ抜けや打撃技の隙を見せた時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:48",
+    "source_quote": "舞戦に困ってる人いませんか？実は簡単な方法があります 適当な隙を見つけたらこうやって こうして こうです、簡単でしょう？",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

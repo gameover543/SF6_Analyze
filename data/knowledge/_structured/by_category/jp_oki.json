@@ -1,0 +1,1536 @@
+[
+  {
+    "id": "9338f8ded3e6",
+    "category": "oki",
+    "topic": "安全な投げからの起き攻め",
+    "content": "JPは後ろ投げをすると有利な状況を作れる。後ろ投げ後は強ヴィーハト設置が安全な起き攻めとなる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手を投げた後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "14:51",
+    "source_quote": "このJPというキャラクターは基本的に後ろ投げをした方が強いです。前投げと違って後ろ投げの方が距離も遠くて有利フレームも長いので。この強のヴィーハトを設置が安全です。前投げの場合もヴィーハト設置して良いと思うんですが、何にせよ後ろ投げからの設置は安全なので。基本的にはね、このキャラまず後ろ投げを狙った方が良いです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:02:42.561401",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f04ee9cde4fa",
+    "category": "oki",
+    "topic": "投げからの打撃連携",
+    "content": "投げで相手に触った後、ODトルバラン→ドライブラッシュ→立ち中K（中段攻撃）で崩す連携が非常に強力。中段ガードしてきた場合はODトルバラン→ドライブラッシュ→しゃがみ中K（下段攻撃）で崩す。これにより、相手は中段と下段の択を迫られる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "投げで相手に触った後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "17:08",
+    "source_quote": "まずは投げ。その近距離で相手に触った時にどうやって崩していくかというのを紹介したいです。ちょっと初心者向けなのでこのドライブラッシュを使った連携というのは紹介しなくてもいいかなと思ったんですけど、これあまりにも簡単に勝率が上がると思うんでこれだけ最後に紹介させてください。先程の立ち強K立ち強Pトルバランこれすごい強いんですけど、このODトルバランをガードさせてからのドライブラッシュ前中キック。これは非常に強力な崩しなので覚えておくと良いと思います。中段をガードしてくる場合はドライブラッシュからしゃがみ中Kにして同じレシピで行けます。これは非常にお手軽で強力な崩し連携なので覚えておくと良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:02:42.561401",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "105",
+      "109",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe5a597a0adb",
+    "category": "oki",
+    "topic": "投げからの投げハメ",
+    "content": "ODトルバランをガードさせた後、密着+2フレームになるため、ここから投げにいくことが非常に強力。この投げをグラップされるようであれば、ガード後に垂直ジャンプで相手のグラップを狩る。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ODトルバランをガードさせた後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "17:08",
+    "source_quote": "このODトルバランを撃った後に前ステップをすると密着で+2の有利フレームを取る事が出来ます。ということはこの状況で投げに行く事が出来ます。これめちゃくちゃ強いです。グラップされるようであればガードさせた後に垂直ジャンプで相手のグラップを狩って、先程の立ち強K立ち強Pのコンボに繋げていきましょう。投げの対の択としては垂直ジャンプがかなり簡単でおすすめではありますが、このODトルバランを撃った後に前ステップをすると密着で+2の有利フレームを取る事が出来ます。ちょっとコツが必要です。ちょっと歩かないと投げ間合いにならないという事はこのまましゃがんでても良いですよ。投げられる心配がないので。投げた後もし相手が無敵技とかを撃っていた場合でも勝手にガードになる。投げた後もODライジングアッパーを撃つことで相手がグラップをしていても無敵技を撃っていても全てに対応できる。これもちょっと歩かないと投げ間合いにならない。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:02:42.561401",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ccdbc275ac5b",
+    "category": "oki",
+    "topic": "ODアムネジアからの起き攻め（中央）",
+    "content": "ODアムネジアを中央でヒットさせた後、中トルバランまたは前ジャンプで相手を崩す。ODアムネジアの後に中トルバランや前ジャンプを仕掛けるのが効果的。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "中央でODアムネジアで相手の打撃を取った後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "26:26",
+    "source_quote": "中央の場合、投げをODアムネジアで取っても確定は取れないので。この後に何とかして相手を崩す必要があります。おすすめなのは、中トルバラン。ODアムネジアの後に中トルバランとか前ジャンプとかが良いかなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:02:42.561401",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "321",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "82cab6b8c1c5",
+    "category": "oki",
+    "topic": "ODアムネジアからの起き攻め（画面端）",
+    "content": "ODアムネジアを画面端でヒットさせた後、ODアムネジア後に前ステ→前ジャンプで位置を入れ替えるのがおすすめ。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端でODアムネジアで相手の打撃を取った後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "26:14",
+    "source_quote": "画面端で相手の打撃をアムネジアで取った場合はODアムネジア後に前ステ→前ジャンプで位置を入れ替えるのがおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:02:42.561401",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63a5a9c5d200",
+    "category": "oki",
+    "topic": "投げからの起き攻め",
+    "content": "相手が投げ抜けを狙ってくる場合、投げ後の垂直ジャンプでグラップを誘い、ジャンプ攻撃でコンボに繋ぐ。相手がしゃがみガードしてくるならドライブラッシュしゃがみ中K、立ちガードしてくるならドライブラッシュ立ち中Kで崩す。アムネジアで投げを取った場合は、前ステ > 垂直ジャンプで入れ替えて相手のグラップを誘い、コンボに繋ぐ。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "投げ後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "16:13",
+    "source_quote": "やり方は正面だったらジャンプ強攻撃をガードさせて投げ、めくり気味だったらめくり弱攻撃をガードさせて投げ、この投げをグラップされるようであれば垂直ジャンプで相手のグラップを狩って先程の立ち強K立ち強Pのコンボにつなげていきましょう。この投げをグラップしてくるんだったら前ステップから垂直飛びで相手のグラップを狩るとかそういう投げたの状況をいとも簡単にこれで作る事が出来ます。これはめちゃくちゃ強いです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:03:05.788462",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "105",
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dd6afc8fe236",
+    "category": "oki",
+    "topic": "ODトルバランからの密着連携",
+    "content": "ODトルバランをガードさせた後に前ステップすることで、密着から+2F有利フレームを取れる。これにより投げや打撃の択を迫ることができる。投げがグラップされた場合は垂直ジャンプで狩る。ODトルバラン後の前ステップ投げがグラップされるようなら、前ステップから垂直飛びでグラップを狩る。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ODトルバランガード後",
+    "source_video_id": "dAPUpaGT14o",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】JP 使い方講座 初級編",
+    "source_timestamp": "17:12",
+    "source_quote": "このODトルバランをガードした後に前ステップをすると密着でプラス2の有利フレームを取る事が出来ます。ということはこの状況で投げに行く事が出来ます。これはめちゃくちゃ強いです。もし相手がここでパリィをしてくるようであれば、このドライブラッシュから投げというのもかなり強力です。投げがグラップされた場合は垂直ジャンプで狩る。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:03:05.788462",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b6866150ce3",
+    "category": "oki",
+    "topic": "ODアムネジアヒット後の攻め（自身が画面端）",
+    "content": "ODアムネジアで相手の攻撃（投げや隙の大きい技）を中央で取った後、自身が画面端にいる場合は、まず後ろ投げで相手を画面端に投げることができる。その後、爆弾が当たって相手が空中に浮いたら、アシスト強攻撃からトリグラフまで繋げるのが最も良い。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ODアムネジアヒット後、自身が画面端にいる時",
+    "source_video_id": "rcamvhc2KVw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】モダンJP講座初心者向け",
+    "source_timestamp": "09:09",
+    "source_quote": "ODアムネジアで相手の攻撃を取った後なのですが、自分が画面端の場合はまず後ろ投げをしてみましょう。これが相手の投げだったり、相手の隙の大きい技を取った場合には後ろ投げが確定するので相手を画面端に投げる事が出来ます。でそのあとは爆弾が当たって相手は空中に浮くので、アシスト強攻撃からトリグラフ。これが出来ると一番良いです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:32:03.541879",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "017de4d7cf17",
+    "category": "oki",
+    "topic": "ODアムネジアヒット後の攻め（中央）",
+    "content": "ODアムネジアで相手の攻撃（投げ）を中央で取った後は、爆発で相手が浮くので、トリグラフで追撃する。相手がODアムネジアを取られた後にパリィで凌いでくる場合は、中トルバランは当たらないが、前ステップして投げをすることでパリィを崩せる。また、ODアムネジアヒット後すぐに前ステップから投げをすると、投げが爆弾ヒット前に重なるため、これも簡単で強力な攻めとなる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ODアムネジアヒット後、中央で相手をダウンさせた時",
+    "source_video_id": "rcamvhc2KVw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】モダンJP講座初心者向け",
+    "source_timestamp": "10:10",
+    "source_quote": "ODアムネジアで相手の攻撃を取った後なのですが、これで投げで取った場合は、でここから爆発でボンボンと相手が浮くので、その後にトリグラフで追撃まで。相手によってはアムネジアで取られた後にパリィで凌いでくる人も居ます。そうすると中トルバランは当たらないのですが、その場合は前ステして投げ、という感じにしてあげれば相手のパリィに対しても崩す事が出来ます。あとはアムネジア取った後にすぐ前ステップして投げ。これも、しっかり投げがアムネジアの爆弾が当たる前に重なっているので、これも割と簡単で強くておすすめです。中央でアムネジアで取った場合にはこの辺を使っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:32:03.541879",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "319",
+      "321",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1506bc5efe8a",
+    "category": "oki",
+    "topic": "JP：アムネジア対策（起き攻め）",
+    "content": "JPがアムネジアを持っているときに起き攻めをしたい場合、とりあえず小技を重ねましょう。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "jp",
+    "situation": "JPにアムネジアがある時、起き攻めしたいなら",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "01:39",
+    "source_quote": "アムネジアが怖いけど、起き攻めしたいときはとりあえず、小技を重ねよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "550726153177",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "画面端に追い詰めた際の起き攻めは、投げ、立ちコパ連打、中トルバラン、投げのいずれかを使い分けましょう。何をするかは自分の感覚で良いです。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端",
+    "source_video_id": "ZBNphl5gis4",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンJP解説",
+    "source_timestamp": "04:24",
+    "source_quote": "画面端に追い詰めたとき。起き攻めできるときに基本することはこの5つです。立ちコパから投げ、立ちコパ連打、中トルバラン、投げ。しゃがみで、無敵や投げを警戒。何をするかは自分の気分で良いよ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:23:09.694517",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ea747f400e5",
+    "category": "oki",
+    "topic": "立大K置き攻めヒット時コンボ（高火力）",
+    "content": "起き攻めで立大Kがヒットした場合（パニッシュカウンター）、最大火力を狙うなら屈中P→ODボーグ→生ラッシュ前大K→中ボーグ→立大P→ODトレバラン→トリグラフ→弱ボーグに繋ぐ。これは立大Kがヒットした際の最もダメージが高いルート（約4066ダメージ）。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "立大K置き攻めヒット時",
+    "source_video_id": "1TlaVqkuyWI",
+    "source_channel": "りゅうせい",
+    "source_video_title": "【スト６】JPが実戦で使うコンボを全て紹介します",
+    "source_timestamp": "08:09",
+    "source_quote": "画面端で実戦でよくあるシチュエーションが起き攻めで立大K重ねた後。今から立大K重ねてヒットしたのコンボを紹介します。立大K→屈中P→ODボーグ→生ラッシュ前大K→中ボーグ→立大P→ODトレバラン→トリグラフ→弱ボーグ。4066。最初にやったODボーグの方が最大ダメージになりますよっていうのも覚えておいてください！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:24:09.331950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1475fe7a085c",
+    "category": "oki",
+    "topic": "立大K置き攻めヒット時コンボ（ゲージ温存）",
+    "content": "起き攻めで立大Kがヒットし、ゲージを使いたくない場合は、屈中P→ODボーグ→立大P→中トレバランに繋ぐ（約3360ダメージ）。中ボーグやトリグラフよりも中トレバランの方がダメージが高い。このルートは倒し切りを狙う際に有効で、ゲージを温存しつつ火力を出せる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "立大K置き攻めヒット時、ゲージ温存",
+    "source_video_id": "1TlaVqkuyWI",
+    "source_channel": "りゅうせい",
+    "source_video_title": "【スト６】JPが実戦で使うコンボを全て紹介します",
+    "source_timestamp": "08:55",
+    "source_quote": "ここからそんなゲージ使いたくないっていう時は立大K→屈中P→ODボーグ→立大P→中トレバラン。コレがODボーグからの最大ルート。3360。中ボーグとかトリグラフよりも中トレバランの方がダメージ高いんで、ここから最大取りたいんだったら中トレバラン。っていうのも覚えておくと倒しきりが狙いやすくなるっていう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:24:09.331950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f9964068231c",
+    "category": "oki",
+    "topic": "ヴィーハト設置後コンボ（屈中P始動、DR連携）",
+    "content": "ヴィーハト設置後、屈中Pがヒットした場合、起爆→生ラッシュ前大K→大ボーグ→前ステ生ラッシュ→立大Pに繋ぐ。画面端まで運び切る優秀な起き攻め状況を作れる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ヴィーハト設置後、屈中Pヒット",
+    "source_video_id": "1TlaVqkuyWI",
+    "source_channel": "りゅうせい",
+    "source_video_title": "【スト６】JPが実戦で使うコンボを全て紹介します",
+    "source_timestamp": "17:56",
+    "source_quote": "あとJPよくある状況でヴィーハト設置した後。この後にやって欲しいのは設置して屈中P→起爆→生ラッシュ前大K→大ボーグ→前ステ生ラッシュ→立大P。画面端まで到達しそうだなっていう場合はさっきの紹介したルートまでいけるよっていう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:24:09.331950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "28bc373d2dd3",
+    "category": "oki",
+    "topic": "ヴィーハト設置後コンボ（屈中P始動、SA1連携）",
+    "content": "ヴィーハト設置後、屈中Pがヒットした場合、起爆→ODトレバラン→SA1に繋ぐ。このルートはODゲージを約1万回収できるため、SA使用後のゲージ回復に最適。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ヴィーハト設置後、屈中Pヒット",
+    "source_video_id": "1TlaVqkuyWI",
+    "source_channel": "りゅうせい",
+    "source_video_title": "【スト６】JPが実戦で使うコンボを全て紹介します",
+    "source_timestamp": "18:27",
+    "source_quote": "設置して屈中P→起爆→ODトレバラン→SA1。これはゲージが1万くらい回収出来るんでSA使った後にSA3でコンボ締めるのかがこのコンボ覚えるとなる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:24:09.331950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "915446acb20c",
+    "category": "oki",
+    "topic": "ヴィーハト設置後コンボ（屈中P始動、画面端運び）",
+    "content": "ヴィーハト設置後、屈中Pがヒットした場合、起爆→生ラッシュ前大K→大ボーグ→前ステ生ラッシュ→立大P（→ODトレバラン→強トリグラフ→弱ボーグ→SA3）。このコンボは画面端まで相手を運ぶことで、強力な攻め状況を維持できる。ゲージを全て消費するルートだが、火力が大幅に上がる。トリグラフ後にSA1も入るため、練習して使えるようにすると良い。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ヴィーハト設置後、屈中Pヒット",
+    "source_video_id": "1TlaVqkuyWI",
+    "source_channel": "りゅうせい",
+    "source_video_title": "【スト６】JPが実戦で使うコンボを全て紹介します",
+    "source_timestamp": "18:44",
+    "source_quote": "このルートをまでいけるよっていう。基本的にヴィーハト挟むと火力結構上がるんで、倒しきり狙えるんだったらゲージ吐いちゃってもOKです。倒しきり出来なくても画面端まで運ぶことにすごい価値があるキャラなんで、設置状況まで持っていくのが優秀な攻め状況になるんでそこらへんも意識しておくといいかもです！(トリグラフ後に)SA1も入るね。こういうルートも練習してみてください！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:24:09.331950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7e8bbc14b836",
+    "category": "oki",
+    "topic": "ODヴィーハト設置後の連携（連続ガード・投げ）",
+    "content": "ODヴィーハト設置後に攻め込む場合、ODヴィーハト > 立ち中K > 弱ストリボーグは相手が割り込めない連続ガードとなり、ドライブゲージを大きく削れる。また、ODヴィーハト設置後に投げが+3Fで埋まるため、投げからも追撃が可能になる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ODヴィーハト設置後",
+    "source_video_id": "nyFNgnzjV3M",
+    "source_channel": "りゅうせい",
+    "source_video_title": "All you need to know about JP Combos in one place [Ryusei/Street Fighter 6]",
+    "source_timestamp": "05:19",
+    "source_quote": "ODヴィーハト>立ち中K>弱ストリボーグのメリットは連続ガードなので\n絶対に割り込めないので 相手のDゲージをかなり削れる\n+3Fの投げがいけるようになります\n投げ>大P>トリグラフ>SA1 etc...",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:04:42.813320",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd4d28d7748e",
+    "category": "oki",
+    "topic": "しゃがみ大Kからの入れ替え起き攻め",
+    "content": "しゃがみ大Kからの入れ替え起き攻めでは、前ジャンプから入れ替えるのが強い。足払いが当たった時に、+5F取れて投げが埋まるため、投げと打撃の二択を迫れる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ大Kヒット後の入れ替え",
+    "source_video_id": "nyFNgnzjV3M",
+    "source_channel": "りゅうせい",
+    "source_video_title": "All you need to know about JP Combos in one place [Ryusei/Street Fighter 6]",
+    "source_timestamp": "23:37",
+    "source_quote": "しゃがみ大K>前ジャンプ\n+5F取れて投げが埋まる\nとっさの場面で足払い当たったなっていう時は\n前ジャンプから入れ替えるのが結構強いですね",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:04:42.813320",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b0eb4e6aa66b",
+    "category": "oki",
+    "topic": "中央での起き攻め",
+    "content": "弱ストリーボーグの後に設置技の強ヴィーハトで起き攻めを仕掛けるのがおすすめ。ここから相手をじっくり画面端へ追い込んだり、JPが得意とする遠距離からの飛び道具でダメージを奪いに行ける。ただし、相手キャラによっては長いリーチの必殺技を持つキャラ（例：キャミィ）に対しては、画面端付近で設置すると反撃を受けてしまうので注意が必要。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "中央での起き攻め、弱ストリーボーグ後",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "01:00",
+    "source_quote": "中央での起き攻めは設置技の強ヴィーハトがおすすめ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "900fb0856138",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "画面端で弱ストリーボーグをヒットさせた場合は、歩きからの投げ重ねか、投げ抜け狩りのシミーがおすすめ。打撃を重ねる場合は強Kがおすすめ。強Kがヒットしていれば屈中Pから中ストリーボーグが繋がり、そこから詐欺飛びが可能。トルバランを重ねる場合は、弱ストリーボーグから少し遅らせて中か強トルバランを重ねる。中トルバランは下段ガード不可、強トルバランは立ちガード不可なので、ガードを揺さぶりつつヒット時は屈中Pからコンボに繋げられる。最速でトルバランを出すとスカることがあるので注意。トルバラン重ねは小技2回刻みから行う。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端での起き攻め、弱ストリーボーグ後",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "01:28",
+    "source_quote": "画面端では歩きからの投げ重ねか、投げ抜け狩りのシミーがおすすめです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "321",
+      "322",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5a9c5fc17262",
+    "category": "oki",
+    "topic": "画面端でのODトルバランからの起き攻め",
+    "content": "画面端で強P→ODトルバランをヒットさせた場合、強トリグラフではなく中ストリーボーグで締めるのがおすすめ。ダメージは強トリグラフと変わらないが詐欺飛びが可能。無敵技をガードしたら反撃を入れられるため強力。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端でのODトルバランヒット後",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "03:24",
+    "source_quote": "画面端でヒット時に設置するとフレーム不利になるので、ODトルバランから中ストリーボーグ締めがおすすめ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "302",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e00d01868a38",
+    "category": "oki",
+    "topic": "OD設置からの投げ連携",
+    "content": "トリグラフをOD設置した後のセットプレイ。4F有利状況からの投げ重ねがシンプルに強力。投げ後に設置が起爆してヒットするので、強Pで拾ってコンボへ繋ぐ。基本だが投げのリターンが上がるので強い。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端でのOD設置後",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "05:10",
+    "source_quote": "4F有利状況からの投げ重ねがシンプルに強く、投げ後に起爆がヒットするので強Pで拾ってコンボが可能です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aba14443ef09",
+    "category": "oki",
+    "topic": "OD設置からの攻め継続",
+    "content": "屈弱Pから弱ストリーボーグに入れ込み、OD設置の起爆ヒットを確認して強P、トリグラフで追撃する連携がおすすめ。ヒットすれば起爆が当たってコンボに繋がる。起爆ヒット時にジャンプ中Kを挟めばダメージが少し上がる。屈弱P→弱ストリーボーグがガードされても中下段の択が繋がり、有利な状況が続く。画面端でのOD設置からは非常に強力な攻めが可能。ゲージは消費するが強力なループ性を持つため、おすすめの起き攻め連携である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端でのOD設置後の攻め継続",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "06:02",
+    "source_quote": "打撃重ねなら屈弱P→弱ストリー入れ込みがおすすめ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3938045598ec",
+    "category": "oki",
+    "topic": "画面端でのODアムネジアからの起き攻め",
+    "content": "自分が画面端で投げやインパクトを取った際、ODアムネジアからの後投げで入れ替えを狙うのが簡単でおすすめ。アムネジアは補正がきつくダメージが伸びにくいので、ダメージよりも状況を有利にするのが良い。微遅らせで強ストリーボーグに繋げれば、ダメージを少し伸ばすことも可能。ダメージ重視なら中K、強設置、中トルバラン、強トリグラフ、中トルバラン、強トリグラフと繋ぎ、SA3まで繋げれば4000近くのダメージが出せるので倒し切れる場面で使える。中Kからの設置はノーキャンセル。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端での投げ/インパクトヒット時",
+    "source_video_id": "Ab-M1poFHX0",
+    "source_channel": "ミダ猫のゲーム動画",
+    "source_video_title": "【スト6 】JPの厳選16コンボとセットプレイ集。おすすめ起き攻め方法や簡単なSAコンボも解説",
+    "source_timestamp": "11:37",
+    "source_quote": "自分が画面端で投げやインパクトを取ったときは、後投げから入れ替えが簡単でおすすめ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:16:44.919765",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "302",
+      "319",
+      "321",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fc0195a834f3",
+    "category": "oki",
+    "topic": "近距離の連携と起き攻め",
+    "content": "近距離ではアシスト弱攻撃（しゃがみ弱K）からのコンボが強力です。ガードされた場合、必殺技には繋がらないため、安全に打撃連携を終えるか、投げで2択をかけましょう。起き攻めでは、ドライブラッシュから立ち中P（中段）、さらに立ち弱P（下段）や必殺技に繋げます。立ち中Pがガードされたら投げに移行します。相手が下段ガードを固めるようなら、ドライブラッシュから立ち中Pを狙いましょう。パリーを多用する相手にはドライブラッシュから直接投げると効果的です。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "近距離、起き攻め",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "00:37",
+    "source_quote": "アシスト弱コンボは下段始動、ガード時は必殺が出ないため優秀",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "107",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a48fdef67d1a",
+    "category": "oki",
+    "topic": "必殺技後の起き攻め連携",
+    "content": "必殺技でコンボを締めた後、前ステップから即ドライブラッシュしゃがみ中K（下段）で重ねましょう。これは相手の4F暴れと相打ちになりますが、カウンターヒットとなるため、立ち弱Pや必殺技に繋がり、JPの有利なターンが継続します。また、ドライブラッシュから中Pで中段を狙う、あるいはそのまま投げを仕掛けるのも強力な選択肢です。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "必殺技後の起き攻め",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "01:35",
+    "source_quote": "必殺技の後、前ダッシュ、即ラッシュ ↓中 で下段重ね 相手の4F暴れに相打ちします",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9d323397a092",
+    "category": "oki",
+    "topic": "起き上がりへの牽制",
+    "content": "相手の起き上がりに合わせて、少し離れた位置にアシスト強（しゃがみ強K）を置くと、パニッシュカウンターを誘発しやすいです。その後、立ち強Kが届く距離が理想です。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手の起き上がり",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "02:13",
+    "source_quote": "起き上がりにアシスト強を少し離れて置いておくとパニカに その後の立ち強キックが届く距離がベストです！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89d7f84b0f8e",
+    "category": "oki",
+    "topic": "ヴィーハトからの追撃",
+    "content": "ヴィーハトを設置したら、相手の動きを観察しましょう。ヴィーハトがヒットしたら、強Kやアシスト強などで追撃し、トリグラフなどの必殺技に繋ぎます。追撃後は、再度アムネジア（←P）でヴィーハトを設置し、相手の動きを継続的に制限しましょう。相手が投げを狙ってくるようであれば、垂直ジャンプなどで投げをかわすのが有効です。また、ヴィーハト設置後にアムネジア（←弱P）でワープし、投げを仕掛けるのも良いでしょう。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ヴィーハト設置後",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "03:00",
+    "source_quote": "設置後は様子を見て、相手に当たったら→強やアシスト強で追い打ちをして↓必殺などに繋がます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9de4592ac3bf",
+    "category": "oki",
+    "topic": "ヴィーハト設置後の攻め方",
+    "content": "ヴィーハト（爆弾）が設置されたら、JPの攻めターンです。打撃重ね、投げ、さらにヴィーハトの設置を絡めて攻め立てましょう。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ヴィーハト設置中",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "05:00",
+    "source_quote": "爆弾が着けば一気にJPのターン 打撃重ねや投げ、設置などで攻めましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ac3e6ec1c480",
+    "category": "oki",
+    "topic": "気絶コンボ後の起き攻め",
+    "content": "気絶コンボの最後のトリグラフの後、アムネジア（←Pボタン2回入力）でヴィーハトを2つ設置すると、2回のワープを絡めた強力なガード崩しを狙えます。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "気絶コンボの締め後",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "08:10",
+    "source_quote": "最後の↓必殺後に↓/←ボタン2つ設置すれば2回ワープのガード崩しが狙えるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a08953ad06b",
+    "category": "oki",
+    "topic": "画面端での投げ連携",
+    "content": "JPの投げは相手との距離が離れにくいので、画面端で投げた後は、タイミング良く再度投げを重ねる「投げ柔道」が有効です。もし相手が端からジャンプで逃げようとする読みがあるなら、少し下がってアシスト強（しゃがみ強Pなど）でパニッシュカウンターを狙うか、ODトルバランからトリグラフに繋いで起き攻めを設置しましょう。また、自分が投げられた場合、前ジャンプで状況から脱出するのが良い選択肢です。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端での投げ、相手の端からの脱出、自分が投げられた時",
+    "source_video_id": "jr9rl-hh9Nk",
+    "source_channel": "かぷえぬ先生",
+    "source_video_title": "【#スト6攻略 】#モダンJP 簡単攻略！スト６初心者向けMASTER講座！９分！安定重視　#スト６ #JP #sf6_jp   #スト６JP #streetfighter6  #スト6解説 #sf6",
+    "source_timestamp": "08:25",
+    "source_quote": "JPの投げは離れないので、画面端投げの後はそのままタイミング良く投げて柔道に",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:43:19.433946",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b7b034ab9a5e",
+    "category": "oki",
+    "topic": "トゲからのスタンインパクト",
+    "content": "JPのトゲ（Amnesia / OD Amnesia）から相手が埋まる位置では、前ステップで接近してスタンインパクトまで確定させる連携が可能。これにより、状況によってはドライブゲージを効率的に消費しつつ、有利状況を形成できる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "トゲヒット後、相手が埋まる位置",
+    "source_video_id": "wkFR9IskJsY",
+    "source_channel": "りゅうせい",
+    "source_video_title": "\"He's a genius...\" Ryusei is impressed by the arms dealer who developed JP's new combo [Street Fi...",
+    "source_timestamp": "04:29",
+    "source_quote": "トゲから前ステインパクト埋まるから場所によってはコスパ良くスタンインパクトまで確定しますね",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:48:34.652115",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d92cb81b3e16",
+    "category": "oki",
+    "topic": "画面端OD設置からの択",
+    "content": "JPが画面端で相手をダウンさせた後、ODアムネジアで設置し、ワープからジャンプ強Kで降りて連係し、投げ・様子見・打撃（屈中Pなど）・SA2の択をかけることができます。相手がジャンプやバックステップを多用する傾向にある場合は打撃を控えめにしましょう。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "画面端、相手ダウン時",
+    "source_video_id": "vJ4Q-WV_cdU",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】簡単なのに超強力！JP攻め方講座【解説】",
+    "source_timestamp": "00:15",
+    "source_quote": "端端の時はOD弾ワープ>ジャンプ攻撃で連ガを作って択ります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:41:55.660567",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "319",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b5d461113935",
+    "category": "oki",
+    "topic": "近距離でのジャンプ攻撃からの攻め",
+    "content": "近距離で設置を置いた後、設置が光るのを確認してからジャンプ攻撃（ジャンプ強K）を出すのがコツです。これにより、着地後に投げ、様子見、打撃、またはSA2（ジラント）で相手を揺さぶることができます。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "近距離、設置後",
+    "source_video_id": "vJ4Q-WV_cdU",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】簡単なのに超強力！JP攻め方講座【解説】",
+    "source_timestamp": "00:36",
+    "source_quote": "近距離はジャンプから攻めます 設置が光るのが見えたら飛ぶのがコツ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:41:55.660567",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "205",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3ef7b6c2bb4c",
+    "category": "oki",
+    "topic": "相手が後方歩きで設置を逃げる場合の攻め方",
+    "content": "相手が後方歩きで設置から逃げようとしている時は、JPが前に歩いて、設置が消えるタイミングで再度OD設置をしましょう。これはDゲージ回復、ライン上げ、設置維持のメリットがあります。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手が後方歩きで設置から逃げようとしている時",
+    "source_video_id": "vJ4Q-WV_cdU",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】簡単なのに超強力！JP攻め方講座【解説】",
+    "source_timestamp": "02:25",
+    "source_quote": "相手が後ろ歩きで設置から逃げている時は前に歩いて設置が消える時にOD設置しよう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:41:55.660567",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "909ea8a84c17",
+    "category": "oki",
+    "topic": "ジャンプ攻撃で密着できない場合の攻め",
+    "content": "ジャンプ攻撃で密着状態を作れない場合、設置を盾にしつつ、ドライブラッシュから立ち弱Pで相手に触りに行きましょう。展開が早く、投げ抜けを咄嗟に押してしまう相手に有効です。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ攻撃で密着できない時",
+    "source_video_id": "vJ4Q-WV_cdU",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】簡単なのに超強力！JP攻め方講座【解説】",
+    "source_timestamp": "02:46",
+    "source_quote": "ジャンプ攻撃で密着が作れない時は設置を盾にしてラッシュ立ち弱Pで触ろう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:41:55.660567",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb9dd9e7abc3",
+    "category": "oki",
+    "topic": "ゲージがある時の起き攻め",
+    "content": "JPでゲージがある時に、立ち大P > OD設置 > しゃがみ弱P > 4中Pまたは弱ワープ、と連携することで中下段択を仕掛けることができる。これにより高いリターンを得やすい。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、ゲージがある時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:12",
+    "source_quote": "ゲージがある時はgain式を狙いましょう 爆リターンが出る中下段を簡単に仕掛けられます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1caaa0920cf5",
+    "category": "oki",
+    "topic": "ゲージがある時の対Dリバ起き攻め",
+    "content": "JPでゲージがある時に、相手がドライブリバーサル（Dリバ）を狙っていると読んだ場合は、4中Pを空振りして相手のDリバを誘発し、下がって大ストライクでコンボに繋ぐのが簡単である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手がDリバを読んでいそうな時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:30",
+    "source_quote": "おまけでDリバは詐欺ってます 下がって大ストリボーグからコンボするのが簡単です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8c90f11ff85f",
+    "category": "oki",
+    "topic": "無敵技読みの起き攻め",
+    "content": "JPで相手が無敵技やパリィを狙っていると読んだ場合、弱ワープでかわすことができる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手が無敵技やパリィを読んでいそうな時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:38",
+    "source_quote": "無敵技やパリィを読んだら弱ワープしましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "965c0cb8d41e",
+    "category": "oki",
+    "topic": "対空読みの起き攻め",
+    "content": "JPで相手が対空を構えていると読んだ場合、弱ワープから着地して投げを狙うのが効果的である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手が対空を構えていそうな時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:46",
+    "source_quote": "相手が対空を構えていたら死にます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8521b115a2ec",
+    "category": "oki",
+    "topic": "マクロ相手の起き攻め",
+    "content": "JPで相手がマクロ状態の時は、弱ワープ > ジャンプ大K（空振り）> しゃがみ大P（パニッシュカウンター）> 大ストライクで崩しに行ける。この連携はガードされても-3Fなので、反撃を受けにくい。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手がマクロ状態の時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:51",
+    "source_quote": "相手がマクロの際はF式で崩しにいきましょう ガードされても-3Fなので死にはしません",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0a93ae517f4b",
+    "category": "oki",
+    "topic": "Dゲージが少ない時の起き攻め",
+    "content": "JPでドライブゲージが少ない時は、立ち大P > 設置（ノーマル）> 立ち大K_大Pと繋ぐのが簡単である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、ドライブゲージが少ない時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "00:59",
+    "source_quote": "ドライブゲージが少ないときは ノーマル設置から大KTCが簡単です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0686119293c7",
+    "category": "oki",
+    "topic": "Dゲージが少ない時のSA2活用",
+    "content": "JPでドライブゲージが少ない時にSA2がある場合、設置をせずに詐欺飛びからSA2を打つ方が堅実である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、ドライブゲージが少ない時、SA2がある時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:03",
+    "source_quote": "SA2があるなら設置せずに 詐欺飛びからSA2打った方が丸いと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ab4a7f9323b",
+    "category": "oki",
+    "topic": "Dゲージが少ない時の対パリィ起き攻め",
+    "content": "JPでドライブゲージが少ない時に、相手がパリィを狙っていると読んだ場合は、立ち大K_大P > ワープ > 着地投げの連携が有効である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、ドライブゲージが少ない時、相手がパリィを読んでいそうな時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:09",
+    "source_quote": "パリィを読んだらこれまたワープでOK",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fb1396a3e08b",
+    "category": "oki",
+    "topic": "Dゲージが少ない時の対暴れ起き攻め",
+    "content": "JPの中下段派生は暴れ潰しにならないため、ドライブゲージが少ない時に相手が小技で暴れてくる場合は、立ち大K_大P > ガード > 6大K > 中ストライク > 立ち大Pのようにガードを混ぜる必要がある。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、ドライブゲージが少ない時、相手が小技で暴れてくる時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:16",
+    "source_quote": "実は中下段の派生は暴れ潰しになっていません ちゃんと小技を押してくる相手には ガードを混ぜる必要があります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e564b1d1483e",
+    "category": "oki",
+    "topic": "バーンアウト相手の起き攻め",
+    "content": "JPで相手がバーンアウトしている時は、立ち大P > OD設置 > トリグラフ > しゃがみ弱P > 中トルバランまたは大トルバランで連携する。これによりSA1をケアしながら連続ガードでハメることができる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手がバーンアウトしている時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:32",
+    "source_quote": "相手がバーンアウトしている時は OD設置からトリグラフを重ねましょう SA1をケアしつつ連ガでハメられます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "321"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50094c5d7fb2",
+    "category": "oki",
+    "topic": "バーンアウト相手の無敵技読み",
+    "content": "JPで相手がバーンアウトしている時に、OD設置とトリグラフを重ねて相手が無敵技を打ってきた場合、トリグラフヒット後に6大K > 立ち大Pでコンボに繋ぐことができる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、相手がバーンアウトしている時、OD設置とトリグラフを重ねて相手が無敵技を打ってきた時",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:40",
+    "source_quote": "トリグラフ > 6大K > 立ち大P > なんでも",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7e8501159e6",
+    "category": "oki",
+    "topic": "OD設置からの3択",
+    "content": "JPの立ち大PからのOD設置後の起き攻めは、投げ、投げシケ狩り、打撃の3択を仕掛けることができる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン時、立ち大PからOD設置後",
+    "source_video_id": "lf0wojOpAJc",
+    "source_channel": "ぽてんす",
+    "source_video_title": "【スト6】調整後も最強！JPのヴィーハトを使った起き攻めを解説",
+    "source_timestamp": "01:49",
+    "source_quote": "立ち大P > トリグラフ > OD設置 > 投げ、投げシケ狩り、打撃",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:39:51.777763",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ffb844f9f94d",
+    "category": "oki",
+    "topic": "OD設置からのF式連携",
+    "content": "JPのOD設置（トリグラフOD版）からしゃがみ弱P、弱ワープ（トリグラフ弱版）を繋ぎ、F式連携（ジャンプ攻撃からの連係）に移行することで、起き攻めを継続できる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "00:00",
+    "source_quote": "OD設置＞屈弱P＞弱ワープからF式",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f8f97c4caec",
+    "category": "oki",
+    "topic": "OD設置からの連続ガード連携",
+    "content": "JPのOD設置（トリグラフOD版）からしゃがみ弱P、パルスコンプレッション・牽引(中版)、トリグラフ(中版)を繋ぎ、トリグラフの弾攻撃（中段と下段）に派生させることで、連続ガードを維持しつつリバーサルガードも可能な強力な起き攻め連携になる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "00:16",
+    "source_quote": "OD設置＞屈弱P＞引中PTCから中下弾 ※連続ガードかつリバサガード可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a19c88269499",
+    "category": "oki",
+    "topic": "高めOD設置からの起き攻め",
+    "content": "JPが高めのOD設置（トリグラフOD版）をヒットさせた後、トリグラフ(弱版)からのしゃがみ弱P、中下弾に繋げることで、相手のガードを揺さぶる起き攻めを展開できる。特に、トリグラフがパニッシュカウンターとなった場合は、より有効な連携となる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "00:37",
+    "source_quote": "高めOD設置＞トリグラフ＞屈弱Pから中下弾",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "364aed7f2d26",
+    "category": "oki",
+    "topic": "OD弾からの投げ連携",
+    "content": "JPがアムネジア(OD版)をヒットさせた後、トリグラフ(弱版)でワープし、トリグラフ(通常版)を設置。そこから通常投げで追撃することで起き攻めを継続できる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "00:54",
+    "source_quote": "OD弾＞トリグラフ＞通常設置から投げで追撃可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9bed7997b98b",
+    "category": "oki",
+    "topic": "設置からのラッシュ中下段",
+    "content": "JPはトリグラフ(通常版)を設置した後、ドライブRUSHを使い、トリグラフの弾攻撃（中段）とトリグラフの弾攻撃（下段）を使い分けることで、相手のガードを揺さぶる強力な起き攻めを仕掛けられる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "02:00",
+    "source_quote": "設置からラッシュ中下",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c6f4070709f",
+    "category": "oki",
+    "topic": "設置起爆タイミングでのジャンプ攻撃",
+    "content": "JPはトリグラフ(通常版)を設置した後、設置が起爆するタイミングに合わせてジャンプ攻撃を仕掛けることで、相手のガードを揺さぶることができる。設置の多段ヒット中にジャンプ攻撃がヒットすればコンボに移行可能。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "o6zXaO4iIz0",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+    "source_timestamp": "02:16",
+    "source_quote": "設置から起爆タイミングでジャンプ攻撃",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:57:58.351098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

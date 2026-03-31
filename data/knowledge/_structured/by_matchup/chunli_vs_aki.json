@@ -1,0 +1,471 @@
+[
+  {
+    "id": "ccfa02a1ea4c",
+    "category": "oki",
+    "topic": "AKIへのSA対策起き攻め",
+    "content": "AKIに対し、ダウンさせた後の起き攻めで、起き上がり+4Fまたは+5Fから立ち弱Pを押すと、SA1とSA3をガードした状態になる。これにより、相手のOD蛇軽功での逃げや前ジャンプに対して対応しやすくなる。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIがダウンした際の起き攻め",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "00:55",
+    "source_quote": "AKIに対しては起き上がり+4Fか+5Fからコパンを撃つとSA1とSA3をガードできるので許せます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d5fb5aa465f",
+    "category": "oki",
+    "topic": "AKIへの起き攻め投げ連携",
+    "content": "AKIに対し、ダウンさせた後の起き攻めで、立ち弱P→投げと入力する。立ち弱Pが空振っていれば投げが出て、立ち弱Pがヒットまたはガードしていれば投げは出ない。これにより、OD蛇軽功で逃げた場合は投げが、ガードやヒットした場合は立ち弱Pが出る。ラッシュ後の起き攻めでも同様に機能する。また、+4Fか+5Fからのセットプレイなので、相手がバクステで逃げたとしても確反をもらうことはない。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIがダウンした際の起き攻め",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "01:27",
+    "source_quote": "原理2) コパン→投げと押したときに、コパンが空振っていれば投げが出ますが、コパンが相手に当たっていれば投げが出ません。\nおまけですが、+4Fか+5Fからのセットプレイなので、投げもバクステで確反を貰わなくなり強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd8718f0a91f",
+    "category": "defense",
+    "topic": "AKIの強K後の択対策",
+    "content": "AKIの立ち強K後の蛇連咬やつかみに対しては、ガードするタイミングで遅らせ垂直ジャンプを入力すると良い。これにより、コマ投げを回避し、大きなダメージを与える反撃が可能となる。AKI側が遅らせ蛇連咬で対応してきても、垂直ジャンプした側も暴れることができるため、リスクリターンで有利。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの立ち強Kガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "02:23",
+    "source_quote": "AKIは強Kから暴れつぶしとコマ投げで攻めてくることが多いです。おすすめの対策) 遅らせ垂直ジャンプ →ガードするタイミングでジャンプを押す",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f495a7f7fbce",
+    "category": "defense",
+    "topic": "AKI立ち強P確反",
+    "content": "AKIの立ち強Pをガードすると4F有利。密着でガードした場合は立ち弱Pからの反撃を狙う。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの立ち強Pガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "03:24",
+    "source_quote": "前強Pはガードで4F有利です。近めでガードした場合はコパンから反撃しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7b520e6b53df",
+    "category": "defense",
+    "topic": "AKI強PTC確反",
+    "content": "AKIの強PTC（強Pターゲットコンボ）をガードすると15F有利。しゃがみ強Pから反撃する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの強PTCガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "03:41",
+    "source_quote": "強PTCはガードで15F有利です。しゃがみ強Pから反撃しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b79e6f91368",
+    "category": "defense",
+    "topic": "AKIしゃがみ強P確反",
+    "content": "AKIのしゃがみ強Pをガードすると8F有利。相手が近づいてくるので、ドライブインパクトやドライブリバーサルなどで反撃する。遠い場合は有利フレームが減るため、しゃがみ強Pで反撃すると良い。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIのしゃがみ強Pガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "03:48",
+    "source_quote": "下強Pはガードで8F有利です。近ずいてくるので発動で反撃しましょう。遠いと有利フレームが減るので、しゃがみ強Pで反撃すると良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e03284187f42",
+    "category": "defense",
+    "topic": "AKI弱蛇頭鞭確反",
+    "content": "AKIの弱蛇頭鞭をガードすると8F有利。密着でガードした場合はしゃがみ中KかOD百裂脚で反撃する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの弱蛇頭鞭ガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "03:56",
+    "source_quote": "弱蛇頭鞭はガードで8F有利です。近めでガードした場合は中足かOD百裂脚で反撃しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "307",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "700cca256897",
+    "category": "defense",
+    "topic": "AKI強蛇頭鞭確反",
+    "content": "AKIの強蛇頭鞭をガードすると20F有利。相手のミスを誘い、最大ダメージを狙えるコンボで反撃する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの強蛇頭鞭ガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "04:05",
+    "source_quote": "強蛇頭鞭はガードで20F有利です。ミスってたらしっかりダメージを取りましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f7adb8ab6d86",
+    "category": "defense",
+    "topic": "AKI紫煙追確反",
+    "content": "AKIの紫煙追をガードすると16F有利。旋円脚やドライブラッシュからの小技で反撃する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの紫煙追ガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "04:14",
+    "source_quote": "紫煙追はガードで16F有利です。旋円脚かラッシュ小技から反撃しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cdfb7d75e9a9",
+    "category": "defense",
+    "topic": "AKI猛毒牙確反",
+    "content": "AKIの猛毒牙をガードすると25F有利。最大ダメージを狙えるコンボで反撃する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの猛毒牙ガード後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "04:28",
+    "source_quote": "猛毒牙はガードで25F有利です。最大ルートを決められます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "931634ffb9e1",
+    "category": "neutral",
+    "topic": "AKIのOD強襲突対策",
+    "content": "AKIのOD強襲突をガードすると、その後の打撃と投げで攻められるため、ドライブリバーサルで切り返すのがおすすめ。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIのOD強襲突ガード時",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "04:47",
+    "source_quote": "OD強襲突はガードすると、打撃と投げで攻められてしまうのでDリバおすすめです！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c3406806bf18",
+    "category": "neutral",
+    "topic": "AKIの弾対策",
+    "content": "AKIの弾は全体フレームが長いので、たまにドライブインパクトやOD波掌撃で弾抜けを狙う。ただしSA2で抜けると事故りやすいので、SA2ではなくOD波掌撃で抜けるのが望ましい。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIが弾を撃ってきた時",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "04:55",
+    "source_quote": "ときどき弾は抜けたいですね！全体フレームが長いので結構いけます。※SA2で抜けると事故りやすいです。OD波掌撃で抜けるようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b6fb7d4a2d6e",
+    "category": "defense",
+    "topic": "AKI弱蛇頭鞭ジャスパ",
+    "content": "AKIの弱蛇頭鞭をジャストパリィできれば反撃が取れる。ただし難易度が高い。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの弱蛇頭鞭に対して",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "05:15",
+    "source_quote": "弱蛇頭鞭はジャスパパできればこんな感じで、反撃を取れますがかなり難しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e1967fef148",
+    "category": "neutral",
+    "topic": "AKI弱蛇頭鞭対策パリィラッシュ",
+    "content": "AKIの弱蛇頭鞭に対して、少し遠目でパリィラッシュを仕込んでおくと、反応が遅れても空振り時に確定反撃できる場合がある。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの弱蛇頭鞭に対して中距離",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "05:25",
+    "source_quote": "少し遠目でパリィラッシュを仕込んでおくと、反応が遅れても空振りに確定することがあります！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b2022e30a759",
+    "category": "neutral",
+    "topic": "AKI戦でのジャンプ攻撃",
+    "content": "AKI相手には、遠目で好き放題される前にジャンプ攻撃を仕掛けるのも有効。ただし、相手にジャンプされると痛いので、毎回ジャンプするのはおすすめしない。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "遠距離での立ち回り",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "05:41",
+    "source_quote": "あと、春麗と言えど飛びましょう！遠目で好き放題されちゃいます。ジャンプされるときついので毎回はおススメしません！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "828afd8e2330",
+    "category": "defense",
+    "topic": "AKIジャスパ後の投げ対策",
+    "content": "AKIは蛇連咬や強襲突の後にジャストパリィを狙ってくることが多いので、その後の投げも意識して対処する。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの蛇連咬や強襲突後",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "05:50",
+    "source_quote": "AKIは蛇連咬と強襲突のあとによくジャスパを狙ってくるのでしっかり投げもした方が良さそうです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7646d02ae7f9",
+    "category": "neutral",
+    "topic": "AKI戦での弾を使った立ち回り",
+    "content": "AKIの得意な間合いでは有効な攻撃がしにくい。弱蛇頭鞭などに引っかからないように注意しつつ、ドライブゲージ有利な状況でも安易に触りに行かず、近づくフリをして距離を取りながら弾を撃つのがおすすめ。弾が相殺して相手のドライブラッシュに確定反撃できることもある。",
+    "characters": [
+      "chunli"
+    ],
+    "matchup": "aki",
+    "situation": "AKIが有利な間合いでの立ち回り",
+    "source_video_id": "VwClKEjyYF0",
+    "source_channel": "やつめん / Yatsumen",
+    "source_video_title": "【スト6/春麗】⑱春麗のAKI対策ver1 #ストリートファイター6 #スト6 #streetfighter6 #春麗",
+    "source_timestamp": "06:07",
+    "source_quote": "この間合いにいるAKIが強すぎて、こっちから有効的な攻撃がほぼできません。弱蛇頭鞭などに引っかかって無駄な被弾をしないのが大事だと思います！ゲージ有利だから触りに行こう！って思ったらよくこうなります;;そこで、近づくフリをしてちょっと離れて、弾を撃つのは結構おススメです！こんな感じで弾が相殺してラッシュが確定することもあります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:26:30.911087",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

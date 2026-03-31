@@ -1,0 +1,313 @@
+[
+  {
+    "id": "15d422db1a94",
+    "category": "matchup",
+    "topic": "キャミィの大K・低空ストライクへの対策",
+    "content": "キャミィの立ち強Kや低空キャノンスパイクに対して、敢えて前に出て接近戦に持ち込むと反撃を狙えるようになる。立ち強Kを近距離でガードした後はキャミィ側-3Fとなり確定反撃はないが先に触れる。低空キャノンスパイクをガードした場合は距離によって確反、少なくても有利になる。これにより、確反または先に触れる展開を作ることができる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィが立ち強Kや低空キャノンスパイクを振ってくる間合い",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "01:37",
+    "source_quote": "キャミィの強Kや低空ストライクに対して反撃を狙えるようにします。大Kを近距離でガードした後はキャミィ側-3Fで確定はないですがが先に触れます。低空ストライクをガードした場合は距離によって確反、少なくても有利になる。つまり、この距離なら確反or先に触る展開を作ることができるんです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0db29a5891d0",
+    "category": "defense",
+    "topic": "キャミィの近距離でのガード",
+    "content": "キャミィの接近戦では、しゃがみ中Kラッシュやしゃがみ弱Kからのスパイラルアローなど、下段始動のコンボが非常に多い。そのため、近距離でのガードはしゃがみガードを意識する。低空キャノンスパイクは上段攻撃なので、しゃがみガードでOK。ただし、立ちガードした方が有利になる特徴もあるので、状況に応じて切り替えるのがベスト。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィとの接近戦",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "02:00",
+    "source_quote": "接近戦での注意点、キャミィは中足ラッシュ、小足からのスパイラルアローなど下段始動のコンボが非常に多いです。なので、近距離でのガードはしゃがみガードを意識しましょう。ちなみに、よくある勘違いとしてキャノンスパイクは空中から来るから立ちガードじゃないとダメ？と思ってる方がいますが、ストライクは上段なのでしゃがみガードでOKです。ただし、立ちガードした方がこちらが有利になるという特徴もあるので状況に応じて切り替えられるとベストです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "118"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2a37cd298646",
+    "category": "matchup",
+    "topic": "キャミィの大K・低空ストライクへの対策（距離を取る）",
+    "content": "キャミィの大Kや低空キャノンスパイクが届かない位置まで間合いを下げて距離を取るのも有効。この位置からだとキャミィのこれらの技が空振りし、その空振りを誘ってからの確反を狙うことができる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィが立ち強Kや低空キャノンスパイクを振ってくる間合い",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "02:41",
+    "source_quote": "この位置からだとキャミィの大Kが届かず、空振り。低空ストライクもすかる。こういった空振りを誘ってからの確反を狙っていけます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e0901025b82",
+    "category": "defense",
+    "topic": "キャミィの突進技への反撃",
+    "content": "キャミィのアクセルスピンナックルやフーリガンなどの突進技が見えたら、攻撃を押して反撃する。弱攻撃なら反応が遅れても間に合うがリターンは少なめ。強攻撃なら反応を早く出す必要があるがリターンは大きい。自身の反応速度に合わせて、どの攻撃で返すかを決めるのが良い。例えば、ジュリが弱攻撃で反撃する場合は、その後のコンボ判断をしっかりできれば十分なリターンを得られる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィがアクセルスピンナックルやフーリガンで突進してきた時",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "04:57",
+    "source_quote": "これに対する対策は、【突っ込んでくる技が見えたら攻撃を押す】です。弱なら反応が遅れても間に合うが、リターンは少なめ。強なら反応をよく出さないと間に合わないがリターンは大きい。何の技で返すかはご自身の反応と相談してください。ちなみに僕は反応が遅いので、弱で落としてます。弱でもその後のコンボ判断をしっかりできればリターンを十分取ることが可能です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1a931c9e606f",
+    "category": "defense",
+    "topic": "キャミィのフーリガン派生への対応",
+    "content": "キャミィのフーリガンは、投げ、ストライク、中段、下段、着地の5つの派生があるが、立ち回りでは投げが圧倒的に多い。フーリガンで突進してきたら攻撃を押して反撃する。フーリガンで特殊やられになった場合は追撃する。ODアクセルスピンナックルはカウンターになるので、コンボを伸ばす。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィがフーリガンを仕掛けてきた時",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "04:35",
+    "source_quote": "フーリガンからは投げ、ストライク、中段、下段、着地と5つの派生がありますが、立ち回りでは圧倒的に投げが多いです。これに対する対策は、【突っ込んでくる技が見えたら攻撃を押す】です。フーリガンは特殊やられになるので追撃をする。アクセルスピンナックルはカウンターになるので、コンボを伸ばす。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a64ed53b004e",
+    "category": "defense",
+    "topic": "キャミィの画面端起き攻め対策（弱スパイラルアロー締め）",
+    "content": "キャミィが画面端で弱スパイラルアロー締め→即ドライブインパクトのセットプレイをしてきた場合、これはフレームが埋まっているためジャンプも投げもできない。弱スパイラルアローの後はドライブインパクトに注意する。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの画面端での起き攻め（弱スパイラルアロー締め）",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "07:16",
+    "source_quote": "まず、マスターまでのキャミィ使いが最もやってくるセットプレイ。画面端で弱スパイラルアロー締め、即インパクト。これはフレームが埋まってるのでジャンプも投げもできません。弱アローの後は、インパクトに注意しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "791796d49dbb",
+    "category": "defense",
+    "topic": "キャミィの起き上がりODアクセルスピンナックル対策",
+    "content": "キャミィがリーサルに近い場面で起き上がりにODアクセルスピンナックルを使用してくる場合がある。これはガード方向が反対になるため、知っていないとガードが難しい。このような状況ではドライブインパクトよりもパリィを構えておくのがおすすめ。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "リーサルに近い状況で、キャミィが起き上がりODアクセルスピンナックルを使ってくる場合",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "07:35",
+    "source_quote": "他には、リーサルが近い場面では特に多いのですが、起き上がりODアクセルスピンナックル。これはガードが反対になるので知ってないとガードは難しいです。リーサルが見えてる場面なんかではインパクトよりパリィを構えておくのがおすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "326a531ff819",
+    "category": "defense",
+    "topic": "キャミィのフーリガン起き攻め対策",
+    "content": "キャミィがスパイラルアロー追撃を捨ててフーリガンで重ねてくる起き攻めは非常に強力。この状況で、フーリガンが中段で重なると暴れは潰され、立ちガードしていると投げられ、しゃがみガードしていると中段ガードができない。低空キャノンスパイク（ストライク）は立ちしゃがみ両方ガードできる。下段攻撃は遅れてくるためファジーガードで対応する。フーリガン着地で無敵技を誘ってくる場合もあるため読み合いが必要。個人的には1回目のフーリガンには無敵技をぶっぱなすのが有効。これにより、相手の選択肢は中段、投げ、着地の三択になり、守りやすくなる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのフーリガンによる起き攻め",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "07:56",
+    "source_quote": "フーリガン起き攻め。スパイラルアロー追撃を捨ててフーリガンで重ねてくる場合です。問題はスパイラルアロー追撃を捨ててフーリガンで重ねてくる場合です。確実に取れるダメージを捨ててやってくる起き攻めなので、非常に強力です。しっかり重ねられると全対応できる簡単な方法は見つけられませんでした。まず、起き上がりに中段が重なるので暴れは潰されます。立ちガードしてると、投げられる。しゃがんでると中段ガードできない。ストライクは立ちしゃがみ両方ガードできる。下段は遅れてくるのでファジーガードで対応。ここまでの択なら起き上がり無敵を撃てば全対応できますが、フーリガン着地で無敵釣りもやっていきます。読み合うしかないですね。僕個人的には1回目のフーリガンは無敵ぶっぱで良いと思ってます。そうすることによって、次の相手の選択肢は中段と投げの二択から着地も入れた三択になります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18f3139223ca",
+    "category": "defense",
+    "topic": "キャミィの起き攻め対策（持続しゃがみ強P）",
+    "content": "キャミィの起き攻めにおいて、持続しゃがみ強Pは非常に多く使われるセットプレイ。ヒットすれば強Pタゲコンからコンボ、ガードされても+4F有利で読み合いに持ち込める。持続しゃがみ強Pガード後はキャミィ側+4Fで投げ間合い外となる。対策としては、暴れ潰しガード後に4F技（例: ファジーコパン）を出すのが有効。また、暴れ潰しをガードしつつ歩き投げを咎める。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの起き攻め（持続しゃがみ強P）",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "09:09",
+    "source_quote": "打撃重ね。一番多いのがしゃがみ強P持続重ねです。そこからまた優位な読み合いに持ち込めます。キャミィの起き攻めの強さはここにあると思います。起き攻めで投げ、シミー、打撃の三択。打撃を選んでヒットしていれば、コンボ。ガードされてももう一度優位な読み合いに持ち込めます。持続しゃがみ強Pガード後は、キャミィ側+4Fで投げ間合い外。つまり、対策は暴れ潰しガード後に4F技、ファジーコパンですね。暴れ潰しをガードしつつ歩き投げを咎めましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "120",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "09b8b2d2bd8c",
+    "category": "defense",
+    "topic": "キャミィのターゲットコンボ対策",
+    "content": "キャミィのターゲットコンボは「ぼったくりの代表格」であり、知らなければどこで反撃できるか分からない。2段目と3段目の間に8F以内の技で割り込むことができる。ターゲットコンボ2段目を出してきた時点で確定反撃なので見逃さないようにする。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのターゲットコンボ",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "10:09",
+    "source_quote": "続いては、キャミィのタゲコンについて。ぼったくりの代表格です。これは知らなければどこで反撃するのか分からないですね。2段目の後にストライクを出してきたり、3段目の後にキャンセルラッシュをしたりしてごまかしてきますが、これは2段目と3段目の間に8F以内で割り込めます。タゲコン二段目出してきた時点で確定しますので、見逃さないようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "211",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7647b0c9d82e",
+    "category": "matchup",
+    "topic": "キャミィの起き攻め逆択対策（ファジー打撃）",
+    "content": "キャミィに対して有効な起き攻めの一つは、下がりながらファジー打撃。これは無敵技をガードした後のタイミングで立ち攻撃を押すことで、OD無敵技をガードでき、低空ODストライクが出る前に潰せる。さらに遅らせグラップも狩れる。これによりキャミィの強い逆択をある程度封じることができる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィに起き攻めする際",
+    "source_video_id": "rjySiws6Pjw",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Cammy Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good a...",
+    "source_timestamp": "10:48",
+    "source_quote": "そこで、キャミィに対して有効な起き攻めを一つ紹介します。それは起き攻めに下がりながらファジー打撃です。タイミングは、キャミィのODスパイクをガード後のタイミングで立ち攻撃。これをすることによって、OD無敵技ガード、低空ODストライク出る前に潰せる、遅らせグラップ狩れるとなります。キャミィの強い逆択をある程度封じることができる対策なので、トレモで練習してみてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:20:09.364629",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

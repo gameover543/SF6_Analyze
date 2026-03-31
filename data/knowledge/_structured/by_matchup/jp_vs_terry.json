@@ -1,0 +1,200 @@
+[
+  {
+    "id": "43ee9a826b13",
+    "category": "combo",
+    "topic": "大P→トリグラフ→ODヴィーハト連携",
+    "content": "JPの立ち大P→トリグラフ→ODヴィーハトは+4F有利となり、投げの後に追撃ができてループする連携。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPがコンボで大P→トリグラフ→ODヴィーハトと繋いだ時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:32",
+    "source_quote": "大P→トリグラフからのODヴィーハトは+4Fで投げの後に追撃でき、ループする",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "44e690c9cf8e",
+    "category": "combo",
+    "topic": "空中拾いODヴィーハト設置",
+    "content": "JPが空中拾い大P→ODトルバラン→トリグラフ締めODヴィーハト設置をした場合、+3F有利となり投げから追撃可能。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPが空中拾い大PからODヴィーハトを設置した時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:40",
+    "source_quote": "大P空中拾い→ODトルバラン→トリグラフ締めODヴィーハト設置は+3F、投げから追撃可能",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eb21097fce9c",
+    "category": "combo",
+    "topic": "トリグラフ→ODヴィーハトからのセットプレイ",
+    "content": "JPがトリグラフ→ODヴィーハト→小K弱ストリボーグの連携をした場合、そこから下段択に繋がる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPがトリグラフ→ODヴィーハトからの連携をしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:51",
+    "source_quote": "トリグラフ→ODヴィーハト→小K弱ストリボーグから下段択",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1170e2c2e23e",
+    "category": "combo",
+    "topic": "空中拾い大Pからのヴィーハト後",
+    "content": "JPが空中拾い大Pからヴィーハトを繋いだ後は、基本的に小足→中段または下段の連携となる。中段択の場合は割り込める。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPが空中拾い大Pからのヴィーハトで追撃してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:57",
+    "source_quote": "空中拾い大Pからヴィーハトの後は基本的に小足→中段か下段 (0:57) / 中段択の場合割り込める (1:04)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b46c8dce5d68",
+    "category": "combo",
+    "topic": "ODヴィーハト設置からのF式",
+    "content": "JPが立ち大PからODヴィーハトを設置した後、しゃがみ小パンでワープを消費し、F式（めくり）を仕掛けてくることがある。テリーは空中投げで投げられることもある。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPが立ち大P→ODヴィーハト設置からF式を仕掛けてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:23",
+    "source_quote": "大P→ODヴィーハト設置→しゃがコパ消費ワープでF式 (0:23) / 空中拾いコンボの大Pヴィーハト設置はOD版も含めて投げられてOK (0:30)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "725048f9d669",
+    "category": "combo",
+    "topic": "画面端でのODトルバランSA2入れ替え",
+    "content": "画面端でJPが立ち大KターゲットコンボからODトルバランを繋ぎ、SA2で入れ替えを狙ってくる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "画面端でJPが立ち大KターゲットコンボODトルバランSA2を使ってきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:38",
+    "source_quote": "画面端での大KタゲコンODトルバランSA2で入れ替え",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d4b6267ad75",
+    "category": "combo",
+    "topic": "ODヴィーハトからの強ストリボーグセットプレイ",
+    "content": "JPの強ストリボーグから前ステップ、ドライブラッシュ、弱大K、弱トリグラフ、ODヴィーハトと繋ぐと、+7F有利のセットプレイとなり、しゃがみ中足や中段も埋まって追撃できる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "terry",
+    "situation": "JPが強ストリボーグからのセットプレイを仕掛けてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "09:02",
+    "source_quote": "強ストリボーグから前ステラッシュ弱大K弱トリグラフ→ODヴィーハトは+7Fで中足も中足も中段も埋まって追撃できるセットプレイ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "300",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

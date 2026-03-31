@@ -1,0 +1,530 @@
+[
+  {
+    "id": "166ac30ef072",
+    "category": "neutral",
+    "topic": "扇空対空の有効性",
+    "content": "扇を使った空対空はリターンが非常に高いです。しかし、距離とタイミングが難しいため、実戦で使うのは厳しいです。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "空対空",
+    "source_video_id": "cWGINocAfVE",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダン舞コンボ動画】基本コンボからオタクコンボまで解説",
+    "source_timestamp": "12:02",
+    "source_quote": "扇の空対空はリターンがとにかく高い 距離とタイミングが難しい関係上、実戦では厳しい",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:47:20.996346",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e1e61301e25",
+    "category": "neutral",
+    "topic": "飛燕連脚の飛び込み方",
+    "content": "飛びたい場合は、めくりなどから弱Kを連打して飛燕連脚を繰り出すと良い。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "飛び込みたい時",
+    "source_video_id": "Sbbp3nH0JMA",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "For those who don't know what to do!! Mai's Movement Lesson! [Street Fighter 6/Pugera]",
+    "source_timestamp": "00:06",
+    "source_quote": "飛びたい人は、めくりとかから、とりあえずこの弱K連打の飛燕連脚をやってみるといいと思う！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:35:02.180360",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "203"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89947608d760",
+    "category": "neutral",
+    "topic": "ラッシュ後の攻め方",
+    "content": "SA1発動後は、強飛び道具を撃ってからラッシュ中段を仕掛けたり、爆速ラッシュで投げに行く。また、立ち中Pにラッシュを仕込んだり、中足ラッシュをくっつけたり、大パンチを狙うのも有効。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "SA1発動後、ラッシュ時",
+    "source_video_id": "Sbbp3nH0JMA",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "For those who don't know what to do!! Mai's Movement Lesson! [Street Fighter 6/Pugera]",
+    "source_timestamp": "02:40",
+    "source_quote": "SA1発動したら、まあ一発ぐらいね、この強い飛び道具打っといてやって、颯爽と追いかけてラッシュ中段を仕掛けたり、爆速ラッシュで投げ行ったりしつつ、こんな感じで大パンチを狙ったり、立ち中Pにラッシュを仕込んだり、中足ラッシュをくっつけに行ったりして。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:35:02.180360",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "109",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "231281d18a69",
+    "category": "neutral",
+    "topic": "龍炎舞の使い分けとインパクト対策",
+    "content": "リーチが欲しい時は立ち大Kを振り、弱龍炎舞や中龍炎舞の先端当てを利用する。中龍炎舞は飛びに弱いが、弱龍炎舞は飛びに強い。弱龍炎舞はインパクトに弱いので注意が必要だが、中龍炎舞は見てからインパクトを狙いづらい。相手の動きを見て使い分ける。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "間合い管理、飛び道具対策",
+    "source_video_id": "Sbbp3nH0JMA",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "For those who don't know what to do!! Mai's Movement Lesson! [Street Fighter 6/Pugera]",
+    "source_timestamp": "03:06",
+    "source_quote": "リーチが欲しくなったらこうやって立ち大Kを振ったり、弱龍炎舞の先端、だけじゃなくて中龍炎舞の先端もね、全然これかなり厄介だと思うんで使われたら先端を当てるとかなりリーチが長い感じで使えていいと思います。中龍炎舞は飛びに弱いんですけど、弱はむしろ飛びに強くて。で、弱はインパクトにすごい弱いんよね！ インパクトがすごい確りやすい。だけど中はね、むしろ見てからインパクトとか打っちゃうと結構確りづらいんすよ！",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:35:02.180360",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "328",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce21d396da1b",
+    "category": "neutral",
+    "topic": "牽制技の活用",
+    "content": "相手が攻めてこない距離で、立ち中Pや立ち大P、しゃがみ中Kなどの牽制技を使い、相手の技に差し返されないギリギリの距離で振ることで、自分の攻撃判定の強さを活かすことができます。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "遠距離での立ち回り",
+    "source_video_id": "ojubHuEfTak",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "If you use Mai, stop that combo now and use this one, it will be easier to win. MR1350 Mai's Repl...",
+    "source_timestamp": "13:08",
+    "source_quote": "もうちょっと露骨にちょっと遠くぐらいこのぐらい。さすがに当たりませんぐらいのとこで振るとこの判定がすごく生きてくれます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:48:06.906112",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cc45ab63dabc",
+    "category": "neutral",
+    "topic": "強化されたムササビの活用",
+    "content": "弱Kタゲコンからのムササビは、SAストックがある場合に強化されます。ムササビを頂点でガードさせても-4Fで済み、さらにムササビを遅らせて足元に当てることで有利フレームを取ることができ、攻めを継続できます。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "SAストックあり",
+    "source_video_id": "dbe7IX8v_o8",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Mai Lesson] If you use Mai, just remember this! Set plays and combos! [Beginner...",
+    "source_timestamp": "08:23",
+    "source_quote": "ムササビが強化される。頂点でガードさせても-4Fで足元なら有利フレームを取れる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:48:55.904740",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57e6e949f469",
+    "category": "neutral",
+    "topic": "溜め無し花蝶扇の基本的な使い方",
+    "content": "溜め無しの花蝶扇は、弱・中・強を使い分けて通常の飛び道具として使用します。ダメージ目的だけでなく、ドライブゲージ回復の時間を稼ぐ目的でも有効です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "i33_mbX7poY",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【舞】花蝶扇の使い方はこれ一本でいい！基礎,コンボ,対策への対策まで徹底解説 モダンクラシック両対応【スト6】【かちょうせん】",
+    "source_timestamp": "00:30",
+    "source_quote": "まず溜め無し花蝶扇の使い方は、大きく分けて2つです。1つ目は、弱中強を使い分けて普通の弾のように使うことです。ダメージ目的としてもドライブゲージ回復のための時間稼ぎとかにも使えます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:40:40.196817",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "157e12bf697e",
+    "category": "neutral",
+    "topic": "溜め無し花蝶扇の弱点",
+    "content": "溜め無し花蝶扇は、ダメージが500と低く、全体フレームも48Fと決して優秀ではありません。相手の打撃や通常の飛び道具にも一方的に負けてしまいます。これは、ケンやリュウの波動拳と比較しても性能が劣ります。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "i33_mbX7poY",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【舞】花蝶扇の使い方はこれ一本でいい！基礎,コンボ,対策への対策まで徹底解説 モダンクラシック両対応【スト6】【かちょうせん】",
+    "source_timestamp": "01:21",
+    "source_quote": "ですが、この弾は弱い点が4つあって、最弱レベルの弾です。弱い点の1つ目がダメージが低い（500）。例えばケンの波動拳は600ダメージ、豪鬼とかリュウの波動拳は700ダメージ。2つ目、この花蝶扇は全体フレームが48フレームと、ダメージが少ないからと隙が小さい技でもありません。例えばケンの波動拳は49フレーム。リュウの波動拳は47フレームなので、全く優秀ってわけじゃないです。そして3つ目、なんと相手の打撃に簡単に壊されてしまいます。4つ目、なんと相手のノーマル弾にも一方的に負けてしまいます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:40:40.196817",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a183e7afdbb7",
+    "category": "neutral",
+    "topic": "ストックによる花蝶扇の強化",
+    "content": "溜め無し花蝶扇は、ストックがあることで性能が大幅に向上します。ダメージが600に増え、全体フレームが45Fに短縮されます。さらに、相手の打撃に勝てるようになり、通常の飛び道具にも勝てるようになります（実質OD弾状態）。そのため、ストックを溜めることが非常に重要です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "i33_mbX7poY",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【舞】花蝶扇の使い方はこれ一本でいい！基礎,コンボ,対策への対策まで徹底解説 モダンクラシック両対応【スト6】【かちょうせん】",
+    "source_timestamp": "01:59",
+    "source_quote": "この4つの弱点は実は非常に有効な対策があって、それはストックを溜めることです。ストックがあるとダメージが600に増えて、全体フレームも48フレームから45フレームになって3フレーム隙が減ります。相手の打撃にも負けなくなります。相手の弾にも勝てるようになります。こんな感じでストックがあると最弱クラスだった溜め無し花蝶扇が一気に断トツ最強の弾になるのでストックを溜めるのが大事になるというわけです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:40:40.196817",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "569db1fad857",
+    "category": "neutral",
+    "topic": "溜め花蝶扇撃ち方と対策",
+    "content": "強Pからキャンセルして溜め花蝶扇を出すのは有名ですが、相手にはインパクトとジャンプ攻撃という2つの対策があります。溜め無し弱花蝶扇を混ぜることで、インパクトへの反撃やジャンプ攻撃を潰せるため、相手にリスクを与えられます。ただし、溜め花蝶扇と溜め無し花蝶扇の見分けは難しいです。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "i33_mbX7poY",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【舞】花蝶扇の使い方はこれ一本でいい！基礎,コンボ,対策への対策まで徹底解説 モダンクラシック両対応【スト6】【かちょうせん】",
+    "source_timestamp": "04:33",
+    "source_quote": "そしてここから溜め花蝶扇とOD花蝶扇の話にいくんですが、溜め花蝶扇については撃つ段階でも大事なことがあるのでそこを紹介します。溜め花蝶扇を撃つ方法として、この強パンチからキャンセルで出すのが有名ですが、これは相手としては有効な対策が主に2つあって、それがこのようにインパクトを押すことと、このようにジャンプ攻撃をすることなんですね。そしてここでさっき紹介した強パンチから溜めない花蝶扇に繋げる時の話に戻るんですが、強パンチから強化花蝶扇に繋げてしまうと、連続ガード、いわゆる連ガになるんですね。この連ガになることの何が悪いかというと、相手が強パンチをガードした後にインパクトを連打していても、このように溜めない花蝶扇にした時は連ガになるのでインパクトが出ないし、溜めていた時は連続ガードじゃないのでインパクトが出るっていう結構安全な対策になってしまうんですね。これはジャンプ攻撃も同様です。そこでさっき紹介したように弱花蝶扇にすると、このようにインパクトを返せるので、相手はインパクトのリスクを背負うことになるし、ジャンプ攻撃もこのように潰せます。一応強パンチから相手がしっかり溜めたのを見てからジャンプ攻撃とかすれば、一応対策はできるんですが、実戦でこの溜め花蝶扇と溜め無し花蝶扇を見分けるのは結構難しいので、強パンチからはしっかり弱花蝶扇も混ぜるのが大事です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:40:40.196817",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c0146808f739",
+    "category": "neutral",
+    "topic": "溜め花蝶扇を安全に撃てる場面",
+    "content": "OD花蝶扇は、中足、中P、弱攻撃からも安全に出せます。コンボを強龍炎舞・弱忍蜂で締めた後、または弱忍蜂後受け身を取る相手に対しては安全に溜め花蝶扇を撃てます。投げ後受け身を取る相手にも安全ですが、その場受け身を取られるとジャンプ攻撃が確定するので注意が必要です。対空成功後や飛翔龍炎陣でコンボを締めた後、OD龍炎舞→SA1後、SA1対空後も安全に撃てます。ただし、リーチの長いSA3などには負けるので注意が必要です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "i33_mbX7poY",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【舞】花蝶扇の使い方はこれ一本でいい！基礎,コンボ,対策への対策まで徹底解説 モダンクラシック両対応【スト6】【かちょうせん】",
+    "source_timestamp": "05:53",
+    "source_quote": "次に溜め花蝶扇を安全に投げれる場面について紹介します。立ち回りで撃つのは、なかなか隙の大きい技なのでリスクがありますが、特定の状況では結構安全に投げることができます。まずさっきはリスクがあると言った中足とか中パンチからOD花蝶扇なら安全に投げることができます。もちろん強パンチからこのように投げてもいいです。そして溜め花蝶扇を安全に投げれる場面の1つ目が、コンボを強龍炎舞、弱忍蜂で締めた後、この後は結構安全に投げれます。2つ目、コンボを弱忍蜂で締めた後に受け身を取る相手に対しては安全に投げれます。相手が起き上がりにジャンプ攻撃をしてきても、このように対空が間に合います。ただその場受け身をする相手には、このように負けてしまうので注意です。3つ目が投げのあとを受け身を取る相手に対しては安全に投げれます。ただその場受け身をされると、こんな感じで相手のジャンプ攻撃が確定してしまうので注意です。4つ目は対空後、安全に投げれます。また画面端が近い時とかに、コンボを強昇龍炎陣で締めた時も安全に投げれます。5つ目、コンボOD龍炎舞SA1後、安全に溜め花蝶扇を投げれます。またSA1で対空が成功したあとも、安全に投げれます。ただ安全とは言っても、キャミィのSA3みたいにリーチの長い無敵技を持っていると、普通に負けるので注意してください。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:40:40.196817",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109",
+      "313",
+      "330",
+      "332"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1655ef32c1c4",
+    "category": "neutral",
+    "topic": "立ち回りの基本",
+    "content": "舞の基本的な立ち回りは、しゃがみ中K、立ち大P、立ち中Kといった通常技を歩いて当てに行くか、ラッシュで相手に触りに行くことです。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "4JBvAUgLFik",
+    "source_channel": "あかさか ゆっくり実況",
+    "source_video_title": "【スト6】最新版、誰でも今日から舞使いになれる、とりあえず覚えるべき立ち回りとコンボを徹底解説！【ゆっくり実況】",
+    "source_timestamp": "00:40",
+    "source_quote": "基本的に、しゃがみ中Kや立ち大P、立ち中Kなんかを歩いて当てにいくか、中P系統を置くかで立ち回る。ラッシュで相手に触りに行ったりするのですが",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:24:27.183311",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4996fdb0402e",
+    "category": "neutral",
+    "topic": "OD花蝶扇を活用した立ち回り",
+    "content": "舞の立ち回りの主軸はOD花蝶扇です。中距離でOD花蝶扇がヒットした場合、ラッシュ→弱K→立ち中P→立ち大P→強龍炎舞と繋げることができます。相手がしゃがみ状態の場合は、強忍蜂（クラシック）または弱忍蜂（モダン）で〆ます。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "ドライブゲージに余裕がある中距離",
+    "source_video_id": "4JBvAUgLFik",
+    "source_channel": "あかさか ゆっくり実況",
+    "source_video_title": "【スト6】最新版、誰でも今日から舞使いになれる、とりあえず覚えるべき立ち回りとコンボを徹底解説！【ゆっくり実況】",
+    "source_timestamp": "00:51",
+    "source_quote": "それがこのOD花蝶扇です。舞といえばのこのOD花蝶扇、これを主軸に基本的にに立ち回っていきます。ドライブゲージの状況や、相手との間合いによってこのあとに何をするか変わってきます。ドライブゲージに余裕があり、中距離くらいの位置であればラッシュ小足。最後の強龍炎舞コンボは、しゃがんでいる相手には当たらないため、しゃがみの場合は強忍蜂、モダンは弱忍蜂で〆る。(一時停止推奨) 小足がヒットしていた場合は立ち大Pが繋がります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:24:27.183311",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "107",
+      "313",
+      "330"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c9596cdbb09f",
+    "category": "neutral",
+    "topic": "OD花蝶扇からの起き攻め",
+    "content": "ドライブゲージを使いたくない場合や、中距離からの攻めでは、OD花蝶扇ヒット後に前ステップで接近することで、ヒット時はコンボ、ガード時は固め性能の高い状況を作れます。ヒット時にドライブゲージを回収できるのも利点です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "4JBvAUgLFik",
+    "source_channel": "あかさか ゆっくり実況",
+    "source_video_title": "【スト6】最新版、誰でも今日から舞使いになれる、とりあえず覚えるべき立ち回りとコンボを徹底解説！【ゆっくり実況】",
+    "source_timestamp": "02:04",
+    "source_quote": "中距離のOD花蝶扇は、ラッシュのゲージを使いたくない場合は前ステ大Pで固めにいけます。ヒット時はコンボになり、コンボ中ゲージ回収もできるのでとおればかなり強い選択肢です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:24:27.183311",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c076e5883fa7",
+    "category": "neutral",
+    "topic": "通常技の使い分け",
+    "content": "立ち中Pは置き技として使い、中足、大P、大Kなどは相手に触りに行く技として使用します。これらの技は空振りを避け、相手にガードさせる気持ちで振ることが重要です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "4JBvAUgLFik",
+    "source_channel": "あかさか ゆっくり実況",
+    "source_video_title": "【スト6】最新版、誰でも今日から舞使いになれる、とりあえず覚えるべき立ち回りとコンボを徹底解説！【ゆっくり実況】",
+    "source_timestamp": "02:16",
+    "source_quote": "通常技は、基本的には立ち中Pは置技として 中足、大P、大Kなんかを相手に触りにいく技として使っていきます。当てに行いく技に関しては、なるべく空振らせずに、相手にガードさせにいくくらいの気持ちで、しっかり当てに行きたいところです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:24:27.183311",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ccaf94b8d6dc",
+    "category": "neutral",
+    "topic": "ドライブゲージ管理",
+    "content": "相手にOD花蝶扇や中足ラッシュからの攻めを凌がれた場合、大P、大K、中Kなどをガードさせることでドライブゲージを回復するか、下がって待つことでゲージを回復させ、再びOD花蝶扇やラッシュで攻めていくのが基本戦術です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "OD花蝶扇や中足ラッシュの攻めを凌がれた場合",
+    "source_video_id": "4JBvAUgLFik",
+    "source_channel": "あかさか ゆっくり実況",
+    "source_video_title": "【スト6】最新版、誰でも今日から舞使いになれる、とりあえず覚えるべき立ち回りとコンボを徹底解説！【ゆっくり実況】",
+    "source_timestamp": "03:05",
+    "source_quote": "OD花蝶扇での攻めを凌がれてしまった場合は、ドライブゲージを大Pや大K、中Kなどをガードさせたり、下がって待ったり等でしっかり回復させてから次のOD花蝶扇やラッシュにゲージを使います。基本的にはこれを繰り返して立ち回っていく。これを繰り返していくのが基本戦術になります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:24:27.183311",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "544e513a04d3",
+    "category": "neutral",
+    "topic": "立ち中Pを軸にした立ち回り",
+    "content": "舞の立ち中Pは発生8F、全体26F、硬直差-4Fというフレームで、リーチが長いわりに硬直が短いため、差し返しや置き技として非常に優秀です。相手にプレッシャーをかけ続け、ケンなど通常はしゃがみ中Kを中足で差し返すような相手にも、立ち中Pで差し返して補正の少ない大ダメージコンボを狙うことができます。相手が攻めてこないように牽制する「来るな」の置き技としても強いです。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、差し合い、起き攻め",
+    "source_video_id": "MiXwthn9GMw",
+    "source_channel": "おらりん",
+    "source_video_title": "舞の立ち回りで意識する事3選！【スト6/STREET FIGHTER 6】#スト6 sf6 #舞  #解説",
+    "source_timestamp": "00:17",
+    "source_quote": "結構自分、立ち中パンチで戦うんですけど、この立ち回り。発生が8フレで、全体フレームがリーチに対して結構短くて結構優秀なんですよね。これを差し返しと置きで結構使いやすい。すごいプレッシャーを相手にかけて、ケンの中足キックって大体のキャラって中足で差し返すんですけど、舞は立ち中Pで差し返せるんで補正が少なく大ダメージも狙えるって感じですね。あとはこんな感じで「来るな」みたいな置きでも強いんで、他のことを散らしながら立ち中Pぶんぶん。すごく強いんで使っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:47:56.430717",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b3be9adc41e",
+    "category": "neutral",
+    "topic": "花蝶扇による牽制と読み合い",
+    "content": "舞の弱花蝶扇と強花蝶扇はモーションが非常に似ているため、相手はどちらのバージョンが飛んできたか見分けがつきにくく、ジャストパリィされづらいという利点があります。さらに、OD花蝶扇の存在があるため、ノーマル花蝶扇に対してドライブインパクトを合わせるのが難しくなります。この性質を利用して、ノーマル花蝶扇で相手を押し返し（玉持たざる相手に対して前歩きを抑制）、前歩きしてきた相手には中足や大パンチで確認してダメージを取ることができます。歩いてきたところにOD花蝶扇を重ねるなど、様々な仕掛けで有利な状況を作ることができます。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": "遠距離、中距離",
+    "source_video_id": "MiXwthn9GMw",
+    "source_channel": "おらりん",
+    "source_video_title": "舞の立ち回りで意識する事3選！【スト6/STREET FIGHTER 6】#スト6 sf6 #舞  #解説",
+    "source_timestamp": "01:42",
+    "source_quote": "舞の化蝶扇、すごい強い技やなと思ってて。理由が二つあるんですけど、一つ目は、弱花蝶扇と強花蝶扇の見分けがすごいつきづらいっていうのが、一つ目の強みやなと思ってて。ケンの波動拳やと結構分かりやすいんですけど、舞の玉ってなんかモーションがすごい弱も強も一緒で、見分けられないんですよね、これ。だからまずジャスパラッシュがされづらいと。二つ目の理由なんですけど、シンプルにOD花蝶の存在ですね。このOD花蝶があるおかげで、ノーマル花蝶にインパクトが合わせづらい。玉持ちであってもOD花蝶怖いから、こんな感じでノーマル花蝶で押していけるみたいな感じですね。あとは花蝶扇ってやっぱ玉なんで、こんな感じで玉持ってない相手とかには結構前歩きさせたりできるんで、歩いてきたところに中足やったり、大パンチで確認していくのも強いし、OD花蝶もあるんで、その歩いてきたところにOD花蝶、『ボン』みたいな感じもあって色々ね、仕掛けれることが多いんですよね、舞は。そこが舞の花蝶扇の強みかなって思いますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:47:56.430717",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "301",
+      "309",
+      "313",
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "bdfa0ac8cf4e",
+    "category": "matchup",
+    "topic": "ケンSA2確定反撃",
+    "content": "ケンのSA2(紅蓮炎迅脚)をガード後、硬直差が+5Fだが、確定反撃は存在しない。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "ken",
+    "situation": "ケンSA2ガード後（+5F）",
+    "source_video_id": "7XSEFUeiKpA",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+    "source_timestamp": "01:23",
+    "source_quote": "ケン SA2 +5F 確定無し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:30:23.395952",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11d44f211ac2",
+    "category": "defense",
+    "topic": "OD昇龍拳への対処",
+    "content": "ケンがOD昇龍拳（OD昇竜拳）を放ってきた際、マリーザ側はガードしてDゲージを削る選択肢がある。相手のDゲージが削れれば、下段からのラッシュ頻度を下げさせることができる。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "ken",
+    "situation": "相手がOD昇竜拳（OD昇竜拳）を放ってきた際",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "04:25",
+    "source_quote": "ケンさんのOD昇龍は意外と打たせてもいいのかもしれません。その分バーンアウトの確率が増えて、下段からのラッシュの頻度が下がるなら、甘んじて受け入れましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f77f04ea6e8c",
+    "category": "neutral",
+    "topic": "ケン戦での遠距離ドライブインパクト",
+    "content": "ケン戦で相手が遠距離でDゲージ回復のために竜巻旋風脚（リュウビキャク）などで固めてくる場合、マリーザはドライブインパクト（インパクト）を警戒し、カウンターを狙うことも有効。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "ken",
+    "situation": "ケンがリュウビキャクで固めてDゲージ回復を狙う遠距離の状況",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "04:39",
+    "source_quote": "お相手のDゲージが少ないがリュウビキャクから固めて回復しちゃうな。あの距離はインパクトを用意してもいいかもしれないですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

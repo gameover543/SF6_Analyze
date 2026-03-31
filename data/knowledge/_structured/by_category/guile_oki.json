@@ -1,0 +1,420 @@
+[
+  {
+    "id": "c4a88ffd9b83",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "画面端で相手を追い詰めた際は、投げとしゃがみ中Kを適当に使い分けましょう。ガイルには柔道はないので、相手の行動を見て中足ターゲットコンボや投げ、または他の選択肢を試すことも有効です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端での起き攻め",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "02:47",
+    "source_quote": "このキャラは柔道がないので、適当でいいよ。中足タゲコン。投げ。ほかのことをしてもいいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d3723c376225",
+    "category": "oki",
+    "topic": "画面端の投げループと起き攻め",
+    "content": "画面端で投げを決めた後、パリィボタンを押しながら前方向を連打することでドライブラッシュが発動し、すぐに再度投げを決める投げループが可能。相手が投げ抜けを試みた場合は、ドライブラッシュからしゃがみ弱攻撃でコンボに繋がる。相手が無敵技で暴れた場合は、ドライブラッシュは使わずにガードで様子見して確定反撃を狙う。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端で投げた後、相手の起き上がり",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "01:47",
+    "source_quote": "ガイルは画面端で投げを決めるとそれをループさせることが可能 やり方は画面端で投げたあとパリィボタン押ししながら→を連打するとドライブラッシュが発動するのでですぐ投げる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e1b37b623dd",
+    "category": "oki",
+    "topic": "画面端でのソニックブレード起き攻め",
+    "content": "画面端でサマーソルトキックなどで相手をダウンさせた後、弱ソニックブレイドを相手の起き上がりに重ねると非常に有利な状況になる。この有利状況を利用して、投げに行ったり、壁貼り付けを狙ったドライブインパクトなど、様々な攻めを展開できる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端でサマーソルトキックでダウンさせた後",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "02:43",
+    "source_quote": "サマーソルトキックなどでダウンを奪ったあとニ弱ソニックブレイド（必）を出すと相手の起き上がりにソニックブレイドがいい感じに重なって超有利な状況になるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "314",
+      "400",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "616edfc82893",
+    "category": "oki",
+    "topic": "サマーソルトキック後の起き攻め",
+    "content": "中央でサマーソルトキックを当てた場合、基本は弾撃ちで起き攻めを行う。画面端が近い場合はキャンセルラッシュで起き攻めに行ける。おすすめはキャンセルラッシュからの立ち中Pや立ち中Kで、これらがヒットしていた場合はしゃがみ中Pから強サマーソルトキックに繋がる。他にもキャンセルラッシュからの投げや様子見も強力。完全に画面端の場合は弱サマーソルトキック（弱ブレイド）を使うと、無敵をケアしつつ起き攻めができるためおすすめ。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "サマーソルトキックヒット後",
+    "source_video_id": "JyC_8IUPeks",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ガイル使い方解説",
+    "source_timestamp": "00:54",
+    "source_quote": "中央の場合は弾打ちするのが基本なんだけど。画面端が近くなラッシュで起き攻めに行けるのだ。おすすめはR6中PかR中Kで。どちらともヒットしていた場合は2中P強サマソなのだ。他にもR投げやR様子見も強いのだ。あと完全画面端なら弱ブレイドが無敵をケアしつつ起き攻めできるのでおすすめなのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:25:26.094390",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "107",
+      "108",
+      "307",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "864fffa11456",
+    "category": "oki",
+    "topic": "起き攻めコンボ（理想ルート）",
+    "content": "理想的な起き攻めコンボは、ラッシュしゃがみ中P > 立ち中P > しゃがみ中P => サマーソルトキック (⇒ SA3（サマーソルトジャスティス）)です。このコンボの難易度は高いですが、習得できればラッシュ立ち中Pからのコンボにも発展させることができ、立ち強Pに繋ぐなど様々なコンボが可能になります。起き攻めで長距離を走るラッシュ立ち中Pは、相手に投げ抜けを許す距離になるため、他のコンボで対処します。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "01:20",
+    "source_quote": "まず理想の話\nラッシュ屈中P > 中P > 屈中P ⇒ サマー(⇒ SA3)\n難易度は高いので安定しなさそうならこれは諦めていい\nなんで有利Fが多いラッシュ中Pではないの？\n『ラッシュ直後の』ラッシュ中Pであれば投げが届く\nしかしラッシュ直後を過ぎたラッシュ中Pでは\n技中の滑りが短くなるので投げが届かない\nさっきの距離から\nわずかに離れると\nラッシュ中Pからの投げが届かない\nラッシュ中Pは有利Fが多いとはいえ\n歩かないと投げられないのであれば\n通常技暴れで割り込まれる\n起き攻め攻めでは長距離走るためラッシュ中Pだと困っちゃうわけね\nただしこのコンボが出来るようになれば\nラッシュ中Pからのコンボも出来るため\n強Pに繋げるなど様々なコンボに発展可能となる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "107",
+      "108",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "05bb185ced56",
+    "category": "oki",
+    "topic": "前投げ後の起き攻め",
+    "content": "前投げ後は、最速ラッシュしゃがみ中Kが5F空くため、相手キャラによっては相打ちに持ち込める技が存在します。ガイルが9F以上有利になるケースも少なくなく、その場合はしゃがみ強Kで連続技が可能です。ただし、一部の技で相打ちになった際に有利が8F以下の場合はしゃがみ中Kが届かずターンが終了することもあります。相手がラッシュしゃがみ中Kの対策を知らない場合は非常に強力です。\n相手キャラ別のラッシュしゃがみ中K対策：\n- ルーク: 屈弱P 8Fでサプレッサーでスカせる。\n- ジェイミー: 屈弱P、屈弱K 8Fで仙姑膝でスカせる。\n- マノン: 弱P 7F。\n- キンバリー: 対策無し。\n- マリーザ: 対策無し。\n- リリー: 弱Kが8F。\n- JP: 屈弱P 7F。\n- ジュリ: 弱P中K -3F。\n- DJ: ジョスクールでスカせる。\n- キャミィ: 中P 1Fでディレイリーパーでスカせる。\n- リュウ: 中P 2F。\n- 本田: 弱K 8F、屈弱P 7F。\n- ブランカ: 弱K 8F。\n- ガイル: 屈弱P 8F。\n- ケン: 屈弱P 8F。\n- 春麗: 中P 4F、弱K 弱Kは膝を止める！\n- ザンギエフ: 対策無し。\n- ダルシム: 対策無し。\n- ラシード: 弱P 9Fだが屈強Kが持続で到達するので間に合わない。弱K 8F。\n春麗は通常技でラッシュ膝を潰せる技が2つもあります。これは食らい判定がほぼ前進しない証拠です。ガードされた場合、ガイルは2F有利となり、その場から投げが届きます。ガード後の最速投げでさえ後退でスカせます。ガード後の暴れ潰しにはしゃがみ弱Pも有効です。前投げ後にしゃがみ中Kで触れるだけでも非常に強いです。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "前投げ後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "05:29",
+    "source_quote": "前投げ後の起き攻め\n最速ラッシュ最速膝\n5F空くのでダメそうだか\n相打ちに持ち込める技がキャラによってマチマチ\nそして相打ちに持ち込まれたとしても\nガイルが9F以上有利になるケースも少なくない\n9F有利なら屈強Kで連続技が可能\nただし一部技で相打ちになった際も有利が8F以下の場もあ\n屈中Kが届かないためこのような相打ちをされるとターン終了になる\nとはいえば相手が前投げラッシュ膝の対策を知らないと非常に強い\nちなみにラッシュ膝対策の技は上記\nキャラによって様々なのが分かる\nなので相手側の知識がしっかりないと対応無理って事ね\nお春さんだけが通常技でラッシュ膝を潰せる\nそれも二つもw\n食らい判定がほぼ前進しない証拠だねー\n前投げからのラッシュ膝がガードされた場合2F有利\nそのうえその場から投げが届く\nガード後の最速投げでですら\n後退ですかせえる\nガードされた後の暴れ潰し屈弱Pももちろん使う\nよって前投げ後に膝で触れるだけでもめちやくちや強い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "109",
+      "211",
+      "400",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ee6056f8b300",
+    "category": "oki",
+    "topic": "後ろ投げ後の起き攻め",
+    "content": "後ろ投げ後も、最速ラッシュしゃがみ中Kが有効です。最速で出しても3F空くものの、相打ちに持ち込める技は存在しないようです。無敵技のぶっぱなし以外には負けません。ガードされた場合でも3F有利です。前投げと同様にその場から投げが届きますが、後退すれば相手の最速投げをスカせます。こちらも膝で触れるだけで非常に強いです。ただし、一部のキャラ（本田、ブランカ、マリーザ、ザンギエフなど大きいキャラ）に対しては、最速で出すと2F空きとなり、ガード後の有利が2Fとなります。1Fと2Fの差は重要ですが、2Fと3Fの差はあまり影響しないので気にする必要はありません。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "後ろ投げ後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "06:52",
+    "source_quote": "後ろ投げ後の起き攻め\nまたもや最速ラッシュ最速膝\n最速で行っても3F空くのだが\n相打ちに持ち込める技は存在してないようだ\nなので無敵ぶっぱ以外には負けない\nガードされば場合には3F有利\n前投げ同様にその場から投げが届く\nしかし後退すれば相手の最速投げすらスカせる\nこちらも膝で触れるだけでめちゃくちゃ強い\nちなみに一部キャラには\n最速で行うと2F空けとなり\nガード後の有利が2Fとなる\n1Fと2Fの差であればめちゃくちゃ重要だが\n2Fと3Fの差はあんま影響しないので気にする必要無し\n影響ないので調べてないが\n恐らく本田ブランカマリーザザンギエフで起こりそう\nまるっこい二人でっかい二人\nこの4キャラはこういう現象が結構起こるので",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba7aa58b9f5a",
+    "category": "oki",
+    "topic": "画面端 壁ドンヒット時の起き攻め",
+    "content": "壁ドン時の起き攻めは、ガード時は最速で壁ドンしても問題ありませんが、ヒット時は低めで拾いましょう。コンボは屈中P => TC屈中P => 中サマーソルトキック > ジャンプ詐欺が有効です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、壁ドンヒット時",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "10:56",
+    "source_quote": "壁ドン 屈中P ⇒ TC屈中P ⇒ 中サマー > ジャンプ詐欺\nガード時の壁ドンは最速でも問題無いが\nヒット時の壁ドンは低めで拾う事",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0674617217d9",
+    "category": "oki",
+    "topic": "画面端 壁ドンヒット/ガード時の起き攻め",
+    "content": "壁ドン時、ヒットでもガードでも拾う高さは関係なく、屈強K => TC前斜め下強K => 強サマーソルトキック > 強SA1（ソニックハリケーン） > ラッシュジャンプ詐欺というコンボが有効です。SA1を使用するためダメージも高く、ゲージこそ使いますがそこから詐欺連携を仕掛けられるのは優秀です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、壁ドンヒット/ガード時",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "11:09",
+    "source_quote": "壁ドン 屈強K ⇒ TC 斜め下強K ⇒ 強サマー > 強SA1 > ラッシュジャンプ詐欺\nヒットガードどちらの壁ドンでも拾う高さ関係無し\nSA1を使っているのでダメージも高い\nゲージこそ使うがそこから詐欺れるのは優秀",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eda8d7732304",
+    "category": "oki",
+    "topic": "画面端 地上強サマーからの起き攻め",
+    "content": "画面端で地上にいる相手に強サマーソルトキックを当てた後、3F有利なので打撃や投げを重ねることができます。後退では投げをスカせないため注意が必要です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、地上強サマーソルトキック後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "12:09",
+    "source_quote": "画面端 地上の相手に強サマー > 強K\n3F有利なので打撃や投げ重ね\n後退では投げはすかせないので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "311",
+      "400",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98569dc09568",
+    "category": "oki",
+    "topic": "画面端 地上中サマーからの起き攻め",
+    "content": "画面端で地上にいる相手に中サマーソルトキックを当てた後、立ち中Pの攻撃判定最終F重ねが可能です。後退すれば最速投げをスカすことができます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、地上中サマーソルトキック後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "12:19",
+    "source_quote": "画面端 地上中サマー > 中K > 中P or 後退\n中Pの攻撃判定最終F重ね\n後退すれば最速投げもすかせる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "107",
+      "309",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c2e1845885af",
+    "category": "oki",
+    "topic": "画面端 SA1からの起き攻め",
+    "content": "画面端で何かから強SA1（ソニックハリケーン）に繋いだ後、ODサマーソルトキック > 屈中K (2～5F有利)に繋げることができます。これは地上ヒットでも空中ヒットでも構いません。ODサマーソルトキックは引きつけて出さないとダメージが180低下します。引きつけずに出すと有利が5Fですが、引きつけるほど有利フレームが減っていきます。2～5F有利なので、打撃や投げを重ねることができます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、強SA1ヒット後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "12:39",
+    "source_quote": "画面端 何かから ⇒ 強SA1 ⇒ ODサマー > 屈中K 2～5F\n地上ヒットでもいいし\nコンボからの空中ヒットでもいい\nODサマーはひきつけて出さないとダメージ180低下\nひきつけずに出すと有利5F\nひきつける程有利Fが減っていく\n2～5F有利なので打撃や投げを重ねられる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "313",
+      "400",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f039e5dd7bdf",
+    "category": "oki",
+    "topic": "画面端 TC空キャンセルブレイドからの起き攻め",
+    "content": "画面端で（ラッシュ立ち中P） > 立ち中P => TC立ち強P 空キャンセル => 中ブレイド、強ブレイド、またはODブレイドに繋げることができます。立ち中Pから立ち強Pへのターゲットコンボは、立ち強P発生前にキャンセルが可能です。この空キャンセルをすることで、後退した位置から必殺技を出すことができます。これにより、ブレイドを設置した上で、それを盾に中段を仕掛けるなど、様々な起き攻めが可能になります。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "画面端、コンボ後",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "13:21",
+    "source_quote": "画面端（ラッシュ中P） > 中P ⇒ TC強P 空キャンセル\n⇒ 中 or 強 or ODブレイド\n中Pから強PのTCは強P発生前にキャンセルが出来る\nこの空キャンセルをすると後退した位置から必殺技が出せる\nこれによりブレイドが設置出来るうえに\nこれを盾に中段をしてみたりなど色々",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e6a82f86312",
+    "category": "oki",
+    "topic": "F式（ジャンプ強攻撃 > 登り弱P）",
+    "content": "F式は、ジャンプ強攻撃 > 登り弱Pです。登りジャンプ弱攻撃はしゃがんでいる相手には当たりません。立ちガードとしゃがみガードを切り替えれば1Fで切り替わりますが、食らい判定自体はすぐに切り替わるわけではありません。そのため、ジャンプ強攻撃で長い硬直を得れば、登り弱攻撃がしゃがみガードした相手に当たるようになります。これは見てから反応不可能な中段攻撃となります。相手の体力が弱一発で倒しきれる時には有効な手段となります。応用として、ラッシュ屈弱P > 中P > 中P => TC強P空キャンセル => 強ブレイドジャンプ > 強攻撃 > 登り弱Pというコンボもあります。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "13:48",
+    "source_quote": "F式 ジャンプ強攻撃 > 登り弱P\n登りジャンプ弱攻撃はしゃがんでいる相手には当たらない\n立ちガードとしゃがみガードを切り替えれば1Fで切り替わる\nしかし食らい判定自体はすぐに切り替わるわけではない\nそのためジャンプ強攻撃で長い硬直を得れば\n登り弱攻撃がしゃがみガードした相手に当たる\n見てから反応不可能な中段となる\n弱一発で倒しきれる時には使える事もある\nF式 ラッシュ屈弱P > 中P > 中P ⇒ TC強P空キャンセル\n⇒強ブレイドジャンプ > 強攻撃 > 登り弱P\nこれは応用",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

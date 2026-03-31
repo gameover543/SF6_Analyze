@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "c6b93f47853d",
+    "category": "matchup",
+    "topic": "JPのBO中のノーマルアムネジア",
+    "content": "JPがバーンアウト中にノーマルアムネジアを出した場合、テリーの小パンがヒットするとJP側が+7～8F有利となり、そのまま立ち大P→ドライブインパクトが確定する。小足がヒットした場合でも、テリーの大PとJPの小パン暴れが相打ちになることがある。",
+    "characters": [
+      "jp",
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがBO中にノーマルアムネジアを使用し、テリーの小攻撃がヒットした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:22",
+    "source_quote": "JPがBO中、小パンがノーマルアムネジアで取られた場合+7~8Fなのでそのまま立ち大P→インパクトが確定する、小足が取られても大Pが小パン暴れと相打ち",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8cb8ff037bf",
+    "category": "combo",
+    "topic": "空中拾い大P→ODヴィーハト後の連携",
+    "content": "JPが空中拾い大PからODヴィーハトを繋いだ後は、トリグラフを持続させつつ埋めて+2F有利から小パン、中段、下段の連携が可能。最善はトリグラフを見てからジャストパリィ、次点で中下段に合わせたドライブリバーサル。",
+    "characters": [
+      "jp",
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが空中拾い大PからODヴィーハトを繋いだ時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:07",
+    "source_quote": "空中拾い大P→ODヴィーハトの後はトリグラフ持続埋めて+2Fからコパ中下 (0:07) / 最善はトリグラフを見てからジャスパ、次点で中下段に合わせてもDリバ (0:16)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f85e8f04b96e",
+    "category": "matchup",
+    "topic": "立ち中Pガード後",
+    "content": "テリーがJPの立ち中Pをガードした際、硬直差は-6Fだが、よほどめり込んでいない限り確定反撃は無い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの立ち中Pをガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:02",
+    "source_quote": "立ち中P: -6F、よほどめり込まないと確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe161f0ef696",
+    "category": "matchup",
+    "topic": "大足ガード後",
+    "content": "テリーがJPの大足をガードした際、硬直差は-6Fだが、よほどめり込んでいない限り確定反撃は無い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの大足をガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:06",
+    "source_quote": "大足: -6F、よほどめり込まないと確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0319fcda05a1",
+    "category": "matchup",
+    "topic": "3大Pガード後",
+    "content": "テリーがJPの3大Pをガードした際、硬直差は-14F。先端でガードした場合、テリーの大Kは届かないが、SA1なら確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの3大Pをガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:11",
+    "source_quote": "3大P: -14F、先端だと大Kが届かない。SA1なら確定。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2a2f5ae289cc",
+    "category": "oki",
+    "topic": "前投げ後のODアムネジア",
+    "content": "JPが前投げ後、相手が場受けした場合、ODアムネジアには確定反撃がないが、テリーのSA1なら確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの前投げ後の場受けにODアムネジアを重ねてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:21",
+    "source_quote": "前投げの後の設置は場受けでラッシュしゃがみ中P確定 (0:21) / OD設置には確定がないが、SA1なら確定 (0:44)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0a631ee55dc2",
+    "category": "oki",
+    "topic": "前投げ後のトリグラフ重ね",
+    "content": "JPが前投げ後、場受けにトリグラフを重ねてきた場合、ジャストパリィできればラッシュしゃがみ中足が確定する。トルバランであればすり抜けられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの前投げ後の場受けにトリグラフを重ねてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:28",
+    "source_quote": "この時、トリグラフ重ねをジャスパするタイミングでパリィし、ジャスパ出来たらラッシュ中足確定、トルバランの場合はすり抜けられる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "423a8c9e8f39",
+    "category": "oki",
+    "topic": "後ろ投げ後の設置",
+    "content": "JPが後ろ投げ後、相手が場受けした場合、SA1でも確定反撃にはならないが、遅らせたラッシュしゃがみ中足で触ることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの後ろ投げ後の場受け",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:48",
+    "source_quote": "後ろ投げ後の設置はSA1でも確定しないが、遅らせラッシュ中足で触れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5fc69cf133bd",
+    "category": "oki",
+    "topic": "SA2/SA3/CA後の設置",
+    "content": "JPのSA2後はラッシュ大Pが、SA3やCA後はSA1が、それぞれ場受けした相手に確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのSA2/SA3/CA後の場受け",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:55",
+    "source_quote": "SA2の後の設置はラッシュから大Pも入る (0:55) / SA3・CAの後の設置はSA1が確定 (0:59)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "401",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1fab594dce53",
+    "category": "matchup",
+    "topic": "弱/中ストリボーグガード後",
+    "content": "テリーがJPの弱ストリボーグ(-10F)または中ストリボーグ(-8F)をガードした場合、近い距離であればしゃがみ中足が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの弱/中ストリボーグをガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:06",
+    "source_quote": "弱ストリボーグ: -10F、中ストリボーグ: -8F、近いと中足確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f841c93c92c9",
+    "category": "matchup",
+    "topic": "強ストリボーグガード後",
+    "content": "テリーがJPの強ストリボーグ(+4F)をガードした際、攻撃判定が2段階あるため、差し返しではなくドライブインパクトを狙うのが効果的。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの強ストリボーグをガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:14",
+    "source_quote": "強ストリボーグ: +4F、攻撃判定が2段階あるので差し返しよりインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7d9023945485",
+    "category": "matchup",
+    "topic": "通常技キャンセルストリボーグ",
+    "content": "JPが通常技からストリボーグをキャンセルで出した場合、テリーは見てからドライブインパクトで確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが通常技キャンセルストリボーグを出した時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:21",
+    "source_quote": "通常技からのストリボーグは見てからインパクトが確定する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9edc87180f67",
+    "category": "matchup",
+    "topic": "ストリボーグジャストパリィ後",
+    "content": "テリーがJPのストリボーグ（全強度）をジャストパリィできた場合、ドライブインパクトまたはしゃがみ中Pが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのストリボーグをジャストパリィした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:26",
+    "source_quote": "ジャスパした場合、全ての強度でインパクトやしゃがみ中Pが確定する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39c9d1dacb8d",
+    "category": "neutral",
+    "topic": "トルバラン対策",
+    "content": "JPのトルバランは、中央を越えてきたもののみパリィし、隙を見てラッシュ攻撃で攻める。開幕位置程度の距離で飛び道具を連発してきた場合は前ジャンプで対応する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがトルバランを放ってきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:33",
+    "source_quote": "シューティングは中央を越えてきたトルバランのみパリィし、隙を見てラッシュ攻撃する (0:133) / 開幕位置くらいの距離で飛び道具が多いなら前ジャンプ (0:139)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d75df28a23f0",
+    "category": "matchup",
+    "topic": "トリグラフジャストパリィ後",
+    "content": "テリーがJPのトリグラフをジャストパリィできた場合、硬直が大きいのでラッシュ大Kが確定しやすい。近い距離であればバーンナックルやラッシュしゃがみ中Pも確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのトリグラフをジャストパリィした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:43",
+    "source_quote": "トリグラフは硬直が大きいため、ジャスパ→ラッシュ→大Kが確定しやすい (0:143) / 近い距離ならジャスパ→バーン、ジャスパ→ラッシュしゃがみ中Pも確定する (0:149)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c52893d3bd21",
+    "category": "matchup",
+    "topic": "トルバランジャストパリィ後",
+    "content": "テリーがJPのトルバランをジャストパリィした場合、ラッシュからの確定はしにくいが、遠い距離であれば大Kが確定する。ホーミングなので見てからSA1も通りやすい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのトルバランをジャストパリィした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:54",
+    "source_quote": "トルバランにはジャスパ→ラッシュが確定しにくいが、遠い距離なら大K確定 (0:154) / ホーミングなので見てからSA1も通りやすい (0:200)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "400",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5cb3b101213a",
+    "category": "matchup",
+    "topic": "ODヴィーハト対策",
+    "content": "JPのODヴィーハトは相手の位置によって表裏が変わるため対応が困難。ワープモーションが見えたらめくり属性のあるジャンプ中Kで落とす。ヴィーハト中のワープ投げの連携は、パリィを見てからラッシュ弱昇龍で落とせる（めくり位置でも可）。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODヴィーハトを繰り出してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:05",
+    "source_quote": "ODヴィーハトは相手の位置によって表裏が変わるため対応が困難 (0:205) / ワープモーションが見えたらめくり属性のあるジャンプ中Kで落とす (0:215) / ヴィーハト中にパリィを見てからワープ投げの連携はラッシュ弱昇龍で落とせる (0:220) / めくられる位置でも落とせる (0:227)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8998bff6e457",
+    "category": "matchup",
+    "topic": "ODヴィーハト→シューティング対策",
+    "content": "JPのODヴィーハトからのシューティング（飛び道具）連携は、立ち回り中であれば前ステップからのラッシュ攻撃、または前ステップからの前ジャンプで確定を取れる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODヴィーハト→シューティングの連携をしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:30",
+    "source_quote": "立ち回りででのODヴィーハト→シューティングは前ステ→ラッシュや前ステ→前ジャンプで確定が取りやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9adb29f0a8ed",
+    "category": "matchup",
+    "topic": "しゃがみ大P対空キャンセルヴィーハト対策",
+    "content": "JPのしゃがみ大P対空からキャンセルヴィーハトを出された場合、硬直差は-17Fだがラッシュ攻撃はギリギリ確定しない。SA1なら確定するが、ODヴィーハト(-7F)には確定しない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのしゃがみ大P対空からキャンセルヴィーハトを出された時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:39",
+    "source_quote": "しゃがみ大P対空→キャンセルヴィーハトは-17Fだがラッシュ攻撃がギリギリ確定しない、SA1なら確定するがODヴィーハト(-7F)には確定しない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1353203c2ba8",
+    "category": "matchup",
+    "topic": "アムネジア対策（OD）",
+    "content": "テリーの持続しゃがみ中PがJPのODアムネジアにヒットした場合、JP側が+3F有利となる。ODアムネジアを画面中央でヒットさせられた場合、距離が離れるがJPは前ステップでリターンを狙ってくることがあるので、テリーは前ステップを見てから投げを狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODアムネジアを放ってきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:51",
+    "source_quote": "ODアムネジアで持続しゃがみ中Pを取られた場合+3F (0:251) / 画面中央でODアムネジアを取られた場合、距離が離れるが前ステでリターンを狙ってくることがある (0:339) / 余裕でJP不利なので前ステを見てから投げたい (0:346)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e4304ee7444",
+    "category": "defense",
+    "topic": "アムネジア回避",
+    "content": "JPのアムネジアに対して、弱P2回からのバックジャンプ中Pで回避できる。もし小足を取られた場合（JP側+5F）も、弱P2回パリィルートで対処可能。小パンを取られた場合（JP側+7F～8F）は、しゃがみ中P→パリィ→バックジャンプ中Pで対応する。持続中段が取られた場合（JP側-2F）は、後ろ投げをされないようバクステ→パリィ→バックジャンプ中Pが有効。大Pが取られた場合（JP側-4F）は、バクステパリィ→バックジャンプ中P。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのアムネジアに攻撃がヒットした、またはアムネジアを見て対処する時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:56",
+    "source_quote": "コパコパパリィ→バックジャンプ中Pでアムネジアを避けられる (0:256) / 小足を取られた場合は+5FなのでコパコパパリィルートでOK (0:309) / 小パンは+7F~8F、しゃがみ中P→パリィ→バックジャンプ中P (0:315) / 持続中段の場合-2F、後ろ投げだけは貰わないようにバクステ→パリィ→バックジャンプ中Pがいいかも (0:323) / 大Pは-4Fなのでバクステパリィ→バックジャンプ中P (0:332)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "108",
+      "114",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eaa84a6dc5dc",
+    "category": "matchup",
+    "topic": "アムネジアへのジャンプ攻撃",
+    "content": "JPのアムネジアに対して前ジャンプで噛み合っても、テリーにとって悪い状況にはなりにくい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのアムネジアに前ジャンプを重ねた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:00",
+    "source_quote": "前ジャンプと噛み合ってもそう悪いことは起きない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "29be021dcfed",
+    "category": "defense",
+    "topic": "アムネジア被弾時の対処",
+    "content": "JPのアムネジアに被弾してしまった場合、弱P2回で喰らい逃げは可能だが、720ダメージを受ける。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのアムネジアに被弾した時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:05",
+    "source_quote": "コパコパ弱パチャで喰らい逃げだが720ダメージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9703caea4369",
+    "category": "matchup",
+    "topic": "ODアムネジアからのSA1",
+    "content": "テリーがJPのアムネジアに回答を出した後、JPがODアムネジアからSA1を使ってくることがある。テリーはこれをガードした場合、投げまたはSA3で反撃できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODアムネジアからSA1を放ってきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:51",
+    "source_quote": "こちらがアムネジアに対して回答を出した後、ODアムネジアからSA1をぶっぱすることがある (0:351) / 運良くSA1をガード出来た場合、投げorSA3で反撃できる (0:358)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "85fe983f0536",
+    "category": "oki",
+    "topic": "起き上がり投げ重ねとODアムネジア",
+    "content": "JPの起き上がりに投げ重ねを狙う際、ODアムネジアで切り返されないよう、当て投げ（攻撃がヒットしたらコンボ、ガードされたら投げ）を意識する。もし小パンがODアムネジアにヒットした場合、JP側が有利になるので、しゃがみ中Pを埋めて攻める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODアムネジアで切り返してくる可能性がある起き攻め時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:07",
+    "source_quote": "起き上がりの投げ重ねをODアムネジアで取られないよう、当て投げする (0:407) / ※小パンを取られたらしゃがみ中P埋め (0:412)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "085ba97d1ce9",
+    "category": "neutral",
+    "topic": "シミーからのODアムネジア",
+    "content": "テリーがシミーでODアムネジアを誘発し、それが見えたらラッシュ大Pから最大コンボを狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "シミーでJPのODアムネジアを誘発した時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:16",
+    "source_quote": "シミーでODアムネジアが見えたらラッシュ大Pから最大コンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c6b93f47853d",
+    "category": "matchup",
+    "topic": "JPのBO中のノーマルアムネジア",
+    "content": "JPがバーンアウト中にノーマルアムネジアを出した場合、テリーの小パンがヒットするとJP側が+7～8F有利となり、そのまま立ち大P→ドライブインパクトが確定する。小足がヒットした場合でも、テリーの大PとJPの小パン暴れが相打ちになることがある。",
+    "characters": [
+      "jp",
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがBO中にノーマルアムネジアを使用し、テリーの小攻撃がヒットした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:22",
+    "source_quote": "JPがBO中、小パンがノーマルアムネジアで取られた場合+7~8Fなのでそのまま立ち大P→インパクトが確定する、小足が取られても大Pが小パン暴れと相打ち",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8584c8cb242e",
+    "category": "matchup",
+    "topic": "大Kターゲットコンボ後の択",
+    "content": "JPの立ち大Kターゲットコンボ後、弱中ストリボーグは密着で中Pが確定するが、遠いと当たらない。強ストリボーグは間合いが空いていても割り込みにくい。トルバランは密着ならしゃがみ中Pが確定する。中下派生は-4Fだが確定反撃は取りづらい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの立ち大Kターゲットコンボ後",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:35",
+    "source_quote": "大Kタグコンからの弱中ストリボーグは中P確定だが遠かったら当たらない (0:435) / 大Kタグコン強ストリボーグは間が空いているものの割りづらい (0:443) / 大Kタグコンからのトルバランは密着だとしゃがみ中P確定 (0:448) / 大Kタグコンからの中下派生は-4Fだがまず確定が取れない (0:506)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "336b9b484983",
+    "category": "defense",
+    "topic": "JPの連係対策1: ストリボーグ",
+    "content": "JPのストリボーグは見てからジャストパリィを狙う。もしジャストパリィできなくても、弱・中ストリボーグであればしゃがみ中足が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがストリボーグを使用してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:27",
+    "source_quote": "対策①: ストリボーグは見てからジャスパ狙い→出来なくても弱・中だったら中足確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e64b4064a947",
+    "category": "defense",
+    "topic": "JPの連係対策2: トルバラン",
+    "content": "JPのトルバランに対しては、パリィを連打せず、ガードしたらしゃがみ中Pで反撃する。もしフェイントであれば、中足などで触る。ODトルバランには見てからジャストパリィ→大Kを狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがトルバランを使用してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:37",
+    "source_quote": "対策②: トルバランにはパリィを押さず、ガードしたらしゃがみ中P、フェイントなら中足などで触る (0:537) / ODトルバランには見てからジャスパ→大Kを狙いたい (0:544)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "109",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aa935ee5014e",
+    "category": "defense",
+    "topic": "JPの連係対策3: トリグラフ",
+    "content": "JPのトリグラフは見てからジャストパリィを狙う。ODトリグラフに対しては諦める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがトリグラフを使用してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:51",
+    "source_quote": "対策③: トリグラフは見てからジャスパを狙う、ODは諦める",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8d026af981e9",
+    "category": "defense",
+    "topic": "JPの連係対策4: ターゲットコンボ",
+    "content": "JPのターゲットコンボの連ガ中に無敵技のコマンドを仕込んでおき、JPがキャンセルしてきたら即座に無敵技を出す。フェイントの場合でもSA2が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがターゲットコンボの連係中に攻めてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:58",
+    "source_quote": "対策④: タゲコンの連ガ中に無敵技コマンドを仕込んでおき、キャンセルが見えたら出す ※フェイントでもSA2が確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d53c53b7067b",
+    "category": "defense",
+    "topic": "JPの連係対策5: ファジー前ジャンプ",
+    "content": "JPの起き攻めや連係に対して、2F程度のファジー前ジャンプで他の択はガードしつつ、トルバラン、中下派生、アブニマーチを避ける。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの起き攻めや連係に対応する時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:08",
+    "source_quote": "対策⑤: 2F程度のファジー前ジャンプで他の択はガードしつつ、トルバラン・中下派生・アブニマーチを避ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "083ac8ea1f34",
+    "category": "matchup",
+    "topic": "大P→ODトルバランの割り込み",
+    "content": "JPの立ち大PからODトルバランへの連携は2Fの隙があるので、ジャストパリィからの大Pや大Kで確定反撃が可能。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが立ち大P→ODトルバランの連携をしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:19",
+    "source_quote": "大P→ODトルバランは2Fだけ空いているのでジャスパ→大Pや大Kが確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0224a349c73b",
+    "category": "matchup",
+    "topic": "大P→大Pの割り込み",
+    "content": "JPが立ち大Pから立ち大Pへ連携してきた場合、前ジャンプで割り込める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが立ち大P→立ち大Pの連携をしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:25",
+    "source_quote": "大P→大Pには前ジャンプ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a1c3e4c327e8",
+    "category": "neutral",
+    "topic": "中足差し返し",
+    "content": "テリーの中足差し返しは、JPの中足、しゃがみ中P、大Pの空振りに勝つことができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPの中足、しゃがみ中P、大Pが空振りした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:28",
+    "source_quote": "中足差し返しは中足・しゃがみ中P・大Pの空振りに勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3ce3cb56eb4c",
+    "category": "neutral",
+    "topic": "JPの立ち中P差し返し",
+    "content": "JPの立ち中Pへの差し返しはほぼ不可能なので、諦める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが立ち中Pを出してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:43",
+    "source_quote": "立ち中Pの差し返しはほぼ不可能なので諦める",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3077b8158a4e",
+    "category": "defense",
+    "topic": "小技2回からの垂直透かし飛び対策",
+    "content": "JPが小技2回からの垂直ジャンプで攻めてきた場合、JPはしゃがみ大P対空を仕掛けてくることがある。テリーは空中投げで入れ替えられて倒されることもあるので注意。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが小技2回からの垂直ジャンプをしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:50",
+    "source_quote": "小技2回→垂直透かし飛びでしゃがみ大P対空を置かれる (0:50) / 空中投げで入れ替えられて死ぬことももある (0:56)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d5982b3e927d",
+    "category": "matchup",
+    "topic": "小技3回からのODウェイブ",
+    "content": "JPが小技3回からのODストリボーグを放ってきた場合、これは有効な暴れ潰しとなる。テリーは中足暴れ以外であれば、ファイヤーキックが繋がる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが小技3回からのODストリボーグをしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:00",
+    "source_quote": "小技3回からのODウェイブ暴れ潰しが有効、中足暴れ以外はファイヤーキックが繋がる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "208"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c6ca28a517db",
+    "category": "matchup",
+    "topic": "JPの小技ラッシュ",
+    "content": "JPの小技からのドライブラッシュ連携は、テリーの小パンでは全て割ることができない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが小技からドライブラッシュをしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:20",
+    "source_quote": "JPの小技ラッシュは全部小パンで割れない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "17716ed23c5d",
+    "category": "matchup",
+    "topic": "開幕微歩き3大P",
+    "content": "開幕位置でJPが微歩きしながら3大Pを出した場合、テリーがガードしても大Kは届かない。ただし、テリーも微歩きしていれば大Kが届く。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "開幕位置でJPが微歩き3大Pを出してきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:25",
+    "source_quote": "開幕位置での微歩き3大Pはガードしても大Kが届かないが、こちらも微歩きしていると届く",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8cb8ff037bf",
+    "category": "combo",
+    "topic": "空中拾い大P→ODヴィーハト後の連携",
+    "content": "JPが空中拾い大PからODヴィーハトを繋いだ後は、トリグラフを持続させつつ埋めて+2F有利から小パン、中段、下段の連携が可能。最善はトリグラフを見てからジャストパリィ、次点で中下段に合わせたドライブリバーサル。",
+    "characters": [
+      "jp",
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが空中拾い大PからODヴィーハトを繋いだ時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:07",
+    "source_quote": "空中拾い大P→ODヴィーハトの後はトリグラフ持続埋めて+2Fからコパ中下 (0:07) / 最善はトリグラフを見てからジャスパ、次点で中下段に合わせてもDリバ (0:16)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9755467c0dbe",
+    "category": "defense",
+    "topic": "ODトルバランへの反撃",
+    "content": "JPのODトルバランは連係ではないため、テリーは無敵技や、やや遅らせ気味のジャストパリィで反撃できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODトルバランを放ってきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:46",
+    "source_quote": "連ガではないのでODトルバランに無敵技や、やや遅らせ気味にジャスパで反撃できる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dbc141a9125",
+    "category": "defense",
+    "topic": "JPのジャンプ攻撃ガード後",
+    "content": "JPのジャンプ攻撃をガードした場合、その後は立ちガードを継続する。（下段が来た場合は諦める）",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPのジャンプ攻撃をガードした時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:53",
+    "source_quote": "ガードになった場合、JPのジャンプ攻撃をガードした後も立ちガード (下段が来たら諦める)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fd9d5c03c9e9",
+    "category": "matchup",
+    "topic": "JPの前歩きへの対処",
+    "content": "JPが前歩きした瞬間、テリーはファジー前ジャンプで回答できる。JP側は垂直ジャンプ中Kで落とせるが、最速前ジャンプ攻撃であればテリーが勝てる。画面端ではODヴィーハト後に+8Fで中Kが重なるので注意。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "jp",
+    "situation": "JPが前歩きをしてきた時",
+    "source_video_id": "kdnE4Ws7D9c",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのJP対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "09:19",
+    "source_quote": "前歩きした瞬間ファジー前ジャンプで回答出来る (0:19) / JP側は垂直ジャンプ中Kで落とせるが、最速前ジャンプ攻撃で勝てる (0:25) / 画面端だと+8Fで中Kが重なるので注意 (0:32)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:42:18.514638",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

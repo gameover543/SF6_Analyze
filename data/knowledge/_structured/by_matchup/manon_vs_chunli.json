@@ -1,0 +1,54 @@
+[
+  {
+    "id": "448b70fd889f",
+    "category": "oki",
+    "topic": "前ステコマ投げ対後ろ歩き",
+    "content": "マノンのコマ投げ後の前ステコマ投げは、春麗など一部のキャラクターを除き、相手の後ろ歩きにも有効。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "chunli",
+    "situation": "コマ投げ後の相手の後ろ歩き",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "01:36",
+    "source_quote": "春麗などを除いて、相手の後ろ歩きにも勝てます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d574f5823b0b",
+    "category": "matchup",
+    "topic": "春麗対策：ODコマ投げでの起き攻め",
+    "content": "マノンで春麗のような歩きが速いキャラに対してコマ投げからの起き攻めをする場合、弱コマ投げだと相手の後ろ歩きにスカる可能性がある。そのため、起き上がりにODコマ投げを出すと、後ろ歩きも投げることができる。ODゲージを2本消費することに注意。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "chunli",
+    "situation": "春麗相手の起き攻め、相手が後ろ歩きをする時",
+    "source_video_id": "vwdzxf0YKx8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】意外と違う！マノンのコマ投げの使い分けについて解説します！",
+    "source_timestamp": "06:35",
+    "source_quote": "一応補足としては春麗みたいに歩きの速いキャラだと弱コマ投げもスカるので注意です。なので、春麗相手にコマ投げ＞コマ投げをしたい場合は、一応、起き上がりはODで出すと後ろ歩きも投げられます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T12:05:34.909876",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

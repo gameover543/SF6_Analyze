@@ -1,0 +1,811 @@
+[
+  {
+    "id": "79b7bd634bb1",
+    "category": "oki",
+    "topic": "ラッシュ中Pガード後の遅らせ中P",
+    "content": "ラッシュ中P（Drive Rush Medium Punch）がガードされた場合、相手は-2フレーム不利になりますが、間髪入れずに次の攻撃を出すと連ガになりやすいです。次の技を少しだけ遅らせて（体感で中Pと中Pの間を少し開けるように）出すことで、相手の暴れを潰しつつ、有利状況を維持できます。これは練習が必要です。中Pカウンターヒットからは引大Pネクサスに繋いで高ダメージコンボを狙えます。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ中Pガード後",
+    "source_video_id": "CHhf0G4_RtI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6】何したらいいか分からん人向け！ぷげらのサガット講座(コンボ以外)",
+    "source_timestamp": "05:37",
+    "source_quote": "起き攻めして中パン重ねたガードされたっていう時とかも、この時に絶対やっちゃいけないのが中パンって連打すると、これ連打になっちゃうから。プラロックからロックフレ出しちゃって連打になっちゃうから。Dゲージ削りがちょっと確定するだけになっちゃう。ここは連打しないようにする絶対。ここちょっとだけ間を開けるようにする、体感で中パンってちょっとだけ開けるように（練習）。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T07:27:54.474142",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "6d0566ecedc8",
+    "category": "oki",
+    "topic": "対空からの起き攻め連携",
+    "content": "Sagatは対空タイガーアッパーカットを当てた後、ラッシュからしゃがみ中Kやラッシュ前弱K（ステロー）で起き攻めを仕掛けられる。ラッシュしゃがみ中Kからキャンセルで屈中Pや強アッパーカットに繋げ、再度ラッシュをかけることで、ループする起き攻め（タイガーループ）が可能。ただし、中段の発生が遅いと小Pで割り込まれるリスクがある。前中Pで中段攻撃を持っているため、フェイントを混ぜながら有利な状況を作り出すことができる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "対空ヒット後、相手がダウンした際",
+    "source_video_id": "wRWSPYQMoQ4",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "[Complete Guide to Using Sagat] Essential Knowledge and Techniques for Beginners / Modern and Cla...",
+    "source_timestamp": "23:11",
+    "source_quote": "対空のタイガーアッパーカットから...ラッシュ屈中K or ラッシュ前弱K...しゃがみ中Pに繋がる...強アッパーカットから再度ラッシュ前弱K...タイガーループ...前中Pが中段技",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:10:02.394099",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9aa6e0cea70e",
+    "category": "oki",
+    "topic": "弱アパカ後の起き攻め",
+    "content": "弱アパカヒット後に生ラッシュをすると、状況が良くなる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "弱アパカヒット後",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "04:09",
+    "source_quote": "で、しかも弱アパカから生ラッシュってすると、中アパカよりはま、状況良いんで。ラッシュ中パンが当たった時も、よく減る。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc28e20b5dfb",
+    "category": "oki",
+    "topic": "Dゲージを使ったシミー後のゲージ回収",
+    "content": "Dゲージを使ってシミーを行った場合は、タメアパカでダメージを与えつつDゲージを回収するのがおすすめ。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "シミーにDゲージを使った後",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "11:23",
+    "source_quote": "Dゲージを使った画面端シミー。ゲージ使った後とかはやっぱりここのコンボでゲージ使いたくないからタメアパカでたっぷりゲージ回収しつつ、ゲージ使ってるみたいなダメージをもらう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "44f6ebee3086",
+    "category": "oki",
+    "topic": "中央シミー後のコンボ選択",
+    "content": "中央でのシミーで投げ抜けがヒットした際、アッパーからディレイをかけた大ニー、中アパカに繋ぐコンボも可能だが、ゲージ回収が重要な場面が多いため、タメアパカで締めるのがおすすめ。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "中央でのシミー",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "11:55",
+    "source_quote": "一応中央で投げ抜け勝った時もアッパーからディレイ大ニーやると、えーと大ニー中アパカいける。基本ゲージをここ取りたいことが多いから、まあタメアパカで楽するのが丸い。けど一応できるということは。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "930fec194cbc",
+    "category": "oki",
+    "topic": "SA2後の起き攻め",
+    "content": "SA2後のコンボで画面端に到達しない場合は、スタンプで締めて通常の起き攻めに移行する。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "SA2後のコンボで画面端に到達しない場合",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "13:36",
+    "source_quote": "端に到達しない時は基本的にスタンプ打ち。スタンプ打って普通に起き攻めする。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "90e8aa776d00",
+    "category": "oki",
+    "topic": "インパクト壁やられ後の強力な起き攻め",
+    "content": "インパクト壁やられ後、より強力な起き攻めをしたい場合は、4大Pから大ニー、中アパカに繋ぐ。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "インパクト壁やられ後、強い起き攻めをしたい時",
+    "source_video_id": "VliawZtijKc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "[Revised Version] Check out Sagat's combos here! Guaranteed counters, stuns, shimmies... Explaine...",
+    "source_timestamp": "15:05",
+    "source_quote": "強い起き攻めしたいなら4大P大ニー中アパカ。なんかここあんまり伸びるルート正直知らない。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:56:34.772350",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a8eacf9d9e2",
+    "category": "oki",
+    "topic": "画面端の起き攻め",
+    "content": "サガットには明確な柔道（起き攻め択）はないため、画面端での起き攻めは自由に行って良いです。ドライブゲージが余っている際は、生ラッシュからのしゃがみ中Pで疑似的な柔道ができます。相手の無敵技もガード可能です。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端で相手がダウンしている時",
+    "source_video_id": "1x3D4Lf9ik8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "Modern Sagat Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "02:19",
+    "source_quote": "柔道がないので、画面端は適当でいいです。ゲージが余ってる時は、生ラッシュしゃが中Pで疑似柔道ができます。一応無敵技もガードできます",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:37:44.513599",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3bef1e179a26",
+    "category": "oki",
+    "topic": "OD上タイガーショットからの起き攻め",
+    "content": "OD上タイガーショット（↓SP+SPまたは↙↓↘SP+SP）は発生が遅いが後隙が少なく、遠距離でヒットした際に安定してSA1に繋がる。密着でガードさせると+6フレームの有利が取れるため、画面端ではしゃがみ強Pから出すことでヒット時はコンボ、ガード時は打撃と投げの二択を仕掛けることができる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "密着でガードさせた時",
+    "source_video_id": "8PugmUanTeQ",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "[Street Fighter 6] 4 Tips for Using Modern Sagat to Win tonight! [Explanation]",
+    "source_timestamp": "01:43",
+    "source_quote": "OD上弾は逆に発生が遅い代わりに後隙が少ないから遠めの距離でヒットしたときに安定してSA1が繋がるよ。またOD上弾は密着でガードさせるとプラス6フレームとなるから、画面端でしゃがみ強パンチから出すことでヒット時はコンボ、ガード時は打撃と投げを仕掛けることが可能だよ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:32:09.998557",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "400",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ab31773d02e3",
+    "category": "oki",
+    "topic": "タイガーニークラッシュのガード有利フレームからの攻め",
+    "content": "タイガーニークラッシュは相手がしゃがんでいるガードに対して、弱・中版は+2F、強版は+4Fの有利フレームを取れる。これを起点に攻めを展開できる。特に弱タイガーニークラッシュは発生14Fと早く潰されにくいので、しゃがみガードが多い相手には積極的に振って地上を制圧する。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "相手がしゃがんでいる時にガードさせた時",
+    "source_video_id": "8PugmUanTeQ",
+    "source_channel": "【スト6】ずんだもんふぁいたーch【解説】",
+    "source_video_title": "[Street Fighter 6] 4 Tips for Using Modern Sagat to Win tonight! [Explanation]",
+    "source_timestamp": "03:35",
+    "source_quote": "この技は相手がしゃがんでいると弱版と中版ではプラス2フレーム、強版はプラス4フレームとなっているから、ニーを起点に攻めを展開することが可能だよ。特に弱ニーは発生14フレームととてもはやいから潰されづらく超強いので、今夜勝ちたい人はぶんぶん振って地上を制圧させてみよう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:32:09.998557",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11d86f298d31",
+    "category": "oki",
+    "topic": "画面端+4Fセットプレイ (中アパカ後)",
+    "content": "画面端で236中Pまたは236強P（中・強アッパーカット）を当てた後、前ステを行う。シミーを狙いたい場合はバックステが必要。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端で中・強アッパーカットヒット後",
+    "source_video_id": "QLaMmJ6Va4E",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "サガットの立ち回りから必須コンボまで！サガットの使い方解説【スト6】",
+    "source_timestamp": "09:26",
+    "source_quote": "236中P Or 236強P(中・強アッパーカット)→前ステ / シミーをしたい場合はバクステをする必要があるので注意。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:14:06.619695",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "47df6221d882",
+    "category": "oki",
+    "topic": "画面端5中P持続当てセットプレイ (中アパカ後)",
+    "content": "画面端で236中Pまたは236強P（中・強アッパーカット）を当てた後、2弱K（フレーム消費）を挟んで5中Pを持続当てする。ヒット時は+9F、ガード時は+5Fの有利が取れる。ドライブリバーサルもガードできるため推奨される。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端で中・強アッパーカットヒット後",
+    "source_video_id": "QLaMmJ6Va4E",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "サガットの立ち回りから必須コンボまで！サガットの使い方解説【スト6】",
+    "source_timestamp": "09:43",
+    "source_quote": "236中P Or 236強P(中・強アッパーカット)→2弱K(フレーム消費)→5中P / ヒット時で+9F,ガード時で+5F取ることが出来る。/ ドライブリバーサルもガードすることが出来るのでおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:14:06.619695",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c8b6dde990b0",
+    "category": "oki",
+    "topic": "画面端投げループ(柔道)セットプレイ",
+    "content": "画面端で前ステからラッシュ投げ（柔道）を行う。最速でラッシュ2弱Pを撃つと発生6F以上の無敵技を避けることができる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端で",
+    "source_video_id": "QLaMmJ6Va4E",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "サガットの立ち回りから必須コンボまで！サガットの使い方解説【スト6】",
+    "source_timestamp": "10:06",
+    "source_quote": "前ステ→ラッシュ投げ(柔道) / 最速でラッシュ2弱Pを撃つと発生6F以上の無敵技を避けることが出来る。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:14:06.619695",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "876db4dbc6e3",
+    "category": "oki",
+    "topic": "中央タイガーニーセットプレイ",
+    "content": "中央で214強K（強タイガーネクサス）から強K派生（タイガーノヴァ）を出し、6強Kを挟んで236弱Kまたは236中K（弱・中タイガーニー）を出す。後ろ歩きで投げを避けられるため注意が必要。ドライブゲージを節約したい時に有効。弱タイガーニー後は+6Fで少し前進し、中タイガーニー後は投げ間合いで+2F有利となる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "中央で",
+    "source_video_id": "QLaMmJ6Va4E",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "サガットの立ち回りから必須コンボまで！サガットの使い方解説【スト6】",
+    "source_timestamp": "10:28",
+    "source_quote": "214強K→強K派生(強タイガーネクサス→タイガーノヴァ)→6強K→236弱K Or 236中K(弱・中タイガーニー) / 後ろ歩きで投げを避けられるので注意。ドライブゲージを節約したい時に使おう。/ 弱タイガーニーで+6Fで少し進め。中タイガーニーで投げ間合いで+2Fと覚えておこう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:14:06.619695",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "316",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d12f01dd6c73",
+    "category": "oki",
+    "topic": "サガットの中タイガーアッパーカット後の起き攻め（タイガーアッパーカット重ね）",
+    "content": "サガットの中タイガーアッパーカット後のタイガーアッパーカット重ねは、相手がその場受け身を取ると投げ間合いになり、後ろ受け身を取ると投げ間合い外になる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの中タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:36",
+    "source_quote": "中アパカの後のステロー重ねは、その場受け身なら投げ間合い、後ろ受け身なら投げ間合い外",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "587758f92877",
+    "category": "oki",
+    "topic": "サガットの昇龍拳後の起き攻め（タイガーアッパーカット重ね）",
+    "content": "OD昇龍拳後も中タイガーアッパーカットやODタイガーアッパーカットの後と同様。後ろ受け身を取るとタイガーハイ（タイガーショット中段）が重なるが、その場受け身を取るとタイガーハイがスカる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットのOD昇龍拳後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:47",
+    "source_quote": "OD昇龍後も一緒、中アパカ＆ODアパカの後、後ろ受け身ならステハイが重なるが、場受けならステハイがスカる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "219d0d57d8f9",
+    "category": "oki",
+    "topic": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "content": "サガットの溜め強タイガーアッパーカット後のラッシュ立ち中Pは、相手との距離が23フレーム離れた位置で重なる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:58",
+    "source_quote": "溜め強アパカは距離が離れて23F、ラッシュ立ち中Pが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50730794464f",
+    "category": "oki",
+    "topic": "サガットの溜め強タイガーアッパーカット後の起き攻め（ラッシュ下段）",
+    "content": "サガットの溜め強タイガーアッパーカット後の起き攻めは、ラッシュしゃがみ中Kやラッシュしゃがみ弱Kも重なるが、投げ間合い外になることが多い。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "terry",
+    "situation": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:03",
+    "source_quote": "ラッシュ中足やラッシュ小足も重なるが、投げ間合い外が多い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109",
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ecb20107dffc",
+    "category": "oki",
+    "topic": "サガットのモノリスディレイ中タイガーショットからの詐欺飛び",
+    "content": "サガットがモノリスディレイ中タイガーショットから中タイガーニーで締めた場合、詐欺飛びになる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "サガットのモノリスディレイ中タイガーショットからのコンボ後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:44",
+    "source_quote": "モノリスディレイ中ショットからのニー締めは詐欺飛び",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57cf1acecda7",
+    "category": "oki",
+    "topic": "サガットの打ち上げない立ち強Kからの詐欺飛び",
+    "content": "サガットが打ち上げない立ち強Kなどから強タイガーニーで締めた場合、6フレーム詐欺飛びになる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "サガットが打ち上げない立ち強Kからのコンボ後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:49",
+    "source_quote": "打ち上げない大Kなどからの強ニー締めは6F詐欺",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fd594095cd64",
+    "category": "oki",
+    "topic": "中・強アパカ後の起き攻め",
+    "content": "サガットが中または強タイガーアッパーカットでダウンを奪った後、ドライブキャンセルラッシュから前弱K、屈中P、そして強タイガーアッパーカットに繋げることで起き攻めができます。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "BtWsD3IzYw4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat Combo Oki Setup for Practical Use",
+    "source_timestamp": "00:06",
+    "source_quote": "中,強アパカ 起き攻め: ラッシュ前弱K＞屈中P＞強アパカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:41:50.790850",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8878b9470e71",
+    "category": "oki",
+    "topic": "画面端付近強アパカ後の起き攻め",
+    "content": "サガットが画面端付近で強タイガーアッパーカットで相手をダウンさせた後、前ステップから投げを仕掛けることで起き攻めが成立します。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端、起き攻め時",
+    "source_video_id": "BtWsD3IzYw4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat Combo Oki Setup for Practical Use",
+    "source_timestamp": "00:25",
+    "source_quote": "画面端付近強アパカ 起き攻め: 前ステ投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:41:50.790850",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "935751588f3b",
+    "category": "oki",
+    "topic": "弱アパカ後の起き攻め",
+    "content": "サガットが弱タイガーアッパーカットでダウンを奪った後、立中Pでフレームを消費し、再度立中Pをヒットさせます。そこから溜め強P、中タイガーショット、前強K、そして中タイガーアッパーカットに繋げることで起き攻めができます。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "BtWsD3IzYw4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat Combo Oki Setup for Practical Use",
+    "source_timestamp": "00:48",
+    "source_quote": "弱アパカ 起き攻め: ・立中Pフレーム消費＞立中P＞引強P＞中ショット＞前強K＞中アパカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:41:50.790850",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "305",
+      "306",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80be4e464fbf",
+    "category": "oki",
+    "topic": "中アパカ後の起き攻め（屈弱Kフレーム消費）",
+    "content": "サガットが中タイガーアッパーカットでダウンを奪った後、屈弱Kでフレームを消費し、立中Pをヒットさせます。そこから溜め強P、中タイガーショット、前強K、そして中タイガーアッパーカットに繋げることで起き攻めができます。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "BtWsD3IzYw4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat Combo Oki Setup for Practical Use",
+    "source_timestamp": "01:14",
+    "source_quote": "中アパカ 起き攻め: 屈弱Kフレーム消費＞立中P＞引強P＞中ショット＞前強K＞中アパカ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:41:50.790850",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "36e5507c358d",
+    "category": "oki",
+    "topic": "前強K＞中アパカ後の起き攻め",
+    "content": "サガットが前強Kから中タイガーアッパーカットでダウンを奪った後、立中Pでフレームを消費し、投げを仕掛けることで起き攻めが成立します。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "BtWsD3IzYw4",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat Combo Oki Setup for Practical Use",
+    "source_timestamp": "02:34",
+    "source_quote": "前強K＞中アパカ 起き攻め: 立中Pフレーム消費＞投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:41:50.790850",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c449e9e71893",
+    "category": "oki",
+    "topic": "ネクサス強派生暴れ潰し",
+    "content": "サガットはルークに対して、ネクサス強派生から立ち中Pで相手の暴れを潰すことができる。この連携がカウンターヒットした場合、さらにコンボへ移行してダメージを伸ばすことができる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": "luke",
+    "situation": null,
+    "source_video_id": "PQW-nu_Hm4Q",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat's Strong Moves, Strong Combos, Wake-Up Attacks, and Set Plays",
+    "source_timestamp": "00:00",
+    "source_quote": "ネクサス強派生から立中Pで暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:50:27.512433",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1b901154d5d5",
+    "category": "oki",
+    "topic": "中央起き攻めラッシュステロー",
+    "content": "中央での起き攻めとして、サガットはラッシュしゃがみ弱K（ステロー）を使用する。これはガードされても状況が良く、相手にプレッシャーをかけ続けることができる。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "中央起き攻め",
+    "source_video_id": "PQW-nu_Hm4Q",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat's Strong Moves, Strong Combos, Wake-Up Attacks, and Set Plays",
+    "source_timestamp": "01:55",
+    "source_quote": "中央起き攻めでラッシュステロー",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:50:27.512433",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e5aa20121b1",
+    "category": "oki",
+    "topic": "画面端起き攻め立中P持続（Dリバ詐欺）",
+    "content": "画面端での起き攻めとして、サガットは立ち中Pを持続で重ねることで、相手のドライブリバーサルを詐欺ることができる。立ち中Pがヒットした場合は強Pからのコンボへ移行し、大ダメージを狙う。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端起き攻め",
+    "source_video_id": "PQW-nu_Hm4Q",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat's Strong Moves, Strong Combos, Wake-Up Attacks, and Set Plays",
+    "source_timestamp": "02:14",
+    "source_quote": "画面端起き攻めで立中P持続 ※Dリバ詐欺でヒット時引強Pコンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:50:27.512433",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6989e3011153",
+    "category": "oki",
+    "topic": "画面端起き攻め強ネクサス持続（暴れ潰し）",
+    "content": "画面端での起き攻めとして、サガットは強ネクサスを持続で重ねる。この連携は相手の暴れを潰す効果がある。",
+    "characters": [
+      "sagat"
+    ],
+    "matchup": null,
+    "situation": "画面端起き攻め",
+    "source_video_id": "PQW-nu_Hm4Q",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[Street Fighter 6] Sagat's Strong Moves, Strong Combos, Wake-Up Attacks, and Set Plays",
+    "source_timestamp": "02:37",
+    "source_quote": "画面端起き攻めで強ネクサス持続 ※持続重ねのみ強派生が暴れ潰しになります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:50:27.512433",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "id": "2b1224506ce4",
+    "category": "defense",
+    "topic": "後ろ投げラッシュへのSA1",
+    "content": "ベガの後ろ投げからのドライブラッシュに対し、テリーは起き上がりにSA1（スーパーアーツ1）を打つことで確定で当てられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの後ろ投げからのドライブラッシュ後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:02",
+    "source_quote": "後ろ投げラッシュは場受けでSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e3c3fe0a6460",
+    "category": "defense",
+    "topic": "SA1後のラッシュへのSA1",
+    "content": "ベガのSA1（スーパーアーツ1）ヒット後のドライブラッシュに対し、テリーは起き上がりにSA1を打つことで確定で当てられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのSA1後のドライブラッシュ後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:06",
+    "source_quote": "SA1後のラッシュは暴けでSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d14bebe6651f",
+    "category": "defense",
+    "topic": "SA3&CA後のラッシュへの全無敵",
+    "content": "ベガのSA3（スーパーアーツ3）またはCA（クリティカルアーツ）ヒット後のドライブラッシュに対し、テリーは全無敵技（例: SA1）を打つことで確定で当てられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのSA3またはCA後のドライブラッシュ後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:13",
+    "source_quote": "SA3&CA後のラッシュは全無敵確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "146eee71e8e7",
+    "category": "matchup",
+    "topic": "ベガの膝攻撃のフレーム",
+    "content": "ベガの弱ニー（立ち弱K）と中ニー（立ち中K）はガード後-5F、強ニー（立ち強K）はガード後-4Fとなる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの膝攻撃をガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:18",
+    "source_quote": "弱ニー・中ニーは-5F、強ニーは-4F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e04bd790c0f4",
+    "category": "matchup",
+    "topic": "ベガの立大足のフレーム",
+    "content": "ベガの立大足（立ち大K）はガード後-12Fなので、テリーは立大Kなどで確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの立大足をガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:25",
+    "source_quote": "大足は-12F、99%大Kで確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8db8869b2bdb",
+    "category": "matchup",
+    "topic": "ベガのODホバーのフレーム",
+    "content": "ベガのODホバー（ODエアグラブ）は先端ガードでも-7Fなので、テリーはしゃがみ中Pで確定反撃を入れられる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのODホバーをガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:29",
+    "source_quote": "ホバーは先端気味でも-7Fはあるので2中P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b17bb81064ff",
+    "category": "matchup",
+    "topic": "ベガの溜め大K・大P後のフレーム",
+    "content": "ベガの溜め大K（チャージド立ち強K）や溜め大P（チャージド立ち強P）をガードした後、ベガは+1F有利になるため、テリーはガード後に注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの溜め大Kや溜め大Pをガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:36",
+    "source_quote": "引き大Kの膝&大Pをガードした後 はベガ+1F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b81da1cd214b",
+    "category": "defense",
+    "topic": "ベガのラッシュ膝連携へのパリィ",
+    "content": "ベガのラッシュ膝（ドライブラッシュ立ち中K）→膝（立ち弱K）連携に対し、テリーは二発目の膝のタイミングでジャストパリィ（パーフェクトパリィ）を狙うことで、パリィが遅れて投げのパニッシュカウンターを回避できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのラッシュ膝→膝の連携中",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:44",
+    "source_quote": "ラッシュ膝→膝のタイミングでジャスパを狙うとパリィが遅れるのでパニカン投げを喰らわない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3397e033773c",
+    "category": "defense",
+    "topic": "ベガの膝・大P後の小パンへのパリィ",
+    "content": "ベガのノーマル膝（立ち中K）や大P（立ち大P）をガードした後の小パン（立ち弱P）連携に対しても、テリーはジャストパリィ（パーフェクトパリィ）を狙うことで、投げのパニッシュカウンターを回避できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのノーマル膝や大Pをガードした後の小パン連携中",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:53",
+    "source_quote": "ノーマル膝や大Pをガードした後の小パンにもジャスパを狙うことで",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c61edc9e0aa",
+    "category": "defense",
+    "topic": "ベガの膝・大P後の小パン以外の行動への対処",
+    "content": "ベガのノーマル膝（立ち中K）や大P（立ち大P）をガードした後の行動が、小パン（立ち弱P）以外（例：別の膝や膝→投げ）である場合、テリーは小パン暴れで勝てる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのノーマル膝や大Pをガードした後、小パン以外の連携をされた場合",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:57",
+    "source_quote": "膝や膝→投げなど、小パン以外の行動には小パン暴れで勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d4fda4ebae5",
+    "category": "matchup",
+    "topic": "ベガの大Pガード後の攻撃択",
+    "content": "ベガは立ち大Pをガードさせた後、距離によってその後の攻撃択を変える。テリーは距離に応じて対応を変える必要がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの立ち大Pをガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:05",
+    "source_quote": "ベガは大Pをガードさせた後、距離によってその後の攻撃択を変えている",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "21971e9da3a8",
+    "category": "defense",
+    "topic": "ベガの大Pガード後密着時の択",
+    "content": "ベガの立ち大Pを密着でガードした後、ベガが小パン固めに来るならジャストパリィ、投げに来るなら小パン暴れで対応できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの立ち大Pを密着でガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:10",
+    "source_quote": "密着なら小パン固めOR投げ、小パンはジャスパ、投げは小パン暴れで勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a2f76b44474f",
+    "category": "matchup",
+    "topic": "ベガの大Pガード後微距離時の択",
+    "content": "ベガの立ち大Pを少し離れた位置でガードした後、ベガはしゃがみ中Pを出すことが多い。本来は小パンで割れるが、距離が離れていると小パンが届かず負けることがある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの立ち大Pを少し離れた位置でガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:19",
+    "source_quote": "ちょっと離れた位置ではしゃがみ中Pが多く、本来は小パンで割れるが離れていると小パンが届かずに負けることがある",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93270aea6236",
+    "category": "defense",
+    "topic": "ベガの大Pガード後遠距離時の択",
+    "content": "ベガの立ち大Pを遠い間合いでガードした場合、フレーム上は不利だが、テリーのしゃがみ中Pがベガのしゃがみ中Pやしゃがみ中Kと相打ちになることや勝つことがある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの立ち大Pを遠い間合いでガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:31",
+    "source_quote": "フレームでは負けるが、遠い間合いならしゃがみ中Pで相打ちになることもあり、中足にも勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "73ec82ff1ef8",
+    "category": "defense",
+    "topic": "ベガの遠距離プレッシャーへの対処",
+    "content": "ベガがさらに遠い間合いで中足（しゃがみ中K）や様子見が多い場合、テリーは微下がりしゃがみガードで中足をガードしつつ投げをスカす。その後、中足の空振りに確定反撃を取ることを狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガが遠い間合いでプレッシャーをかけてくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:39",
+    "source_quote": "さらに遠い間合いは中足OR様子見が多く、微下がりしゃがみガードで中足をガードしつつ投げをスカし、更に中足の空振りに確定を取りたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce04324d74c7",
+    "category": "oki",
+    "topic": "ベガの前投げ後の起き攻め",
+    "content": "ベガの前投げ後は、ラッシュ膝（ドライブラッシュ立ち中K）やラッシュ投げ（ドライブラッシュ投げ）といった起き攻めが強力なので注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの前投げ後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:51",
+    "source_quote": "ベガは前投げ後のラッシュ膝やラッシュ投げなどが強力",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39277820c553",
+    "category": "defense",
+    "topic": "後ろ受け身後のベガのラッシュ膝・小パン対処",
+    "content": "テリーが後ろ受け身を取った後、ベガがラッシュ膝（ドライブラッシュ立ち中K）を狙うならジャストパリィを、ラッシュ小パン（ドライブラッシュ立ち弱P）を狙うなら小パンで反撃を狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "後ろ受け身後、ベガがラッシュで起き攻めに来る時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:59",
+    "source_quote": "後ろ受け身→ラッシュ膝をジャスパするタイミングでパリィ、ラッシュ小パン",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "690393798591",
+    "category": "defense",
+    "topic": "シャドウライズの対策",
+    "content": "ベガのシャドウライズ（空中特殊技）に対しては、テリーはジャンプ中Pまたはジャンプ中Kで対空でき、追撃も入るためリターンが大きい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガがシャドウライズを使ってくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:07",
+    "source_quote": "シャドウライズ対策はジャンプ中Pかジャンプ中K。追い打ちも入る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c0ff134ad902",
+    "category": "defense",
+    "topic": "シャドウライズへのジャンプ小K対空",
+    "content": "ベガのシャドウライズ（空中特殊技）に対して、テリーはジャンプ小Kでも落とせるが、追撃が難しくリターンが薄い上に、テリーが負けるリスクもある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガがシャドウライズを使ってくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:13",
+    "source_quote": "ジャンプ小Kでも落とせるが追撃が入らずリターンが薄い、一方負けもある",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "05805b116bab",
+    "category": "oki",
+    "topic": "ジャンプ小Kで落とした後の起き攻め",
+    "content": "ジャンプ小Kでベガのシャドウライズを落とした後でも、テリーはドライブラッシュで起き攻めに移行できる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ジャンプ小Kでシャドウライズを落とした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:18",
+    "source_quote": "一応ジャンプ小Kで落とした後はラッシュで起き攻めに行ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf11b731ff36",
+    "category": "defense",
+    "topic": "シャドウライズへの昇龍拳対空",
+    "content": "ベガのシャドウライズ（空中特殊技）に対して、テリーが最速昇龍拳を打つとスカされやすいため、着地を見てから対処する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガがシャドウライズを使ってくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:24",
+    "source_quote": "シャドウライズに最速昇龍を撃つとスカされがちなので、しっかり着地を見てから対処",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "59bd72bdc608",
+    "category": "defense",
+    "topic": "画面端シャドウライズへの前ジャンプ中K",
+    "content": "テリーが画面端に追い込まれた状態でベガがシャドウライズ（空中特殊技）を仕掛けてきた場合、テリーは前ジャンプ中Kで対応すると、入れ替わりつつ追撃が入る場合があり、大きなリターンを得られる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "画面端でベガがシャドウライズを使ってくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:38",
+    "source_quote": "画面端に追い込まれた後のシャドウライズには前ジャンプ中K。入れ替わりつつ追撃が入る場合があり、非常に美味しい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3fd3bbc9c59",
+    "category": "neutral",
+    "topic": "遠距離でのスカし飛び",
+    "content": "テリーとベガが離れた間合いにいる場合、テリーはスカし飛び（相手の攻撃を空中でかわして着地を狙う）も有効な選択肢となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "離れた間合いでの立ち回り",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:53",
+    "source_quote": "離れた間合いにいるならスカし飛びも有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a3bf0db28b5",
+    "category": "matchup",
+    "topic": "ベガのコバラッシュと小Kラッシュの対処",
+    "content": "ベガのコバラッシュ（ドライブラッシュ立ち弱P）はテリーの小パン（立ち弱P）で割れるが、小Kラッシュ（ドライブラッシュ立ち弱K）は小パンでは割れない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのドライブラッシュをガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:58",
+    "source_quote": "ベガのコバラッシュは小パンで割れるが小Kラッシュは無理",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8857b53ccd2",
+    "category": "defense",
+    "topic": "垂直ODサイコへのジャンプ中K対空",
+    "content": "テリーがジャンプ中に垂直ODサイコ（垂直方向へのODサイコクラッシャー）を合わせられた際、ジャンプ中Kを出すことで相打ちになるか、一方的に勝つことがある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ジャンプ中にベガに垂直ODサイコを合わせられた時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:02",
+    "source_quote": "垂直にODサイコを合わせられた時、ジャンプ中Kなら相打ち、一方勝ち出来る事がある",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d95c1035327f",
+    "category": "combo",
+    "topic": "ODサイコガード後の確定コンボ",
+    "content": "ベガのODサイコ（ODサイコクラッシャー）をガードした後、テリーはしゃがみ弱K→立ちコパ→強ライジング（強ライジングタックル）を繋げられる。※クイックバーンは繋がらない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのODサイコをガードした後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:11",
+    "source_quote": "ODサイコをガードした後、小足→立ちコパ→強ライジングが繋がる ※クイックバーンは繋がらない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "304",
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1654a88b130e",
+    "category": "matchup",
+    "topic": "ベガの中P後の択への対処",
+    "content": "ベガの中P（立ち中P、±0F）からの上段/下段択に対しては、テリーの1F～2F遅らせの小パン（立ち弱P）では両対応が難しいため、読み合いが必要となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの中P（±0F）後の攻防",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:18",
+    "source_quote": "中P(±0F)からの中下択は1F〜2F遅らせの小パンで両対応が難しい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c41ae61ab2ea",
+    "category": "defense",
+    "topic": "ベガの中段・下段択への基本防御",
+    "content": "ベガの中段・下段択に対しては、テリーは基本的にはしゃがみガードで下段に備える。ベガが中段攻撃をしてきたタイミングで立ち上がってジャストパリィ（パーフェクトパリィ）を狙うのが効果的。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの中段・下段択に対して",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:27",
+    "source_quote": "基本はしゃがみ、中段のタイミングで動いてたら立ってジャスパを狙うのがが丸い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d69afb31b497",
+    "category": "defense",
+    "topic": "ベガの下段ジャスパのリスク",
+    "content": "ベガが下段攻撃を多用する場合、テリーは下段へのジャストパリィ（パーフェクトパリィ）を一点狙いする選択肢もあるが、様子見から投げをされた場合は負けてしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガが下段攻撃を多用する時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:34",
+    "source_quote": "下段が多いなら一点狙いで下段ジャスパもありだが、様子見投げに負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "70301677de46",
+    "category": "oki",
+    "topic": "強マインからのラッシュに対する起き上がり",
+    "content": "ベガの強マイン（強サイコクラッシャー）ヒット後のドライブラッシュに対して、テリーが場受け身を取るとシミー（投げ抜け後に相手の投げを誘って潰す行動）が不可となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの強マインからのドライブラッシュ後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:42",
+    "source_quote": "強マインからのラッシュは場受けでシミー不可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "40de72258a34",
+    "category": "defense",
+    "topic": "強マインからのラッシュ投げ回避",
+    "content": "ベガの強マイン（強サイコクラッシャー）からのドライブラッシュ投げを回避するには、テリーは早めに小パン（立ち弱P）で止めるか、バックステップをするしかない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの強マインからのドライブラッシュ投げを回避する時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:47",
+    "source_quote": "早めに小パンで止まるかバクステするしかないと投げが避けられない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "41e4f08bd4ef",
+    "category": "defense",
+    "topic": "Dリバ後のラッシュ大足対策",
+    "content": "テリーがドライブリバーサル（Dリバ）などでダウンした後、ベガがドライブラッシュから大足（立ち大K）を重ねてくることがあるため、テリーはしゃがみガードで対処する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "Dリバ後など、ベガが起き攻めに来る時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:00",
+    "source_quote": "Dリバ後など、ラッシュから大足を重ねてくることがあるのでしゃがむ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7007a78f48d4",
+    "category": "defense",
+    "topic": "マイン爆発時のインパクト対策",
+    "content": "ベガにマイン（サイコクラッシャーの特殊版）を付けられた場合、テリーはマインが爆発するタイミングでドライブインパクトを出すことで耐えることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガにマインを付けられた後",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:04",
+    "source_quote": "マインを付けられた後、マインが爆発するタイミングでインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f26b1a00cff3",
+    "category": "defense",
+    "topic": "BO中のインパクト対策（投げ不可）",
+    "content": "テリーがバーンアウト中、ベガが立ち中Pやしゃがみ大Pから出したドライブインパクトは投げられない。テリーはパリィや攻撃で対処する必要がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "mbison",
+    "situation": "バーンアウト中、ベガがインパクトを使ってくる時",
+    "source_video_id": "9BPh_hSCWEo",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのベガ対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:20",
+    "source_quote": "BO中、立ち中Pとしゃがみ大Pからのインパクトは投げられない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T22:20:02.828425",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

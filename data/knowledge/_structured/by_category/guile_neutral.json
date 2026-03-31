@@ -1,0 +1,737 @@
+[
+  {
+    "id": "e3c2fae19cb6",
+    "category": "neutral",
+    "topic": "ガイル：ソニック読みのライン上げ",
+    "content": "ガイルのソニックに対してガードパリィしながら前に歩いて距離を詰めるのは疲れるため、相手のソニックを読んでODサンドブラストを当ててラインを上げるのが有効です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルのソニックに対して距離を詰める時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:59",
+    "source_quote": "ガイルのソニックをガードパリィをしながら前に歩いて距離を詰めるのが対策の一つですが、正直やってて疲れるので相手のソニックを読んでODサンドブラストを当てて、ラインを上げよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "86b6485b2f9e",
+    "category": "neutral",
+    "topic": "ソニックブームの使い分け",
+    "content": "相手にダメージを与えたいときは強ソニックブームを撃ち、攻めたいときは弱ソニックブームを撃ちましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "00:23",
+    "source_quote": "相手にダメージを与えたいときは強ソニック、攻めたいなら弱ソニックを撃ちましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "304"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "13c5f055a5ed",
+    "category": "neutral",
+    "topic": "弱ソニックからの生ラッシュ",
+    "content": "離れた位置で弱ソニックブームが撃てた時は、適当に生ラッシュで突っ込んで攻め込みましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "離れた位置で弱ソニックブームがヒットまたはガードされた時",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "00:28",
+    "source_quote": "離れた位置で弱ソニックが撃てた時は適当に生ラッシュで突っ込みましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "798b17dcc2f8",
+    "category": "neutral",
+    "topic": "モダン操作の弱ソニック",
+    "content": "モダン操作の弱ソニックブームは弾速が遅くて当たらないことが多いので、ワンボタン必殺技（SP）で使っても問題ありません。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "弱ソニックブームを使う際",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "00:33",
+    "source_quote": "どうせ弱ソニックは弾速が遅くて当たらないのでワンボタン必殺技でいいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "02e482702d46",
+    "category": "neutral",
+    "topic": "ソニッククロスの活用",
+    "content": "ソニックブームも強いですが、ソニッククロスは弾速が遅いため、この技を盾にして攻めるのが簡単で強力です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "攻めたい時",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "00:37",
+    "source_quote": "ソニックブームだけでも結構強いですが、こちらの技の方が、弾速が遅いので攻めるのが簡単です。攻めたいときはこの技を盾にして攻めましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c33c836c7fbe",
+    "category": "neutral",
+    "topic": "生ラッシュの基本的な使い方",
+    "content": "相手に近づくために前に歩く必要はなく、生ラッシュを使いましょう。飛び道具（ソニックブームなど）を盾にして生ラッシュで攻めるのは非常に強力な選択肢です。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、相手への接近",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "00:50",
+    "source_quote": "前に行く必要はありません 走りましょう。ガイルは飛び道具を盾にして生ラッシュで攻めるのがなかなか強力です",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5c330bf204c5",
+    "category": "neutral",
+    "topic": "生ラッシュからの択",
+    "content": "生ラッシュ後に相手に到達したら、長い下段技である中アシスト技（中足）を使うと、ガードが難しく、ヒットすればコンボに繋げられます。また、ニーバズーカで簡単に密着状態を作ることができます。これらの攻撃がガードされた場合は、投げや打撃を重ねて択をかけましょう。投げは相手にパリーをさせづらくさせ、相手をイラつかせることができます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "生ラッシュで相手に到達した後",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "01:00",
+    "source_quote": "基本的な使う技は、3つあります まずは中足です 長い下段技なのでガードが難しく、ヒットしたらコンボに行けます。次にニーバスーカーです この技は簡単に相手と密着を作れます。ガードされたら、投げたり、打撃を重ねたりしましょう！最後に投げです 投げることでパリーしづらくなります 相手をイラつかせましょう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "203",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e63613ad43a6",
+    "category": "neutral",
+    "topic": "中足ターゲットコンボの活用",
+    "content": "ガイルの中足ターゲットコンボは純粋にリーチが長く強力です。特に、後に続く中段部分はガードが難しいので、何も考えずにそのまま入れ込んで使いましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "1sEj6poylF8",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンガイル解説",
+    "source_timestamp": "01:24",
+    "source_quote": "純粋に長くてつよーい！そして、あとに続くターゲットコンボが中断でガードが難しいです 思ってるよりも当たるので何も考えず入れ込みましょう うざいね",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:14:36.060789",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6b97b7b439e5",
+    "category": "neutral",
+    "topic": "対空迎撃の基本",
+    "content": "ガイルは性能の良い弾と豊富な通常技で相手を動かし、飛んできた相手を対空技できっちり落とす「飛ばせて落とす」戦法が得意。対空に有効な技はサマーソルトキック、しゃがみ強攻撃、立ち中攻撃、空中投げ。初心者のうちはしゃがみ強攻撃だけでも十分機能するので、トレーニングモードでしっかり練習すると良い。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手がジャンプ攻撃で攻めてきた時",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "01:12",
+    "source_quote": "ぴょんぴょん飛び跳ねる相手をしっかり迎撃してやるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f6bedde92c32",
+    "category": "neutral",
+    "topic": "自分から攻める手段の少なさ",
+    "content": "モダンガイルはクラシックガイルに存在した中段技（例: フルブレットマグナム）が削除されている。これにより、相手がしゃがみガードしているとジャンプ攻撃以外の地上攻撃は全てガードされてしまうため、自分から攻めて相手のガードを崩すのが難しくなっている。しゃがみ中攻撃→前+中攻撃→前+中攻撃という連携で中段は出せるが、コンボに繋がらない。序盤で体力リードを取られてガン待ちされると厳しい状況になる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手がしゃがみガードで固まっている時",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "06:57",
+    "source_quote": "モダンガイルは中段技が削除されているのでこれができない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d5773774c234",
+    "category": "neutral",
+    "topic": "ラウンド開始時のタメ維持",
+    "content": "ラウンド開始前から左下（↓+←）を押しっぱなしにしておくことで、開幕と同時にソニックブームやサマーソルトキックを出すことができる。これはガイルの基本的な戦い方として癖にしておくのが良い。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "ラウンド開始時",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "12:50",
+    "source_quote": "ラウンド開始前から↓をずっと押しとく これにより開幕すぐソニックブームを撃ったりサマーソルトキックを出すことが可能となるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "966cae54a698",
+    "category": "neutral",
+    "topic": "安全な弾撃ちと迎撃",
+    "content": "開幕直後の弾撃ちは、相手のジャンプ攻撃が届く距離だと危険な場合があるため控えた方が無難。対戦相手の戦い方や癖を読み、相手のジャンプ攻撃が届かない遠距離になったらソニックブームを撃っていく。相手が飛んできたらしゃがみ強攻撃やサマーソルトキックで迎撃する。特にしゃがみ強攻撃は出すのが遅いと相打ちになることが多いので、相手の飛びを見たらなるべく早く出すことを意識すると良い。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "遠距離での立ち回り",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "13:41",
+    "source_quote": "安全にいくなら開幕直後に弾を撃つのは控えた方が無難なのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b5893c29831",
+    "category": "neutral",
+    "topic": "弱ソニッククロスでの距離詰めと攻め継続",
+    "content": "ダウンを奪ったり相手との距離がさらに離れたら、必殺技ボタン連打で弱ソニッククロスを撃つ。弱ソニッククロスは2ヒットするため相手の弾と相殺しづらく、弾速が遅いので歩いて追いかけることで距離を詰めることが可能。距離を詰めたら打撃を重ねたり投げに行ったり、あえて何もしないでガイルが戦いやすい距離を維持するなど、状況に応じて選択する。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手をダウンさせた後や距離が離れた時",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "14:14",
+    "source_quote": "ダウンを奪ったり相手との距離がさらに離れたら必殺技ボタン連打で弱ソニッククロスを撃つ ソニッククロスは2ヒットするので相手の弾と相殺しづらい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "320",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c489e74a70eb",
+    "category": "neutral",
+    "topic": "相手の行動変化への対応",
+    "content": "相手が飛ばなくなったりガードやパリィが多くなったら、強気に前ステップから投げに行ったり、ドライブラッシュからのしゃがみ弱攻撃やニーバズーカ（→+弱）を仕掛けるのがおすすめ。しゃがみ弱攻撃が当たれば連続で繋がり、しゃがみ弱攻撃からのサマーソルトキックで締められる。ドライブラッシュからのコンボが難しければ、ヒットガード関係なく投げに行くのも有効。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手が守りを固めてきた時",
+    "source_video_id": "V_-or_UKVC4",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンガイル解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "14:37",
+    "source_quote": "相手が飛ばなくなったりガードやパリィが多くなったら強気に前ステップから投げにいったり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T06:36:20.999730",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "203"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c6fcfebc2035",
+    "category": "neutral",
+    "topic": "ガイルの差し合い能力",
+    "content": "ガイルは「差し」に行く行動、つまり間合い管理や牽制技を使った差し合いの性能が非常に高いです。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "00:30",
+    "source_quote": "「差し」に行くっていう風な行動も「非常に強い性能」を持てたりします。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4fe4d9645970",
+    "category": "neutral",
+    "topic": "ソニックブームの活用",
+    "content": "「ソニックブーム」は相手を遠ざけるための牽制や、攻めの起点として使えます。ガイルのソニックブームは2段ヒットするため、他のキャラの通常の飛び道具を2発分として機能し、弾の打ち消し合いに強いです。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "牽制、攻めの起点",
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "05:07",
+    "source_quote": "「ソニックブーム」これは「寄せ付けたくない時」に使う事もおれば「攻めの起点」に使う事も有ります。こういう風に。…「2段弾」ですので「普通の弾=2発分」の性能。なので「非常に強い弾」に成りますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a92e8c5f910",
+    "category": "neutral",
+    "topic": "ソニックブレイドの活用",
+    "content": "「ソニックブレイド」は、発生させた後に自身が後退することで、相手を寄せ付けない壁として機能させつつ、安全な距離から自身の強力な行動を通せるように使えます。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "距離を離したい時、安全に攻めたい時",
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "06:08",
+    "source_quote": "「ソニックブレイド」を使ってココを壁にしてラインを下げて安全な距離へ…自分だけが「強い行動」を行える距離まで下がる…といった風な使い方もあったりします。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3f5e029578c",
+    "category": "neutral",
+    "topic": "ソバット（立ち中K）の活用と注意点",
+    "content": "「ソバット」（立ち中K）はリーチが長く、下段判定がなくなるため、相手の下段攻撃をスカして「パニッシュカウンター」を取れる強力な差し込み技です。ただし、ガードされると-6Fの硬直差があるため、近距離で出すと相手に確定反撃を取られる可能性があります。距離感を意識して、相手の技が届かない遠めの距離で振るようにしましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "触りに行きたい時、相手の下段攻撃をスカしたい時、ガード時、近距離",
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "06:32",
+    "source_quote": "でまず「ソバット」。「取り敢えず触りに行きたい時」リーチが長いです。コレね「下段判定が無くなる」んで…「ソバット」は「下段技」をスカして「パニッシュカウンター」を取れる。なので、コレ「差しに行く」のに相手が嫌がって置いててくる所に刺さったりする…と「強い行動」に成ったりします。ただし気を付けなければイケない所が有って…「ガード時-6F」なんで…これくらい の密着度合いで振っちゃうと「確定反撃」がね…確っちゃうんですけど…なのでここは…「ド至近距離」で振る技では無いかなって感じですね。なのでここは「距離感」を意識して使いたい技。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b307b66ee3ae",
+    "category": "neutral",
+    "topic": "屈中Kの活用と注意点",
+    "content": "「屈中K」は差し込みや「置き技」として優秀な技で、リーチも長いです。しかし、ガードされると-5Fの硬直差があるため、近距離では相手の小技で確定反撃を取られます。また、必殺技キャンセルからのドライブインパクトはできません。使う際は適切な距離を意識し、リスク管理を行いましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "差し込み、置き技として、ガード時、近距離",
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "07:30",
+    "source_quote": "次「屈中K」。コレも相手を「差しに行く時」に使っても良い「非常に優秀な技」となります。あと「置き」としても非常に優秀。リーチが長い。ただし気を付けなければイケない所が有って…「ガード時-5F」なんで…「Dインパクト」を振られた時に「必殺技キャンセル」が効かないので…「こういう振り方みたいな事が出来ない」んですよ。キャンセルDインパクトが振れない。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b053bec69fa7",
+    "category": "neutral",
+    "topic": "ガイルの基本的な立ち回り",
+    "content": "ガイルの基本的な立ち回りは、「ソニックブーム」を撃ちまくり、相手が跳んだら対空で落とすという戦略です。開幕の距離であれば「安全ソニック」を撃つことができます。遠距離からソニックブームを撃って、相手にジャンプ攻撃を誘い、それを対空で迎撃するという流れを意識しましょう。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "ニュートラル、開幕時",
+    "source_video_id": "30XH_GWCcGU",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】初心者向け!全部教えましょう!専門知識を必要とするガイルの立ち回り方やコンボに主要技とサマソSA3の仕組みを説明【スト6】",
+    "source_timestamp": "11:05",
+    "source_quote": "そして「立ち回り」に関しましては、えー基本的には…「ソニック」を飛ばせましょう相手に…飛ばせせて落としましょう…そこから「自分のターン」が始まる…っていう風な感覚ですね。…「開幕の距離」など「安全ソニック」撃てます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:30:21.618551",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0b8e57a2e846",
+    "category": "neutral",
+    "topic": "ソニックブームの立ち回り",
+    "content": "ソニックブームにはジャスト入力があり、Pボタンと6入力（前方向）の差が2フレーム以内だと成功し、性能が向上する。基本的に弱ソニックブームをガードさせて有利フレームを多く取り、その後に強ソニックブームを撃つセットプレイが強力。特定の距離（中距離）でソニックブームをガードさせることを意識すると、次のソニックブームを安全に撃てる。ソニックブレイド設置後にソニックブームを撃つと強化され、弾の打ち合いで有利に立てたり、一緒に攻めてドライブゲージ回復に使えたりする。相手がソニックブームを見てから飛んでくるようなら、様子見からのサマーソルトキック（対空）も有効。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "JyC_8IUPeks",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ガイル使い方解説",
+    "source_timestamp": "01:23",
+    "source_quote": "ソニックはジャスト入力があってPボタンと6入力の差が2F以内だとジャストになるのだ。ジャストだとちょっと性能が良くなるのだ。基本的に弱をガードさせて大きく有利を取るのが強いのだ。弱をガードさせて強を撃つを1セットで使うのがおすすめなのだ。ソニックはこれくらいの距離でガードさせると次のソニックが安全に撃てるのでこれくらいの距離でガードさせるのを意識するのだ。次がソニックブレイド。設置した後にソニックを撃つと強化できるのだ。うまく使うと弾の打ち合いで有利に立ち回れるのだ。他にも一緒に攻めてDゲージ回復に使えるたりするのだ。あと見てから飛んでくる相手には様子見でサマソも強いのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:25:26.094390",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "300",
+      "304",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f43dcc90d7c",
+    "category": "neutral",
+    "topic": "サマーソルトキックの使い分け",
+    "content": "ラッシュでの起き攻めをしない場合や、SA3に繋ぐ場合は強サマーソルトキックを用いると良いです。サマーソルトキック後にラッシュで起き攻めを狙う場合は中サマーソルトキックを用いると良いです。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "コンボや対空、起き攻め時",
+    "source_video_id": "25Su3JR3qqo",
+    "source_channel": "ブレイヴ片手好き",
+    "source_video_title": "ガイル とりあえず覚えたいコンボ そこからのセットプレイ【スト6 STREET FIGHTER 6 ストリートファイター6】",
+    "source_timestamp": "00:58",
+    "source_quote": "コンボや対空問わず\nラッシュ起き攻めをしない場合や\nSA3に繋ぐのであれば強サマーを用いる\nサマー後にラッシュで起き攻めを狙う場合は中サマーを用いる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T16:16:39.386721",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "309",
+      "311",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e1dcf64330f",
+    "category": "neutral",
+    "topic": "超危険区域での技の選択肢",
+    "content": "超危険区域で相手の飛びやDIに対して必殺技キャンセル可能なしゃがみ中Pを置くことで、飛びにはサマーソルトキックが間に合い、DIにはDI返しができる。ただし、しゃがみ中Pはリーチが短く、喰らい判定が前側にあるため、差し返し気味に技を喰らいやすいリスクがある。ソバットやしゃがみ中Kのようなリーチの長い必殺技キャンセル不可の技で差し込むと、飛びには勝てるがDIには負けやすい。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "超危険区域で相手の飛びやDIに対して技を置く場合",
+    "source_video_id": "oSU-G2M1lrY",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+    "source_timestamp": "02:17",
+    "source_quote": "この「飛び」や「DI」に勝つ選択肢として「必殺技キャンセル=〇」の「屈中P」を置く。こうすると「飛び」にはサマソ対空が間に合うし「DI」には「DI返し」が出来る。ただこの「屈中P」は意外とリーチが短い。その上で「喰らい判定」もかなり前側に残っているからこんな風に差し返し気味に技を喰らいがちなんですよね。この「ソバット」のような技で「差し込み」をするって事はさっきも話した「DIを喰らうリスク」が有りますよって事ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T02:03:56.192794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "108",
+      "109",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f83cdb2bbb47",
+    "category": "neutral",
+    "topic": "超危険区域からの離脱",
+    "content": "ガイルが超危険区域にいる場合、相手に主導権があり長く留まるほど不利になるため、速やかに離脱すべきである。サマーソルトキックの準備をしていなくても、通常技対空が可能な状態で超危険区域から離脱する。具体的には、1秒ほど下がることで弾しか届かない「中危険区域」に移行できる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "超危険区域にいる場合",
+    "source_video_id": "oSU-G2M1lrY",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+    "source_timestamp": "03:39",
+    "source_quote": "「危険ソニック」の中でも「超危険区域」の距離では「相手に有利」な「駆け引き」を「仕掛けられている」って事なんですよね。相手の方が「読み勝った時のリターンが高い」。要は相手に寄られてこの「超危険区域」の距離を作られてしまった場合「相手に主導権が有る」って事なんですよね。だからそもそもこの距離に居続ける時間が長ければ長い程負け易くなります。大前提として「落とせる時には落とす様にする」コレが一番の要になります。「落とせる時」って言うのは「サマソを準備してる時」では無く「通常技対空が出来る時」の事を言います。この「対空能力」を携えて「超危険区域」から速やかに離脱して下さい。大体1秒ぐらい下がると相手がガン歩きせず立ち回ってる限りは「弾しか届かない距離」が作れてます。ここは「中危険区域」になりますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T02:03:56.192794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b5385fee5c5b",
+    "category": "neutral",
+    "topic": "中危険区域での立ち回り",
+    "content": "ガイルが中危険区域（弾しか届かない距離）にいる場合、対空とDI返しを主に狙う。基本的に大ソニックを撃ち、相手を「弾集中モード」にさせたら、小ソニックで大幅有利を活かして奇襲をかける。相手がソニックを飛びたい心理状態になったら、対空やDI返しを狙うために待つ。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "中危険区域にいる場合",
+    "source_video_id": "oSU-G2M1lrY",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+    "source_timestamp": "05:06",
+    "source_quote": "この距離を作られると相手は「一方的」な状況を嫌うので「ソニックを読んで「飛ぶ」か「DI」を振ってきます。この「飛び＆DI」を選んだタイミングで「ソニック」を撃ってしまうと確定してしまいますので下がりながらシッカリと「DI返し」や「対空」を狙いましょう。ソバット等が当たってくれます。なので相手をこの心理状態にさせたらソニックは撃ち放題です。ちなみに「ソニック」は「大ソニック」を基本的に撃って下さい。何故かと言うと引っ掛かり易いからです。「弾を見てから跳ぼう」と思ったりしている相手にヒットさせる事によって「集中して早めに対処をしなければイケない」って心理状態に出来るからです。相手が「弾集中」の心理状態になっている時に遅い「小ソニック」を撃つと早めにパリィやガードを判断して固まってくれやすいです。なのでこの「小ソニック」で取れる有利Fを活かして「Pラッシュ」を使って攻めたりする。そうすると相手は「ソニックを飛びたい」って心理状態になり易いので「対空」や「DI返し」を狙う為に待ちましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T02:03:56.192794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a21e049ee1f",
+    "category": "neutral",
+    "topic": "相手の地上接近行動への対処",
+    "content": "相手が超危険区域から中危険区域への離脱を読んできて地上で詰めてくる場合、リスクを承知の上でソバットのような技を振って相手を一旦止め、その後に下がる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": null,
+    "situation": "相手が超危険区域から中危険区域への離脱を読んできて地上で詰めてくる場合",
+    "source_video_id": "oSU-G2M1lrY",
+    "source_channel": "愚浪 GROW Fighting gamer‘s",
+    "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+    "source_timestamp": "06:26",
+    "source_quote": "ただし「最初の超危険区域」から「中危険区域」に離脱しようとしている事を読まれて「地上で詰めて来る」場合も有ります。なのでそう言う相手には「リスクを承知の上」で「ソバット等」を振ったりして一旦相手を止めた後に下がりましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T02:03:56.192794",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

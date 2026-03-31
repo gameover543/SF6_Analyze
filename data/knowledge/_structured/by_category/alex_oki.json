@@ -1,0 +1,993 @@
+[
+  {
+    "id": "c9d0104da79e",
+    "category": "oki",
+    "topic": "大Pヒット後の起き攻め",
+    "content": "大Pヒット後は後ろ中Kでダウンを奪い、ドライブダッシュからさらに打撃を重ねたり、コマンド投げで二択を仕掛けることができる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "大Pヒット時",
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "02:27",
+    "source_quote": "でノーマルヒットしてたら繋がるから。繋がったら後ろ中Kで（コンボ例）ダウンをとって舞ステップでまあめちゃめちゃ有利フレもある。Dゲージがいっぱいあるならラッシュで引き中パン、引き中Kか立ち中パンをガンって埋めにいって、でガードされてもコマンド投げと打撃の二択を選べるようにするだけでよし",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ac28e2ec792",
+    "category": "oki",
+    "topic": "構え（スタンス）からの起き攻め",
+    "content": "タメ大Kは構えキャンセルでプラスフレームとなり、そこから構え中K（エルボードロップ）や構え大K（エアースタンプ）といった派生技を出すことで、反応が非常に難しく、二択を仕掛けることができる。特に構え中Kは-1Fで非常に早く、見てから止めるのは不可能に近い。ODエアースタンプは相手の暴れやリバーサルに勝てる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "構えからの起き攻め",
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "03:36",
+    "source_quote": "で、そのほか、大Kが結構長いんだけど。ためると構えキャンセルできるようになって、でしかもプラスに有利取れるようになるから。構えのところはこれの後に構えてこれかこれのどっちか打つと強い。このスタンプめっちゃ強くて。ガードさせてプラスに。中コマ投げが届くから。これ暴れに負けちゃうんだけど（OD Air Stampede）ODにすると暴れにも勝って届きます。で、こっからエルボーも強い。でエルボー自体がマイナス１しかなくてしかもめちゃめちゃ早いから見て止めるは全然無理。ジャスパすらジャックとかちゅうに関してはめっちゃむずい。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d00f9236e7a6",
+    "category": "oki",
+    "topic": "ドライブラッシュからの読み合い",
+    "content": "ドライブラッシュからの構えは、ヒット時はコンボ、ガード時は+2Fとなり、中コマンド投げで相手の暴れ潰しができる。また、構え中には相手のOD無敵技（例：ケンの昇龍拳、豪鬼やラシードのSA1）を避けることができ、前歩き入力で移動して追撃が可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "ken",
+    "situation": "ドライブラッシュからの構え",
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "12:28",
+    "source_quote": "プラ2あるってことは中コマ投げで暴れに勝てます。プラ2あるってことは立ち中パン、まあ引き中Kがいいか。引き中Kで暴れを潰して。しかもガードされてもまだ有利有利ここまでいける。だからさっきの投げとこれコパンに加えてこういう起き攻めがあり。自分がSAに持ってて相手をこの辺ぐらいまで追い込んだら。まじで色んな行動に、えーとODフラッチョを入れ込む。これ入れ込みまくる。ってするといざ当たった時に二段目でSAキャンセルします。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "caab7b151c0c",
+    "category": "oki",
+    "topic": "画面端でのODフラッシュチョップ連打",
+    "content": "相手を画面端に追い込み、自分にSAゲージがある場合、ODフラッシュチョップを入れ込みまくるのが強力な攻め継続になる。入れ込み後、ヒット時はSA2に繋いで大ダメージを取ることも可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "相手が画面端、SAゲージあり",
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "20:38",
+    "source_quote": "あと、おもろ戦法としてはこの辺。えーと自分だ。自分がSAに持ってて相手をこの辺にぐらいまで追い込んだら。まじで色んな行動に、えーとODフラッチョを入れ込む。これ入れ込みまくる。こうやって。全てにODフラチョを仕込んだりなんだりして。入れまくる。ってするといざ当たった時に二段目でSAキャンセルします。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216",
+      "302",
+      "303",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bea0a9fb75e4",
+    "category": "oki",
+    "topic": "ODコマ投げ後の起き攻め",
+    "content": "ODコマンド投げはレバー入力によって投げる方向を変えられます。前方向に入力すると前方に投げ、後ろ方向に入力すると後方に投げます。基本的には前投げの方が強く、前投げ後は安全飛びが可能です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "04:21",
+    "source_quote": "ODコマ投げはレバーを入れる方向によって投げる方向が変わります。前入れれば前に投げるし後ろ入れておくと後ろに投げる。これ位置は選べる。ただ基本前に投げた方が強くて。前に投げるとここから安全飛びです。安全飛びが出来るので強い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "15565ecec20e",
+    "category": "oki",
+    "topic": "強エアニースマッシュ後の強力な起き攻め",
+    "content": "強エアニースマッシュ後は+29Fの有利フレームがあるため、最速ラッシュからの中段攻撃が埋まります。中段がヒットした場合は立ち中Pからの強エアニースマッシュでループ可能です。相手が中段ガードを意識している場合はコマンド投げに切り替えるのが有効です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "06:49",
+    "source_quote": "強エアニーの後は+29Fあるので最速のラッシュ→中段が埋まります。なので出来ればこの強エアニーにしてラッシュ→中段で当たったらまた立ち中Pから強エアニーにすればループします。で中段をガードしようと思っている相手にはコマ投げ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "72f6c67ad18f",
+    "category": "oki",
+    "topic": "しゃがみ中P→ラッシュ後の起き攻め",
+    "content": "しゃがみ中P→ラッシュから近距離で択をかける場合、立ち中Pに繋いだ方がその後の立ち中Pガードからのコマ投げが届きやすいです。相手のジャンプを潰したい場合は、立ち中Pガード後に後ろ中K（4中K）を入力します。立ち弱Pから強エアニースマッシュに繋ぐことで、コマ投げとの2択を迫れます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "07:51",
+    "source_quote": "ただガードされてた場合にしゃがみ中P→ラッシュで4中Kにすると結構距離が遠いから立ち中Pにした方がその後の立ち中Pガードさせててコマ投げとかが届きやすい。通常投げも届く。でしゃがみ中P→ラッシュ→立ち中Pガードさせた後は強コマ投げもしく打撃択だったらその後に4中Kをするとジャンプを潰せるのでここから立ち弱P→強エアニーかな。これでコマ投げと2択",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "110",
+      "306",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9bdbc930aae6",
+    "category": "oki",
+    "topic": "ラッシュからの起き攻め連携",
+    "content": "ラッシュから2弱K、2弱P、強エアーニーに繋ぐことでダウンが取れる。ダメージは1,490。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ラッシュからの始動",
+    "source_video_id": "z5eJbV8w_E8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】今夜勝ちたい！アレックスの基本コンボ21選！/ SF6 ALEX Basic Combo 21",
+    "source_timestamp": "00:05",
+    "source_quote": "ラッシュから起き攻めもいけます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:24:06.061136",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3f7a0088209",
+    "category": "oki",
+    "topic": "起き攻め重ねからのコンボ",
+    "content": "3中Kからの立ち弱P、強エアーニーで2,100ダメージを与える。締めをODフラチョにすることも可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め重ねからのヒット確認",
+    "source_video_id": "z5eJbV8w_E8",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】今夜勝ちたい！アレックスの基本コンボ21選！/ SF6 ALEX Basic Combo 21",
+    "source_timestamp": "00:28",
+    "source_quote": "③4中K>5弱P>強エアーニー 2,100dmg 起き攻めの重ねから繋ぐコンボ 締めはODフラチョでもOK",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:24:06.061136",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0fb7e740ebca",
+    "category": "oki",
+    "topic": "弱フラッシュアックスヒット後の攻め",
+    "content": "弱フラッシュアックスヒット時、アレックスは+3Fだが距離は遠い。有利フレームを活かして、再度弱Kや弱フラッシュアックスで攻めを継続する。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "弱フラッシュアックスヒット時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "02:23",
+    "source_quote": "弱アックスは、ヒットでアレックス+3Fですけど、距離はそこまで近くないので、有利フレームを活かして再度弱K>弱アックスとか、2中Pアックスをやってみるとか。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6dfac770ab9d",
+    "category": "oki",
+    "topic": "弱フラッシュアックスヒット後のODコマ投げ",
+    "content": "弱フラッシュアックスが近い距離でヒットした場合は、ODコマ投げでダウンを奪い、起き攻めに移行する。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "弱フラッシュアックス近距離ヒット時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "02:38",
+    "source_quote": "近ければODコマ投げでも崩せます。ODコマ投げとかであれば遠くので、投げで崩していくっていうのも狙っていくと。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce74e03177f1",
+    "category": "oki",
+    "topic": "中フラッシュアックスヒット後の起き攻め (簡易版)",
+    "content": "中フラッシュアックスがヒットしたら、ダウンが取れるので起き攻めに行ける。簡易起き攻めとしては、生ラッシュから中Pを重ねるのがシンプルで分かりやすい。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "中フラッシュアックスヒット時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "02:50",
+    "source_quote": "次に中アックスがヒットした時なんですけど、これはダウンが取れるので起き攻めに行きます。簡単な起き攻めだとラッシュ中P重ねとか、これがシンプルで分かりやすい起き攻めです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0351ca749dd9",
+    "category": "oki",
+    "topic": "中フラッシュアックスヒット後の起き攻め (目押し版)",
+    "content": "中フラッシュアックスヒットからダウンを奪った後、生ラッシュで近づき、中P>中P>強エアニースマッシュ、または中P>中P>中フラッシュアックスと繋ぐ。ただし、最速ではなく体感で重ねる必要があるので練習が必要。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "中フラッシュアックスヒット時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "03:00",
+    "source_quote": "これただ最速じゃなくて体感で重ねる必要はあるので、重ねて中P>中P>強エアニーとか、中P>中P>中アックスとか、こんな感じで起き攻めをしていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e1fe49949988",
+    "category": "oki",
+    "topic": "中Pガード時の起き攻め",
+    "content": "起き攻めの中Pがガードされてもアレックスはほぼ密着で+4F取れるので、中コマ投げやODコマ投げで崩すことが出来る。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め中Pガード時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "03:17",
+    "source_quote": "で、この起き攻めの中Pがガードされた時も、アレックスがほぼ密着で+4F取れるので、こっから、中コマ投げで崩したりとか。結構有利な択を仕掛けることが出来ます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c973a7e1bad3",
+    "category": "oki",
+    "topic": "中アックスヒットからの構えを使った起き攻め",
+    "content": "中アックスがヒットしたら、構えでキャンセルし、前入れ弱K派生からジャンプ攻撃で相手の最速打撃暴れを潰したり、前入れ中K派生(中段)で択をかけることができる。この連携はDRIVE GAUGEを使わない。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "中アックスヒット時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "03:44",
+    "source_quote": "一応Dゲージを使わない起き攻めもあって、これは構えを使うので、出来ない人はいいです。無視してください。構えを使う場合は、中アックスを構えでキャンセルして、前入れ派生中K派生とか、弱K派生。まぁ見せる。こんな感じです。これ中段なんですけど、これ一応ちゃんと最速でやれば、こんな感じで相手の起き上がりの打撃暴れを潰したり、弱K派生からからのJ攻撃で相手の最速打撃を潰したり。一応これであればDゲージを使わずに起き攻めに行くことができるので、もし余裕のある人は試してみて下さい。結構手が忙しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c60fd39897dc",
+    "category": "oki",
+    "topic": "構え中K派生ガード後の状況",
+    "content": "構え中K派生をガードさせると+2Fで、密着ではないが弱フラッシュアックスヒット時と同じくらいの状況になる。ここからODコマ投げや弱K派生から弱フラッシュアックスなどの連携が可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "構え中K派生ガード時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "04:28",
+    "source_quote": "一応更に掘り下げていくと、この中K派生は、ガードさせて+2Fで、密着ではない。さっきの弱アックスを当てた時と同じくらいの状況なので、ODコマ投げで崩してみたり、もう1回弱K>弱アックスをやってみたりとか、といった選択肢が取れます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "97385def8787",
+    "category": "oki",
+    "topic": "溜め立ち強Kガード時の攻め",
+    "content": "溜め立ち強Kをガードさせると+2F取れる。これは弱フラッシュアックスヒット時や構え中K派生ガード時とほぼ同じ状況なので、ここからODコマ投げ、小技フラッシュアックス、またはコアコパ等で攻めを継続する。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "溜め立ち強Kガード時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "07:18",
+    "source_quote": "で、このタメ強Kをさらに掘り下げていくと、これ、ガードさせた時に+2Fなんですよ。だから結構近目でガードさせられれば、さっきの弱アックスを当てた後の状況とか、構え中K派生ガードとほぼ同じ状況なので、こっからODコマ投げで崩してみたり、小技アックスを入れ込んでみたり、近ければコアコパでもOK。コアコパ。+2Fを活かして攻め継続していきましょうっていう感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "42ce3c60e0f8",
+    "category": "oki",
+    "topic": "覚えるべき起き攻め2種",
+    "content": "1. エアニースマッシュヒット後の起き攻め：生ラッシュ中P（体感で重ねる）。2. エアニースマッシュヒット後の起き攻め（中段）：生ラッシュ6中P（最速）。3. ODエアニースマッシュ後の起き攻め：前ステップから中コマ投げ（強コマ投げでも良いが中のほうが長い）または通常投げ。DRIVE GAUGEに余裕があるときはODエアニースマッシュで締めて起き攻めを狙うのがアリ。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "エアニースマッシュヒット後、起き攻め",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "14:18",
+    "source_quote": "続いて起き攻め、起き攻めはね、2つ覚えておきましょう。まず、エアニー生ラッシュ中P(体感)。これラッシュ中パンチ、体感で重ねが繋がります。あとわ、えっと、ラッシュで最速で中段、これも届きます。これは最速で出すと届きます。で、もう1回中パンチからエアニーとか。ODエアニーですね。ODエアニーは結構状況が良く前ステで+5Fが取れる。ODエアニー前ステ中コマ投げ。強でもいいですが中の方が長いです。ODエアニー前ステ通常投げ。リスクをリスクを見るんだったら通常投げでもいいです。ODエアニー>前ステ4中K。ODエアニーの後はかなり起き攻め状況が良いので、ゲージに余裕があるときはODで締めて起き攻めを狙っていくのもアリです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b396df9b560e",
+    "category": "oki",
+    "topic": "エアニー後の画面端起き攻め",
+    "content": "画面端でエアニーを当てた後、相手は受け身を取れないため、前ステップで密着からの＋7F状況となる。このフレームを活かして投げや打撃の択を仕掛けることが可能で、シミーも有効。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "画面端でエアニーがヒットしダウンさせた後",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "01:29",
+    "source_quote": "エアニーを当てると前ステして密着なのに後ろ受け身もクソもないような状況でかつプラ7なのでシミーできます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "da94fbc270e0",
+    "category": "oki",
+    "topic": "ノーマルエアニー後の起き攻め",
+    "content": "ノーマルエアニーは、着地後＋5Fの状況となり、立ち弱Kを重ねることができる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ノーマルエアニーを当ててダウンさせた後",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "01:41",
+    "source_quote": "ノーマルエアニーで十分この中コマネと前ステ引き中K。立ち弱Kが繋がるようになっちゃうから",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "550d982d66da",
+    "category": "oki",
+    "topic": "引き中Kヒット後のループ起き攻め",
+    "content": "引き中Kからの小P、強エアニーでループする起き攻めが可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "引き中Kがヒットした後",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "02:07",
+    "source_quote": "引き中K>小P>強エアニー (ループ可能)",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c0fc88e35827",
+    "category": "oki",
+    "topic": "画面端での対空と起き攻め",
+    "content": "画面端で相手を対空することも重要。もし昇龍拳が苦手な場合はしゃがみ大Pで対空する。しゃがみ大Pで対空した後は、構えキャンセルで様々な択を仕掛けることができる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "相手を画面端に追い込んだ時",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "03:00",
+    "source_quote": "端に追い込んだ相手を対空するのも大事。あとは、まあなんか適当にしゃがみ大Pを使ってください。しゃがみ大Pで落とした後は構え移行してキャンセルしてなんかする",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2621f76d1304",
+    "category": "oki",
+    "topic": "カウンターヒットエアニー後の起き攻め",
+    "content": "エアニーがカウンターヒットしダウンさせた後は、前ステップで密着からの＋5F状況となる。最速で投げにいくことで、相手の最速投げ暴れを潰せる。または小Pで刻むことで、相手の暴れ潰しにもなる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "エアニーがカウンターヒットしダウンさせた後",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "06:13",
+    "source_quote": "こっからカウンターヒットした時なんかは、プラ5なので最速投げやったら相手の最速投げ読を潰れてる。で小パン重ねる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3649a048a5ed",
+    "category": "oki",
+    "topic": "起き攻め：相手が暴れ",
+    "content": "起き攻めで相手が暴れてきた場合は、弱P～大P（暴れ潰し）や弱K～大Pで対処する。大Pをガードさせると中コマ投げが重なる。弱Pを3発刻んでから暴れ潰しに行っても良い。また、弱P>強Kで暴れ潰しからコマ投げに繋ぐこともできる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、相手の暴れ",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "08:26",
+    "source_quote": "弱P～大Pで暴れ潰し、大Pガードで中コマ投げが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "150e32004df3",
+    "category": "oki",
+    "topic": "起き攻め：相手が投げ抜け",
+    "content": "起き攻めで相手が投げ抜けをしてきた場合は、リープ（構え前K）で対応する。リープがパニッシュカウンターになった場合は、大ニーで拾って追撃できる。確認が難しい場合は大ニーで拾いに行く。ラッシュ屈大P>中アックスのコンボも同様の起き攻め状況を作れる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、相手の投げ抜け",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "09:04",
+    "source_quote": "L大Porリープ pc>大ニー",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9f9a40b37978",
+    "category": "oki",
+    "topic": "起き攻め：相手ガード",
+    "content": "起き攻めで相手がガードを固めた場合は、直投げか弱P>投げで択を迫る。画面端での投げは状況が非常に良く、投げ後に再度投げを重ねることも可能。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、相手ガード",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "09:40",
+    "source_quote": "当然投げもある。直投げか弱P>投げでゆさぶる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4944e6ceec47",
+    "category": "oki",
+    "topic": "立ち中Pからの起き攻め",
+    "content": "立ち中Pを置いておき、ヒットしたら投げが確定する。その後、構えステップインで崩しに移行できる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち中Pヒット時",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "13:42",
+    "source_quote": "立ち中Pタゲコン>構え Lステップイン>弱Pで暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0d10caad0452",
+    "category": "oki",
+    "topic": "投げ後の起き攻め：N投げ",
+    "content": "N投げの後はラッシュ大Kが重なり、+2F有利な起き攻めができる。その後、中Kから大Pに繋ぐことができる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "N投げ後",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "17:08",
+    "source_quote": "N投げ Lラッシュ大Kが重なって+2F",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4df8223a8974",
+    "category": "oki",
+    "topic": "投げ後の起き攻め：後ろ投げ",
+    "content": "後ろ投げの後は大Kが重なる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "後ろ投げ後",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "17:25",
+    "source_quote": "後ろ投げ L大Kかさなる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f5d32cab9c3e",
+    "category": "oki",
+    "topic": "投げ後の起き攻め：ノーゲージ柔道",
+    "content": "アレックスのノーゲージ柔道は構え投げ以外には存在しない。投げ後にラッシュ大Pで密着を取り、構え投げや構え移行からの起き攻めを展開できる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "投げ後",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "17:30",
+    "source_quote": "ノーゲージ柔道は構え投げ以外はない",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2f65051927a7",
+    "category": "oki",
+    "topic": "コンボ後の起き攻め（フレーム状況）",
+    "content": "コンボを特定の技で締めた後の起き攻めのフレーム状況は以下の通りです。EXフラッシュチョップ（昇龍P）または中エアニースマッシュ（昇龍K）でコンボを締めると、相手の起き上がりに対してアレックスが+2フレーム有利になります。強エアニースマッシュでコンボを締めた場合、±0フレーム有利で投げ間合いになります。EXバックドロップ（EXコマンド投げ）でコンボを締めると、アレックスが+4フレーム有利になります。+2Fまたは+4F有利な状況であれば、発生11Fの立ち強P（ショルダータックル）を重ねることで、相手の投げ抜けを誘い、クラッシュカウンターを狙うことができます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "コンボ後の起き攻め時",
+    "source_video_id": "JAmKZrGS8WA",
+    "source_channel": "BANDIT e-Sports channel",
+    "source_video_title": "今夜初めて今夜勝てる【ストリートファイター５CE】アレックスの基本コンボ＆対空！起き攻め！！",
+    "source_timestamp": "02:40",
+    "source_quote": "起き攻めなんですけども。起き攻め基本的にあの小技重ねだと何がいい？プラ2かプラ4になるんですよ。で、プラ2がEXフラッシュチョップと中エルボー。強だけプラマイゼロの投げ間合いになるんで。絶対やらないです。ダメージも一緒なんで。で、あの、例えばグラ狩りしたいとか。なるんだったら、その、えーと、プラ2かプラ4どちらでもいいですけど、そのままラリアットすれば発生11なんでちょうどいい感じに、あの、クラカンしますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:24:18.978973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "216",
+      "302",
+      "305",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "937caf674f45",
+    "category": "oki",
+    "topic": "起き攻め中の打撃・投げ択",
+    "content": "起き攻めにおいて、しゃがみ弱Pは立ち弱Pよりもガードバックが少なく、相手との距離を維持しやすいため、投げとの二択を仕掛ける際に有利です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め中に打撃と投げの二択をかける場合",
+    "source_video_id": "JAmKZrGS8WA",
+    "source_channel": "BANDIT e-Sports channel",
+    "source_video_title": "今夜初めて今夜勝てる【ストリートファイター５CE】アレックスの基本コンボ＆対空！起き攻め！！",
+    "source_timestamp": "03:10",
+    "source_quote": "立ちコパとしゃがコパの違いも、さっきおっしゃった分もあるんですけど、それ以外で言うとガードのノックバックがちょっと違います。えっと、しゃがみ小パンの方が、あんまり相手下がらないんで、当て投げするんやったらそっちかなって話なんですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:24:18.978973",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8ffcf1ca3b83",
+    "category": "oki",
+    "topic": "初級キャンセルラッシュコンボ②（起き攻め連携）",
+    "content": "アシスト中攻撃→キャンセルラッシュ→引き中→下強→中フラッシュアックス→C構えと繋ぐ。フラッシュアックスがヒットするとブレーカースタンスでキャンセルできるため、そこからステップイン→エアスタンビートまたはデンジャラスアプローチで攻めを継続できる。エアスタンビートは無敵技やSA技を避けることができ、リターンが大きい。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "攻め継続、起き攻め",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "03:51",
+    "source_quote": "エアニースマッシュじゃなくてフラッシュアックスで締めることもできます。これの強みはフラッシュアックスがヒットするとブレーカースタンスでキャンセルできるんで、そっからステップイン→エアスタンビート、もしくはデンジャラスアプローチ。で、これで攻めを継続できるのが結構強い。エアスタンビートなら、動画のように無敵やSA技を避けれる事が多くリターンが大きい！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201",
+      "215",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "be15bc90866e",
+    "category": "oki",
+    "topic": "溜め強K（パニカン時）からの起き攻め",
+    "content": "溜め強Kがパニッシュカウンターでヒットした時は、OD版エアニースマッシュで繋ぐのが最も簡単。ODエアニースマッシュヒット後は前ステップで+5F有利となり、投げと打撃（シミー）の両方が選択肢に入る、非常に強力な起き攻め状況になる。この状況を無駄にしないよう、冷静に相手の行動を見て攻めることが重要。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "溜め強Kパニッシュカウンター時、起き攻め",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "08:00",
+    "source_quote": "ODエアニースマッシュHIT時は前ステで+5F有利！シミーも選択肢に入る神の間合い。ODエアニースマッシュは決まった後は、前ステして投げ周りになっても+5Fで、シミーも選択肢に入る、神の間合いになってんのね、こうやって。だからめちゃ強いODエアニースマッシュは実は。だからこの状況を無駄にしないようにまずはいきてーっていうのが、え、うん、大事かな。シミー効きるんで、これ。ODエアニーにヒット後は、前ステで投げ周りになってもプラス5Fでシミーも選択肢に入る神の間合いがあったりする状況だから、ここで気持ちよくなってガン攻めするんじゃなくて、落ち着いて相手の行動見るのが結構大事、始めのうちはね。結構気持ちよくなって攻めちゃがち。なるほど。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e4cf18d9549",
+    "category": "oki",
+    "topic": "フラッシュチョップ（通常）",
+    "content": "フラッシュチョップ（通常）は腕を大きく振り回す攻撃で、地上ヒット時に受身が可能なやられ状態を誘発します。当たった相手は背中を晒して隙だらけになるため、パワーボムやODエアスタンピートで追撃してダメージを与えましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "00:54",
+    "source_quote": "発生は遅いが、相手の体勢を大きく崩せる、強烈なチョップだ。当たった相手は背中を晒して隙だらけになる。パワーボムやオブリークスタンプで追撃してダメージを奪え。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211",
+      "216",
+      "217",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

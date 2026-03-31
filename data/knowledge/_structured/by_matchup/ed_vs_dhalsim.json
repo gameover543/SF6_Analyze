@@ -1,0 +1,418 @@
+[
+  {
+    "id": "7d9849bed927",
+    "category": "matchup",
+    "topic": "ダルシムの低空ヨガコメット対策",
+    "content": "ダルシムの低いヨガコメット（ヨガフレイム）は、発射位置が高いせいで横まであまり伸びない。そのため、ヨガコメットの射程外まで歩いてからジャンプすると対空されにくい。むやみに前ジャンプすると対空で落とされる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが低空ヨガコメットを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "02:51",
+    "source_quote": "まずこのコメット低いんです。低いコメットって発射位置が高いせいでそんなに横まで伸びないんですよ。横まで伸びない代わりに着地が早いから対空が間に合うって形になりやすい。なのでここまでしっかり歩くが正解でしたね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "74c5c38b46cb",
+    "category": "matchup",
+    "topic": "ダルシムのODヨガアーチ対策",
+    "content": "ダルシムのODヨガアーチは2ゲージ使うため、打たれても焦って突っ込む必要はない。ODヨガアーチが消えるまで待ってから行動することで、ゲージ差を作ることができる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがODヨガアーチを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "03:33",
+    "source_quote": "ODアーチを盾にラインを上げに来ます。で、ODアーチって打たれたら結構どうしようどうしようってなっちゃったりするんですけど、2ゲージ使ってるので、この後しっかり消えるまで待っちゃって大丈夫です。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "036df5134e94",
+    "category": "matchup",
+    "topic": "ダルシムの空中ヨガコメット対策",
+    "content": "ダルシムの高いヨガコメットは横にはあまり進まないが、ダルシムの着地が遅い。そのため、少し歩いてから前ジャンプすることで、対空されずにダルシムに近づける。ただし、ジャンプ位置が遠すぎると踏んでしまう形になるので注意。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが高いヨガコメットを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "04:05",
+    "source_quote": "この高いコメットはここまで伸びてくるので横にはあまり詰めれないんですけど、ダルシムが着地まで時間かかるんで飛び越しても対空があんまり間に合わないんですよ。なのでちょっと歩いてから前ジャンプってすると近づけます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a5f4d1d9091",
+    "category": "matchup",
+    "topic": "ダルシムのヨガコメットへのドライブインパクト返し",
+    "content": "ダルシムのヨガコメットに合わせてドライブインパクトを打つのはリスクが高い。ヨガコメットがヒットまたはガードされた場合、ダルシムの硬直が短いため、ドライブインパクトが届かない。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガコメットを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "04:56",
+    "source_quote": "弾抜けしてもヨガコメットガードさせてダルシム有利取れるんで。あんまりリスクとリターンが噛み合ってないんで、インパクってあんまり打たないです。なのでこの状況はラッシュを仕掛けるのが理想だったんですけど、ちょっとここ判断間に合わずで、一旦アーチふいてる間にできるだけ前歩きしてダルシムが動いたのが見えた瞬間にガードを入れて被弾を抑えてるって感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ceae049c3552",
+    "category": "matchup",
+    "topic": "ダルシムのヨガコメット回避と接近",
+    "content": "ダルシムがヨガコメットのモーションに入っているのを見たら、ドライブラッシュからキルステップを入力することでヨガコメットをくぐってダルシムの近くに着地できる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガコメットを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "05:46",
+    "source_quote": "ラッシュをしている間にコメットのモーションが見えたらキルステップをすることでかなりコメットは避けやすくなるんで",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e35e4ef0b7c",
+    "category": "matchup",
+    "topic": "ダルシムの固め中のODズームパンチへの対処",
+    "content": "ダルシムの固め中にドライブラッシュから攻める際、タイムストップ中にダルシムがODズームパンチを打っているのが見えたら、立ち中Pで反撃可能。立ちコパよりも立ち中Pの方がダメージが大きい。フロートで避けられないため、ODズームパンチはほぼ確定で当たる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムの固め中にドライブラッシュを仕掛けた時、ダルシムがODズームパンチを出してきた",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "06:23",
+    "source_quote": "この止まった瞬間にダルシムのズームパンチがもう出てるのが見えてるんですね。だからダルシムの硬直中にこのラッシュからの攻撃当たるなっていうのが判断できたんです。なのでこれラッシュから立ちコパとかやろうかなって思ってたんですけど、ダルシム側の硬直に間に合いそうなので立ち中パンチを選択しました。こうした方がダメージが上がるのでできれば選びたい選択肢ですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31b748428a44",
+    "category": "oki",
+    "topic": "起き攻めでの投げ優先と投げ読み",
+    "content": "起き攻めで投げを仕掛ける際、ジャンプ弱攻撃で着地してすぐに投げることを重視する。通常はジャンプ大攻撃から重いガード硬直をかけて投げか打撃の読み合いになるが、ジャンプ弱攻撃で軽くすることで展開を早くし、投げを通しやすくする。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "起き攻め時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "07:11",
+    "source_quote": "ジャンプ弱攻撃をあえて使って、普通なら大攻撃がガンってきて重いガード硬直の後に投げ抜けとかの読み合いになりそうなところを弱攻撃で軽くすることによって展開を早くして、ちょっと投げを通しやすくしてます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a46c0b766277",
+    "category": "matchup",
+    "topic": "ダルシムの低空ヨガコメットへの接近",
+    "content": "ダルシムの低いヨガコメット（ヨガフレイム）は足元には当たらないため、打たれても慌ててジャンプせず、歩いて近づいてガードすれば良い。このヨガコメットを歩いて避けることで、被弾を抑えられる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが低空ヨガコメットを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "08:24",
+    "source_quote": "これはもう何回も出てくるコメットなんですけど、低いコメットって足元踏まないんですよ。なのでこれ歩いてガードすればよかった。これすぐジャンプしちゃって大丈夫です。この低いコメット踏まないんで。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de757f4af93f",
+    "category": "matchup",
+    "topic": "ダルシムの浮き行動への対応",
+    "content": "ダルシムが地上で浮いた（フロートモーションに入った）ところにドライブラッシュ+立ち大Kで差し返す。もしフロート中にも関わらずヨガコメットを打ってきたら、キルステップでかわしつつ着地を狙う。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが地上で浮いた（フロート）時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "08:56",
+    "source_quote": "基本的にダルシムが浮いたところにラッシュすることを狙ってます。ダルシムが浮いたところにラッシュして、フロートでプカプカ浮いてたら立ち大Kで、で、ラッシュした時にコメットのモーションが見えたらキルステップでコメットをくぐって着地を撮ることを狙ってます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aae395783c8e",
+    "category": "matchup",
+    "topic": "ダルシムのフロート対策（無敵技の注意点）",
+    "content": "ダルシムのフロートに対してODアッパーのような無敵技を打つと、ダルシムが高く浮いているため空振ってしまうことがある。エド的にはODアッパーを打つという選択肢はほぼない。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがフロートした時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "10:22",
+    "source_quote": "他のキャラと違ってフロートに対して無敵技を打ってしまうとこんな感じで空ぶっちゃうのでED的にはかなりこの局面でODアッパーを打つっていう選択肢はないですね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "689e80508104",
+    "category": "matchup",
+    "topic": "ダルシムのフロート対策（読み合い）",
+    "content": "ダルシムがフロートした時、バクステするか、ガードしつつファジーで立ち大Kを打つか。バクステした時にフロートが見えていたらしゃがみ中Kでフロートだけは食らわずに地上の投げか打撃かで読み合うことができる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがフロートした時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "10:49",
+    "source_quote": "バクステップをするか、ガードしながらファジーで立ち大Kを打つか、でバクステップした時にフロートが見えてたらしゃがみ中Kを押すっていう風にするとフロートだけは食らわずに地上の投げか打撃かだけで一旦読み合うことができます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "109",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e8d8a70d6ef4",
+    "category": "matchup",
+    "topic": "ダルシムのヨガコメット後の対応",
+    "content": "中距離でダルシムがヨガコメット（ヨガフレイム）を出してきた際、ドライブラッシュからダルシムが浮いているのを確認したら、立ち大Kで落としてからフリッカーコンボに繋ぐことを意識する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムが中距離でヨガコメットを打ってきた後",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "11:16",
+    "source_quote": "中距離からのラッシュの時にダルシムが浮いてたら立ち大Kで落としてフリッカーコンボに行くことを意識してます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a91df40787d6",
+    "category": "matchup",
+    "topic": "ダルシムのフロートに対するラッシュ攻撃の選択",
+    "content": "ダルシムがフロートしているのを見てドライブラッシュを仕掛けた場合、ヨガコメットのモーションが見えたらキルステップでかわし、フロートのモーションが見えたら立ち大Kかサイコアッパー（中）で攻撃する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがフロートした時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "11:29",
+    "source_quote": "このラッシュの時にダルシムがフロートのモーションに入ってるんですよね。これコメットのモーションだったらキルステップ、フロートだったらえ、立ち大Kもしくはサイコアッパーのどっちかを狙うようにしてます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "326"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e09df53d2c63",
+    "category": "matchup",
+    "topic": "ダルシムのヨガアッパーへの反撃",
+    "content": "ダルシムのヨガアッパーが空振った場合、その隙を狙ってジャンプ攻撃を仕掛けることで反撃できる。特に、ジャンプ大Pは高めの位置で低く出すと、ヨガアッパーの横の短さを利用して攻撃が当たる。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムのヨガアッパーが空振った時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "13:34",
+    "source_quote": "ヨガアッパーの対空の横の長さが短いんのをえー狙って、ジャンプ攻撃を低めに横から出してヨガアッパーの隙を逆に狙うっていう風に飛び込んでいってます。いわゆるジャンプ大パンチでもこの高さで低めに出せば同じことが狙えます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "400e8911e48e",
+    "category": "matchup",
+    "topic": "ダルシムのヨガインフェルノ対策",
+    "content": "ダルシムのヨガインフェルノ（アーチ）は、ドライブインパクトで反撃しようとすると、ダルシムの硬直が短いため間に合わないことが多い。確実な反撃は難しく、無理に攻めようとすると被弾しやすいため、無理せず距離を離す選択も重要。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガインフェルノを打ってきた時",
+    "source_video_id": "5nS3vcrRJ50",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "ぷげらの対戦脳内解説、エドvsダルシム戦。絶対に知っておきたいダルシム対策【スト6/SF6/エド/ぷげら】",
+    "source_timestamp": "14:47",
+    "source_quote": "前にインフェルノが来た時も、ドライブインパクトで取りたいところなんですけど、取れない。ダルシムの硬直が短いから。なのでここを狙うのはなしですね。とっとと下がって、でここは無理せず下がってますね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:49:59.897211",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

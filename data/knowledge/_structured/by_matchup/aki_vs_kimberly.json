@@ -1,0 +1,520 @@
+[
+  {
+    "id": "3cbf6a654aaa",
+    "category": "defense",
+    "topic": "A.K.I. Drive Reversal against pressure",
+    "content": "A.K.I.はキンバリーのドライブラッシュからの連携や近距離での攻撃に対して、ドライブリバーサル（例：OD蛇腹突）を使用して割り込むことができます。これにより500〜1200ダメージ（OD蛇腹突は投げ属性）を与え、間合いを離して反撃の機会を作ることが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがドライブラッシュからの連携や近距離の攻撃を仕掛けている時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:13",
+    "source_quote": "イエてるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "58e7b25507af",
+    "category": "combo",
+    "topic": "A.K.I. 中段コマンド投げコンボ",
+    "content": "A.K.I.は中段判定のコマンド投げ必殺技、例えば中蛇形勁でコンボを開始し、1020の初期ダメージを与えて相手をハードノックダウンさせることができます。この技はコンボの終わりに投げ属性を持ちます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "近距離でキンバリーが中段攻撃に対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:15",
+    "source_quote": "Visual, damage display: ダメージ 1020 (100%), 攻撃属性: 中段, 投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39895b95bc7b",
+    "category": "combo",
+    "topic": "A.K.I. 空中パニッシュコンボ",
+    "content": "キンバリーが空中からの接近や起き上がりを試みた際、A.K.I.は立ち弱Pをパニッシュカウンターとして当て、そこから空中コンボに移行してキンバリーを打ち上げ、合計1515ダメージを与えることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーが空中からの接近や起き上がりを試みて無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:18",
+    "source_quote": "バイ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "844ad32da832",
+    "category": "combo",
+    "topic": "A.K.I. 下段パニッシュランチャーコンボ",
+    "content": "キンバリーが攻撃を外して無防備になった場合、A.K.I.は下段判定のパニッシュカウンター（例：しゃがみ強K）でキンバリーを打ち上げ、約500-650のダメージを与え、その後コンボを継続して総ダメージを1932〜2736まで伸ばすことができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーが攻撃を外して下段パニッシュに対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:21",
+    "source_quote": "Visual and damage display: ダメージ 640 (80%), 攻撃属性: 下段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111",
+      "206",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d209022460ca",
+    "category": "combo",
+    "topic": "A.K.I. 毒でのプレッシャー継続コンボ",
+    "content": "キンバリーを打ち上げた後、A.K.I.は通常技や毒蛇砲（ポイズンブラスト）を組み合わせてコンボを延長し、削りダメージとプレッシャーを維持することができます。これにより、総ダメージを2585〜3081まで伸ばすことが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "相手を打ち上げた後、コンボとプレッシャーを継続する時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:23",
+    "source_quote": "しびれぞ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d247ada323c",
+    "category": "defense",
+    "topic": "A.K.I. 通常投げ",
+    "content": "A.K.I.は通常投げで1200ダメージを与えることができます。これはガードを固める相手や近距離で隙を見せた相手に有効です。キンバリーが近距離でドライブインパクトを試みた後にも使用できます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "近距離で相手がガードを固めている、または投げに対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:28",
+    "source_quote": "Visual, damage display",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9d5d53803139",
+    "category": "combo",
+    "topic": "A.K.I. スーパーアーツ3 (紫煙の呪縛) コンボ",
+    "content": "A.K.I.はスーパーアーツレベル3の紫煙の呪縛（Serpent's Coil）をコンボフィニッシュとして使用し、合計4538ダメージを与え、相手を毒状態にすることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "コンボを締める時、または相手が毒状態の時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:38",
+    "source_quote": "イタてるよ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c30b7a7750a9",
+    "category": "neutral",
+    "topic": "A.K.I. 狂蛇の舞による対空",
+    "content": "A.K.I.はキンバリーのジャンプインに対して、狂蛇の舞（Serpent's Dance）を効果的な対空技として使用できます。これはパニッシュカウンターとして756〜1080ダメージを与え、さらにコンボに繋げることが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがジャンプインまたは空中技を試みる時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "1:34",
+    "source_quote": "しびれぞ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a2bef1be4410",
+    "category": "combo",
+    "topic": "A.K.I. スーパーアーツ1 (猛毒矢) コンボ",
+    "content": "A.K.I.はスーパーアーツレベル1の猛毒矢（Toxic Shot）をコンボ中に組み込み、合計4167ダメージを与えることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "パニッシュの機会やコンボの延長に。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "1:52",
+    "source_quote": "イエてるよ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3cbf6a654aaa",
+    "category": "defense",
+    "topic": "A.K.I. Drive Reversal against pressure",
+    "content": "A.K.I.はキンバリーのドライブラッシュからの連携や近距離での攻撃に対して、ドライブリバーサル（例：OD蛇腹突）を使用して割り込むことができます。これにより500〜1200ダメージ（OD蛇腹突は投げ属性）を与え、間合いを離して反撃の機会を作ることが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがドライブラッシュからの連携や近距離の攻撃を仕掛けている時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:13",
+    "source_quote": "イエてるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "58e7b25507af",
+    "category": "combo",
+    "topic": "A.K.I. 中段コマンド投げコンボ",
+    "content": "A.K.I.は中段判定のコマンド投げ必殺技、例えば中蛇形勁でコンボを開始し、1020の初期ダメージを与えて相手をハードノックダウンさせることができます。この技はコンボの終わりに投げ属性を持ちます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "近距離でキンバリーが中段攻撃に対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:15",
+    "source_quote": "Visual, damage display: ダメージ 1020 (100%), 攻撃属性: 中段, 投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39895b95bc7b",
+    "category": "combo",
+    "topic": "A.K.I. 空中パニッシュコンボ",
+    "content": "キンバリーが空中からの接近や起き上がりを試みた際、A.K.I.は立ち弱Pをパニッシュカウンターとして当て、そこから空中コンボに移行してキンバリーを打ち上げ、合計1515ダメージを与えることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーが空中からの接近や起き上がりを試みて無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:18",
+    "source_quote": "バイ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "844ad32da832",
+    "category": "combo",
+    "topic": "A.K.I. 下段パニッシュランチャーコンボ",
+    "content": "キンバリーが攻撃を外して無防備になった場合、A.K.I.は下段判定のパニッシュカウンター（例：しゃがみ強K）でキンバリーを打ち上げ、約500-650のダメージを与え、その後コンボを継続して総ダメージを1932〜2736まで伸ばすことができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーが攻撃を外して下段パニッシュに対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:21",
+    "source_quote": "Visual and damage display: ダメージ 640 (80%), 攻撃属性: 下段",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111",
+      "206",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d209022460ca",
+    "category": "combo",
+    "topic": "A.K.I. 毒でのプレッシャー継続コンボ",
+    "content": "キンバリーを打ち上げた後、A.K.I.は通常技や毒蛇砲（ポイズンブラスト）を組み合わせてコンボを延長し、削りダメージとプレッシャーを維持することができます。これにより、総ダメージを2585〜3081まで伸ばすことが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "相手を打ち上げた後、コンボとプレッシャーを継続する時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:23",
+    "source_quote": "しびれぞ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d247ada323c",
+    "category": "defense",
+    "topic": "A.K.I. 通常投げ",
+    "content": "A.K.I.は通常投げで1200ダメージを与えることができます。これはガードを固める相手や近距離で隙を見せた相手に有効です。キンバリーが近距離でドライブインパクトを試みた後にも使用できます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "近距離で相手がガードを固めている、または投げに対して無防備な時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:28",
+    "source_quote": "Visual, damage display",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9d5d53803139",
+    "category": "combo",
+    "topic": "A.K.I. スーパーアーツ3 (紫煙の呪縛) コンボ",
+    "content": "A.K.I.はスーパーアーツレベル3の紫煙の呪縛（Serpent's Coil）をコンボフィニッシュとして使用し、合計4538ダメージを与え、相手を毒状態にすることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "コンボを締める時、または相手が毒状態の時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "0:38",
+    "source_quote": "イタてるよ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c30b7a7750a9",
+    "category": "neutral",
+    "topic": "A.K.I. 狂蛇の舞による対空",
+    "content": "A.K.I.はキンバリーのジャンプインに対して、狂蛇の舞（Serpent's Dance）を効果的な対空技として使用できます。これはパニッシュカウンターとして756〜1080ダメージを与え、さらにコンボに繋げることが可能です。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがジャンプインまたは空中技を試みる時。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "1:34",
+    "source_quote": "しびれぞ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a2bef1be4410",
+    "category": "combo",
+    "topic": "A.K.I. スーパーアーツ1 (猛毒矢) コンボ",
+    "content": "A.K.I.はスーパーアーツレベル1の猛毒矢（Toxic Shot）をコンボ中に組み込み、合計4167ダメージを与えることができます。",
+    "characters": [
+      "aki",
+      "kimberly"
+    ],
+    "matchup": "kimberly",
+    "situation": "パニッシュの機会やコンボの延長に。",
+    "source_video_id": "maOFU8YWEYU",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶA.K.I.戦立ち回り Learning Kimberly's strategy against A.K.I. from a legendary player",
+    "source_timestamp": "1:52",
+    "source_quote": "イエてるよ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:17:59.104020",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

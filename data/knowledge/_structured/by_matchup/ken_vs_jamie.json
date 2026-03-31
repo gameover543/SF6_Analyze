@@ -1,0 +1,59 @@
+[
+  {
+    "id": "463ef419bce2",
+    "category": "matchup",
+    "topic": "ジェイミー対策",
+    "content": "ジェイミーのレベルが1にならないように立ち回る。無理に攻めて中足に引っかかったり、レバー前入力で絶招拳に引っかかったりすると死んでしまうため、とにかく不用意に引っかからないようにする。画面端から99秒間、ラッシュを警戒して待ち続ける。相手が不用意に攻めてきた場合に、反撃を叩き込む。\n\n詳細な対策は、動画作成者の以前のジェイミー対策動画を参考にすること。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jamie",
+    "situation": "null",
+    "source_video_id": "G8TiVdF8dx0",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】超雑な全キャラ対策！立ち回りで考えてること！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "01:10",
+    "source_quote": "ジェイミーはとにかくレベル1に上げないようにまず立ち回ってる。なので、俺のこのジェイミー対策っていう動画があるからそれ見てくれ。それで詳しくどういったものがぼったくりコードになってるとか書いてあるんで。それをまず見て欲しい。で意識してんのはとにかく待ち合いしてる。波動拳とか、なんかこう攻めるフリして待ち合戦してる。99秒00の状態でいこうと思ってる。だって、この極端な話、この99秒をさ、フルに使って、じゃあ残り10秒になりますってなった時にお互いが00だったらこっち有利だと思うんだよね。っていう状況作れたら有利だと思うから攻めない。無理に攻めて中足引っかかったりとか。前、レバー前入れて絶招拳引っかかったりとかすると死ぬから。99秒この辺でラッシュ見てる。で、あとは、なんかこう絶招拳めり込んだりとか。なんか確反めり込んだりとか。したら倒せる。だけど99秒待ってる。この辺で、まあ、ちょっと戦ってるフリしながら波動拳とか打って戦ってるフリしながらこの辺で待って、一生ラッシュ見てる。で、99秒待ってる。で、レベルをいかに1上げないか。っていうのでやってるね。終わり。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:03:13.062098",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3226aa7d98a3",
+    "category": "matchup",
+    "topic": "ジェイミー 流酔拳 (-6F)",
+    "content": "ジェイミーの流酔拳はガードされて-6Fです。ケンは立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。相手が2段目以降を出さない選択肢を取る可能性もありますが、立ち弱Kで反撃が可能です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jamie",
+    "situation": "ジェイミーの流酔拳がガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "05:41",
+    "source_quote": "ジェイミーの流酔拳。これもガードされて-6Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "206"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

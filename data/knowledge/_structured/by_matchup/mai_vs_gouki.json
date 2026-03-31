@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2073eec79c4e",
+    "category": "general",
+    "topic": "リード時の狙い",
+    "content": "相手の体力が残り半分程度で、SAゲージも溜まっている状況では、中Pラッシュや大PラッシュなどのコンボからCAで締めくくることでKOを狙えます。豪鬼のようなキャラクター相手には、この連携で体力をごっそり奪うことが可能です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "gouki",
+    "situation": "ラウンド中盤、相手の体力が半分程度、SA1ゲージあり",
+    "source_video_id": "ojubHuEfTak",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "If you use Mai, stop that combo now and use this one, it will be easier to win. MR1350 Mai's Repl...",
+    "source_timestamp": "04:39",
+    "source_quote": "自分がCAを体力打てるでしょ？なんかコンボしてたらたまりそうじゃん？だからキャンセルラッシュのコンボをぶち込んで最後CAで締めたら豪鬼ならこの体力は足りそうだな。ってことで中Pラッシュとか大Pラッシュを狙う。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:48:06.906112",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8bccdf7f54ac",
+    "category": "defense",
+    "topic": "相手の飛びへの対策",
+    "content": "相手が飛んでくることが多いマッチアップ（例：豪鬼）では、暇な時間に常に上方向を警戒し、対空を意識することが重要です。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "gouki",
+    "situation": "相手の飛びを警戒する時",
+    "source_video_id": "ojubHuEfTak",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "If you use Mai, stop that combo now and use this one, it will be easier to win. MR1350 Mai's Repl...",
+    "source_timestamp": "16:11",
+    "source_quote": "暇な時間は上とかを警戒したいね。自分がだした花蝶扇のおかげで相手が飛んでくると思って警戒する。そうすると豪鬼の百鬼とかが多いのも相まって。多少はこういうの狙えるから。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:48:06.906112",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

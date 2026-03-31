@@ -1,0 +1,167 @@
+[
+  {
+    "id": "e8830863d6f6",
+    "category": "defense",
+    "topic": "鶴脚落ガード後の対処",
+    "content": "Kimberlyは、Chun-Liの鶴脚落（Kakukyakuraku）をガードした場合、Chun-Liが+3F有利となるため、立弱Pや屈強Pのような通常の攻撃で反撃を試みるべきではありません。割り込みを試みるとChun-Liにカウンターされます。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liの鶴脚落をガードした後",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "00:36",
+    "source_quote": "鶴脚落 (春麗 + 3F) 立弱P or 屈強P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "22d75802f2e3",
+    "category": "defense",
+    "topic": "覇山蹴へのドライブインパクト",
+    "content": "Kimberlyは、Chun-Liの覇山蹴（Hazanshu）をガードした際、ドライブインパクトで確定反撃を入れることができます。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liの覇山蹴をガードした後",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "01:04",
+    "source_quote": "覇山蹴 ドライブインパクト",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c27675d11cb",
+    "category": "combo",
+    "topic": "覇山蹴へのDI+SA3コンボ",
+    "content": "Kimberlyは、Chun-Liの覇山蹴（Hazanshu）をドライブインパクトでパニッシュカウンターした後、Super Art 3（SA3）に繋げることで5380ダメージのコンボを決められます。ダメージ補正に注意しながら正確なコンボを入れましょう。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liの覇山蹴をドライブインパクトでパニッシュカウンターした後",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "01:22",
+    "source_quote": "覇山蹴 補正切り注意！ 5380ダメージ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cddfb4945b3d",
+    "category": "neutral",
+    "topic": "強天昇脚への対応",
+    "content": "Kimberlyは、Chun-Liの強天昇脚（Strong Tensho Kicks）に対して、打点が高いことを利用し、空ジャンプで技の空振りを誘うことができます。これにより、Chun-Liに-87Fという大きな硬直差が発生し、反撃の機会を得られます。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liが強天昇脚を使用しようとしている時",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "01:35",
+    "source_quote": "強 天昇脚 (主にモダン) 打点が高いため、空ジャンプでミスを誘える",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71ffbcc09f4b",
+    "category": "combo",
+    "topic": "覇山蹴パリィからのコンボ",
+    "content": "Kimberlyは、Chun-Liの覇山蹴（Hazanshu）をパーフェクトパリィした場合、Super Art 3（SA3）でのヒット確認をせずに安定したコンボを入れることができます。これにより、ゲージを温存しつつ高ダメージを与えられます。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liの覇山蹴をパーフェクトパリィした場合",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "01:59",
+    "source_quote": "覇山蹴 こちらだとヒット確信SA3を回避できる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ceb54ea1923",
+    "category": "matchup",
+    "topic": "屈強Kガード後の反撃",
+    "content": "Kimberlyは、Chun-Liの屈強K（しゃがみ強キック）をガードした後、たとえガードで-7Fの不利フレームがあるとしても、先端距離でガードした場合はKimberly自身の屈強Kで確定反撃を試みるべきではありません。確実に反撃できないだけでなく、Chun-Liに逆に反撃されるリスクがあります。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liの屈強Kを先端距離でガードした後",
+    "source_video_id": "nPDnIVkBYEM",
+    "source_channel": "隼「スト6」",
+    "source_video_title": "【キャラ対策】キンバリー視点の「春麗」対策【スト6】",
+    "source_timestamp": "02:08",
+    "source_quote": "最弱技 屈強K (春麗 -7F) 先端確定反撃なし 絶対屈強Kで反撃してはいけない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:35:24.392484",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

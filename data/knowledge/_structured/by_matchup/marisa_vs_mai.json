@@ -1,0 +1,306 @@
+[
+  {
+    "id": "05f4ae13dc34",
+    "category": "matchup",
+    "topic": "マリーザのドライブインパクト対策",
+    "content": "マリーザは相手のドライブインパクトに対して、しゃがみ中Kでパニッシュカウンターを取ることができます。また、マリーザ自身もドライブインパクトを相手の攻撃に対するカウンターとして活用できます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）がドライブインパクトを使用、または攻撃してきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "00:11",
+    "source_quote": "ドライブインパクトからのしゃがみ中Kがヒット",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c44f1852e97d",
+    "category": "matchup",
+    "topic": "マリーザのグラディウス活用",
+    "content": "舞の遠距離立ち強Pのような牽制技に対して、マリーザはグラディウスでカウンターを取ることができます。また、ガード後にグラディウスを出すことで反撃することも有効です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が遠距離立ち強Pを出した時、または相手の攻撃をガードした後",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "00:18",
+    "source_quote": "遠距離立ち強Pに対してグラディウスがヒット",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3d461e8d8fbc",
+    "category": "matchup",
+    "topic": "マリーザのファランクス活用",
+    "content": "マリーザのファランクスは、相手の攻撃やジャンプ攻撃（特に0:27の状況）に対するカウンターとして機能します。ガード後の反撃オプションとしても有効です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が攻撃してきた時、またはジャンプ攻撃を仕掛けてきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "00:20",
+    "source_quote": "ファランクス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9785be8c3c6b",
+    "category": "matchup",
+    "topic": "マリーザのタメグラディウスでパニッシュカウンター",
+    "content": "舞が空中投げを仕掛けた際に、マリーザはタメグラディウスでパニッシュカウンターを取り、大ダメージに繋げることができます。また、ジャンプ攻撃に対してのタメグラディウスも強力です。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が空中投げを試みた時、またはジャンプ攻撃に対して",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "00:28",
+    "source_quote": "オーディオスがパニッシュカウンター、空中投げに対して",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c0ae0a9b5b9e",
+    "category": "matchup",
+    "topic": "マリーザのクアドリガで下段対策",
+    "content": "舞の下段攻撃に対して、マリーザはクアドリガ（28K）でカウンターを取ることができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が下段攻撃を仕掛けてきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "00:40",
+    "source_quote": "ガロッサ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d1c6d3ac3aeb",
+    "category": "matchup",
+    "topic": "マリーザのパルミラ活用",
+    "content": "マリーザのパルミラ（236K）は、相手（舞）が空中ガード不可の状況や、ジャンプしてきた時、またはパニッシュカウンターの機会に有効なコマンド投げです。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が空中やジャンプ中、またはパニッシュカウンターを狙える時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "01:40",
+    "source_quote": "パルミラ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "94305007ca22",
+    "category": "matchup",
+    "topic": "マリーザのクアドリガで下段攻撃への対処",
+    "content": "舞の下段攻撃に対して、マリーザはクアドリガ（28K）を出すことでカウンターを取ることができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が下段攻撃を仕掛けてきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "01:42",
+    "source_quote": "ガロッサ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "26edd30137a1",
+    "category": "matchup",
+    "topic": "マリーザのガード後反撃",
+    "content": "相手の攻撃をガードした後、マリーザはしゃがみ中Kからファランクスに繋ぐことで反撃できます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手の攻撃をガードした後",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "01:44",
+    "source_quote": "しゃがみ中Kからファランクス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f42abbd4b759",
+    "category": "matchup",
+    "topic": "マリーザのODファランクスでの反撃",
+    "content": "舞の立ち強Kに対して、マリーザはODファランクスでパニッシュカウンターを取り、大ダメージに繋げることができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）が立ち強Kを放った時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "02:54",
+    "source_quote": "立ち強Kに対してODファランクスがヒット",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "319"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a7050d4fa9cd",
+    "category": "matchup",
+    "topic": "マリーザのしゃがみ強Kでの対空",
+    "content": "舞がジャンプ攻撃を仕掛けてきた際、マリーザはしゃがみ強Kで対空することができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）がジャンプしてきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "03:34",
+    "source_quote": "しゃがみ強Kがヒット",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "208"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "875e1f4ea171",
+    "category": "matchup",
+    "topic": "マリーザのODグラディウスでの対空",
+    "content": "舞がジャンプ攻撃を仕掛けてきた際、マリーザはODグラディウスで対空することができます。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "mai",
+    "situation": "相手（舞）がジャンプしてきた時",
+    "source_video_id": "X9JiCbjAmTM",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+    "source_timestamp": "06:04",
+    "source_quote": "ODグラディウス",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:15:28.312125",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

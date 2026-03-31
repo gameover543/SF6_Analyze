@@ -1,13 +1,17 @@
 /**
- * ナレッジデータローダー
- * data/knowledge/{slug}.json からプロ選手の攻略知識を読み込み、
- * 会話トピックに関連する知識をプロンプトに注入する
+ * ナレッジデータローダー v2
+ *
+ * 3層構造でナレッジを引き出す:
+ *   1. ダイジェスト（コア知識）— 常にプロンプトに含める
+ *   2. インデックス検索 — 質問からマッチアップ・カテゴリ・状況を特定して該当インデックスを読む
+ *   3. キーワードマッチ（フォールバック）— インデックスで拾えなかった場合の補完
  */
 
 import fs from "fs";
 import path from "path";
 
-// ナレッジエントリの型定義
+// --- 型定義 ---
+
 interface KnowledgeEntry {
   id: string;
   category: string;
@@ -25,7 +29,6 @@ interface KnowledgeEntry {
   channel_trust: number;
   frame_data_conflicts: string[];
   extracted_at: string;
-  // パッチ鮮度管理
   game_version: string;
   video_upload_date: string;
   referenced_moves: string[];
@@ -42,215 +45,385 @@ interface CharacterKnowledge {
   last_validated_version: string;
 }
 
-// ナレッジディレクトリのパス（プロジェクトルートの data/knowledge/）
+// --- パス ---
+
 const KNOWLEDGE_DIR = path.join(process.cwd(), "..", "data", "knowledge");
+const STRUCTURED_DIR = path.join(KNOWLEDGE_DIR, "_structured");
+const DIGESTS_DIR = path.join(KNOWLEDGE_DIR, "_digests");
 const PATCHES_DIR = path.join(process.cwd(), "..", "data", "patches");
 
-/**
- * キャラクターのナレッジデータを読み込む
- */
-function loadCharacterKnowledge(slug: string): CharacterKnowledge | null {
-  const filePath = path.join(KNOWLEDGE_DIR, `${slug}.json`);
+// --- 類義語辞書（検索拡張用） ---
+
+const SYNONYMS: Record<string, string[]> = {
+  // カテゴリの類義語
+  "起き攻め": ["セットプレイ", "重ね", "ダウン後", "有利フレーム", "詐欺飛び", "安飛び"],
+  "立ち回り": ["差し合い", "間合い", "牽制", "置き技", "地上戦", "中距離"],
+  "コンボ": ["繋がる", "レシピ", "火力", "ダメージ", "始動"],
+  "対策": ["対面", "苦手", "きつい", "勝てない", "マッチアップ"],
+  "防御": ["守り", "切り返し", "暴れ", "パリィ", "ガード", "バーンアウト"],
+  "対空": ["飛び", "ジャンプ", "落とす", "昇竜"],
+  // 状況の類義語
+  "画面端": ["端", "壁"],
+  "近距離": ["密着", "接近"],
+  // システムの類義語
+  "ドライブラッシュ": ["ラッシュ", "DR"],
+  "ドライブインパクト": ["インパクト", "DI"],
+  "確定反撃": ["確反"],
+};
+
+// キャラslug → 日本語名
+const CHAR_JP: Record<string, string> = {
+  ryu: "リュウ", luke: "ルーク", jamie: "ジェイミー", chunli: "春麗",
+  guile: "ガイル", kimberly: "キンバリー", juri: "ジュリ", ken: "ケン",
+  blanka: "ブランカ", dhalsim: "ダルシム", honda: "本田", deejay: "ディージェイ",
+  manon: "マノン", marisa: "マリーザ", jp: "JP", zangief: "ザンギエフ",
+  lily: "リリー", cammy: "キャミィ", rashid: "ラシード", aki: "アキ",
+  ed: "エド", gouki: "豪鬼", mbison: "ベガ", terry: "テリー",
+  mai: "舞", elena: "エレナ", cviper: "バイパー", sagat: "サガット",
+  alex: "アレックス",
+};
+
+// --- データローダー ---
+
+function readJsonSafe(filePath: string): unknown | null {
   try {
     if (!fs.existsSync(filePath)) return null;
-    const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-    return data as CharacterKnowledge;
+    return JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  } catch {
+    return null;
+  }
+}
+
+function readTextSafe(filePath: string): string | null {
+  try {
+    if (!fs.existsSync(filePath)) return null;
+    return fs.readFileSync(filePath, "utf-8");
   } catch {
     return null;
   }
 }
 
 /**
- * 最新のパッチ変更サマリーを読み込む
+ * キャラのダイジェスト（コア知識要約）を読み込む
  */
+function loadDigest(slug: string): string | null {
+  return readTextSafe(path.join(DIGESTS_DIR, `${slug}.md`));
+}
+
+/**
+ * マッチアップ別インデックスを読み込む
+ */
+function loadMatchupIndex(slug: string, opponent: string): KnowledgeEntry[] {
+  const data = readJsonSafe(
+    path.join(STRUCTURED_DIR, "by_matchup", `${slug}_vs_${opponent}.json`)
+  );
+  return (data as KnowledgeEntry[]) || [];
+}
+
+/**
+ * カテゴリ別インデックスを読み込む
+ */
+function loadCategoryIndex(slug: string, category: string): KnowledgeEntry[] {
+  const data = readJsonSafe(
+    path.join(STRUCTURED_DIR, "by_category", `${slug}_${category}.json`)
+  );
+  return (data as KnowledgeEntry[]) || [];
+}
+
+/**
+ * 状況別インデックスを読み込む
+ */
+function loadSituationIndex(situation: string): KnowledgeEntry[] {
+  const data = readJsonSafe(
+    path.join(STRUCTURED_DIR, "by_situation", `${situation}.json`)
+  );
+  return (data as KnowledgeEntry[]) || [];
+}
+
 function loadLatestPatchSummary(): string | null {
   try {
-    const metaPath = path.join(PATCHES_DIR, "_meta.json");
-    if (!fs.existsSync(metaPath)) return null;
-
-    const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
-    const patches = meta.patches || [];
-    if (patches.length === 0) return null;
-
-    // 最新のdiffファイルを読む
-    const latest = patches[patches.length - 1];
-    const diffPath = path.join(PATCHES_DIR, latest.diff_file);
-    if (!fs.existsSync(diffPath)) return null;
-
-    const diff = JSON.parse(fs.readFileSync(diffPath, "utf-8"));
-    return diff.summary || null;
+    const meta = readJsonSafe(path.join(PATCHES_DIR, "_meta.json")) as {
+      patches: { diff_file: string }[];
+    } | null;
+    if (!meta?.patches?.length) return null;
+    const latest = meta.patches[meta.patches.length - 1];
+    const diff = readJsonSafe(path.join(PATCHES_DIR, latest.diff_file)) as {
+      summary: string;
+    } | null;
+    return diff?.summary || null;
   } catch {
     return null;
   }
 }
 
+// --- クエリ分析 ---
+
 /**
- * 会話の最近のメッセージからキーワードを抽出し、
- * 関連するナレッジエントリを選別する
+ * ユーザーの質問からマッチアップ対象キャラを検出
  */
-function filterRelevantEntries(
-  entries: KnowledgeEntry[],
-  recentMessages: string[],
-  maxEntries: number = 10
-): KnowledgeEntry[] {
-  // 最近のメッセージからキーワードを収集
-  const messageText = recentMessages.join(" ").toLowerCase();
-
-  // 各エントリにスコアを付与
-  const scored = entries.map((entry) => {
-    let score = 0;
-
-    // トピック・内容がメッセージのキーワードに一致するか
-    const entryText = `${entry.topic} ${entry.content} ${entry.situation || ""}`.toLowerCase();
-
-    // カテゴリ別の関連キーワード
-    const categoryKeywords: Record<string, string[]> = {
-      matchup: ["対策", "対面", "苦手", "きつい", "勝てない", "どうすれば"],
-      combo: ["コンボ", "繋がる", "レシピ", "火力", "ダメージ"],
-      neutral: ["立ち回り", "差し合い", "間合い", "置き", "差し返し", "牽制"],
-      oki: ["起き攻め", "セットプレイ", "ダウン", "重ね"],
-      defense: ["防御", "守り", "切り返し", "暴れ", "バーンアウト", "パリィ"],
-      general: [],
-    };
-
-    // メッセージ内のキーワードとの一致度
-    const keywords = categoryKeywords[entry.category] || [];
-    for (const kw of keywords) {
-      if (messageText.includes(kw)) score += 3;
+function detectOpponent(text: string): string | null {
+  const lower = text.toLowerCase();
+  for (const [slug, jp] of Object.entries(CHAR_JP)) {
+    if (lower.includes(jp.toLowerCase()) || lower.includes(slug)) {
+      return slug;
     }
+  }
+  // 「対策」「対面」「きつい」の直前にキャラ名がある場合
+  return null;
+}
 
-    // キャラ名・マッチアップの一致
-    if (entry.matchup && messageText.includes(entry.matchup)) score += 5;
+/**
+ * ユーザーの質問からカテゴリを推定
+ */
+function detectCategory(text: string): string | null {
+  const lower = text.toLowerCase();
+  const categoryKeywords: Record<string, string[]> = {
+    matchup: ["対策", "対面", "苦手", "きつい", "勝てない", "マッチアップ"],
+    combo: ["コンボ", "繋がる", "レシピ", "火力"],
+    neutral: ["立ち回り", "差し合い", "間合い", "牽制", "地上戦"],
+    oki: ["起き攻め", "セットプレイ", "重ね", "ダウン後", "安飛び"],
+    defense: ["防御", "守り", "切り返し", "暴れ", "パリィ", "バーンアウト"],
+  };
+  for (const [cat, keywords] of Object.entries(categoryKeywords)) {
+    if (keywords.some((kw) => lower.includes(kw))) return cat;
+  }
+  return null;
+}
 
-    // 状況の一致
-    if (entry.situation) {
-      const situations = entry.situation.split("、");
-      for (const s of situations) {
-        if (messageText.includes(s.toLowerCase())) score += 3;
+/**
+ * ユーザーの質問から状況タグを検出
+ */
+function detectSituation(text: string): string | null {
+  const lower = text.toLowerCase();
+  const situationMap: Record<string, string[]> = {
+    "画面端": ["画面端", "端", "壁"],
+    "起き攻め": ["起き攻め", "セットプレイ", "重ね"],
+    "対空": ["対空", "飛び", "ジャンプ"],
+    "近距離": ["近距離", "密着", "接近"],
+    "防御": ["防御", "守り", "切り返し", "バーンアウト"],
+    "立ち回り": ["立ち回り", "中距離"],
+  };
+  for (const [tag, keywords] of Object.entries(situationMap)) {
+    if (keywords.some((kw) => lower.includes(kw))) return tag;
+  }
+  return null;
+}
+
+/**
+ * 検索クエリを類義語で拡張
+ */
+function expandQuery(text: string): string {
+  let expanded = text;
+  for (const [term, synonyms] of Object.entries(SYNONYMS)) {
+    if (text.includes(term)) {
+      expanded += " " + synonyms.join(" ");
+    }
+    // 逆方向: 類義語がテキストに含まれていたら元の用語も追加
+    for (const syn of synonyms) {
+      if (text.includes(syn) && !expanded.includes(term)) {
+        expanded += " " + term;
       }
     }
-
-    // トピック内の単語一致
-    const topicWords = entry.topic.split(/[\s、。]+/).filter((w) => w.length >= 2);
-    for (const w of topicWords) {
-      if (messageText.includes(w.toLowerCase())) score += 2;
-    }
-
-    // 信頼度による重み付け
-    score *= entry.confidence;
-    // チャンネル信頼度による重み付け
-    score *= 0.5 + entry.channel_trust * 0.5;
-
-    // 鮮度ペナルティ
-    if (entry.staleness_status === "confirmed_stale") score *= 0.3;
-    else if (entry.staleness_status === "possibly_stale") score *= 0.6;
-
-    return { entry, score };
-  });
-
-  // スコア順にソートして上位を返す
-  return scored
-    .filter((s) => s.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, maxEntries)
-    .map((s) => s.entry);
+  }
+  return expanded;
 }
+
+// --- スコアリング ---
+
+function scoreEntry(entry: KnowledgeEntry, expandedQuery: string): number {
+  let score = 0;
+  const q = expandedQuery.toLowerCase();
+
+  // トピック一致
+  const topicWords = entry.topic.split(/[\s、。]+/).filter((w) => w.length >= 2);
+  for (const w of topicWords) {
+    if (q.includes(w.toLowerCase())) score += 3;
+  }
+
+  // content内のキーワード一致
+  const contentWords = entry.content.substring(0, 100).split(/[\s、。]+/).filter((w) => w.length >= 3);
+  for (const w of contentWords.slice(0, 10)) {
+    if (q.includes(w.toLowerCase())) score += 1;
+  }
+
+  // マッチアップ一致
+  if (entry.matchup && q.includes(entry.matchup)) score += 5;
+
+  // 状況一致
+  if (entry.situation) {
+    for (const s of entry.situation.split("、")) {
+      if (q.includes(s.trim().toLowerCase())) score += 3;
+    }
+  }
+
+  // 信頼度・鮮度
+  score *= entry.confidence;
+  score *= 0.5 + entry.channel_trust * 0.5;
+  if (entry.staleness_status === "confirmed_stale") score *= 0.3;
+  else if (entry.staleness_status === "possibly_stale") score *= 0.6;
+
+  return score;
+}
+
+// --- メインAPI ---
 
 /**
  * コーチのプロンプトに注入するナレッジコンテキストを生成
+ *
+ * 3層構造:
+ *   1. ダイジェスト — メインキャラのコア知識（常に含める、~1500文字）
+ *   2. インデックス検索 — 質問に応じたピンポイント検索（~5件）
+ *   3. キーワードフォールバック — 拾えなかった場合の補完（~5件）
  */
 export function buildKnowledgeContext(
   characterSlugs: string[],
   recentMessages: string[] = []
 ): string {
-  // 関連キャラのナレッジを全部読み込む
-  const allEntries: KnowledgeEntry[] = [];
-  const loadedChars: string[] = [];
+  const lines: string[] = [];
+  const mainSlug = characterSlugs[0];
 
-  for (const slug of characterSlugs) {
-    const knowledge = loadCharacterKnowledge(slug);
-    if (knowledge && knowledge.entries.length > 0) {
-      allEntries.push(...knowledge.entries);
-      loadedChars.push(slug);
+  // === 層1: ダイジェスト（コア知識） ===
+  if (mainSlug) {
+    const digest = loadDigest(mainSlug);
+    if (digest) {
+      const charName = CHAR_JP[mainSlug] || mainSlug;
+      lines.push(`## ${charName} のコア知識\n`);
+      lines.push(digest);
+      lines.push("");
     }
   }
 
-  if (allEntries.length === 0) {
-    return ""; // ナレッジなし
+  // === 層2: インデックス検索（質問に応じたピンポイント） ===
+  const latestQuestion = recentMessages.length > 0
+    ? recentMessages[recentMessages.length - 1]
+    : "";
+
+  let indexEntries: KnowledgeEntry[] = [];
+
+  if (latestQuestion) {
+    // マッチアップ検出
+    const opponent = detectOpponent(latestQuestion);
+    if (opponent && mainSlug && opponent !== mainSlug) {
+      const matchupEntries = loadMatchupIndex(mainSlug, opponent);
+      indexEntries.push(...matchupEntries);
+    }
+
+    // カテゴリ検出
+    const category = detectCategory(latestQuestion);
+    if (category && mainSlug) {
+      const catEntries = loadCategoryIndex(mainSlug, category);
+      indexEntries.push(...catEntries);
+    }
+
+    // 状況検出
+    const situation = detectSituation(latestQuestion);
+    if (situation) {
+      const sitEntries = loadSituationIndex(situation);
+      // メインキャラに関連するもののみ
+      const filtered = mainSlug
+        ? sitEntries.filter((e) => e.characters.includes(mainSlug))
+        : sitEntries;
+      indexEntries.push(...filtered);
+    }
   }
 
-  // メッセージがある場合はキーワード一致でフィルタ、なければ全体から上位を選択
-  let selected: KnowledgeEntry[];
-  if (recentMessages.length > 0) {
-    selected = filterRelevantEntries(allEntries, recentMessages, 10);
-    // スコア0件の場合は信頼度順で上位を補完
-    if (selected.length < 3) {
-      const fallback = allEntries
-        .filter((e) => !selected.includes(e))
-        .sort((a, b) => b.confidence * b.channel_trust - a.confidence * a.channel_trust)
-        .slice(0, 5);
-      selected = [...selected, ...fallback].slice(0, 10);
-    }
+  // 重複排除
+  const seenIds = new Set<string>();
+  indexEntries = indexEntries.filter((e) => {
+    if (seenIds.has(e.id)) return false;
+    seenIds.add(e.id);
+    return true;
+  });
+
+  // スコアリングして上位5件
+  const expandedQuery = latestQuestion ? expandQuery(latestQuestion) : "";
+  if (indexEntries.length > 0 && expandedQuery) {
+    indexEntries = indexEntries
+      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 5)
+      .map((s) => s.entry);
   } else {
-    selected = allEntries
-      .sort((a, b) => b.confidence * b.channel_trust - a.confidence * a.channel_trust)
-      .slice(0, 10);
+    indexEntries = indexEntries.slice(0, 5);
   }
 
-  if (selected.length === 0) {
-    return "";
+  // === 層3: キーワードフォールバック ===
+  // インデックスで5件未満の場合、全エントリからキーワード検索で補完
+  let fallbackEntries: KnowledgeEntry[] = [];
+  if (indexEntries.length < 5 && expandedQuery) {
+    const needed = 5 - indexEntries.length;
+    const allEntries: KnowledgeEntry[] = [];
+    for (const slug of characterSlugs) {
+      const data = readJsonSafe(path.join(KNOWLEDGE_DIR, `${slug}.json`)) as CharacterKnowledge | null;
+      if (data?.entries) allEntries.push(...data.entries);
+    }
+    // 一般知識も追加
+    const general = readJsonSafe(path.join(KNOWLEDGE_DIR, "general.json")) as CharacterKnowledge | null;
+    if (general?.entries) allEntries.push(...general.entries);
+
+    fallbackEntries = allEntries
+      .filter((e) => !seenIds.has(e.id))
+      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+      .filter((s) => s.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, needed)
+      .map((s) => s.entry);
   }
 
-  // プロンプト用テキストに整形
-  const lines: string[] = [
-    `## プロ選手の知識（動画から抽出・検証済み / ${selected.length}件）\n`,
-  ];
+  const selectedEntries = [...indexEntries, ...fallbackEntries];
 
-  // パッチサマリーがあれば先頭に注入
-  const patchSummary = loadLatestPatchSummary();
-  if (patchSummary) {
-    lines.push(`### 最新パッチ変更点`);
-    lines.push(patchSummary);
-    lines.push(`（⚠マーク付き知識はこの変更に関連。フレームデータを優先すること）`);
-    lines.push("");
-  }
+  // === 出力フォーマット ===
+  if (selectedEntries.length > 0) {
+    lines.push(`## 質問に関連する知識（${selectedEntries.length}件）\n`);
 
-  for (const entry of selected) {
-    // 鮮度マーク
-    let stalenessMark = "";
-    if (entry.staleness_status === "confirmed_stale") {
-      stalenessMark = " **[旧バージョン情報]**";
-    } else if (entry.staleness_status === "possibly_stale") {
-      stalenessMark = entry.staleness_reason
-        ? ` ⚠[パッチで変更の可能性: ${entry.staleness_reason}]`
-        : " ⚠[パッチで変更の可能性]";
+    // パッチサマリー
+    const patchSummary = loadLatestPatchSummary();
+    if (patchSummary) {
+      lines.push(`### 最新パッチ変更点`);
+      lines.push(patchSummary);
+      lines.push(`（⚠マーク付き知識はこの変更に関連。フレームデータを優先すること）`);
+      lines.push("");
     }
 
-    const conflictMark =
-      entry.frame_data_conflicts.length > 0
-        ? ` ⚠フレームデータと矛盾: ${entry.frame_data_conflicts[0]}`
-        : "";
+    for (const entry of selectedEntries) {
+      let stalenessMark = "";
+      if (entry.staleness_status === "confirmed_stale") {
+        stalenessMark = " **[旧バージョン情報]**";
+      } else if (entry.staleness_status === "possibly_stale") {
+        stalenessMark = entry.staleness_reason
+          ? ` ⚠[パッチで変更の可能性: ${entry.staleness_reason}]`
+          : " ⚠[パッチで変更の可能性]";
+      }
 
-    lines.push(
-      `- **[${entry.category}] ${entry.topic}**${stalenessMark}${conflictMark}`
-    );
-    lines.push(`  ${entry.content}`);
-    lines.push("");
+      const conflictMark =
+        entry.frame_data_conflicts?.length > 0
+          ? ` ⚠フレームデータと矛盾: ${entry.frame_data_conflicts[0]}`
+          : "";
+
+      lines.push(
+        `- **[${entry.category}] ${entry.topic}**${stalenessMark}${conflictMark}`
+      );
+      lines.push(`  ${entry.content}`);
+      lines.push("");
+    }
   }
 
-  lines.push(`### 知識の使い方`);
-  lines.push(
-    `- 上記知識をアドバイスに自然に組み込むこと。情報ソース（チャンネル名・動画名）はユーザーに表示しないこと`
-  );
-  lines.push(
-    `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「パッチで変更された可能性がある」と留保をつけること`
-  );
-  lines.push(
-    `- フレームデータと矛盾する知識はフレームデータを優先すること`
-  );
-  lines.push(
-    `- 戦略的アドバイス（画面端では攻めを継続、等）はパッチ後も有効な場合が多い`
-  );
+  // 引用ルール
+  if (lines.length > 0) {
+    lines.push(`### 知識の使い方`);
+    lines.push(
+      `- 上記知識をアドバイスに自然に組み込むこと。情報ソース（チャンネル名・動画名）はユーザーに表示しないこと`
+    );
+    lines.push(
+      `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「パッチで変更された可能性がある」と留保をつけること`
+    );
+    lines.push(
+      `- フレームデータと矛盾する知識はフレームデータを優先すること`
+    );
+    lines.push(
+      `- 戦略的アドバイス（画面端では攻めを継続、等）はパッチ後も有効な場合が多い`
+    );
+  }
 
   return lines.join("\n");
 }

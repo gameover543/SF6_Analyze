@@ -255,6 +255,19 @@ class Pipeline:
         if coverage.gap_queries:
             print(f"  次回用ギャップクエリ: {len(coverage.gap_queries)}個")
 
+        # 構造化インデックスを再構築
+        print("\n📂 構造化インデックス再構築...")
+        try:
+            from .structurizer import build_structured_index
+            result = build_structured_index(self.config)
+            print(
+                f"  マッチアップ: {result['matchup_indexes']}件, "
+                f"カテゴリ: {result['category_indexes']}件, "
+                f"状況: {result['situation_indexes']}件"
+            )
+        except Exception as e:
+            print(f"  ⚠ インデックス構築スキップ: {e}")
+
     def _print_dry_run_results(self, candidates) -> None:
         """ドライランの結果表示"""
         print("\n📋 ドライラン結果（Gemini呼び出しなし）:")

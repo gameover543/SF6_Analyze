@@ -1,0 +1,251 @@
+[
+  {
+    "id": "43c3bdb1e540",
+    "category": "matchup",
+    "topic": "前大Pガード後の攻防",
+    "content": "ザンギエフの立ち大P（ヘッドバット）をガードさせると、ザンギエフ側が+4F有利になります。これは打撃とスクリューの二択となり、ザンギエフが攻めの起点として最も狙ってくる行動です。この形を作らせないことが重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが立ち大Pをガードさせた後",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "00:37",
+    "source_quote": "この技ザンギエフ使いが最も狙ってくる行動といっても過言ではありません。でも重要なのは当てるのが目的じゃないという点です。ザンギエフ側が狙っているのは、この前大Pをガードさせること。なぜかというと、ガードさせるだけでザンギエフ側が+4F有利になります。つまり、そこからは打撃orスクリューの二択が完成してしまうんです。ザンギエフ使いはこの形を作るために立ち回ってきます。いかにこの前大Pをガードさせないかが、ここがザンギエフの攻めの起点なんです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb68f4f0b577",
+    "category": "defense",
+    "topic": "前大Pガード後の二択対策",
+    "content": "ザンギエフの立ち大P（ヘッドバット）をガードさせられたら、打撃とスクリューの二択を読み合うしかありません。ガードさせられた時点で、既にザンギエフの攻めを許してしまっている状態です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの立ち大Pをガードした後",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "01:19",
+    "source_quote": "前大Pをガードした後はどうすればいいですか？これに対する答えは、正直一つしかありません。読み合うしかないんです。前大Pをガードさせられた時点で、すでにもうザンギの攻めを許してしまっている状態。言い換えれば、爆弾の導火線に火がついたようなものなんです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57f6e7c8ed69",
+    "category": "matchup",
+    "topic": "立ち大Pをガードさせない立ち回り",
+    "content": "ザンギエフに立ち大Pをガードさせられないように立ち回ることが最も重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "対ザンギエフ",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "01:40",
+    "source_quote": "ですから本当に大事な対策はここ。ガードさせられないように立ち回るということ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f048a9e30403",
+    "category": "defense",
+    "topic": "ジャンプ攻撃への対策",
+    "content": "ザンギエフが立ち大Pをガードさせに来る最も多い手段はジャンプ攻撃からです。ジャンプ攻撃をガードしてしまうと、そこから立ち大Pまでガードさせられることになり、スクリューを食らうことに直結します。そのため、ザンギエフのジャンプ攻撃は対空技で落とすのが重要です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがジャンプ攻撃をしてきた時",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "01:50",
+    "source_quote": "ザンギがどうやって前大Pをガードさせに来るか？一番多いのはジャンプ攻撃からです。ジャンプ攻撃をガードさせてしまえば、前大Pまでガードさせることができます。立ち回りではザンギの飛びをガードすることはスクリューを食らうことに直結するとと思ってください。対空で落とす。これがザンギ対策では最も重要な対策です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5ae47f2d63d8",
+    "category": "defense",
+    "topic": "弱Kキャンセルラッシュへの対策",
+    "content": "ザンギエフは弱Kキャンセルラッシュから立ち大Pをガードさせて打撃かスクリューの二択を仕掛けてきます。また、弱KキャンセルODシベリアンエクスプレスという連携も存在し、これは反応が非常に難しいです。これらの連携には、無敵技での切り返し、特に連打状態でもヒットするドライブリバーサルが有効です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが弱KキャンセルラッシュやODシベリアンエクスプレスを仕掛けてきた時",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "02:37",
+    "source_quote": "もちろんジャンプ以外で前大Pをガードさせに来る方法も当然ザンギエフは持っています。それが弱Kキャンセルラッシュ。打撃から前大Pをガードさせての二択。キャンセルラッシュからそのままスクリュー。キャンセルラッシュ ⇒ 小技 ⇒ スクリューなどなど選択肢の幅が非常に広いです。アップデートで強化されたザンギエフには、弱KキャンセルODシベリアンエクスプレスという凶悪な択も訳あります。このシベリアンは反応がかなり難しいです。見てから止めるのは正直至難の業。答えは以前の動画『勝率を上げる実戦テク #1』でも解説した無敵割り込みです。ザンギエフの弱Kから何かキャンセルが見えた瞬間に無敵技。このケースでは、無敵技でのリターンよりも連ガ状態でもヒットするDリバがおすすめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7f8a2394ad8",
+    "category": "neutral",
+    "topic": "ザンギエフの通常技への対処",
+    "content": "ザンギエフの立ち中P、しゃがみ中K、前中K、立ち大P、しゃがみ大K、前大Kなどのリーチの長い通常技は、全てキャンセル不可という特徴があります。これにより、これらの技に対してはドライブインパクトが強力な対策となります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフがリーチの長い通常技を出してきた時",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "04:46",
+    "source_quote": "リーチの長い通常技あたりになります。つまり、かなりの場面でこの技にインパクトが確定します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "110",
+      "118",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ae85a31fd95",
+    "category": "defense",
+    "topic": "画面端でのドライブインパクト対策",
+    "content": "ザンギエフはSAを使わずに4000ダメージ近い火力を出せるため、画面端に追い詰められた時は普段よりもドライブインパクトへの警戒をさらに高める必要があります。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフに画面端へ追い詰められた時",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "06:44",
+    "source_quote": "あと、ザンギエフは他のキャラに比べて画面端でインパクトが多いのも特徴です。その理由は、SAを使わずに4000ダメージ近くの火力を出せるからです。ザンギに画面端へ追いやられた時は普段よりさらにドライブインパクトの警戒を高めましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93eafff07131",
+    "category": "matchup",
+    "topic": "ザンギエフの防御性能",
+    "content": "ザンギエフは体力は11000と全キャラ中最も高いですが、防御面は弱いです。OD無敵技がなく、SA1は弱く、SA2は無敵こそあるものの発生が遅いためガードが間に合います。SA3は最強です。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの防御・切り返し",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "07:14",
+    "source_quote": "ザンギエフの体力は11000。これはスト6全キャラ中では最も高い体力ですが、実は防御が弱いキャラとしてもトップクラスです。その理由は、OD無敵技がない。SA1が弱い。SA2は無敵こそあるものの発生が遅い。ガードが間に合う。SA3は、最強。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2b0daafb322",
+    "category": "oki",
+    "topic": "ザンギエフへの起き攻め",
+    "content": "ザンギエフのSA3が溜まっていない限り、起き上がりの打撃重ねはほとんど安全択であり、投げ重ねは効果を発揮します。打撃重ねを意識させられれば、ジャンプやバクステがやりにくくなり、投げ抜けを意識させられればそこからのシミーも刺さります。ザンギエフの投げ間合いは通常キャラよりも広いため、シミーをする時はいつもより少し遠目に間合いを取るようにしましょう。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの起き上がり時（SA3がない場合）",
+    "source_video_id": "l_2gYTz7qJ4",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Zangief Complete Strategy Guide | If you're not good at Zangief, be sure to ch...",
+    "source_timestamp": "07:47",
+    "source_quote": "つまり、SA3が溜まっていない限り、ザンギ側にはほとんど強力な切り返し手段は存在しません。せいぜいあるのはDリバ程度。だからこそ、SA3がないタイミングではガンガン攻めていきましょう。起き攻めで打撃重ねを選択する場合、ザンギエフには特に強く機能します。というのも、打撃択へのザンギ側の切り返しはドライブリバーサルかガード（パリィ）の二つしか選択肢がないからです。バクステもジャンプも打撃に潰される。SA2ですら、中攻撃重ねでガードが間に合う。ザンギに対しての起き攻め打撃択はほとんど安全択といっても過言ではないです。次に投げ重ね。打撃重ねを意識させられれば、ジャンプやバクステがやりにくくなり、投げ重ねが効果を発揮します。そうすると遅らせ投げ抜けせざるを得なくなる。そこからのシミーもバッチリ刺さります。ただし、ここで一点注意。ザンギの投げ間合いは通常キャラよりも広い。普段と同じ感覚でシミーをすると逆に投げられる危険があります。なので、シミーをするときはいつもより少し遠目に間合いを取るようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:01:40.580472",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

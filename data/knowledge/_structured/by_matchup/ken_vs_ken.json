@@ -1,0 +1,930 @@
+[
+  {
+    "id": "ed111628b791",
+    "category": "neutral",
+    "topic": "差し返しへの対応",
+    "content": "相手が（リュウの中足など特定の技を）差し返しで狙って下がっている場合、「技を当てに行く」行動が有効。このゲームは後ろ歩きよりも前歩きが速いため、相手が下がっていても技を当てることが可能。中足やドライブインパクトなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が特定の技（中足）の差し返しを狙って下がっている場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "01:41",
+    "source_quote": "相手が中足の差し返しを狙って下がっている場合、何をするか？ここで「技を当てに行く」が大事になってくる。後ろ歩きより前歩きの方が速いので下がってる相手に技を当てに行く事が可能",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "9b5caa0c41d3",
+    "category": "neutral",
+    "topic": "相手の置き技への対応",
+    "content": "相手が「技を当てに行く」行動を読んで置き技を振ってきた場合、こちらは「差し返し」で対応する。具体的には、相手の技の空振りに合わせて飛び込み大キックや大パンチなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手がこちらの技を当てに行く動きを読んで置き技を振ってきた場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "02:13",
+    "source_quote": "差し返しを狙っているのがバレて相手が技を当てにくると、こっちが差し返しをする",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "a8c52858da99",
+    "category": "defense",
+    "topic": "確定反撃（ガード時）",
+    "content": "相手に技をガードさせた際、自分側が「不利フレーム」の状況になると、相手は反撃するチャンスを得ます。特に、相手の技をガードした際に「硬直差 -XF」と表示され、そのXフレーム以内の発生を持つ技で反撃できる場合、「確定反撃（パニッシュカウンター）」となります。例えば、ケン（相手）の立ち強Kをガードさせるとリュウ側は「硬直差 -5F」なので、リュウは発生5F以下の技で確定反撃ができます。具体的にはリュウの立ち弱Pやしゃがみ弱P（どちらも発生4F）でパニッシュカウンターを取れます。確定反撃は相手が無防備な状態でもらえるダメージなので、相手キャラの主要な技のガード後のフレーム状況を把握し、確定反撃をしっかり決めることがキャラ対策の第一歩です。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手の技をガードした時",
+    "source_video_id": "MZFlh_zB9PQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者向け！全ての格闘ゲームに通じる数字、『フレーム』とは？",
+    "source_timestamp": "02:23",
+    "source_quote": "でピンク色で表示されている場合はマイナスフレーム、これは不利フレームという感じです。例えばこのリュウの立ち中Pであれば、ガードされると-1F、つまり相手が1F早く動ける状態です。格闘ゲームにおけるフレームで一番重要なのは、このガードした後にどっちが先に動けるのか、つまりどっちが有利フレームなのか、これを（各キャラの）主要な技を理解するのがすごく大事で、要はこれが分かってないと、じゃあリュウの立ち中Pをガードしました。その後に自分が動いて良いのかいけないのか、というのが分からないんですね。その状態だとせっかく自分が有利フレームなのにずっとガードをしてしまう事になったり、まだ全然読み合いのスタート地点にも立てないような状況になっちゃうので、こういう各キャラの主要な技の有利フレーム、不利フレームを把握するというのはストリートファイター6を上達する上で重要な要素です。そしてこのフレームを理解すると出来るようになるのが確定反撃。これもめちゃくちゃ大事です。例えばこのケンの立ち強K、これすごく長くて強い技なのですが、硬直差が-5F、こっちが+5Fですね、と表示されてます。つまりこっち（リュウ側）が先に5F早く動ける状態なので、これをガードした後に5F(以内)の技を出せばパニッシュカウンター、つまりこれ確定しています。これが確定反撃です。フレームを理解するとこの技は-5Fだから5F(以内)の技を出せば確定反撃、というのを理解する事が出来ます。全ての技にこの確定反撃があるわけでは無いんですが、結構ストリートファイター6は強くて長いような技には大体マイナスフレームというのが設定されているので、こういうフレームを覚えると確定反撃が取れるようになります。この確定反撃というのは何ならもう無料で貰えるようなダメージなので、これをしっかり決める事はめちゃくちゃ大事で、これがキャラ対策の第一歩ですね。相手キャラの主要技、ガードした後に確定反撃が取れる技にはしっかり反撃を決める。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:31:45.714822",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "105",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fed4006874e5",
+    "category": "defense",
+    "topic": "飛び道具への対処（パリー）",
+    "content": "飛び道具に対してドライブパリーを使う場合、弱中強すべての弾をパリーしようとせず、一番弾速の速い弾（強波動など）に合わせてパリーするイメージでいるのが大事。取れたらラッキー程度で良い。弾速の遅い弾には、パリーが難しく、取れても確定反撃が入りにくい場合が多い。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が飛び道具を撃ってくる場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "07:19",
+    "source_quote": "弾ジャスパをすることがどこら辺がどういう風に弱体化される？基本的に一番弾速の速い弾に合わせるイメージ。取れたらラッキーぐらいの気分。それがまず大事。弾速の遅い弱波動を撃ち始める。そうするとジャスパも急にむずくなるし、取れたとしても確定反撃が入んないとか。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "959adc28a27c",
+    "category": "neutral",
+    "topic": "弾速と発生フレーム",
+    "content": "弱波動（発生16F）は強波動（発生12F）より弾速が遅く、発生フレームも遅い。弱波動に対しては自分の打撃技の「当て」で勝てるが、強波動に対しては自分の打撃技が負けることが多い。相手の弾速に応じて、行動を変えていくのが重要。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が弱波動と強波動を使い分ける場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "08:41",
+    "source_quote": "弱〜強で明確に違うのが弾速と発生フレーム。強波動って発生12F。弱波動は16F。弱波動は技の発生が遅いので打撃の当てが勝つ。だから相手の弾速を見つつ、動きを変えていくのは大事",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "ed111628b791",
+    "category": "neutral",
+    "topic": "差し返しへの対応",
+    "content": "相手が（リュウの中足など特定の技を）差し返しで狙って下がっている場合、「技を当てに行く」行動が有効。このゲームは後ろ歩きよりも前歩きが速いため、相手が下がっていても技を当てることが可能。中足やドライブインパクトなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が特定の技（中足）の差し返しを狙って下がっている場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "01:41",
+    "source_quote": "相手が中足の差し返しを狙って下がっている場合、何をするか？ここで「技を当てに行く」が大事になってくる。後ろ歩きより前歩きの方が速いので下がってる相手に技を当てに行く事が可能",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "9b5caa0c41d3",
+    "category": "neutral",
+    "topic": "相手の置き技への対応",
+    "content": "相手が「技を当てに行く」行動を読んで置き技を振ってきた場合、こちらは「差し返し」で対応する。具体的には、相手の技の空振りに合わせて飛び込み大キックや大パンチなどを当てる。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手がこちらの技を当てに行く動きを読んで置き技を振ってきた場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "02:13",
+    "source_quote": "差し返しを狙っているのがバレて相手が技を当てにくると、こっちが差し返しをする",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "fed4006874e5",
+    "category": "defense",
+    "topic": "飛び道具への対処（パリー）",
+    "content": "飛び道具に対してドライブパリーを使う場合、弱中強すべての弾をパリーしようとせず、一番弾速の速い弾（強波動など）に合わせてパリーするイメージでいるのが大事。取れたらラッキー程度で良い。弾速の遅い弾には、パリーが難しく、取れても確定反撃が入りにくい場合が多い。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が飛び道具を撃ってくる場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "07:19",
+    "source_quote": "弾ジャスパをすることがどこら辺がどういう風に弱体化される？基本的に一番弾速の速い弾に合わせるイメージ。取れたらラッキーぐらいの気分。それがまず大事。弾速の遅い弱波動を撃ち始める。そうするとジャスパも急にむずくなるし、取れたとしても確定反撃が入んないとか。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "959adc28a27c",
+    "category": "neutral",
+    "topic": "弾速と発生フレーム",
+    "content": "弱波動（発生16F）は強波動（発生12F）より弾速が遅く、発生フレームも遅い。弱波動に対しては自分の打撃技の「当て」で勝てるが、強波動に対しては自分の打撃技が負けることが多い。相手の弾速に応じて、行動を変えていくのが重要。",
+    "characters": [
+      "kimberly",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手が弱波動と強波動を使い分ける場合",
+    "source_video_id": "hWrADk0BeRo",
+    "source_channel": "カワノKawano",
+    "source_video_title": "地上戦とは何たるかを全て解説します。初心者から上級者まで全プレイヤー参考にしてください【スト6・カワノ】",
+    "source_timestamp": "08:41",
+    "source_quote": "弱〜強で明確に違うのが弾速と発生フレーム。強波動って発生12F。弱波動は16F。弱波動は技の発生が遅いので打撃の当てが勝つ。だから相手の弾速を見つつ、動きを変えていくのは大事",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:31:24.724480",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "35d1e8be7ab5",
+    "category": "matchup",
+    "topic": "ケン：OD波動拳の打ち合い回避",
+    "content": "ケンはOD波動拳が追撃可能であるため、波動拳の撃ち合いはしない方が良いです。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンがOD波動拳を撃ってくる時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "03:43",
+    "source_quote": "ケンはOD波動が追撃可能なので波動拳の撃ち合いはしない方がいいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "303"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fd6a6cb0e60d",
+    "category": "matchup",
+    "topic": "ケン：迅雷脚の確定反撃",
+    "content": "ケンの迅雷脚（強迅雷脚以外）は、1段目の後にOD昇龍拳が確定反撃になります。ODゲージを使いたくない場合は、2段目の中段が厄介なのでファジーで小Pを出しましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの迅雷脚をガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "03:49",
+    "source_quote": "迅雷脚は、強迅雷以外は1段目の後にOD昇竜が確定反撃になるよ ODゲージを使いたくたい時は2段目の中段が厄介なので、ファジーで小Pをしよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "206",
+      "307",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "88f5205451bb",
+    "category": "matchup",
+    "topic": "ケン：キャンセル通常技からのインパクト",
+    "content": "ケンのキャンセル可能な通常技（中足や中P）から必殺技をキャンセルした場合、ドライブインパクトが確定するので、動いたのを見てからインパクトをしましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンのキャンセル可能な通常技（中足、中P）から必殺技をキャンセルした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:01",
+    "source_quote": "中足や中P TCは、キャンセル必殺技をしたときにインパクトが確定するので動いたのを見てからインパクトをしよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f8ac9063e7c",
+    "category": "neutral",
+    "topic": "ケン：運び性能への対応",
+    "content": "ケンの運び性能は非常に強力であるため、無理に歩いてラインを上げなくても大丈夫です（どこからでも画面端に持っていけるため）。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケン戦の立ち回り",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:09",
+    "source_quote": "ケンは運び性能がとても強いので無理に歩いてラインを上げなくても大丈夫（どこからでも画面端にいける）",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2e510c123b3a",
+    "category": "matchup",
+    "topic": "ケン：旋風竜巻後の対応",
+    "content": "ケンの旋風竜巻を食らってダウンした場合、後ろ受け身をするとラインを無料で上げられるだけなので、後ろ受け身をしないようにしましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの旋風竜巻を食らってダウンした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:13",
+    "source_quote": "旋風竜巻はダウン後、後ろ受け身したらラインを無料で上げられるだけなので、後ろ受け身をしないようにしよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bf6c004ea762",
+    "category": "matchup",
+    "topic": "ケン：空中竜巻対策",
+    "content": "ケンの空中竜巻は昇龍拳で落としづらいため、落ちたところを確定反撃しましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの空中竜巻に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:19",
+    "source_quote": "空中竜巻は昇竜で落としづらいので、落ちたところを確定反撃しよう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce8a8ac3bb16",
+    "category": "general",
+    "topic": "ケン：通常技の不利フレーム",
+    "content": "ケンは通常技でガード時有利になる技を持っていません。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケン戦の立ち回り",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:25",
+    "source_quote": "ケンは通常技で有利になる技を持っていないよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3929b93673c6",
+    "category": "matchup",
+    "topic": "ケン：強龍尾脚対策",
+    "content": "ケンの強龍尾脚はガード時ケン有利です。攻撃判定が出る前にドライブインパクトを押せば確定します。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの強龍尾脚をガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:28",
+    "source_quote": "強龍尾脚はガード時ケン有利だよ 龍尾脚は攻撃判定が出る前にインパクトが押せれば、インパクトが確定するよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "318",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b82b632d3c86",
+    "category": "matchup",
+    "topic": "ケン：SA3対策",
+    "content": "ケンがSA3を溜めているときは、迅雷脚からの中段で即死する可能性があるため注意が必要です。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンがSA3が溜まっている時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "04:36",
+    "source_quote": "SA3が溜まっているときは迅雷からの、中段で死ぬ可能性があるので注意",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a8c52858da99",
+    "category": "defense",
+    "topic": "確定反撃（ガード時）",
+    "content": "相手に技をガードさせた際、自分側が「不利フレーム」の状況になると、相手は反撃するチャンスを得ます。特に、相手の技をガードした際に「硬直差 -XF」と表示され、そのXフレーム以内の発生を持つ技で反撃できる場合、「確定反撃（パニッシュカウンター）」となります。例えば、ケン（相手）の立ち強Kをガードさせるとリュウ側は「硬直差 -5F」なので、リュウは発生5F以下の技で確定反撃ができます。具体的にはリュウの立ち弱Pやしゃがみ弱P（どちらも発生4F）でパニッシュカウンターを取れます。確定反撃は相手が無防備な状態でもらえるダメージなので、相手キャラの主要な技のガード後のフレーム状況を把握し、確定反撃をしっかり決めることがキャラ対策の第一歩です。",
+    "characters": [
+      "ryu",
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "相手の技をガードした時",
+    "source_video_id": "MZFlh_zB9PQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者向け！全ての格闘ゲームに通じる数字、『フレーム』とは？",
+    "source_timestamp": "02:23",
+    "source_quote": "でピンク色で表示されている場合はマイナスフレーム、これは不利フレームという感じです。例えばこのリュウの立ち中Pであれば、ガードされると-1F、つまり相手が1F早く動ける状態です。格闘ゲームにおけるフレームで一番重要なのは、このガードした後にどっちが先に動けるのか、つまりどっちが有利フレームなのか、これを（各キャラの）主要な技を理解するのがすごく大事で、要はこれが分かってないと、じゃあリュウの立ち中Pをガードしました。その後に自分が動いて良いのかいけないのか、というのが分からないんですね。その状態だとせっかく自分が有利フレームなのにずっとガードをしてしまう事になったり、まだ全然読み合いのスタート地点にも立てないような状況になっちゃうので、こういう各キャラの主要な技の有利フレーム、不利フレームを把握するというのはストリートファイター6を上達する上で重要な要素です。そしてこのフレームを理解すると出来るようになるのが確定反撃。これもめちゃくちゃ大事です。例えばこのケンの立ち強K、これすごく長くて強い技なのですが、硬直差が-5F、こっちが+5Fですね、と表示されてます。つまりこっち（リュウ側）が先に5F早く動ける状態なので、これをガードした後に5F(以内)の技を出せばパニッシュカウンター、つまりこれ確定しています。これが確定反撃です。フレームを理解するとこの技は-5Fだから5F(以内)の技を出せば確定反撃、というのを理解する事が出来ます。全ての技にこの確定反撃があるわけでは無いんですが、結構ストリートファイター6は強くて長いような技には大体マイナスフレームというのが設定されているので、こういうフレームを覚えると確定反撃が取れるようになります。この確定反撃というのは何ならもう無料で貰えるようなダメージなので、これをしっかり決める事はめちゃくちゃ大事で、これがキャラ対策の第一歩ですね。相手キャラの主要技、ガードした後に確定反撃が取れる技にはしっかり反撃を決める。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:31:45.714822",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "105",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e87322248692",
+    "category": "matchup",
+    "topic": "龍尾脚（623K）の対策",
+    "content": "ケンが龍尾脚（623K）をガードさせてきた場合、密着で+1Fになる。相手が投げ（5F）を試みた場合は、自身の4Fの通常技で勝てる。ただし、ケンが4Fの弱攻撃を試みた場合は、自身の4F技が相打ちになるか負ける。基本的に、確定反撃を狙う場合は、小技（4F）またはドライブインパクトの反応が必要。どちらも同じくらいの難易度だが、小技の方が少し簡単かもしれない。垂直ジャンプは、相手が引っかかってくれる可能性もあるが、リスクも伴う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "龍尾脚をガードした後（密着）",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "01:19",
+    "source_quote": "この技はガードさせて有利です。ガードさせてプラス１です。なのでもしガードしてしまったら、基本的には相手の方が先に動けるので、こっちはボタンを押せないです。相手が４Fの弱Pとかを押していた場合は、こっちが２弱P撃つと負けるんだけど、相手がここから投げをしてきた場合は、プラス１しかないので４F技を撃てば投げ（５F）には勝てます。ここは一応理解しておいた方が良い。ま、だいたいみんなね困る技が、この龍尾脚と迅雷脚だと思うんだよね。これ小技で落とすのとインパクトで落とすのは大体タイミング同じぐらいな気がする。多分小技の方がちょっと簡単かも。なので基本龍尾脚は弱攻撃で落とすか、インパクトでカウンターを取るのが基本的な対策です。垂直とか置くのも一応有効は有効なんだけど、ジャンプに引っ掛かったりする事も結構多いから。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7df6d11a4e1",
+    "category": "defense",
+    "topic": "龍尾脚（623K）強制ダウンからの反撃",
+    "content": "龍尾脚（623K）が空中ヒットして「FORCED DOWN」状態になった場合、発生の早い弱攻撃で拾うか、ドライブインパクトで反撃する。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "龍尾脚（623K）を空中ヒットで強制ダウンさせられた後",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "02:22",
+    "source_quote": "こういうのがヒット確認ミスったりとかして、あ、ミスったつって、うっかりガードしちゃうぐらいの技なんだけど、一応明確な対策は、まず１つがこう小技で落とす。見てからなるべく発生の早い弱攻撃で落とす。そうすると一応これ「特殊やられ」になるので、その後に拾えます。なので結構リターンも出す事ができる。ただ結構ね反応が難しい。もう１個がインパクト。これも結構見てから落とすのはね、まあまあ難しい印象がある。そこそこ早めに反応する必要はあるけど、一応インパクトで返すとリターンも高くて良いです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b5a3cf24c31",
+    "category": "defense",
+    "topic": "2中Kキャンセルからの派生技への対処",
+    "content": "ケンの2中K（しゃがみ中K）からのキャンセル技に対しては、以下の方法で対処する:\n1.  まずドライブインパクトを撃つ。\n2.  ドライブインパクトが確定でヒットした場合は、ケンが中迅雷脚（236中K）、強迅雷脚（236強K）、または波動拳（236P）にキャンセルしたことを意味し、高リターンな確定反撃が取れる。\n3.  ドライブインパクトがヒットしなかった（つまり連続ガードでインパクトが出なかった）場合は、ケンが弱迅雷脚（236弱K）にキャンセルしたことを意味する。弱迅雷脚派生の下段（風鎌蹴り）はガードで-8Fなので、4F技などで確実に反撃する。この対処法は全ての2中Kキャンセルに対応可能で、ケン側も安易な攻め継続が難しくなる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンがしゃがみ中Kから各種技をキャンセルしてきた時",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "04:47",
+    "source_quote": "一番良いのは、めちゃ分かりやすくて、基本的に中足からなんかキャンセルしたらインパクトが一番良いです。これねとても良い発見だった。まず2中K→弱迅雷脚って連続ガードだからインパクト押しても出ないのね。で2中K→中迅雷脚にはインパクトが確定する。もちろん強迅雷脚にも確定する。で2中K→波動拳にもインパクトが確定する。つまり2中Kから何かキャンセルしたらインパクトを撃てば基本的に全部確定。これ遅らせて派生させてるワケじゃなくて強度でタイミング違うだけ？遅らせて派生もできます。でも遅らせて派生すると結局４Fとかで割られちゃうから、あんまり連系では遅らせてやったりしないはず。なので2中Kキャンセルには全部インパクトが確定しつつ、弱迅雷脚は連続ガードだからインパクトが出ない。だから2中Kからキャンセルされた時にインパクトを撃っておいて、出なかったら弱迅雷脚だから、そしたら技を撃ち返していい。これが一番分かりやすいと思う。インパクト撃って『あ、出なかった』「じゃあ弱迅雷脚だ」って分かるから、そしたらこれで確定。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "321",
+      "322",
+      "323",
+      "325",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8b5e62efca64",
+    "category": "matchup",
+    "topic": "立ち強K（一文字蹴り）の対処",
+    "content": "ケンの立ち強K（一文字蹴り）はどのシリーズでも強力だが、今作でも屈指の強さを誇る。\n1.  近距離で立ち強Kをガードした場合、ガード硬直差は-5Fなので、発生5F以下の技で確定反撃を入れられる。\n2.  立ち強Kが空振りした場合は、きっちり空振り硬直を差し返す。\n3.  ケン側が立ち強Kを振りやすい先端の間合いは、反撃されにくいため避けるべき。ケンが歩いてめり込ませてくるか、スカして差し返してくるかの読み合いになる。\n4.  特にパニッシュカウンターを食らわないように注意する。適当に技を振っていると、パニッシュカウンターから大ダメージを受けてしまう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの立ち強Kが繰り出された時",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "09:16",
+    "source_quote": "あとこの一文字蹴りね。この立ち強K。これどのシリーズでも強いんだけど、今回はその中でも屈指の強さを誇ると思う。リターンが凄い今回は。特にパニカンを貰わないようにした方が良い。立ち強Kの間合いで適当に技をブンブン振ってるとこれでパッカン行かれるから。立ち強Kにも割と注意した方が良いです。ただこの立ち強Kをブンブン振ってきて、近めでガードをした場合は、これ-5Fなので、5Fの技で反撃が出来ます。なので5Fが長いキャラとかだったら、めり込みガードをした場合はちゃんと反撃をしましょう。もしくはスカす、一文字をスカして殴る。どっちかだね。この立ち強K先端の距離はあんま良くない。ケン側も立ち強Kを振りやすいから。歩いてめり込ませるか、スカして差し返すか、このどっちかでやるのが良いと思います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c00248e66559",
+    "category": "defense",
+    "topic": "ケンの一文字蹴り連携への対処",
+    "content": "ケンが迅雷脚（236K）から強竜巻旋風脚（214強K）、そして立ち弱P（立ち弱P）空振りからの迅雷脚中K派生（紫電カカト落とし）で攻めを継続する連携に対しては、以下の対処を行う。\n1.  基本的に立ちガードを固める。\n2.  ケンが立ち弱P空振り後に「急停止」を見せたら、投げ（5F）や無敵技、または前ジャンプで切り返す。\n3.  ケンが「急停止」せずに迅雷脚中K派生（紫電カカト落とし）まで連携を続けた場合、ガードすれば硬直差-1Fなので、引き続き投げや4F技などで読み合いを仕掛けることができる。\n4.  この連携の「急停止」は視認しやすいため、これをしっかり見て対応することで、相手のハメに近い攻めを回避できる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが迅雷脚（236K）から強竜巻旋風脚（214強K）で画面端に運び、さらに立ち弱P（立ち弱P）空振りからの迅雷脚中K派生（紫電カカト落とし）で起き攻めを継続する状況",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "10:26",
+    "source_quote": "この中段を重ねられる事よくない？これね結構やってくるケン使い多いんだけど。迅雷脚→強竜巻旋風脚→立ち弱P空振り→迅雷脚→中K派生（紫電カカト落とし）。これが最速でやるとヒットで+5まで取れる。ってことは、ループしてますこれ。繋がってる！しかもこれガードされても投げ間合い外の-１Fだから全然リスクないこれ。で「えっ中段だったらパリーとかでもすればいいじゃあないの？」って思うんだけど、この急停止。立ち弱P空振りからの迅雷脚急停止が普通にプラス３なのよ。だからパリーしてると投げられる。だからこれ普通に強い。シンプルに強いんだけど、これは対策あります。対策っていうかこれ食らわないです。中段は絶対に食らわないし、パリーでも釣られない。基本的に立ち（ガード）っぱなしで、急停止を見たらしゃがみガードするとかグラップするとか、前ジャンプ入れるとか無敵技を撃つとか、そういう普通の読み合いをすれば良い。これ迅雷脚からの下段ってないから別に択にはなってない。立ちっぱガードで、まずこの中段をガードしましょう。で急停止見たら、急停止これ結構見やすいから。ケンがシュッつって止まるから明確に。そしたらグラップとかすれば良い。しゃがみガードしながら普通の（被）起き攻めだと思えば良い。だからこの後は立ちガード安定基本的に。で急停止見たらしゃがみガードみたいな。そうすればこれを食らうことはない。急停止見極めるのがもし難しかったら、まあ立ちガードで良いと思いますここは。でガードしたらプラス１なので、小技を撃ち返しましょうって感じかな。これね知らナイトとねマジでやられるから。このセットプレイは一番有名だと思うから知っておいた方が良いと思います。 知ったところで普通に強い起き攻めな事には変わりないんだけど、このセットプレイには注意。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "202",
+      "203",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5f5e5b57cb1f",
+    "category": "defense",
+    "topic": "立ち中K（ターゲットコンボ）への対処",
+    "content": "ケンの立ち中K（ターゲットコンボ）は強力だが、ヒット確認をミスした相手の中K > 中K > 強K（閃火連脚）連携に対しては、しゃがみガードからの反撃が有効。\n1.  ケンが立ち中Kのヒット確認をミスして中K > 中K > 強K（閃火連脚）を出し切ってきた場合、立ち攻撃で反撃しようとすると暴れ潰しで負けてしまう。\n2.  しかし、しゃがみ攻撃で反撃すれば、閃火連脚の3段目がしゃがみに当たらないため、これをかわして反撃が確定する。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが立ち中Kヒット確認をミスしてターゲットコンボを出し切ってきた時",
+    "source_video_id": "e0rAg24VQoM",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】ケン対策【龍尾脚、迅雷脚】",
+    "source_timestamp": "12:49",
+    "source_quote": "あとまあちょっと細かいけど、ケンの立ち中キックってさ、強いのよこれ。ケンの立ち中K強いんだけど、一応これ-5あるから。近めでガードしたら5Fが確定。でこれ厄介なのが、相手がこの立ち中Kのヒット確認をミスって、パンパンパンって漏らしたとするとするじゃん。これね、立ち攻撃で反撃しようとすると暴れ潰しになってるから食らうのよ。でもしゃがみ攻撃で反撃すれば食らわない。しゃがみに当たらないから３段目が。これはまあ覚えておくと役に立つ時が来るかも。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:53:27.169187",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "107",
+      "207"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa908e8ced15",
+    "category": "defense",
+    "topic": "ケンの弱確定反撃",
+    "content": "ケンの大足（ガード時-6F）は、立ち弱K（発生4F）で弱確定反撃が入りやすい。立ち弱Kはリーチが長く、しゃがみ小パンより届きやすい。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの大足をガードした後",
+    "source_video_id": "RYxBClsCDSw",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "UGと学ぶフレームの有利不利の概念「知識として持っておくだけでいい。そうすれば勝手に上手くなる」【マゴ｜ストリートファイター6｜ファッキン無料】",
+    "source_timestamp": "24:04",
+    "source_quote": "ケンの大足（ガード時-6F）は立ち弱K（発生4F）が弱確定反撃になる。立ち弱Kはリーチが長い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:01:33.841830",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "604b3b4eb2b4",
+    "category": "defense",
+    "topic": "ケンの大確定反撃",
+    "content": "ケンの大足（ガード時-6F）に対し、しゃがみ大K（発生10F）で大確定反撃が入る。この技はガードすら取れない。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの大足をガードした後",
+    "source_video_id": "RYxBClsCDSw",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "UGと学ぶフレームの有利不利の概念「知識として持っておくだけでいい。そうすれば勝手に上手くなる」【マゴ｜ストリートファイター6｜ファッキン無料】",
+    "source_timestamp": "10:14",
+    "source_quote": "ケンの大足（ガード時-11F）はしゃがみ大K（発生10F）で大確定反撃が入る。ガードすら取れない。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:01:33.841830",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18089a8897ee",
+    "category": "defense",
+    "topic": "ケンの大確定攻撃と対処",
+    "content": "ケンの大足ガード後にしゃがみ大Kで確定反撃が入る。ただし距離が遠いと届かないパターンもあるため、その場合は届く技（例：立ち弱K）を選択する必要がある。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの大足をガードした後",
+    "source_video_id": "RYxBClsCDSw",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "UGと学ぶフレームの有利不利の概念「知識として持っておくだけでいい。そうすれば勝手に上手くなる」【マゴ｜ストリートファイター6｜ファッキン無料】",
+    "source_timestamp": "10:14",
+    "source_quote": "ケンの大足（ガード時-11F）に対し、しゃがみ大K（発生10F）で確定反撃。ただこれは距離が遠いと当たらないので、そういう時は届く技（例：立ち弱K）をやる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:01:33.841830",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "105",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ae68dced55fd",
+    "category": "matchup",
+    "topic": "ケン 迅雷強K派生 (-4F)",
+    "content": "ケン同キャラ戦において、相手ケンの迅雷強K派生がガードされてめり込んだ場合、-4Fとなります。ケンは立ち弱P > 屈中K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの迅雷強K派生がガードされてめり込んだ時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "01:07",
+    "source_quote": "ケンの迅雷強K派生。これもめり込むと-4Fです。立ち弱Pから屈中K昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "17db2cdb5a79",
+    "category": "matchup",
+    "topic": "ケン 立ち大K (-5F)",
+    "content": "ケン同キャラ戦において、相手ケンの立ち大Kがガードされた場合、-5Fとなります。ケンは立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの立ち大Kがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "04:29",
+    "source_quote": "ケンの立ち大K。これも-5Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5069ec859af6",
+    "category": "matchup",
+    "topic": "ケン 迅雷弱派生 (-5F)",
+    "content": "ケン同キャラ戦において、相手ケンの迅雷弱派生がガードされた場合、-5Fとなります。ケンは立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。相手が暴れてきた場合、立ち弱Kで割り込むことができます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの迅雷弱派生がガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "04:39",
+    "source_quote": "ケンの迅雷弱派生。これも-5Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "87df443b12da",
+    "category": "matchup",
+    "topic": "ケン 中迅雷 (-7F)",
+    "content": "ケン同キャラ戦において、相手ケンの迅雷（中迅雷）がガードされて-7Fの場合、ケンはしゃがみ中Pで確定反撃できます。SA2（神龍拳）はどの距離でガードしても確定反撃が可能で、派生技を出されても無敵で返せるため非常に強力な選択肢です。最も安定して返せる組み合わせです。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "ken",
+    "situation": "ケンの迅雷（中迅雷）がガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "08:07",
+    "source_quote": "中迅雷。しゃがみ中Pで確定反撃ができます。SA2はどんな距離でガードしても確定反撃が可能で、派生技を出されても無敵で返せるため非常に強力な選択肢です。最も安定して返せる組み合わせです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

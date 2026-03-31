@@ -1,0 +1,60 @@
+[
+  {
+    "id": "925fa217d455",
+    "category": "matchup",
+    "topic": "Blankaの対Chun-Li気功拳スライディング",
+    "content": "BlankaはスライディングでChun-Liの気功拳の下を潜り抜けることができる。",
+    "characters": [
+      "blanka",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liが気功拳を打つ時",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "07:27",
+    "source_quote": "確かに春麗の弾は結構…スライディングで抜けれ…うわ抜けてるね…。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "342"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "925fa217d455",
+    "category": "matchup",
+    "topic": "Blankaの対Chun-Li気功拳スライディング",
+    "content": "BlankaはスライディングでChun-Liの気功拳の下を潜り抜けることができる。",
+    "characters": [
+      "blanka",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "Chun-Liが気功拳を打つ時",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "07:27",
+    "source_quote": "確かに春麗の弾は結構…スライディングで抜けれ…うわ抜けてるね…。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "342"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

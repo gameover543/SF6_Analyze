@@ -1,0 +1,363 @@
+[
+  {
+    "id": "07d055770656",
+    "category": "matchup",
+    "topic": "ザンギエフ：有利フレーム技の認識",
+    "content": "ザンギエフ側がガード時に有利になる技は、立ち弱P、しゃがみ弱P、立ち強K、ホールド強P、前中P、前中Kの持続です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの通常技をガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:17",
+    "source_quote": "ザンギエフ側がガード時有利になる技は立ち弱P、しゃがみ弱P、立ち強K、ホールド強P、前中P、前中Kの持続だよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "108",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8523beaf108f",
+    "category": "matchup",
+    "topic": "ザンギエフ：ため強P対策",
+    "content": "ザンギエフのため強Pは上半身にしかアーマーがないため、下段攻撃が有効です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのため強Pに対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:27",
+    "source_quote": "ため強Pには上半身しかアーマーがないので、下段が有効的だよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1471c8a20c7b",
+    "category": "matchup",
+    "topic": "ザンギエフ：サイクロンニーキック対策",
+    "content": "ザンギエフのサイクロンニーキックは中段攻撃ですが、ガード後の不利フレームが大きいため、確定反撃を取りましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのサイクロンニーキックをガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:31",
+    "source_quote": "サイクロンニーキックは中段ですがザンギエフの不利フレームが大きいので、確定反撃を取ろう",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d791a63b402e",
+    "category": "matchup",
+    "topic": "ザンギエフ：小技固めからの連携対策",
+    "content": "ザンギエフが小技で固めてから前中Kで固めてくる連携は、強攻撃での暴れでも間に合います。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが小技で固めてから前中Kで固めてくる連携に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:37",
+    "source_quote": "小技で固めてから前中Kで固める連携は強攻撃の暴れでも間に合うよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3ce54b055b4d",
+    "category": "matchup",
+    "topic": "ザンギエフ：ダブルラリアット対策",
+    "content": "ザンギエフのダブルラリアットの1段目をガードした後、ドライブインパクトで割り込むことができます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのダブルラリアットの1段目をガードした時",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:41",
+    "source_quote": "ダブルラリアットは1段目をガードした後はインパクトで割り込むことができるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "300",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "80ff3e53cce6",
+    "category": "matchup",
+    "topic": "ザンギエフ：コマ投げ対策",
+    "content": "ザンギエフのコマ投げをジャンプで避けることも対策の一つですが、空中コマ投げもあるため、一番安全なのはバックステップです。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのコマ投げに対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "11:53",
+    "source_quote": "コマ投げをジャンプでよけるのは対策の一つですがザンギエフの場合は空中コマ投げもあるので、一番安全なのはバクステだよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "95e56df8b78d",
+    "category": "matchup",
+    "topic": "ザンギエフ：SA2対策",
+    "content": "ザンギエフのSA2は発生が遅いため、小技で詐欺ることができます。SA2はバグの関係で硬直が短くなっているので注意が必要です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのSA2に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:00",
+    "source_quote": "ザンギエフはSA2は発生が遅いので小技で詐欺れるよ ザンギエフのSA2はバグの関係で硬直が短くなっているので注意",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "91d54b7fdc7a",
+    "category": "matchup",
+    "topic": "ザンギエフ：SA3対策",
+    "content": "ザンギエフのSA3は暗転後に発生0Fで出るため、SA3の前にバックステップやジャンプで避ける必要があります。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフのSA3に対して",
+    "source_video_id": "IvP2dzANONk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "【モダンルーク】全キャラ対策を一分ずつに解説",
+    "source_timestamp": "12:08",
+    "source_quote": "ザンギエフのSA3は暗転後発生0Fで出る関係上SA3の前に、バクステやジャンプでよける必要があるよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:03:11.487806",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "db80e58c0005",
+    "category": "matchup",
+    "topic": "空中攻撃→パイルドライバー対策",
+    "content": "ザンギエフが空中攻撃をヒットさせた後、フレーム有利を利用してパイルドライバーを仕掛けてきます。これを防ぐためにはジャンプが有効です。ただし、ザンギエフ側が相手のジャンプを読んでボルシチダイナマイトを仕掛けてくる可能性もあるため、地上パイルドライバーかボルシチダイナマイトかの二択になります。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの空中攻撃ヒット後",
+    "source_video_id": "sh4lNOPcMyg",
+    "source_channel": "しんいちろう@モダンザンギエフ",
+    "source_video_title": "【スト6】ザンギエフ使いが教える知られたくない技対策３選【初心者講座】",
+    "source_timestamp": "00:15",
+    "source_quote": "空中攻撃からパイルドライバーを仕掛けることができます。フレームがザンギエフ側に有利なので、択を仕掛けることができるんですよね。空中攻撃をうけたあととガードや弱攻撃をしてもパイルドライバーが入ります。この時の対策としてはジャンプが正解です。ただしザンギエフ側もそれを見越してボルシチをかましてくるので、注意が必要なのも覚えておきましょう。なので実質のところジャンプ攻撃を受けてしまうと地上パイルドライバーかジャンプを読んでのボルシチを通されるの2択になります。覚えておきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:34:51.101693",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c742c09ea303",
+    "category": "matchup",
+    "topic": "起き上がりチョップ対策",
+    "content": "ザンギエフは相手の起き上がりにパイルドライバーとチョップ（立ち強K）の二択を仕掛けてきます。特にチョップは非常に強力です。チョップに対しては、起き上がった瞬間にドライブインパクトを出すのが正解です。ただし、ザンギエフ側もチョップの1段目からドライブインパクトで返す場合があるので、注意が必要です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの起き攻め時",
+    "source_video_id": "sh4lNOPcMyg",
+    "source_channel": "しんいちろう@モダンザンギエフ",
+    "source_video_title": "【スト6】ザンギエフ使いが教える知られたくない技対策３選【初心者講座】",
+    "source_timestamp": "01:06",
+    "source_quote": "続いて起き上がりチョップです。ザンギエフ側は起き上がりに対してパイルドライバーとチョップの2択を仕掛けてきます。この時チョップ1段止めからのパイルドライバーなどの変化もあるので、起き上がりのチョップというのは、かなり強いです。ザンギエフ側もそれが分かっているので起き上がりに対してチョップを仕掛けてくることが多いので注意しておきましょう。起き上がりチョップに対してガードをすればパイルドライバーが確定してしまうので、対策としては、起き上がった瞬間にドライブインパクトが正解です。ただしドライブインパクトが読まれてしまうとチョップ一段止めからのインパクト返しが間に合う場合があるので、注意が必要です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:34:51.101693",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "210",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2faa694094c0",
+    "category": "matchup",
+    "topic": "弱足ラッシュ→パイルドライバー対策",
+    "content": "ザンギエフは弱足ラッシュ（中Kからのドライブラッシュ）からパイルドライバーを仕掛けてくることがあります。ガードしてしまうとパイルドライバーが確定してしまうため、対策としては下段の弱攻撃で割り込むか、ジャンプで逃げるのが効果的です。ただし、ジャンプを読まれてしまうとボルシチダイナマイトで返されるので注意しましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフの中・近距離戦（弱足ラッシュ時）",
+    "source_video_id": "sh4lNOPcMyg",
+    "source_channel": "しんいちろう@モダンザンギエフ",
+    "source_video_title": "【スト6】ザンギエフ使いが教える知られたくない技対策３選【初心者講座】",
+    "source_timestamp": "01:55",
+    "source_quote": "ザンギエフは中距離～近距離のファイターだと僕は思っています。中距離戦での使用武器の一つに弱足ラッシュからのパイルドライバーがあります。今までの技と同じようにガードをしてしまうとパイルドライバーが確定になってしまうため、注意が必要です。対策としては、下段の弱かジャンプが効果的。ただしジャンプを読まれてしまうとボルシチを仕掛けてくるので注意しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:34:51.101693",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f430a91b7dee",
+    "category": "general",
+    "topic": "対ザンギエフ戦の立ち回り",
+    "content": "基本的にザンギエフは相手に何らかの行動をさせてからフレーム有利を取り、投げ技を仕掛けてきます。そのため、ザンギエフが何かを仕掛けてきた時には、ジャンプで逃げるか、弱攻撃で動きを止めることを意識して立ち回りましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": null,
+    "source_video_id": "sh4lNOPcMyg",
+    "source_channel": "しんいちろう@モダンザンギエフ",
+    "source_video_title": "【スト6】ザンギエフ使いが教える知られたくない技対策３選【初心者講座】",
+    "source_timestamp": "02:24",
+    "source_quote": "どの技にも言えることですが、基本的にザンギエフは何かを行動させて、フレーム有利を取ってから投げ技を仕掛けてきます。そのため、何かをしてきた時にジャンプで逃げるか弱で動きを止めるということを意識して立ち回りましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:34:51.101693",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1833346fb4c7",
+    "category": "matchup",
+    "topic": "ザンギエフミラー戦の立ち回り",
+    "content": "ザンギエフミラーマッチでは、ザンギエフの必殺技「シベリアンエクスプレス」の警戒心が高いので、2度目のシベリアンエクスプレスは当たりにくい。相手がシベリアンエクスプレスを警戒して様子見している時に、ザンギエフの特殊動作「爬虫類ステップ」を出すのが効果的。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "シベリアンエクスプレスを警戒されている時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "02:27",
+    "source_quote": "ザンギミラーはシベリアの警戒心が高いので二度目が当たりにくいです そんな時は爬虫類ステップの出番です 動きが獲物を追う時の爬虫類に似てるから爬虫類ステップだそうです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

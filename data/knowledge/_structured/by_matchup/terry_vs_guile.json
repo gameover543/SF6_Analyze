@@ -1,0 +1,539 @@
+[
+  {
+    "id": "a087405244d6",
+    "category": "defense",
+    "topic": "前投げ後のラッシュ対策",
+    "content": "ガイルの「前投げ」を受けた後、すぐに「クイック受身」を取ることで、テリーの「ラッシュ攻撃」に無敵がつき確定します。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「前投げ」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:01",
+    "source_quote": "前投げ後のラッシュは受身で無敵確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "563c4cdaf5d6",
+    "category": "defense",
+    "topic": "後ろ投げ後のラッシュ対策",
+    "content": "ガイルの「後ろ投げ」を受けた後、すぐに「クイック受身」を取ることで、テリーの「ODラッシュ攻撃」に無敵がつき「SA1」が確定します。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「後ろ投げ」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:05",
+    "source_quote": "後ろ投げ後のラッシュは受身でOD無敵、SA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "867a8b820990",
+    "category": "defense",
+    "topic": "SA3・CA後のラッシュ対策",
+    "content": "ガイルの「SA3」または「CA」後のラッシュには、テリーの「SA1」が確定します。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「SA3」または「CA」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:11",
+    "source_quote": "SA3・CA後のラッシュはSA1確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b057ec36500b",
+    "category": "defense",
+    "topic": "しゃがみ強Kの確定反撃",
+    "content": "ガイルの「しゃがみ強K」はガード時-12Fなので、テリーの「強K」が99%確定で入ります。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「しゃがみ強K」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:16",
+    "source_quote": "大足 : -12F、99%大K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e182d456b86",
+    "category": "defense",
+    "topic": "しゃがみ中Kの確定反撃",
+    "content": "ガイルの「しゃがみ中K」または「しゃがみ中K」の派生技はガード時-5Fなので、テリーの「弱P」が確定で入ります。また、「中段派生」を見てから「ドライブインパクト」も確定します。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「しゃがみ中K」または「中段派生」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:22",
+    "source_quote": "中足・中足中断 : -5F、中足ガード後に小パン確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a380f65a73c",
+    "category": "defense",
+    "topic": "中段派生へのドライブインパクト",
+    "content": "ガイルの「中段派生」を見てから「ドライブインパクト」も確定します。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「中段派生」を見てから",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:28",
+    "source_quote": "中段派生を見てからインパクトも確定する",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b61ea4ab37f7",
+    "category": "defense",
+    "topic": "バックナックルの確定反撃",
+    "content": "ガイルの「バックナックル」はガード時-6Fですが、めり込まないと確定反撃はありません。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「バックナックル」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:31",
+    "source_quote": "ソバット : -6F、めり込まないと確定なし",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "604"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b846ddf3022",
+    "category": "defense",
+    "topic": "リバーススピンキックの確定反撃",
+    "content": "ガイルの「リバーススピンキック」はガード時-8Fですが、テリーの「SA1」も確定しません。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「リバーススピンキック」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:35",
+    "source_quote": "リバスピ : -8FだがSA1も確定しない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "400",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d6129dd9bf74",
+    "category": "neutral",
+    "topic": "ソニックブーム対策",
+    "content": "ガイルの「ソニックブーム」は密着でガードしても確定反撃がありません。遠距離でガードするとガイルに大幅有利を取られます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「ソニックブーム」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:39",
+    "source_quote": "ソニックは密着ガードでも確定なし 遠距離なら大幅有利を取られる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3234ac692568",
+    "category": "defense",
+    "topic": "ソニックブームのジャストパリィ後",
+    "content": "近距離でガイルの「ソニックブーム」を「ジャストパリィ」できた場合、テリーの「強K」が確定することがあります。距離によっては「立ち中P」の方が良い場合もあります。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「ソニックブーム」を「ジャストパリィ」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:46",
+    "source_quote": "近距離でジャスパ出来たら大Kが確定することもある, 距離によっては立ち中Pの方がいいこともある",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d720c29d0c4",
+    "category": "defense",
+    "topic": "ソニックブームへのバーンナックル",
+    "content": "ガイルの「ソニックブーム」を「ジャストパリィ」後、テリーの「バーンナックル」は確定しませんが、次の「ソニックブーム」を潰したり、ガードさせて有利を取ることができます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「ソニックブーム」を「ジャストパリィ」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:59",
+    "source_quote": "ジャスパバーンナックルは確定しないが、次のソニックを潰すorガードで有利が取れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "79435c2167d0",
+    "category": "defense",
+    "topic": "ソニックブームへの強クラックシュート",
+    "content": "ガイルの「ソニックブーム」を「ジャストパリィ」後、「強クラックシュート」も次の「ソニックブーム」を避けつつ潰せるので有効です。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「ソニックブーム」を「ジャストパリィ」後",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:07",
+    "source_quote": "ジャスパ強クラックも次のソニックを避けつつ潰せるので有効",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "315",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "789c5db8a71e",
+    "category": "defense",
+    "topic": "弱ソニック後のラッシュ対策",
+    "content": "ガイルの「弱ソニックブーム」後のラッシュは、テリーの「ジャストパリィパワーダンク」で止めることができます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「弱ソニックブーム」後のラッシュ",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:17",
+    "source_quote": "弱ソニック後のラッシュはジャスパパワーダンクで止められる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "204",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1579e3c2ec7e",
+    "category": "defense",
+    "topic": "フラッシュキックの確定反撃",
+    "content": "ガイルの「フラッシュキック」は、中距離ならテリーの「しゃがみ強K」で確定反撃が取れます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「フラッシュキック」ガード時、中距離",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:23",
+    "source_quote": "ブレイドは中距離なら大足で確定が取れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ac6f94008c3",
+    "category": "defense",
+    "topic": "ガイルの小技ラッシュの割り込み",
+    "content": "ガイルの「小技ラッシュ」は、「弱K」以外は割ることができます。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「小技ラッシュ」中",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:30",
+    "source_quote": "ガイルの小技ラッシュは小K以外割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "679efcdf09bf",
+    "category": "defense",
+    "topic": "ガイルのめくり飛び対策",
+    "content": "ガイルの「明らかなめくり飛び」は対空できますが、表裏が微妙な距離ではテリーの「サマーソルトキック」がスカることがあります。特に「すかしめくり飛び」の場合、引き付けて「サマーソルトキック」を出すとガードが間に合いやすいです。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの飛び込み",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:34",
+    "source_quote": "明らかなめくり飛びは落とせるが、表裏が微妙な距離ではサマーがスカることがある 特にすかしめくり飛びの場合、引き付けサマーだとガードが間に合いやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68ee29e9f4bd",
+    "category": "defense",
+    "topic": "画面端での暴れ潰し対策",
+    "content": "ガイルが画面端で「しゃがみ弱P」→「しゃがみ弱K」→「立ち弱P」→「ODソニックブーム」と繋ぐ暴れ潰し連携に対して、テリーの「しゃがみ中K」が有効です。ただし、相手が「弱K」や「しゃがみ中K」で暴れてきた場合は「しゃがみ中K」が機能しないので注意が必要です。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルが画面端で暴れ潰し連携を仕掛けてきた際",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:50",
+    "source_quote": "画面端でのしやがコパ小足立ちコパODウェイブの暴れ潰しが有効、小Kと中足暴れ以外中足が入る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6c81811f5bde",
+    "category": "defense",
+    "topic": "SA1スピンキックチャージの確定反撃",
+    "content": "ガイルの「SA1スピンキックチャージ」をガードした後、密着ならすぐに「ラッシュ強P」で確定反撃。遠目の場合はタイミングを計って「強K」で確定反撃を狙います。ただし、速すぎると潰されたり、遠すぎると届かないことがあるのでタイミングが重要です。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「SA1スピンキックチャージ」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:05",
+    "source_quote": "SA1のハリケーンをガードしたらすぐにラッシュ大P、遠目にいる時はタイミングを計って大K。早すぎて潰されたり遠すぎて届かないことがあるので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "400"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1df970dccb99",
+    "category": "defense",
+    "topic": "強スピンキックチャージの確定反撃",
+    "content": "ガイルの「強スピンキックチャージ」をガードした後、タイミングを見計らってテリーの「しゃがみ中P」を出すとパニッシュカウンターが取れます。このタイミングは意外とシビアなので練習が必要です。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "guile",
+    "situation": "ガイルの「強スピンキックチャージ」ガード時",
+    "source_video_id": "x4t8V53suyU",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのガイル対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:20",
+    "source_quote": "強ハリケーンはタイミングを見計らってしゃがみ中Pでパニカンを取る, タイミングが意外とシビアなので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:20:03.989960",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

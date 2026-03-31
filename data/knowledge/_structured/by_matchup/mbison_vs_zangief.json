@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a79e18bbebee",
+    "category": "oki",
+    "topic": "中P持続による有利と詐欺",
+    "content": "微歩き投げ、持続中P重ね、シミーが起き攻めの基本となります。中Pを持続で重ねるとガードさせて+1F有利になり、Dリバも詐欺ることができます。ザンギエフのSA2も詐欺可能です。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": "zangief",
+    "situation": "起き攻め時",
+    "source_video_id": "Cx7A1Aon4h4",
+    "source_channel": "大車輪",
+    "source_video_title": "【スト６】Year3ベガ攻略まとめ【コンボ・セットプレイ】",
+    "source_timestamp": "01:55",
+    "source_quote": "ここからは微歩き投げ、持続中 P 重ね、シミーが基本になります\n中 P が持続になるのでガードさせて 1 F 有利になり、 D リバも詐欺れます\n中 P 持続は他にもザンギの S A 2 を詐欺れるぞい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:10:57.615967",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "01f17ceb78c2",
+    "category": "matchup",
+    "topic": "ザンギエフのジャンプ中P対空",
+    "content": "ザンギエフのジャンプ中Pは振り向きません。投げを前飛びされた際、ジャンプ中P対空が間に合うようになります。めくり攻撃に対しては2強Pで落とすか、くぐって確定を狙うこともできます。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": "zangief",
+    "situation": "投げからの読み合い、対空",
+    "source_video_id": "Cx7A1Aon4h4",
+    "source_channel": "大車輪",
+    "source_video_title": "【スト６】Year3ベガ攻略まとめ【コンボ・セットプレイ】",
+    "source_timestamp": "02:25",
+    "source_quote": "ザンギだけジャンプ中 P が振り向きません！！！！！\n5 F 投げだとバクステで確定が無いのもそうですが、投げを前飛びされたときにジャンプ中 P 対空が間に合うようになります\n前飛びからめくり攻撃を出されていたら落とされるので、2強 P で落としたりくぐって確定を狙ったりしてもいいでしょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:10:57.615967",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

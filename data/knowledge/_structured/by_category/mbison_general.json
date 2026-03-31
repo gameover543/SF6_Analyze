@@ -1,0 +1,54 @@
+[
+  {
+    "id": "adbc74bc511d",
+    "category": "general",
+    "topic": "有利フレームを持つ技",
+    "content": "ベガは立ち大Pをガードさせた際に+1F有利、後ろ大Pをガードさせた際に+1F有利を取れる。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "技をガードさせた時",
+    "source_video_id": "sNi7w4HuMGo",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【座学】意外に少ない！？覚えるべき有利フレーム技一覧！　#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "03:20",
+    "source_quote": "立ち大P: +1 後ろ大P: +1",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:18:19.717533",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e32f0c74d2a",
+    "category": "general",
+    "topic": "2弱Kの連キャンフレーム変更",
+    "content": "2弱Kの連キャンフレームが早くなったため、2弱K弱Pの連携に4F技で割り込まれることがなくなりました（以前は相打ちしていました）。ODサイコの繋ぎ調整と合わせて、この変更はベガの大きな強化点です。",
+    "characters": [
+      "mbison"
+    ],
+    "matchup": null,
+    "situation": "連携時のフレーム有利",
+    "source_video_id": "Cx7A1Aon4h4",
+    "source_channel": "大車輪",
+    "source_video_title": "【スト６】Year3ベガ攻略まとめ【コンボ・セットプレイ】",
+    "source_timestamp": "05:47",
+    "source_quote": "2 弱 K の連キャンフレームが早くなったため、2 弱 K 弱 P に 4 F で割り込まれなくなりました (前は相打ちしてた)\n今回の O D サイコがつながる調整もあり、かなり強化です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:10:57.615967",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

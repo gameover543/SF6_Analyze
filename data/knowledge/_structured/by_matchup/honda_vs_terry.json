@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1222db484d20",
+    "category": "defense",
+    "topic": "テリーの攻めに対するリバーサル",
+    "content": "E.本田として、テリーの攻めに対してはOD百裂張り手でリバーサルを狙いましょう。",
+    "characters": [
+      "honda"
+    ],
+    "matchup": "terry",
+    "situation": "テリーの攻撃をガード中や起き上がり時など",
+    "source_video_id": "pTlCrtzw41Y",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legend本田から学ぶ✨テリー戦立ち回り LEGEND E.Honda's Matchup Strategy Against Terry〚ランガサミ〛〚センキュー鈴木CURRYMAN〛",
+    "source_timestamp": "01:56",
+    "source_quote": "REVERSAL",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:56:30.476274",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3ba6a326e73b",
+    "category": "neutral",
+    "topic": "テリーの下段攻撃への対応（E.本田側）",
+    "content": "E.本田として、テリーがしゃがみ弱Pやしゃがみ中Kなどの下段攻撃を繰り出してきた際、自身のしゃがみ中KでPUNISH COUNTERやCOUNTERを狙いましょう。成功すればスーパー頭突きなどの必殺技に繋げられます。",
+    "characters": [
+      "honda"
+    ],
+    "matchup": "terry",
+    "situation": "テリーが下段攻撃を仕掛けてきた際",
+    "source_video_id": "pTlCrtzw41Y",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legend本田から学ぶ✨テリー戦立ち回り LEGEND E.Honda's Matchup Strategy Against Terry〚ランガサミ〛〚センキュー鈴木CURRYMAN〛",
+    "source_timestamp": "02:22",
+    "source_quote": "しゃがみ弱P",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:56:30.476274",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

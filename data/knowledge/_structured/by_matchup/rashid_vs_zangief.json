@@ -1,0 +1,125 @@
+[
+  {
+    "id": "fc45b7b0e9a6",
+    "category": "oki",
+    "topic": "2MP>236HKシミー",
+    "content": "ラシードのしゃがみ中P（2MP）から強イーグルスパイク（236HK）連携後、ヒット時は+13F、ガード時は+5Fとなる。ザンギエフ以外のキャラクターに対してシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "2MP>236HK連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "04:03",
+    "source_quote": "2MP>236HK ヒット+13F ガード+5F ザンギ以外にシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "205",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "65d043f255d3",
+    "category": "matchup",
+    "topic": "ザンギエフ投げ対策",
+    "content": "ラシードのしゃがみ中P（2MP）から強イーグルスパイク（236HK）連携は、相手のドライブリバーサルやジャストパリィに弱い。しかし、2MPの代わりに立ち中P（5MP）を使うことで、ザンギエフの投げをスカすことができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "ザンギエフが相手で、ラシードが2MP/5MP>236HK連携を使った時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "04:31",
+    "source_quote": "Dリバやジャスパに弱いだが2MPの代わりに5MPを使うとザンギ投げがすかせる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "205",
+      "607",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ba73296a63a",
+    "category": "oki",
+    "topic": "二回前ステDR5MKシミー",
+    "content": "ラシードが2回の前ステップからのドライブラッシュ立ち中K（DR 5MK）を出すと、ヒット時は+10F、ガード時は+1Fとなる。3F目重ねで、ザンギエフとマリーザ以外のキャラクターに対してシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "2回の前ステップからのドライブラッシュ立ち中K（DR 5MK）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "09:07",
+    "source_quote": "前ステ>前ステ>DR 5MK ヒット+10F ガード+1F 3F目重ねザンギエフとマリーザ以外にシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18a6cc74473a",
+    "category": "matchup",
+    "topic": "対大型キャラ起き攻め",
+    "content": "ラッシュ立ちKやラッシュ2中Pからの投げ間合いに関するテクニックは、ザンギエフなどの大型キャラクターには投げ間合いが広すぎるため無効。ただし、Dゲージを使った攻めとしてラッシュ6大Kで+2F、大Kで+3Fなどもある。現バージョンではジャストパリィの仕様上、下段や中段の攻めがより有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "起き攻め、対大型キャラ",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "05:24",
+    "source_quote": "なおこのネタはデカキャラには無効で、あいつら投げ間合いがでかすぎです。中サイクロンといい今回攻略はデカキャラを除くが多くて悲しい。その他Dゲージを使うとラッシュ6大Kでプラス2Fとったり大Kでプラス3F取れたりしますが個人的にはジャスパの仕様的に現バージョンでは下段、中断行った方が強いと思ってます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "607",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

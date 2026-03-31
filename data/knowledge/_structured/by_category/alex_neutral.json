@@ -1,0 +1,1761 @@
+[
+  {
+    "id": "011e2b30f9ae",
+    "category": "neutral",
+    "topic": "アレックスの主力技",
+    "content": "アレックスの主力は、リーチが長く強力な大Pと大K。中Kのような遅い技はあまり振らず、主力技を積極的に使うべき。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "08:08",
+    "source_quote": "だからこの大パンと大キックをよく振る。よく振る。立ち中Kとかチンタラやってる場合じゃない。大パンか大K強い技を選ぶ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a1099fb212dd",
+    "category": "neutral",
+    "topic": "タメ大Pの無敵判定",
+    "content": "タメ大Pは途中でくらい判定が消失するため、相手の牽制技を潰すのに使える。相手が技を振ってきているのを見てから、タメ大Pを当ててパニッシュカウンターを狙う。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "5GudjbDTzV0",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro's guide to playing Alex [Pugera/Street Fighter 6]",
+    "source_timestamp": "17:02",
+    "source_quote": "あの、大パンチが、なんかためてるとあんまりくらい判定出てこなくて。こうやっう使い方されるとこうなっちゃうん。何ならモーションに入ってるの見て反応してボタン押してんの。くらい判定出てきてないから。これ立ち回りでなんかちょっとちょいちょい起こるんだけどこういうの。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:43:23.641148",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8f10945e3d8",
+    "category": "neutral",
+    "topic": "立ち回り",
+    "content": "アレックスの立ち回りにおいては、しゃがみ中P、立ち強K、立ち強Pの3つの通常技が基本となります。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "04:58",
+    "source_quote": "なので立ち回りはしゃがみ中Pと立ち強Kと立ち強P。基本的には通常技はこの3つ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "106",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c3aa0c89b8f",
+    "category": "neutral",
+    "topic": "ラッシュを使った攻め",
+    "content": "ラッシュの性能は特別良くないが、ラッシュ→立ち強Kはリーチが非常に長く、溜めることで技の途中で止めることができるため、フェイントなどにも使えます。相手がラッシュ止めをしてくる場合は、ラッシュ→溜め強Kで潰し、ラッシュを通しやすくすることができます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "00:36",
+    "source_quote": "ラッシュの性能はあんまり良くないんだけどラッシュ→立ち強Kとかが凄く伸びるから溜めると止まったりするからこの辺を使ったったりも出来る。ラッシュ止めしてくる人にラッシュ→ため強Kでこれでラッシュ止めを潰して、でラッシュを通しやすくするっていうね",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "67f4c22fa102",
+    "category": "neutral",
+    "topic": "しゃがみ中Pの活用",
+    "content": "しゃがみ中Pはリーチが非常に長く、中攻撃で発生も8Fと早いため、非常に使いやすい技です。先端ヒット時は中アックスに繋いでも反撃を受けません。近距離では弱アックスに繋ぐのが良いでしょう。ドライブゲージがある場合はキャンセルラッシュに繋げます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "00:47",
+    "source_quote": "メインで使う技はまずこれ。このしゃがみ中P。これはリーチがめちゃくちゃ長くてこれはリーチも長いし中攻撃で発生も8Fで結構早いのでかなり使いやすい。先端だったらこの中アックスを入れ込んでも反撃は基本的には貰わないから近めだったら弱とかを仕込む。ゲージがあったらキャンセルラッシュ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "baa1b52ad268",
+    "category": "neutral",
+    "topic": "立ち強Pと溜め強Pの活用",
+    "content": "立ち強Pもリーチの長い技で、強フラッシュチョップに派生します。溜め強Pからは強フラッシュチョップが連打ガード可能で、相手のドライブゲージを1.5本奪うことができます。ガードされても有利なので攻めを継続できます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "03:23",
+    "source_quote": "あと立ち強Pと用途は結構似てるんだけど立ち強P。ため強P。これは強フラチョに派生をしましょう。これはなんとため強Pから強フラチョ連ガでドライブゲージが1.5本失くなってる。だからこのため強Pをガードしてしまった時点でドライブゲージは1.5本失くなります。しかもこの後ガードさせても有利だからまだ攻め継続。こんな感じで。これで、もう2本失くなってるからね。めちゃ強。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "216",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f677ed6b9a48",
+    "category": "neutral",
+    "topic": "立ち強Kの活用",
+    "content": "立ち強Kはアレックスの技の中で最もリーチが長く、溜めることもできます。溜めるとリーチがさらに伸び、ガードさせた場合は+2Fになるため、密着状態からコマンド投げを狙うことができます。ただし、先端ガード時はコマンド投げが届かないため、しゃがみ中Pなどの打撃に切り替えましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "01:44",
+    "source_quote": "もう1個は立ち強Kかな。立ち強Kがアレクの技の中で一番長い。溜めることも出来る。溜めるとリーチも少し伸びるしガードさせて+2Fになります。近めでガードさせれば密着+2Fだからこの後にコマ投げを狙う事も出来る。中コマ投げかODコマ投げがおすすめ。先端の場合はコマ投げでも届かないからその場合はしゃがみ中Pとか打撃択にするのが良い",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "110",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa001810629d",
+    "category": "neutral",
+    "topic": "ブレイカースタンス(中K派生)の活用",
+    "content": "ブレイカースタンスからの中K派生（スタンピート）は奇襲として有効で、ガードさせて+2Fのフレーム有利を取れます。これは通常投げ間合い外からでもプラスフレームを取れるため、ガード後にODコマンド投げを仕掛けることで、相手はジャンプしないと回避できない2択を迫れます。相手が動こうとするとしゃがみ弱Pやアックスを食らわせることができます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "15H9R6gg-Tw",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】アレックスとりこれ使い方！",
+    "source_timestamp": "05:17",
+    "source_quote": "あとこのブレイカー・スタンスからの中K派生のスタンピートは結構奇襲として有効。でこれはガードさせると+2F。ギリ通常投げ間合い外の+2Fが取れるのでここからのODコマ投げが相手はジャンプしないと躱せないです。で動こうとするとしゃがみ弱P x2 →アックスとかを食らう。なのでスタンピートガードさせたらお手軽に2択",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:06:21.658670",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8484113cc76",
+    "category": "neutral",
+    "topic": "地上での牽制",
+    "content": "アレックスの地上技はリーチが長いので、大K、大P、5中K、しゃがみ中Pなどを活かして立ち回る。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "01:00",
+    "source_quote": "アレックスの強みが何かと聞かれたら、まあまずやっぱりこの長いリーチ。\n全体的に地上技のリーチが長いですね。大K、大P、5中K、しゃがみ中P。\nこの地上技のリーチの長さを活かして、立ち回っていくのが基本的な動きですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b0bd8d0365a0",
+    "category": "neutral",
+    "topic": "しゃがみ中Pからの連係",
+    "content": "中距離ではしゃがみ中Pが強く要の技。これを連発し、ヒット/ガード問わず弱フラッシュアックスや中フラッシュアックスを入れ込んでいく。弱フラッシュアックスはガードされても-4Fなので基本反撃を受けない。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "01:27",
+    "source_quote": "具体的にどの技を振ればいいかと言うと、中距離では2中Pが強く要です。\nこれ、もうこれがとにかく肝です。\nこれをどんな風に使うかと言うと、このしゃがみ中パンチに、波動Pで出る弱フラッシュアックス、中フラッシュアックス。これをガンガン入れ込んでいきます。\n弱アックスはガードでアレックス-4Fですけど、これは基本的に反撃を受けないので、ガンガン(入れ込んで)振っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "110",
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "360cccc8a20c",
+    "category": "neutral",
+    "topic": "中フラッシュアックスの当て方",
+    "content": "中フラッシュアックスはガード時-6Fなので、先端気味で当てるように意識する。そうすることで反撃を受けない場合がある。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "中フラッシュアックスガード時",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "01:58",
+    "source_quote": "中アックスはガードでアレックス-6Fなので、場合によっては、こんな感じで確定反撃を受けてしまうんですけど、2中Pが先端気味なら反撃を受けない事もあるので、中アックスを入れ込んなら先端気味で。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d011d639bcd1",
+    "category": "neutral",
+    "topic": "立ち強Kの性能",
+    "content": "立ち強Kは非常にリーチが長く、ガードされても-4Fなので、ド密着でない限り反撃を受けない。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "05:24",
+    "source_quote": "地上で振る技2つ目がこの大K。非常にリーチが長くて、ガードされても-4Fなので、ド密着でない限りは反撃を受けません。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6a8baa9823f3",
+    "category": "neutral",
+    "topic": "立ち強Kを振る距離",
+    "content": "立ち強Kは、しゃがみ中Pなどが届かない距離で振っていく。パニッシュカウンターすればリターンが取れるので美味しい。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "2中Pが届かない距離",
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "06:32",
+    "source_quote": "大Kは2中P等が届かない距離で(振っていこう)。パニカンしてたらリターンが取れておいしい。そのくらいの感じで大丈夫です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8823d2f3a090",
+    "category": "neutral",
+    "topic": "溜め立ち強Pからの連携",
+    "content": "溜め立ち強P>強フラッシュチョップは連続ガード（相手は割り込めない）。これだけで相手のDRIVE GAUGEを1.5本削ることができる。相手が対応できないならガンガン使っていくべき。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "07:53",
+    "source_quote": "地上で振る技3つ目なんですけど、大P。この大Pはですね、これガードさせて-3Fで、ためなしバージョンっていうよりは、どっちかっていうとこの溜めるバージョン。これを使いたいです。これ何が強いかって言うと、この溜め強パンチからこの強フラッシュチョップ、これがキャンセルで出せるんですけど、これ連続ガードです。いわゆる相手が割り込めない。で、これが何が強いかって言うと、これやるだけで相手のDゲージ1.5本削るんですよ。これめちゃくちゃ強いです。しかもガードさせて有利なので、もうこれは相手が対応できないと分かったらガンガンやっていってください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "216",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8cd9f1d6d9a",
+    "category": "neutral",
+    "topic": "強攻撃を振る際の注意点",
+    "content": "アレックスの強攻撃（特に溜め強P）は、相手のドライブインパクトや垂直ジャンプに非常に弱い。また、ザンギエフの強Pのようなアーマーもないため、相手が対応してくる場合は多用を控えるべき。ただし、ガードさせるだけでDRIVE GAUGE削りのリターンが取れるので、活用は推奨される。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "08:59",
+    "source_quote": "一応注意点としてはもう相手のインパクトとかに、めちゃくちゃ弱いんで。インパクトと垂直ジャンプにめちゃくちゃ弱いんで、ちょっと対応、相手が対応してきたなって思ったら乱発は厳禁です。あとはザンギエフの強Pみたいにアーマーは無いので、普通にこう…殴られます。だからこうちょっと何かめちゃくちゃ最強ってわけじゃないなくて、意外とちょっと使い勝手が悪いとこもあるんですけど、ま、ただやっぱりガードさせるだけでそれなりのリターンが取れるんで、ぜひ使っていってください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7cd5b8803c96",
+    "category": "neutral",
+    "topic": "地上戦の主要な牽制技まとめ",
+    "content": "地上戦で振る技は、主にしゃがみ中P、立ち強K、立ち強Pの3つがあれば何とかなる。立ち中Kやしゃがみ中Kも長く強いので、余裕があれば使うと良い。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "09:36",
+    "source_quote": "といった感じで地上戦で振る技はだいたいもう中P、大K、大P、ま、この3つがあれば何とかなります。一応この立ち中Kとかしゃがみ中Kとか、立ち中Kとかも長くって強いんで、ま、余裕がある人はそれも使っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "106",
+      "110",
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f2f08c3cf861",
+    "category": "neutral",
+    "topic": "コマンド投げの狙い方",
+    "content": "コマンド投げの狙い方として、ジャンプ強Kを先端でガードさせてから弱コマ投げ、またはめくり弱Kをガードさせてから強コマ投げがある。ただし、アレックスのコマ投げ後は状況がかなり悪いので、打撃の圧を優先する。崩しとしてたまに狙う程度にする。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "na-T5ycGLVw",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] This guide explains how to use Alex while minimizing the use of the Breaker St...",
+    "source_timestamp": "15:52",
+    "source_quote": "で、あとちょっとこれ番外編なんですけど、このキャラも、あまり触れてこなかったんですけど、コマンド投げがね、あるので。これをじゃあ、どんな時に当てるのかっていうので、結構自分が使うのが、跳び強攻撃とか、こういう横に長いジャンプ攻撃をガードさせてから、ま、弱コマ投げで崩したりとか。めくり弱Kですね。めくり攻撃をガードさせた後に、コマ投げで急に崩すとか。そういった使い方が結構、有効です。ただですね、アレックスのコマ投げ、当てた後の状況がかなり悪いので、ま、なんだろ、コマ投げ、どっちかっていうと、やっぱコマ投げっていうよりは打撃技の圧を使うキャラなので、ま、こういった崩しのコマ投げもたまに狙ってみて下さい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:12:16.821515",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "119",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "442431b4654e",
+    "category": "neutral",
+    "topic": "しゃがみ中P後の引き中Kの優先順位",
+    "content": "しゃがみ中Pの後には、常に引き中Kを出すことを意識する。引き中Kは有利フレームが大きく、ガードされても有利、ヒットすれば更に良い状況を作り出せる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Pがヒットまたはガードされた後",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "13:06",
+    "source_quote": "しゃがみ中Pの後はなにながなんでも引き中K。何が何でも引き中K。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b3a131fd6e8e",
+    "category": "neutral",
+    "topic": "引き中K後の距離判断",
+    "content": "引き中Kを打った後、相手との距離が遠いと感じたら立ち中Pからしゃがみ大Pに繋ぐ。距離が近い場合はそのまま攻め継続の択へ。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "引き中Kがヒットまたはガードされた後、相手との距離が遠い場合",
+    "source_video_id": "Iyee-TeBzEg",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just check this out!! A pro teaches you Alex's basic combos [Pugera/Street Fighter 6]",
+    "source_timestamp": "13:13",
+    "source_quote": "で引き中K打って遠いなと思ったら立ち中P>しゃがみ大P",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:12:39.824734",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9daeceee47ef",
+    "category": "neutral",
+    "topic": "立ち弱P",
+    "content": "アレックスの立ち弱Pは発生4F、ガード時-1Fです。ラッシュキャンセル可能なので、ラッシュと組み合わせることで有利状況を作りやすいです。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ガード時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "00:43",
+    "source_quote": "立ち弱P発生4フレームです。ヒットもガードマイナス1。多分ラッシュとかする時はこれで有利を取るのかなというような印象です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a982a5facb26",
+    "category": "neutral",
+    "topic": "立ち強Pホールドの差し合い",
+    "content": "アレックスの立ち強Pは溜め（ホールド）が可能で、発生が遅くなりますが、差し返しを狙う相手に対して溜めてスカしてから打つ、といった使い方ができます。最大溜め時はラッシュキャンセルが可能です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "差し合い時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "01:08",
+    "source_quote": "立ち強P、発生12フレーム。で、これホールドができるんで、この差し返しとか狙ってる相手に対して溜めてスカしてから打つみたいな使い方ができますね。ミニグラディウスみたいなイメージですね。この立ち強Pなんですけど、ノーマル版だとこれキャンセルできないんですけど、最大溜めするとこれキャンセルできます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "209"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e91902e64e80",
+    "category": "neutral",
+    "topic": "立ち強Kホールドの差し合い",
+    "content": "アレックスの立ち強Kは発生16Fで、最大溜め時は発生25Fになり、ガードさせても有利（+2F）です。これも立ち強Pホールドと同様に差し合いで使えます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ガード時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "01:30",
+    "source_quote": "立ち強K、これが16フレームです。で、最大溜めで発生が25になって、この立ち強Kは溜めることができます。で、ガード4なので、まあまあ良さそうな性能かなって感じです。で、ガードだとプラ2なんで、これもまあまあ良さそうな性能かなって感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "106",
+      "209"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3dd165a2d5db",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃の使い分け",
+    "content": "アレックスのジャンプ弱Kはめくりに、ジャンプ中Pは空対空に、ジャンプ強Pは下に強く、ジャンプ強Kは横に長いです。状況に応じて使い分けましょう。ジャンプ中Pは空中での拾い直しに使えます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "空中戦時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "03:00",
+    "source_quote": "ジャンプ弱K、これらめくりで使える技です。で、ジャンプ中K、上に長そうですね。で、ジャンプ弱P、ジャンプ中P。で、ジャンプ強Pは下に強くて、ジャンプ強Kが横に長いと。で、ジャンプ中Pは、こういう風に空中で拾うことができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b7b4e14b4f4d",
+    "category": "neutral",
+    "topic": "スラッシュエルボーのカウンターヒット",
+    "content": "ブレーカー・スタンスからのスラッシュエルボー（→+P）は、弱・中・強で移動距離が変わり、ノーマルヒットで+3F有利です。カウンターヒット時には相手を吹き飛ばし、追撃に繋がります。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "カウンターヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "03:54",
+    "source_quote": "ここから前とPでこういう感じでスラッシュエルボーが出ます。これは強度があるので弱、中、強で移動の距離とかが変わったりしますね。ノーマルヒットだとプラ3なんですが、カウンターすると、ま、こっからこういう感じで追撃が入ったりします。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a713ad39cb1",
+    "category": "neutral",
+    "topic": "ショルダーランチャーの対空とカウンターヒット",
+    "content": "ブレーカー・スタンスからのショルダーランチャー（中P）は対空技として使えます。カウンターヒット時にはムーンフォールへ移行し、追撃が可能です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "対空時/カウンターヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "04:37",
+    "source_quote": "ショルダーランチャー、ここから中Pで出る対空で使えそうな技ですね。で、これがカウンターすると特殊演出でこういうのが入りますね。対空でもしカウンターできたら、こういう感じで、ま、こんな感じになるのかなっていう感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "207"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "17a6352205fa",
+    "category": "neutral",
+    "topic": "ヘビーラリアットのガード有利とアーマー",
+    "content": "ブレーカー・スタンスからのヘビーラリアット（強P）は、ガードされても+3F有利です。ボタンをホールドすることでアーマーが付与され、ガード有利が+5Fに増加します。カウンターヒット時は相手を吹き飛ばし、追撃可能です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ガード時/カウンターヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "04:56",
+    "source_quote": "ヘビーリアット、下PPからの強Pで出るヘビーラリアットですね。ガードさせても有利な攻撃です。プラ3取れます。このヘビーリアットは、なんと溜めることができます。で、そうすると有利フレームがプラ3からプラ5になりますね。すごい削ってる。すごい一本削ってる。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "209"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63e6bbe1030c",
+    "category": "neutral",
+    "topic": "タクティカルリープの使い分け",
+    "content": "ブレーカー・スタンスからのタクティカルリープ（弱K）は素早くジャンプする行動で、ジャンプ後に空中攻撃を出すことができます。弱Kはめくり距離、強Kは遠距離といった使い分けが可能です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "近距離/遠距離",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "05:17",
+    "source_quote": "タクティカルリープです。こっから弱Kでこういう感じでふわっと浮きますね。距離とかを選べないので、本当にもうこの距離だけ移動します。ド密着からギリめくれるぐらい。で、頂点だとめくらないっていうね。これかなり黒悪です。ジャンプ後に、これふわっと急行化するんですけど、この後に空中攻撃を出すことができますね。遠目だったら強Kとか。こういう風に使い分けていけたらいいかなって感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "030527c79b8f",
+    "category": "neutral",
+    "topic": "エアスタンプの距離調整と有利フレーム",
+    "content": "ブレーカー・スタンスからのエアスタンプ（中K）はジャンプ後に急降下で攻撃する技です。レバー入力で移動距離を制御でき、ガードさせても+2F有利です。強力な起き攻め手段として使えます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時/ガード時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "05:43",
+    "source_quote": "エアスタンプ、下PPから中Kで出る技です。これはこういう技ですね。この急降下する技です。で、これはレバー入れで移動距離を制御できるって感じですね。上昇中にレバー入れすると届いたり、手前でスカしたりっていうのができる技ですね。黒悪です。で、これガードさせてもプラ2フレームと、いや、黒悪っすね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b8fe8291fdb6",
+    "category": "neutral",
+    "topic": "スイープコンビネーションのヒット確認と崩し",
+    "content": "ブレーカー・スタンスからのスイープコンビネーション（強K>強K）は下段攻撃です。1段目のヒット確認から2段目に繋げられます。2段目は派生技なので相手が暴れていたら潰せます。カウンターヒット時にはフライングスープレックスに変化します。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ヒット確認/相手が暴れる時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "06:07",
+    "source_quote": "スイープコンビネーション。下PPからの強Kですね。強K強Kっていう連係です。で、このスイープコンビネーションは、これ、これもう近でやるとこれもう確定なんですが、2発目はこういう感じで暴れ潰しになってるっていう読み合いになってますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "212",
+      "213"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6c9aa759c180",
+    "category": "neutral",
+    "topic": "ハイパーリフトの確定反撃とパニッシュカウンター",
+    "content": "ブレーカー・スタンスからのハイパーリフト（弱P+弱K）は投げ技です。確定反撃時やパニッシュカウンター時にデスバレエボムに変化し、追撃可能な状況になります。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "確定反撃時/パニッシュカウンター時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "06:25",
+    "source_quote": "ハイパーリフトです。こっからの、こっから投げ技ですね。下PPから投げ、投げ派生です。で、これかにーするとこういうデスバレエボムに性能が変化するっていう感じです。なんでパニカンだけとかする時にこういうのが見れるのかなっていうような感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "214"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c2a14f4168f1",
+    "category": "neutral",
+    "topic": "デンジャラスアプローチの投げとパニッシュカウンター",
+    "content": "ブレーカー・スタンスからのデンジャラスアプローチ（弱P+弱K）は、遠距離から可能な移動投げです。ただし、立ち状態の相手にしか当たりません。パニッシュカウンター時にはスパイラルDDTに変化します。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち状態の相手に対して/パニッシュカウンター時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "06:43",
+    "source_quote": "デンジャラスアプローチ。下PPから下プラスこういう感じで投げですね。下プラス投げ。これは遠目からコマ投げができるんですけど、ま、移動コマ投げですね、これは。ただ立ってる相手にしか当んないっていうような性能です。で、これもパニカンするとDDTに性能が変化します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "215"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aa0f965dc655",
+    "category": "neutral",
+    "topic": "チョップからの連携",
+    "content": "アレックスのチョップ（→+中P）は発生22Fの中段攻撃で、しゃがみガード不能です。ラッシュからのヒットで+7Fの有利フレームが取れるため、バック中Kなどに繋げてコンボを狙えます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ラッシュヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "07:02",
+    "source_quote": "チョップ。発生は22フレーム。ラッシュからだとプラ7なので、後ろ中K、こんな繋がるんか。こういうコンボになるんかなって感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60c9b87bf120",
+    "category": "neutral",
+    "topic": "オブリークスタンプの有利フレームと崩し",
+    "content": "アレックスのオブリークスタンプ（←+中K）はガードされても+1F有利になる攻撃です。遠い間合いからでも+1Fが取れるため強力です。相手の背後からヒットさせるとコラプス・ドライバーに派生します。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ガード時/相手の背後ヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "07:18",
+    "source_quote": "オブリークスタンプ。後ろ中K、これは結構強そうですね。ガードさせてプラ1フレーム。なんでガード有利技ですね。この遠いところからプラ1取れるの結構面白いな。相手の背後からヒットさせるとコラプス・ドライバーに派生します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "217"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "573f1335f5b1",
+    "category": "neutral",
+    "topic": "フライングクロストチョップの奇襲",
+    "content": "アレックスのフライングクロストチョップ（ジャンプ中に！+強P）は空中から急降下する技で、ガードされると-10F不利ですが、対空ずらしや相手への奇襲、接近手段として有効です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "相手の対空狙い時/接近したい時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "07:29",
+    "source_quote": "フライングクロストチョップ。前ジャンプ中に下強Pでフライングクロストチョップ。これガードされるとマイナス10なんですけど、対空ずらしとかに使えるって感じですね。ま、多分通常技対空持ちぐらいにしか使えないと思うんですけど、ま、一応こういうのができたりしますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3587be8f16ee",
+    "category": "neutral",
+    "topic": "3種類の通常投げ",
+    "content": "アレックスの通常投げは3種類あります。N+投げ、後ろ+投げ（後方投げ）、下+投げ（下投げ）です。それぞれ異なる状況で使える可能性があります。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "08:11",
+    "source_quote": "アレックスっていうキャラクターは投げが3種類あります。N投げ、で、後ろ投げ、で、この状態で下を押しながら投げると、こういう感じですね。どれが良いかはちょっとまだやってないので今いち言えないんですけど、とりあえず投げが3種類あるというような形です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "74240affc143",
+    "category": "neutral",
+    "topic": "フラッシュチョップの背後やられ誘発",
+    "content": "アレックスのフラッシュチョップ（↓↘→+強P）は、地上ヒット時に相手を背後やられ状態にする特性があります。ガードされると+2F有利です。相手を背後やられ中に攻撃すると技の性質が変化します。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "地上ヒット時/ガード時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "08:54",
+    "source_quote": "フラッシュチョップ。地上ヒット時に背後やられを誘発します。ガードでプラス2フレームです。この辺はテリーと結構近いんかなというような感じです。で、これ後で説明するんですけど、これ、このアレックスってなぜか後ろから攻撃した時に技が変わったりする技があって、これが背後やられを誘発するみたいな感じですね。これ一種くるくるって回ってるんですけど、このくるくるって回ってる時に技を当てると技の性質が変わるっていうちょっとややこしい性能してますね。これちょっと後で説明します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2b7536b1b1b",
+    "category": "neutral",
+    "topic": "パワーボムの崩しと裏回り",
+    "content": "アレックスのパワーボム（→↘↓↙←+P）は相手のガードを崩す投げ技です。相手の背後からヒットさせるとパワードロップに変化し、裏回りして相手の位置を入れ替えることができます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "近距離でのガード崩し/相手の背後ヒット時",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "09:53",
+    "source_quote": "パワーボム。コマ投げですね。で、これがさっき言ってた、このパワーボムを背後で当てるとパワードロップに変化する。なんで入れ替えですね。あるか分かんないんですけど、ま、こんな感じの入れ替えができたりとかっていう感じですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8dc8324da992",
+    "category": "neutral",
+    "topic": "ハイパーボムの位置関係維持",
+    "content": "パワーボム（OD版）から派生するハイパーボム（ODパワードロップ中に→+P）は、相手を投げた後に位置関係を入れ替えずに攻撃できる手段として有効です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ODパワードロップ中",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "10:13",
+    "source_quote": "ハイパーボム。で、先ほど後ろに入れ替えたんですけど、こっから前を入れっぱにしとくとハイパーボム。位置を入れ替えずに攻撃することができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "313",
+      "314"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "914ec90397d1",
+    "category": "neutral",
+    "topic": "スレッジクロスハンマーの遠距離牽制",
+    "content": "アレックスのSA2スレッジクロスハンマー（↓↙←↓↙←+P）は、真空竜巻Pのような動作で、前進しながら強烈なラリアットを繰り出します。ヒット時は空中を壁まで吹き飛ばし、距離が長いので遠距離牽制やアマネケ（空中の相手を捕える技）として使えます。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "遠距離牽制/空中の相手に対して",
+    "source_video_id": "k9kVyEFys8M",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】10分でアレックスの技を徹底解説!!11種の構えを整理してハメられるな！！【初心者】#スト6  #ストリートファイター6  #streetfighter6",
+    "source_timestamp": "10:33",
+    "source_quote": "スレッジクロスハンマー。真空竜巻P。これは距離が長いんで、アマネケとかに使っていけそうです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:57:57.875378",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ab28fbd8496",
+    "category": "neutral",
+    "topic": "立ち大K",
+    "content": "立ち回りで立ち大Kを使う。リーチが長くリターンが高い技で、ガードさせる感じで振っていき、もし噛み合ってパニッシュカウンターになったら大きなリターンを得られる。ため大Kを混ぜるのも有効。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "02:35",
+    "source_quote": "リーチが長くリターンが高い技。とりあえずガードさせる感じでふると噛み合ったら大リターン",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "46ef2956a17b",
+    "category": "neutral",
+    "topic": "立ち大P",
+    "content": "立ち回りで立ち大Pを使う。溜めたり溜めなかったりをちらして触っていきたい。溜め大Pをガードさせるとドライブフラッシュが連続ガードになり、Dゲージが1.5本削れ、ガードで+2F有利になる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "02:56",
+    "source_quote": "溜めたり溜めなかったりをちらして触っていきたい。溜め大Pでさわられたら大フラチョが連続ガードでDゲージ1.5本削れる。ガードで+2有利。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "add3e4c505e1",
+    "category": "neutral",
+    "topic": "エアスタンピート",
+    "content": "エアスタンピート（構え中K）は空中から突然突進し、ガードさせて+2F取れる優秀な技。前後への制御も可能で、対空を誘ったりできる。困ったらとりあえず使用してもよい。ガード後は構え投げ（弱K）やドライブリバーサル（中P）で攻め継続。OD版はバクステを狩ることもでき、対空としても機能する。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、対空",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "03:28",
+    "source_quote": "突然空中から突進して+2Fとれる優秀な技。制御もできるので対空釣ったり色々できる。困ったらとりあえずこれ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "75bfa01c2e63",
+    "category": "neutral",
+    "topic": "屈中P",
+    "content": "屈中Pは地上で振る技で、置き技や差し返しとして使える。リーチが非常に長く、判定も強い。置く場合は中アックス、または安全重視なら弱アックスを仕込んでおく。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "04:18",
+    "source_quote": "とりあえず地上で振る技。置きでも差し返しでも色々使える。置く場合は中アックスを仕込んでおく。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "54886cc757dc",
+    "category": "neutral",
+    "topic": "立ち中K",
+    "content": "立ち中Kはリーチが長く判定の強い置き技。相手を画面端に追い込む際に、間合いに入る前にボタンを押して空振りして使うのがコツ。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "05:00",
+    "source_quote": "とても長く判定が強い技。置き技として使う。相手を追い払う時に使う技で間合いに入る前にボタンを押して空振りしたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ce5768a4fad0",
+    "category": "neutral",
+    "topic": "スラッシュエルボー",
+    "content": "スラッシュエルボー（構え前P）は相手の動きを見てから反応する相手にカウンターを取れる。特にエアスタンピートに反応して垂直ジャンプする相手には刺さりやすい。弱中強で移動距離が変わるので、相手の距離に応じて使い分ける。先端当ては確定反撃がないため、比較的安全に振れる。ヒット時は中ニーで拾える。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り、相手の垂直ジャンプ",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "05:15",
+    "source_quote": "動いたの確認でなんか止められるなと思ったら突っ込む。見てから反応しようとする人にカウンターを取れる。スタンピートに反応して構えで垂直置く人に刺さる",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c95194febea8",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃の使い分け",
+    "content": "正面から飛ぶ際には、ジャンプ大Pとジャンプ強Kを使い分ける。ジャンプ大Pは下方向に強く、ジャンプ強Kは横方向に強い。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "正面からのジャンプ",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "07:11",
+    "source_quote": "正面から飛ぶのに使う。ジャンプ大Pは下は強くて、ジャンプ強Kは横に強い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "119"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d683b0f8f500",
+    "category": "neutral",
+    "topic": "めくり：ジャンプ弱K",
+    "content": "めくり攻撃にはジャンプ弱Kを使う。ヒット時は+4F取れるため、中コマ投げが重なる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "めくり",
+    "source_video_id": "jhvvFS_7yGI",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】20分アレックス講座!!難しいキャラこそシステム化して簡単に使う！#ストリートファイター6  #スト6  #streetfighter6 #sf6",
+    "source_timestamp": "07:24",
+    "source_quote": "めくりで使う",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:22:45.244119",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "115"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "804dd45ce779",
+    "category": "neutral",
+    "topic": "アシスト中攻撃の性能と使い方",
+    "content": "アレックスのアシスト中攻撃は、発生8F、HIT時+1F、ガード時-2Fで、確定反撃はほとんどない。リーチも長くて判定も強いため、牽制として有効。先端が当たる間合いを意識して使うことが重要。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "牽制、立ち回り",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "01:54",
+    "source_quote": "触れる為の手段として一番大事なのが、アシスト中攻撃！これが主力の通常技になって、当然キャンセルも効く！そこそこリーチも長いし、判定も結構強いから、この先端が当たる間合いっていうのを意識して打ってもらえたら、まず大丈夫かな。発生8F/HIT時+1F/ガード時-2F。確定反撃はそこまでない、てかほぼないから、牽制として置いていくのはアリかな。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "042876ab8454",
+    "category": "neutral",
+    "topic": "アシスト弱攻撃の性能とコンボ",
+    "content": "アシスト弱攻撃は発生6F、HIT時+1F、ガード時-5F。弱攻撃としてはフレームが重めだが、他キャラの弱攻撃と比べてリーチが長く使いやすい。この後のアシストコンボは弱フラッシュアックスに派生し、当たれば+3F有利となり、そのままアシストコンボを入れ込み続けることで攻めを継続できる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "牽制、攻め継続",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "05:31",
+    "source_quote": "アシスト弱攻撃は、発生6F/HIT時+1F/ガード時-5F。弱攻撃にしてはかなり重めなんですけど、他キャラの弱攻撃と比べるとリーチがかなり長いから使い勝手は結構良いかなって感じかな。アシストコンボはこの後弱フラッシュアックスに発生して当たれば3F有利。だから、そのままアシストコンボを入れ込み続けるのも結構強いと思います。初段をガードされてもね、去滞距離が結構開くから反撃を受けづらいっていうのも結構嬉しいポイント。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf42fa1b3f60",
+    "category": "neutral",
+    "topic": "溜め強Pの性能と注意点",
+    "content": "溜め強Pキャンセルフラッシュチョップは連続ガードになり割り込みの心配がないため気軽に振れる。ドライブゲージを1.5本削ることができる強力な技。ただし、溜めを見てから相手の弱攻撃（4F技など）で潰されることが多い。空振ると確定反撃を受けるリスクがあるため、相手に当たる距離（先端当て）を意識して使うことが大事。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "攻め、ドライブゲージ削り、相手の牽制",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "06:16",
+    "source_quote": "溜め強Pキャンセルフラッシュチョップが連続ガードになる分、割り込みの心配もないから気軽に振れそう。しかもね、これドライブゲージを1.5本削れるんだよ。それ結構壊れてて、連続ガードになる分、初段の溜め強PをガードさせたらDゲージ1.5本持っていくのが確定するわけだし。結構強い。ただね、溜めを見てから相手の弱攻撃が間に合うから潰される事が多い。そこだけ注意。こんな感じでスカしちゃうと確反ももらうっちゃいます。だからこそ、絶対カラブらない位置、当たる距離。先端が相手に当たるぐらいの距離感で打つことが大事なのよね。空振りする間合いで打ったらアカン技がこの溜め強P。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c301b7e9d125",
+    "category": "neutral",
+    "topic": "アレックスの基本的な攻め方",
+    "content": "アシスト中攻撃を起点としつつ、その中で強攻撃（溜め強Pなど）を織り交ぜて戦うことを意識する。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "r1P_0BqPrqw",
+    "source_channel": "BURNOUT TV.",
+    "source_video_title": "【Mアレックス徹底解説】通常技からコンボ、立ち回りまで完全網羅！初心者向け操作ガイド【SF6/STREET FIGHTER6/スト6】",
+    "source_timestamp": "08:49",
+    "source_quote": "まとめるとなので、アシスト中攻撃を起点にして強攻撃を織り交ぜつつ戦う事を意識しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:47:04.129887",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cd50bc3b5bfe",
+    "category": "neutral",
+    "topic": "近距離での攻め方",
+    "content": "リーチの長い牽制技で相手を抑えつつ、前進する技で一気に距離を詰めて畳み掛けましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "00:09",
+    "source_quote": "リーチの長いけん制技で相手を抑え、前進する技で一気に近づいて畳み掛けよう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9141f231e538",
+    "category": "neutral",
+    "topic": "近距離戦でのブレイカー・スタンス活用",
+    "content": "近距離戦ではブレイカー・スタンスからの豊富な派生技を駆使して相手のガードを崩していきましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "近距離戦",
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "00:19",
+    "source_quote": "近距離戦ではブレイカー・スタンスからの豊富な派生技を駆使して相手のガードを崩していこう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "020ebf4aa903",
+    "category": "neutral",
+    "topic": "フラッシュアックス（弱）",
+    "content": "フラッシュアックス（弱）は、弱攻撃からコンボに繋がります。ガードされても問題ないので、臆せず狙っていきましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "00:30",
+    "source_quote": "弱は、弱攻撃からコンボに繋がる。ガードされても問題ない。臆せず狙っていけ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bc2084603286",
+    "category": "neutral",
+    "topic": "フラッシュチョップ（通常）ガード時",
+    "content": "フラッシュチョップ（通常）はガードされても相手より先に動けるため、守りを固める相手を押し込んで攻めましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ガード時",
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "01:14",
+    "source_quote": "ガードされても相手より先に動けるぜ。ビビって固まるやつを押し込んで、蹴っちゃうといい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216",
+      "302"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "50bbdc5eb72d",
+    "category": "neutral",
+    "topic": "エアニースマッシュ（強）",
+    "content": "エアニースマッシュ（強）は地上の相手にも当たります。羽交い絞りからの蹴りでダウンを奪えますが、対空としては少し不向きです。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "01:53",
+    "source_quote": "強は地上の相手にも当たる。羽交い絞りから蹴りでダウンを奪えるぜ。そのかわり、対空には少し不向きだがな。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf791c4ec566",
+    "category": "neutral",
+    "topic": "パワーボム",
+    "content": "パワーボムは相手を掴み地面に叩きつける投げ技で、近距離でのガード崩しに有効です。相手の背面からヒットさせるとパワードロップに変化します。ボタン強度に応じて発生と投げ間合いが変化し、弱はリーチが長く、強は発生が早いです。中はバランスが取れています。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "近距離",
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "02:14",
+    "source_quote": "相手を掴み、地面に叩きつける技。近距離で相手のガードを崩す手段として有効。相手の背面からヒットさせることで、パワードロップに変化する。/ボタン強度に応じて発生と投げ間合いが変化する、投げ技だ。弱はリーチが長く、強は発生が早い。中はバランスがいい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "de8c96da9cb2",
+    "category": "neutral",
+    "topic": "パワーボムの使い分け",
+    "content": "パワーボムはボタン強度によるダメージ差がないため、状況を見て使い分けましょう。距離感を掴むまではリーチの長い弱パワーボムを狙うのがおすすめです。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "02:37",
+    "source_quote": "ダメージに差はないから、シンプルに状況を見て使い分けろ。距離感を掴めるまでは、リーチの長い弱を狙うといい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dd1058a93fb3",
+    "category": "neutral",
+    "topic": "ブレイカー・スタンス：遠距離でのアプローチ",
+    "content": "ブレイカー・スタンスを遠い間合いで構えた場合、スラッシュエルボーやエアスタンピートが有効です。地上・空中問わず素早く相手に接近できます。エアスタンピートは動作中に左右を入力することで飛距離を変えられるため、着地点をずらして相手を翻弄するのも良いでしょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "遠い間合いでブレイカー・スタンス",
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "03:41",
+    "source_quote": "まず遠い間合いで構えた場合、スラッシュエルボーやエアスタンピートが有効だ。地上、空中のどちらからでも素早く相手に接近できる。/エアスタンピートは動作中に左右を入力することで、飛距離を変えられる。着地点をずらして翻弄するのもいい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "211"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "55d2f2365808",
+    "category": "neutral",
+    "topic": "ブレイカー・スタンス：近距離での攻め",
+    "content": "ブレイカー・スタンスを近距離で構えた場合、他の技にキャンセルできるパームコンタクトや、ボタンホールドで相手の攻撃に耐えられるヘビーラリアットを使ってプレッシャーをかけましょう。ドライブパリィで耐えようとする相手には、ハイパーリフトやデンジャラスアプローチで投げ飛ばしてしまえば効果的です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "近距離でブレイカー・スタンス",
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "04:04",
+    "source_quote": "近距離なら、他の技へキャンセル出来るパームコンタクトや、ボタンホールドで相手の攻撃を耐えられるヘビーラリアットこれらを使うことでプレッシャーをかけることが出来るだろう。/ドライブパリィで凌ごうとする相手には、ハイパーリフトやデンジャラスアプローチで投げ飛ばしてしまえ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200",
+      "206",
+      "209",
+      "214",
+      "215",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f5704be45342",
+    "category": "neutral",
+    "topic": "スレッジクロスハンマー",
+    "content": "スレッジクロスハンマーは前進しながら強烈なラリアットを繰り出す技で、無敵状態での突進から飛び道具対策にもなります。空中ヒット時は相手を壁まで吹き飛ばし、端が近ければ追撃も可能です。ODフラッシュチョップと組み合わせるのも良いでしょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "_1UuCPYcWpM",
+    "source_channel": "CapcomChannel",
+    "source_video_title": "『ストリートファイター6』キャラクターガイド｜アレックス（Alex）",
+    "source_timestamp": "05:23",
+    "source_quote": "前進しながら強烈なラリアットを繰り出す技。空中ヒット時に相手を壁まで吹き飛ばす。/無敵状態で突進してラリアットをぶち込む技だ。大きく踏み込みから飛び道具対策にもなる。/空中の相手に当てると、端までブッ飛ばせるぜ。端が近けりゃ追撃もできる。ODフラッシュチョップと組み合わせおてみるといいだろう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:28:17.279173",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "216",
+      "302",
+      "303",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7f3576c513c4",
+    "category": "neutral",
+    "topic": "下段と中段の二択",
+    "content": "アレックスのラッシュ2中Kは下段択。ラッシュから少し遅らせて2中Kを出すことで、中段択の技（例：中段技）と合わせて相手のガードを揺さぶる二択を仕掛けることができる。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ2中K使用時",
+    "source_video_id": "pAz0Q1GRyf8",
+    "source_channel": "アダー@実用的ゲームちゃんねる",
+    "source_video_title": "[Street Fighter 6] Alex's Practical Basic Combos [Year 3] - STREET FIGHTER 6 ALEX BASIC COMBOS",
+    "source_timestamp": "01:21",
+    "source_quote": "ラッシュからしゃがみ中キックで下段択なのだ ラッシュから遅らせてしゃがみ中キックを出して中段との二択にして相手のガードを揺さぶるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:06:43.985614",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

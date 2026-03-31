@@ -1,0 +1,56 @@
+[
+  {
+    "id": "71cf739752a9",
+    "category": "defense",
+    "topic": "ジャンプ弱Pの対空",
+    "content": "マリーザのジャンプ弱Pは発生が早いため、反応が遅れても対空として機能する。相手を画面端に追い詰めた際や、キャミィのストライクのような特定の技に対して有効。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "cammy",
+    "situation": "対空、画面端、相手のストライクに対して",
+    "source_video_id": "7lclr_ob-7o",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[SF6] Marisa Neutral Game Combo Oki Setup",
+    "source_timestamp": "04:58",
+    "source_quote": "次にジャンプ弱Pです。発生がはやいため反応が遅れても対空ができます。相手を端に追い詰めた際やキャミィのストライク等に対して使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:51:34.448239",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "78b1cba5b753",
+    "category": "defense",
+    "topic": "ディマカイルスの対空",
+    "content": "マリーザのディマカイルスは、弱版とOD版に完全対空無敵があるため、キャミィの無影脚やストライクのような特定の空中攻撃に対して対空として有効。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "cammy",
+    "situation": "対空、相手の無影脚やストライクに対して",
+    "source_video_id": "7lclr_ob-7o",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[SF6] Marisa Neutral Game Combo Oki Setup",
+    "source_timestamp": "05:49",
+    "source_quote": "次にディマカイルスです。弱版とOD版に対空無敵があるため、無影脚やストライクに対して使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:51:34.448239",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

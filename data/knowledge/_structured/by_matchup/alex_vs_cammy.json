@@ -1,0 +1,148 @@
+[
+  {
+    "id": "32aa5dc28345",
+    "category": "matchup",
+    "topic": "Cammyのジャンプ攻撃への対策",
+    "content": "Cammyのジャンプ攻撃に対して、Alexは立ち中Pでパニッシュカウンターを取り、しゃがみ中Pに繋ぎ、ODストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "cammy",
+    "situation": "Cammyがジャンプ攻撃を仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "00:10",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "075ca2e6da73",
+    "category": "matchup",
+    "topic": "Cammyの地上牽制技への対策",
+    "content": "Cammyのしゃがみ中Kや立ち中Kなどの地上牽制技に対して、Alexはしゃがみ中Kでパニッシュカウンターを取り、ストームハンマーで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "cammy",
+    "situation": "Cammyの地上牽制技をガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "00:13",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a4eb96856ab5",
+    "category": "matchup",
+    "topic": "Cammyのドライブインパクト対策",
+    "content": "Cammyのドライブインパクトに対して、Alexはドライブインパクトを返し、しゃがみ中Pからのコンボで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "cammy",
+    "situation": "Cammyがドライブインパクトを仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "00:17",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "52d63cc1c422",
+    "category": "matchup",
+    "topic": "Cammyの強技への対策",
+    "content": "Cammyのしゃがみ強Kや立ち強Kに対して、Alexは立ち強Pでパニッシュカウンターを取り、ODラリアットで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "cammy",
+    "situation": "Cammyのしゃがみ強Kや立ち強Kをガードした時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "00:29",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "106",
+      "218"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a10c8d1b976a",
+    "category": "matchup",
+    "topic": "Cammyのジャンプ強Kへの対策",
+    "content": "Cammyのジャンプ強Kに対して、Alexは立ち中Kでパニッシュカウンターを取り、投げで追撃しましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "cammy",
+    "situation": "Cammyがジャンプ強Kを仕掛けてきた時",
+    "source_video_id": "hyYXs5UqDVQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendアレックスから学ぶ立ち回り！ 〚Kazunoko〛〚PUNK〛Alex's Strategy✨",
+    "source_timestamp": "00:38",
+    "source_quote": "(日本語なし、アクションのみ)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:27:30.492413",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "119"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "9a116e6a4088",
+    "category": "matchup",
+    "topic": "サガットの大Pターゲットコンボ",
+    "content": "サガットの立ち強Pターゲットコンボはガードで-12フレームなので、ガード後は立ち強Kなどで反撃可能。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強Pターゲットコンボをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:23",
+    "source_quote": "大Pタゲコン：-12F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4d56eb09a1e1",
+    "category": "matchup",
+    "topic": "サガットの中Kターゲットコンボ",
+    "content": "サガットの立ち中Kターゲットコンボはガードで-8フレームなので、ガード後はしゃがみ中Pが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中Kターゲットコンボをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:28",
+    "source_quote": "中Kタゲコン：-8F、2中P確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c9901dc5fbe0",
+    "category": "matchup",
+    "topic": "サガットの大P",
+    "content": "サガットの立ち強Pはガードで-5フレーム。密着でガードできれば弱Kが確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強Pをガードした時、密着している場合",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:33",
+    "source_quote": "大P：-5F、近ければ弱K確定",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "23f7028a3f94",
+    "category": "matchup",
+    "topic": "サガットの大足",
+    "content": "サガットの立ち強Kはガードで-12フレーム。ガード後は立ち強Kで反撃できるが、先端でガードした場合は届かない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強Kをガードした時、先端ガードの場合は反撃が届かない",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:38",
+    "source_quote": "大足：-12F、ド先端だと大Kが届かない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e7d2ba0ec1d",
+    "category": "matchup",
+    "topic": "サガットのネクサス・ロー（弱派生）",
+    "content": "サガットのネクサス・ロー弱派生はガードで-5フレーム。中段技。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー弱派生をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:43",
+    "source_quote": "ネクサスの読み合い：弱派生は-5F（中段）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18e1cadb46b0",
+    "category": "matchup",
+    "topic": "サガットのネクサス・ロー（中派生）",
+    "content": "サガットのネクサス・ロー中派生は立ちガードで+4フレーム。しゃがんでいると当たらない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー中派生をガードした時、しゃがむことで回避",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:48",
+    "source_quote": "中派生は立ちガードだと+4Fだがしゃがみなら当たらない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d5e959574f4e",
+    "category": "defense",
+    "topic": "ネクサス・ロー（弱派生）のファジー反撃",
+    "content": "サガットのネクサス・ロー弱派生をガードした際、ファジーしゃがみ中Pから立ち強Pで反撃可能。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー弱派生をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:53",
+    "source_quote": "ファジー2中P→立ち大PでOK",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "84a2056ef69d",
+    "category": "defense",
+    "topic": "ネクサス・ロー（強派生）のファジー反撃",
+    "content": "サガットのネクサス・ロー強派生はガードで+2フレーム。ファジーしゃがみ中Pで反撃可能。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー強派生をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "00:58",
+    "source_quote": "強派生は+2Fだが、ファジー2中PでOK",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1581e1837960",
+    "category": "matchup",
+    "topic": "ネクサス・ロー（派生なし）",
+    "content": "サガットのネクサス・ロー派生なしはガードで-5フレーム。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー派生なしをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:03",
+    "source_quote": "派生なしは-5F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1a099d29f78f",
+    "category": "defense",
+    "topic": "ネクサス・ロー（弱派生）への反撃",
+    "content": "サガットのネクサス・ロー弱派生をガードするタイミングで立ちガードし、その後にファジーしゃがみ中Pで反撃するのが最もリターンが高い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー弱派生をガードする時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:07",
+    "source_quote": "弱派生をガードするタイミングで立ちつつその後にファジーしゃがみ中Pが最もリターンが高い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7747acada89d",
+    "category": "defense",
+    "topic": "サガットの2中P後の暴れ対策",
+    "content": "サガットのしゃがみ中Pからの立ち強P派生はガードで-14フレームなので割り込み可能だが、しゃがみ中P後に中ネクサス・ローを出されると暴れ潰しになるため注意。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのしゃがみ中P後の連携",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:15",
+    "source_quote": "2中P後の読み合い：中ネクサスで暴れ潰し、大P派生は-14Fで割り込めるが中ネクサスで暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "19866b285c8f",
+    "category": "defense",
+    "topic": "サガットの立ち強P派生後の読み合い",
+    "content": "サガットの立ち強P派生後に弱ネクサス・ローを出すと、相手の暴れを潰せる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強P派生後の連携",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:22",
+    "source_quote": "大P派生の後の弱ネクサスで暴れ潰し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1ad107beae3e",
+    "category": "defense",
+    "topic": "サガットのしゃがみ中P後の暴れ対策",
+    "content": "サガットのしゃがみ中Pをガードした後、立ち中Pを出すと、立ち強P派生は割り込める。弱ネクサス・ローは連続ガードになるが、中ネクサス・ローに対しては暴れが負けてしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのしゃがみ中Pをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:26",
+    "source_quote": "暴れポイント①：2中Pをガードした後に立ち中P、大P派生は割れ、弱ネクサスは連ガだが、中ネクサスにだけ負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "069dcfee7a60",
+    "category": "defense",
+    "topic": "サガットの立ち強P派生→弱ネクサス後の反撃",
+    "content": "サガットの立ち強P派生から弱ネクサス・ローまでガードした後、ファジーしゃがみ中Pか5フレーム反撃技を狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強P派生から弱ネクサス・ローまでガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:38",
+    "source_quote": "暴れポイント②：大P派生→弱ネクサスまでガードした後にファジーしゃがみ中Pか、5F反撃を狙う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c843d8e291fe",
+    "category": "defense",
+    "topic": "サガットの立ち強P派生後の無敵技",
+    "content": "サガットの立ち強P派生をガードした後は、無敵技が確定する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強P派生をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:46",
+    "source_quote": "暴れポイント③：大P派生をガードした後に無敵技（確定）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "010e6d22cc6e",
+    "category": "defense",
+    "topic": "サガットの立ち強P派生後のOD無敵技",
+    "content": "サガットの立ち強P派生をガードした後は、OD無敵技を出すとODタイガーショットや強タイガーニーにも勝てる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち強P派生をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:51",
+    "source_quote": "OD無敵なら大P派生→OD弾や強ニーにも勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "682f8154c995",
+    "category": "defense",
+    "topic": "無敵技後のキャンセルラッシュ対策",
+    "content": "無敵技を出す場合、キャンセルラッシュからのしゃがみ弱Kで崩されないように注意する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "無敵技をガードされた後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "01:56",
+    "source_quote": "無敵技を入れる場合、キャンセルラッシュ小足で崩されないように注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b9d69dc6682",
+    "category": "defense",
+    "topic": "画面端でのネクサス・ロー対策",
+    "content": "画面端に追い詰められている状況でサガットがネクサス・ローの中派生や強派生を狙ってくる場合、ファジーでガードしジャストパリィで入れ替えるのが有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "画面端に追い詰められている時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:03",
+    "source_quote": "画面端に追い詰められているなら中・強派生を狙ってファジー・ジャスパで入れ替え",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7908dafaa86a",
+    "category": "matchup",
+    "topic": "サガットの強タイガーニー連携",
+    "content": "サガットの強タイガーニーはぼったくり連携。しゃがんでいるとガードで+4フレーム有利だが、立っているとガードで-5フレーム不利になる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの強タイガーニーをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:07",
+    "source_quote": "強ニーはぼったくり連携で、しゃがむと+4Fだが立ってると-5F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "614ceecee5be",
+    "category": "defense",
+    "topic": "BO中のサガットの連携対策",
+    "content": "BO中にサガットの立ち強Kなどから強ネクサス・ローを出してきた場合、小Pで割り込める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "BO中、サガットの立ち強Kからの連携",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:14",
+    "source_quote": "BO中、大Kなどからの強ネクサスは小パンで割れる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "640b9e390c4d",
+    "category": "defense",
+    "topic": "サガットのネクサス・ロー（弱・中）の割り込み",
+    "content": "サガットの弱ネクサス・ロー、中ネクサス・ローは、割り込みが有効な連携なので小P押しっぱなしで割り込む。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの弱/中ネクサス・ローをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:19",
+    "source_quote": "弱ネクサス、中ネクサスはど真ん中なので小パン押しっぱ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "73abf92c2743",
+    "category": "defense",
+    "topic": "サガットのしゃがみ中P→立ち強P派生への小P割り込みの注意",
+    "content": "サガットのしゃがみ中Pから立ち強P派生に対して小Pで暴れると、サガットの連携に潰されて死んでしまうので注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのしゃがみ中P→立ち強P派生に対して小Pで暴れる時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:26",
+    "source_quote": "ただし2中P→大P派生に小パンを押すと死ぬので注意",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7da38e0ef9a0",
+    "category": "matchup",
+    "topic": "サガットのラッシュしゃがみ弱K",
+    "content": "サガットのラッシュしゃがみ弱Kはガード時に投げ間合いで+1フレーム有利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ弱Kをガードした時（投げ間合い）",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:31",
+    "source_quote": "ラッシュ小足：投げ間合いで+1F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "04e352556bae",
+    "category": "matchup",
+    "topic": "サガットのラッシュタイガーアッパーカット",
+    "content": "サガットのラッシュタイガーアッパーカットはガード時に投げ間合いで+1フレーム有利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュタイガーアッパーカットをガードした時（投げ間合い）",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:34",
+    "source_quote": "ラッシュステロー：投げ間合いで+1F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2af48bfa5026",
+    "category": "matchup",
+    "topic": "サガットのラッシュしゃがみ中K",
+    "content": "サガットのラッシュしゃがみ中Kは密着以外の投げ間合い外でガード時に+2フレーム有利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ中Kをガードした時（密着以外、投げ間合い外）",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:37",
+    "source_quote": "ラッシュ中足：密着以外投げ間合い外で+2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "67dcfb334682",
+    "category": "matchup",
+    "topic": "サガットのラッシュ立ち中K",
+    "content": "サガットのラッシュ立ち中Kは投げ間合い外でガード時に+2フレーム有利。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュ立ち中Kをガードした時（投げ間合い外）",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:41",
+    "source_quote": "ラッシュ中断：投げ間合い外で+2F",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "83005bd50afb",
+    "category": "matchup",
+    "topic": "サガットのラッシュしゃがみ中K後の連携",
+    "content": "サガットはラッシュしゃがみ中Kの後、距離が遠いと再度しゃがみ中Kを押しがち。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ中K後、距離が遠い場合",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:44",
+    "source_quote": "ラッシュ中足の後、距離が遠いと中足押しがち",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f5eaa0885ef1",
+    "category": "defense",
+    "topic": "サガットのラッシュしゃがみ中K→しゃがみ中Kへの対策",
+    "content": "サガットがラッシュしゃがみ中Kから再度しゃがみ中Kを出してきた場合、しゃがみ中Pで勝てる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ中K→しゃがみ中Kに対して",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:49",
+    "source_quote": "ラッシュ中足→中足には2中Pで勝てる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31e0685309c7",
+    "category": "defense",
+    "topic": "サガットのラッシュしゃがみ中Kからの連携（距離が近い場合）",
+    "content": "サガットがラッシュしゃがみ中Kからしゃがみ弱Pを出してきた場合、距離が近いと負けてしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ中K後、距離が近い場合",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:53",
+    "source_quote": "距離が近いとラッシュ中足→コアコパに負ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb1c05a83750",
+    "category": "defense",
+    "topic": "サガットのラッシュしゃがみ中K後の距離による反撃判断",
+    "content": "サガットのラッシュしゃがみ中Kをガードした後は、相手との距離を見て反撃の選択肢を変える必要がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュしゃがみ中Kをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "02:57",
+    "source_quote": "ラッシュ中足の後は距離を見て反撃択を変える",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ea2a43b70a5d",
+    "category": "matchup",
+    "topic": "サガットのラッシュ立ち中Pからの連打",
+    "content": "サガットのラッシュ立ち中Pからは2発連続で立ち中Pを刻むことができる。ノーマルの立ち中Pも2回刻める。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュ立ち中Pをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:00",
+    "source_quote": "ラッシュ中Pから中Pは2発連続で中Pが刻める、ノーマル中Pは2回",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f7eca817fb99",
+    "category": "matchup",
+    "topic": "サガットの立ち中Pからの固め連携",
+    "content": "サガットの立ち中P→立ち中P→しゃがみ中Pはよく見かける固め連携。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中Pからの固め連携をガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:06",
+    "source_quote": "中P→中P→2中Pはよく見る固め",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "405bede217b3",
+    "category": "defense",
+    "topic": "サガットの立ち中P連打への暴れ対策",
+    "content": "サガットの立ち中P→立ち中P連携の2発目の立ち中Pに対してしゃがみ弱Pで暴れると、サガットの連携に潰されて死んでしまうので注意が必要。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中P→立ち中P連携の2発目",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:10",
+    "source_quote": "2発目の中Pに小パンで暴れると死ぬ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c6ab5b808c16",
+    "category": "defense",
+    "topic": "サガットの立ち中P連打への暴れ対策（3発目）",
+    "content": "サガットの立ち中P→立ち中P→立ち中Pの3発目にしゃがみ弱Pを合わせると持続部分と相打ちになりやすい。しかし、サガット側が3発目の立ち中Pを出していないと空振ってしまうため、確実ではない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中P→立ち中P→立ち中P連携の3発目",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:15",
+    "source_quote": "3発目の中Pに小パンを合わせると持続部分と相打ち(×)、サガット側が2中Pを出していないと空振ってしまう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eb6bceac6768",
+    "category": "defense",
+    "topic": "サガットの立ち中P連打への暴れ対策（相打ち時）",
+    "content": "サガットの立ち中P連打に暴れて相打ちになるのであれば、弱Kの方が良い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中P連打に暴れて相打ちになる場合",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:22",
+    "source_quote": "どうせ相打ちになるなら弱Kの方がいい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7d9105eb1f7a",
+    "category": "matchup",
+    "topic": "サガットの画面端固め",
+    "content": "画面端でのサガットの固めは非常に強力。立ち中P→立ち中P、立ち中P→投げ、立ち中P→遅らせ立ち中P、立ち中P→しゃがみ中Pネクサス・ローなど、多様な連携があり択が強い。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "画面端でサガットの固めを食らっている時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:27",
+    "source_quote": "画面端での中P→中P、中P→投げ、中P→遅らせ中P、中P→2中Pネクサスなど、画面端での固めが異常に強い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "86c56e823942",
+    "category": "defense",
+    "topic": "サガットの画面端固めへの前ジャンプ対策",
+    "content": "サガットの画面端での固めにおいて、最初の立ち中Pをガードした時点で前ジャンプを入れておくと、2発目の立ち中Pの後に何も入らなくなり、投げや遅らせ連携は回避でき、ネクサス・ローの入れ込みも咎めることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "画面端でサガットの固めを食らっている時（最初の立ち中P後）",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:38",
+    "source_quote": "最初の中Pをガードした時点で前ジャンプを入れておくと2発目の中Pの後に何も入らず、投げや遅らせは解し、入れ込みネクサスも咎められる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1ca358a9133b",
+    "category": "defense",
+    "topic": "サガットの立ち中P後のジャストパリィ",
+    "content": "サガットの立ち中Pの後にジャストパリィを狙うと投げられがちだが、立ち中P→立ち中Pの後のしゃがみ中Pにジャストパリィを狙うのは有効な選択肢。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち中P後の固め連携",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "03:52",
+    "source_quote": "中Pの後にジャスパを狙うと投げられがちだが、中P→中Pの後の2中Pにジャスパを狙うのはあり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "afb7b9317887",
+    "category": "neutral",
+    "topic": "サガットとの間合い詰めのリスク",
+    "content": "サガットに対して間合いを詰めようとすると、しゃがみ中K、立ち中K、立ち強Pなどが当たりやすく、ガードしても距離が離れて再びサガットの強い間合いに戻ってしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットとの間合いを詰めようとする時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:09",
+    "source_quote": "間合いを詰めようとすると中足・中K・大Pなどが当たり、ガード時は距離が離れてまた強い間合いになってしまう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "02c6508fb1d3",
+    "category": "defense",
+    "topic": "サガットの遠距離技へのジャストパリィ",
+    "content": "サガットの得意な距離で振ってくる技への対策としてはジャストパリィが有効。弱タイガーニーの先端は24フレームで当たるためジャストパリィを狙いやすいが、タイガーアッパーカットは18フレームなので非常に難しい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの得意な距離で遠距離技を振られた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:18",
+    "source_quote": "出来たら一番いい対策はジャスパ、弱ニー先端は24Fで当たるので取りやすいが、ステローは18Fなのだでかなり難しい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1972325cb64a",
+    "category": "defense",
+    "topic": "サガットへの垂直ジャンプの注意点",
+    "content": "サガットに対して垂直ジャンプを置いておくのも有効だが、技の出始めを弱タイガーニーに潰されたり、タイガーアッパーカットの硬直が18フレームであるため確定反撃が取れない場合がある。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガット戦で垂直ジャンプを使う時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:27",
+    "source_quote": "適度に垂直を置いておくのもいいが、出始めを弱ニーに潰されたり、ステローの硬直が18Fのため確定しなかったりする",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1df8246c6cac",
+    "category": "defense",
+    "topic": "サガットの弱タイガーニーへのバックステップ対策",
+    "content": "サガットの弱タイガーニーに対してはバックステップが有効。弱タイガーニーを避けつつ間合いを完全に外せるので、適度にバックステップを置いておくのが良さそう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの弱タイガーニーに対して",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:36",
+    "source_quote": "バクステだと弱ニーを避けつつ間合いを完全に外せるので、適度に置いておくのが良さそう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fd69cc3c57ae",
+    "category": "defense",
+    "topic": "サガットの弱タイガーニーへの反撃",
+    "content": "サガットの弱タイガーニーには見てからしゃがみ中Pを出すと割と反撃しやすい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの弱タイガーニーをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:47",
+    "source_quote": "弱ニーには見てからしゃがみ中Pが割と行ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "249b4200e723",
+    "category": "defense",
+    "topic": "サガットの強タイガーニーへの反撃",
+    "content": "サガットの強タイガーニーには見てからしゃがみ中Pを出すと割と反撃しやすい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの強タイガーニーをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:53",
+    "source_quote": "強ニーにも割と行ける",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e40d1fc4d8d7",
+    "category": "defense",
+    "topic": "サガットのタイガーアッパーカットへの反撃",
+    "content": "サガットのタイガーアッパーカットは見てから反撃するのは難しい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのタイガーアッパーカットをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "04:57",
+    "source_quote": "ステローは見てからだと無理",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c57418f7524c",
+    "category": "defense",
+    "topic": "サガットの弾に対する対処",
+    "content": "サガットが下段タイガーショットや上段タイガーショットを多く打ってくる場合、シンプルに飛んで対処する。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットが弾を撃ってくる時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:02",
+    "source_quote": "下弾→上弾が多いならシンプルに飛ぶ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3a54c494d5e",
+    "category": "neutral",
+    "topic": "サガットとの地上戦とODタイガーショット",
+    "content": "サガット相手の地上戦は非常に厳しいので、ODタイガーショットを使って無理やり択を迫るのも一つの手。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットとの地上戦",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:07",
+    "source_quote": "地上戦がかなりキツいので、ODウェイブで無理やり択に行くのもあり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "08c9b4b652cb",
+    "category": "defense",
+    "topic": "サガットの立ち弱Pガード後のしゃがみ弱P暴れ",
+    "content": "サガットの立ち弱Pをガードした後にしゃがみ弱Pを押して暴れると、パニッシュカウンターを食らってしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち弱Pガード後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:17",
+    "source_quote": "が、立ちコパガード後に小パンを押すとパニカンを喰らう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3b75db838956",
+    "category": "defense",
+    "topic": "サガットの立ち弱Pガード後のしゃがみ中P",
+    "content": "サガットの立ち弱Pをガードした後にしゃがみ中Pを押すと相打ちになる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち弱Pガード後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:20",
+    "source_quote": "立ちコパガード後にしゃがみ中Pを押すと相打ち",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "590a6776809c",
+    "category": "defense",
+    "topic": "サガットの立ち弱Pガード後の安全策",
+    "content": "サガットの立ち弱Pをガードした後、弱Kを出しても空振る可能性があり、中ネクサス・ローに持っていかれるリスクもあるため、何もしないのが最も安全な対処法。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの立ち弱Pガード後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:24",
+    "source_quote": "弱Kも空振る＆中ネクサスに持っていかれるので何もしないのが安全",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "321393350c26",
+    "category": "defense",
+    "topic": "サガットのコバラッシュと小Kラッシュ対策",
+    "content": "サガットの立ち弱Pからのラッシュはしゃがみ弱Pで割り込めるが、立ち弱Kからのラッシュは相打ちになり、しゃがみ中Pまで繋がってしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのコバラッシュや立ち弱Kラッシュをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:28",
+    "source_quote": "サガットのコバラッシュは小パンで割れるが、小Kラッシュは相打ち→しゃがみ中Pが繋がってしまう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "101",
+      "106",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a2100fb9b24",
+    "category": "oki",
+    "topic": "画面中央でのサガットの前投げからの起き攻め対策",
+    "content": "画面中央でサガットに前投げをされた場合、後ろ受け身をすることで、その後の起き攻めが何も重ならない。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "画面中央でサガットに前投げをされた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:35",
+    "source_quote": "画面中央での前投げは後ろ受け身をしておくと何も重ならない",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d466527c0787",
+    "category": "defense",
+    "topic": "サガットの前投げからのラッシュ対策",
+    "content": "サガットに前投げをされ、その後にラッシュが見えたらリバーサルしゃがみ中Kでほぼ咎めることができる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットに前投げをされてからのラッシュ",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:43",
+    "source_quote": "前投げからラッシュが見えたらリバサ中足でほぼ咎められる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "723410ef4716",
+    "category": "defense",
+    "topic": "サガットのラッシュ遅らせしゃがみ中Kへの注意",
+    "content": "サガットのラッシュ遅らせしゃがみ中Kなどをガードした後に暴れると、パニッシュカウンターを食らってしまう。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのラッシュ遅らせしゃがみ中Kをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "05:57",
+    "source_quote": "ラッシュ遅らせ中足などはパニカンで喰らってしまう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ad86023fd3ea",
+    "category": "defense",
+    "topic": "サガットのしゃがみ中Pラッシュ対策",
+    "content": "サガットのしゃがみ中Pからのラッシュはしゃがみ弱Kが連続ガードになるが、全体フレームが19フレームと長めなので、ラッシュが見えたらドライブリバーサルが有効な選択肢。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのしゃがみ中Pからのラッシュをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:11",
+    "source_quote": "しゃがみ中Pラッシュからは小足が連ガになるが、全体フレームが19Fとやや長いのでラッシュ見たらDリバが良さそう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8b3e8d6d7a9f",
+    "category": "defense",
+    "topic": "ネクサス・ロー中派生からのシミー対策",
+    "content": "サガットのネクサス・ロー中派生から中タイガーニーをガードした後にその場受け身を取ると、相手のシミー攻撃は不可能になる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのネクサス・ロー中派生から中タイガーニーをガードした時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "06:30",
+    "source_quote": "その場受け身ならシミー不可になる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc6b1bd01e92",
+    "category": "defense",
+    "topic": "サガットの溜め強タイガーアッパーカット後の起き攻め対策",
+    "content": "サガットの溜め強タイガーアッパーカット後の起き攻めでラッシュ立ち中Kや投げは重ならないため、ファジーしゃがみ弱Pが有効な選択肢。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの溜め強タイガーアッパーカット後の起き攻め",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:09",
+    "source_quote": "ラッシュ中断や投げは重ならないので、ファジー小パンが良さそう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e42bd283507",
+    "category": "defense",
+    "topic": "サガットのターゲットコンボガード後の起き攻め",
+    "content": "サガットの立ち強Pターゲットコンボや立ち中Kターゲットコンボを食らった後、後ろ受け身を取ると投げが埋まらない。その後の起き攻めはラッシュ遅らせ立ち中Kかラッシュ遅らせタイガーアッパーカットの2択になる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのターゲットコンボを食らった後",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:33",
+    "source_quote": "大Pタゲコン＆中Kタゲコンを喰らった後、後ろ受け身で投げ埋まらず、ラッシュ遅らせ中段かラッシュ遅らせステローの2択になる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a424ad7bed2",
+    "category": "defense",
+    "topic": "サガットの下段タイガーショットへのジャストパリィラッシュ",
+    "content": "ジャストパリィラッシュをしても確定反撃できない距離でサガットが下段タイガーショットを撃ってきた場合、ジャストパリィからのしゃがみ中Pバーンナックルが刺さりやすい。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの確定反撃できない距離での下段タイガーショット",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "07:53",
+    "source_quote": "ジャスパラッシュしても確定しない距離の下弾はジャスパ中バーンが刺さりやすい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ab244bdab74e",
+    "category": "defense",
+    "topic": "サガットの下段タイガーショットへのジャストパリィラッシュ（距離が近い場合）",
+    "content": "サガットが下段タイガーショットを撃ってきた場合、距離が近いならジャストパリィラッシュからしゃがみ中Pを入れる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの近距離での下段タイガーショット",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:02",
+    "source_quote": "距離が近いならジャスパラッシュしゃがみ中Pを入れたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2c68a9e81654",
+    "category": "defense",
+    "topic": "サガットの上段タイガーショットへの対処",
+    "content": "サガットの上段タイガーショットは、しゃがみからはジャストパリィができないため、しゃがんで立ち強Kを狙う。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの上段タイガーショットに対して",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:08",
+    "source_quote": "上弾はしゃがみからではジャスパ出来ないのでしゃがんで大足で狙う",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "201",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b41a3fd3f44e",
+    "category": "defense",
+    "topic": "サガットの上段タイガーショットをラッシュしゃがみ中Pで避けた後の追撃",
+    "content": "サガットの上段タイガーショットをラッシュしゃがみ中Pで上手く避けることができた場合、強バーンナックルまで入れ込む。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットの上段タイガーショットをラッシュしゃがみ中Pで避けた時",
+    "source_video_id": "jX6ZIfGVP-U",
+    "source_channel": "holosokuのスト6攻略チャンネル",
+    "source_video_title": "【スト6】テリー使いのサガット対策まとめ｜確定反撃・強技対策・立ち回り・セットプレイ徹底解説（2025.12.16ver）【#スト6攻略】",
+    "source_timestamp": "08:15",
+    "source_quote": "ラッシュしゃがみ中Pで上弾を上手く避けれた場合は強チャージまで入れ込む",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:54:37.253188",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3164f33872c1",
+    "category": "matchup",
+    "topic": "対サガット戦での対空",
+    "content": "サガットのジャンプ攻撃に対しては、テリーはしゃがみ強P、ODライジングアッパー、立ち強Kなどで対空できる。ODライジングアッパーはヒット後に追撃が可能で、しゃがみ強Pも強力な対空技となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットがジャンプ攻撃を仕掛けてきた時",
+    "source_video_id": "5hNDYMYEKOQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendテリーから学ぶ！✨サガット戦立ち回り LEGEND Terry's Matchup Strategy Against Sagat〚Oil King〛〚あくたがわ〛",
+    "source_timestamp": "00:10",
+    "source_quote": "（動画内でテリーがサガットのジャンプ攻撃をODライジングアッパー、しゃがみ強P、立ち強Kで迎撃するシーンが複数回示される）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:07:14.276420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "665acefa799a",
+    "category": "matchup",
+    "topic": "対サガット戦での下段技への確定反撃",
+    "content": "サガットのしゃがみ中K（スライディング）をガードした場合、テリーはしゃがみ弱Pからしゃがみ中P、ODライジングアッパーへと繋ぐコンボや、しゃがみ強Pからレベル1スーパーアーツのパワーゲイザーへと繋ぐ高火力コンボで確定反撃できる。ODライジングアッパー単発での確定反撃も有効。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットのしゃがみ中K（スライディング）をガードした時",
+    "source_video_id": "5hNDYMYEKOQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendテリーから学ぶ！✨サガット戦立ち回り LEGEND Terry's Matchup Strategy Against Sagat〚Oil King〛〚あくたがわ〛",
+    "source_timestamp": "00:16",
+    "source_quote": "（動画内でテリーがサガットのしゃがみ中Kをガード後、しゃがみ弱P→しゃがみ中P→ODライジングアッパー、またはしゃがみ強P→パワーゲイザーで反撃するシーンが複数回示される）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:07:14.276420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "108",
+      "109",
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4e5e4be1dddb",
+    "category": "matchup",
+    "topic": "対サガット戦でのタイガーショット対策",
+    "content": "サガットのタイガーショット（飛び道具）に対しては、テリーはEXパワーウェーブで相殺しつつ突進できる。通常のパワーウェーブも状況に応じて有効な選択肢となる。",
+    "characters": [
+      "terry"
+    ],
+    "matchup": "sagat",
+    "situation": "サガットがタイガーショット（飛び道具）を撃ってきた時",
+    "source_video_id": "5hNDYMYEKOQ",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendテリーから学ぶ！✨サガット戦立ち回り LEGEND Terry's Matchup Strategy Against Sagat〚Oil King〛〚あくたがわ〛",
+    "source_timestamp": "00:22",
+    "source_quote": "（動画内でテリーがサガットのタイガーショットをEXパワーウェーブで相殺するシーンが複数回示される）",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:07:14.276420",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

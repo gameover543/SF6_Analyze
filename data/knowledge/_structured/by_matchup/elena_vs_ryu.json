@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8d40ef71c897",
+    "category": "defense",
+    "topic": "弱波動拳への対応",
+    "content": "リュウの弱波動拳をガードタイミングでパリィし、その後パニッシュカウンターからのコンボを決める練習が有効。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": "ryu",
+    "situation": "リュウが弱波動拳を放った時",
+    "source_video_id": "ZeWZ_Q8MKQs",
+    "source_channel": "どぐらのちょっとええ感じ",
+    "source_video_title": "\"He'll definitely make an impact!\" Dogura explains how to counter Ryu, whose presence continues t...",
+    "source_timestamp": "0:41",
+    "source_quote": "だからこれにちゃんとボタンを押せるのかどうか キャンセルでスカる波動拳に対して",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:26:12.814828",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "151ec54dafb8",
+    "category": "neutral",
+    "topic": "波動拳へのパリィ",
+    "content": "波動拳をガードタイミングでパリィすると、大体の場合において対応できる。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": "ryu",
+    "situation": "リュウが波動拳を放った時",
+    "source_video_id": "ZeWZ_Q8MKQs",
+    "source_channel": "どぐらのちょっとええ感じ",
+    "source_video_title": "\"He'll definitely make an impact!\" Dogura explains how to counter Ryu, whose presence continues t...",
+    "source_timestamp": "1:15",
+    "source_quote": "波掌撃ガードタイミングでボタン押すと大体結構大丈夫",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:26:12.814828",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "db364c8e8cd4",
+    "category": "defense",
+    "topic": "弱K前ステ波動へのパリィ",
+    "content": "リュウの弱K前ステ波動連携に対して、波動拳の部分だけを見てパリィする。",
+    "characters": [
+      "elena"
+    ],
+    "matchup": "ryu",
+    "situation": "リュウの弱K前ステ波動連携中",
+    "source_video_id": "ZeWZ_Q8MKQs",
+    "source_channel": "どぐらのちょっとええ感じ",
+    "source_video_title": "\"He'll definitely make an impact!\" Dogura explains how to counter Ryu, whose presence continues t...",
+    "source_timestamp": "3:05",
+    "source_quote": "波掌撃見てパリィ押すという 波掌撃だけパリィ押す",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:26:12.814828",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

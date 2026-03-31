@@ -1,0 +1,60 @@
+[
+  {
+    "id": "c631bd3d1a0f",
+    "category": "matchup",
+    "topic": "春麗戦の立ち回り",
+    "content": "春麗戦はザンギエフにとって苦手なマッチアップなので、相手のペースにさせない立ち回りが重要。相手がバーンアウト状態の時にザンギエフの必殺技「シベリアンエクスプレス」を出すと、相手は飛びにくくなることが多い。",
+    "characters": [
+      "zangief",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "相手がバーンアウト状態の時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:33",
+    "source_quote": "春麗戦は正直苦手なので相手のペースにさせないように立ち回ります 僕の場合だとごり押しですね 良い子はちゃんと対策しといた方がいいと思います BOにシベリアを隠すと結構飛べない人が多いです お得だね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c631bd3d1a0f",
+    "category": "matchup",
+    "topic": "春麗戦の立ち回り",
+    "content": "春麗戦はザンギエフにとって苦手なマッチアップなので、相手のペースにさせない立ち回りが重要。相手がバーンアウト状態の時にザンギエフの必殺技「シベリアンエクスプレス」を出すと、相手は飛びにくくなることが多い。",
+    "characters": [
+      "zangief",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "相手がバーンアウト状態の時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "01:33",
+    "source_quote": "春麗戦は正直苦手なので相手のペースにさせないように立ち回ります 僕の場合だとごり押しですね 良い子はちゃんと対策しといた方がいいと思います BOにシベリアを隠すと結構飛べない人が多いです お得だね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "29b100e7fd86",
+    "category": "matchup",
+    "topic": "マリーザ 中P中Pグラディウス対策",
+    "content": "マリーザの立ち中P>立ち中P>グラディウス連携には、ドライブインパクトが有効です。ガード後にインパクト連打で勝てます。もし相手がグラディウスを溜めてきた場合は、ドライブインパクトが負けるので垂直ジャンプで回避し、反撃を狙いましょう。この連携に対しては、防御側がリターンを取りやすいです。SAの発生が早いキャラクターであれば、中P中Pをガードした時点でSA1が確定します。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "jp",
+    "situation": "立ち中P>立ち中P>グラディウス連携",
+    "source_video_id": "-Hb4pK51CoA",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】勝率が上がるワンポイントキャラ対策シリーズ part1",
+    "source_timestamp": "03:26",
+    "source_quote": "マリーザは、この、中P中Pグラディウス。中P中Pためグラディウスとかがあるんだけど、これ中P中Pグラディウスには、インパクトで勝てます。中P中Pガードしたらもうインパクト連打で良い。で、溜められると、溜めグラディウスにされるとインパクトが負けるんだけど、これは垂直で勝てます。でどっちも防御側の方がリターンが高いから。これはお勧め。で、一部このSAの発生が早いキャラは、この中P中Pガードした時点でラッシュされない限りはSA1確定です。てかかなりのキャラがこれ確定取れるから。これも覚えといてください。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:00:54.533025",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "400",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "370bdff1090e",
+    "category": "defense",
+    "topic": "ジャンプ弱Kの対空",
+    "content": "マリーザのジャンプ弱Kはめくり判定があるため、JPのワープ（テレポート）などの技に対して有効。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "jp",
+    "situation": "対空、JPのワープに対して",
+    "source_video_id": "7lclr_ob-7o",
+    "source_channel": "レイ【スト6】",
+    "source_video_title": "[SF6] Marisa Neutral Game Combo Oki Setup",
+    "source_timestamp": "05:07",
+    "source_quote": "次にジャンプ弱Kです。めくり判定があるためJPのワープに対してよく使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:51:34.448239",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

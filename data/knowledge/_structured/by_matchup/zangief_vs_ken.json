@@ -1,0 +1,144 @@
+[
+  {
+    "id": "9950e4034ae6",
+    "category": "matchup",
+    "topic": "対リーチ技の差し合い",
+    "content": "ケンの大Kのようなリーチの長い牽制技との差し合いにおいて、ザンギエフの 大Pは非常に強力です。アーマーで相手の攻撃を受け止めつつ、リーチ差で一方的に打ち勝つ、あるいは有利な状況で打ち合うことができます。リターン差を考慮しなければ最強クラスの差し合い技です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "ken",
+    "situation": "相手のリーチが長い通常技に対して",
+    "source_video_id": "WXr0-gq5s4w",
+    "source_channel": "PONGIEF",
+    "source_video_title": "【スト6】ザンギエフの立ち回り・地上戦のコツ！解説講座！　2000MRザンギエフ　【戦い方】【使い方】",
+    "source_timestamp": "01:52",
+    "source_quote": "この距離の差し合いに関して言うと、えー、ザンギエフはほぼ最強クラスかなというふうに思います。基本的にですね、えー、相手のリーチの長い技、まあケンで言うところの、えー、大Kなんかですね。基本的に、えー、大Pのアーマーで、えー、受けることができることができますし、えー、リーチもね、えー、こちらが、えー、勝っている。もしくは、えー、5分近くありますんで、えー、これ打ち合っていくと基本的に、えー、こっちが勝つ回数が多いのかなというふうに思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:25:45.381116",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c5dee4186e71",
+    "category": "neutral",
+    "topic": "波同拳への対応",
+    "content": "相手の波同拳にはジャンプから下大P（ボディプレス）で噛み合ってからキャンセルラッシュコンボにつなげるのが有効です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "ken",
+    "situation": "相手の波動拳",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "09:03",
+    "source_quote": "まずは相手の波動拳にジャンプが噛み合ってボディプレスからのキャンセルラッシュコンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ca88abc81955",
+    "category": "defense",
+    "topic": "インパクト確定への対応",
+    "content": "ケンがラッシュ大Pから龍尾脚読みでインパクトを狙ってきたら、インパクトのあとは難しいことは考えずコマ投げで対応しましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "ken",
+    "situation": "相手のラッシュ大Pからの龍尾脚読みインパクト",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "09:13",
+    "source_quote": "相手のラッシュ大パンからの龍尾脚読みでインパクトインパクトのあとは難しいことは考えずコマ投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c822cc78d243",
+    "category": "defense",
+    "topic": "ラッシュからの空中コマ投げによる読み合い",
+    "content": "ケンがキャンセルラッシュをしてバーンアウトになった後、最速ジャンプで空中やられになったことに対し、後ろ投げで反撃、そして相手がスタン確のところをSAを出してきたが、これは相手にゲージを使わせた形になるため良い状況と言えます。また、ジャンプからラッシュ小Pで固めてジャンプ読み空中コマ投げで攻めたり、今回は固まったところにラッシュコマ投げで追撃したりと、起き攻めをしっかり使い分けましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "ken",
+    "situation": "ケンのキャンセルラッシュ、バーンアウト後",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "10:22",
+    "source_quote": "相手がキャンセルラッシュをしたことでバーンアウト投げ抜け用の後ろ投げが当たってSA警戒のラッシュからの様子見相手のジャンプと噛み合って痛い反撃だね最速ジャンプで空中やられになったことで後ろ投げで反撃しゃがみ中パンからのインパクトでスタン確定のところを相手がCAを出したことで逆に止めを刺されるただ相手にゲージを使わせた形になるからいい感じだね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "455f52259612",
+    "category": "matchup",
+    "topic": "画面端でのめくりボディプレス",
+    "content": "ザンギエフを使用時、通常ダブルラリアットや立ち中P（立中P）全段ヒット後、めくりボディプレスが意外と強い。相手の無敵技をスカすことができ、ガードさせても+10Fの有利フレームがあるため、ヘルスタブ（3中P）まで入れ込んで連続技として繋げられる。ケン相手のOD昇竜にボディプレスがヒットすると+26Fとなり、そこから再度めくりボディプレスでハメ連携を狙える。OD無敵が癖になっているモダン操作の相手に特に有効かもしれない。また、通常の昇竜拳や相手のしゃがみ強P対空にも勝てる。入れ替わりが発生するが、SA2を所持していれば入れ替えからの攻めも可能。ゲージが溜まっているならさらに有効。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "ken",
+    "situation": "通常ダブルラリアット/立中P全段ヒット後、画面端、OD無敵を多用する相手",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "08:24",
+    "source_quote": "これ意外と強いのだ！相手の無敵をすかせるのだ！ガードさせても+10Fだから、3中Pまで入れ込んでOKなのだ！(連ガになる)通常昇竜にも勝てるし、対空のしゃがみ強Pにも勝てるのだ！入れ替わっちゃうけどSA2持ってるなら入れ替えもできるしゲージ溜まってるならありなのだ！？ケン相手だとOD昇竜にボディプレスがヒットすると+26だからそこからまためくりボディプレスをするとこうやってハメみたいなこともできるのだ！OD無敵が癖になってるモダン相手の人にやるといいかもなのだ！？",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "114",
+      "200",
+      "300",
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

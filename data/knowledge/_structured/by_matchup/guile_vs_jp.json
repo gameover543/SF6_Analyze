@@ -1,0 +1,87 @@
+[
+  {
+    "id": "3a4025383f75",
+    "category": "matchup",
+    "topic": "JPの弾幕に対する回避方法（ガイル）",
+    "content": "JPのSA2（トリグラフ）を相手にした場合、1段目をしゃがみガードし、その後バックジャンプすることで安全に回避できる。相手の距離によっては前ジャンプで距離を詰める選択肢も有効。この回避行動を徹底することで、JP側は安易にSA2を撃てなくなり、他の攻め方（例：ODドライブゲージを使ったしゃがみ中Kでのラッシュなど）を試す必要が出てくる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "jp",
+    "situation": "JPがSA2（トリグラフ）を使用した場合",
+    "source_video_id": "d9jAhXEub7A",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【SF6】無理なんだけど～！不利な組み合わせであるガイル対JP戦で重要な対策をドンピシャさんに伝授するプロゲーマーひぐち【スト6】",
+    "source_timestamp": "03:54",
+    "source_quote": "教えてたかったのはコレなんですけど、このSA2出されて良く分かんないなとなりません？…なるほど！やってもらって良いですか？…なるほど！まあそこを下がってもらったりとかして。あ、へー、なるほど。JPが、こういう発動とかされるとダメなんです。近づきたいんで…ワンガードして前ジャンプっすね。…なるほど！…で、教えてたかったのはコレなんですけど、このSA2出されて良く分かんないなとなりません？…なりますね…コレ…1段目を下段ガードしてからバックジャンプで逃げれます。…なるほど！…やっぱワープが…なんかそのシューティング…そう…シューティングしてる時に…パリィ押しっぱにしちゃってるから…これ間に合わないんですよね、なんか…ここ「様子見」するのが良いかなと…そう…その2つですかね、SA2と…あとまコレを…持続見るか見ないかとか",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:47:34.121631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e041af3d2cf2",
+    "category": "defense",
+    "topic": "JPのODストリボーグへの対処",
+    "content": "JPのODストリボーグ（下段を這う弾）に対しては、まずガードしてから前進する立ち回りが有効。ただし、ODストリボーグが持続（長く残る）かどうかを判断する必要があり、持続しない場合は前ステからの確定反撃が狙える。持続の判断は難しいが、読み合いに勝つことで有利に立てる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "jp",
+    "situation": "JPがODストリボーグを使用した場合",
+    "source_video_id": "d9jAhXEub7A",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【SF6】無理なんだけど～！不利な組み合わせであるガイル対JP戦で重要な対策をドンピシャさんに伝授するプロゲーマーひぐち【スト6】",
+    "source_timestamp": "07:51",
+    "source_quote": "近づき方が…下のトゲをガードしてから前出るんですよね？…これの時はあれなんですよね？…こっちのターンになるんですかね？…持続のやつとかは危ないんで…持続の判断をするかしないかはちょっと難しい所ですね…確かに…持続じゃないと思ったら…これ確定しないんで",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:47:34.121631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68ea57c7a59c",
+    "category": "defense",
+    "topic": "対JPでのジャストパリィの重要性",
+    "content": "JPの連打技（例：しゃがみ中K）に対しては、ジャストパリィを狙う読み合いが非常に重要。ジャストパリィに成功すれば、その後のコンボに繋げることができる。これにより、不利な展開を有利に転じることが可能。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "jp",
+    "situation": "相手が連打技を多用する場合",
+    "source_video_id": "d9jAhXEub7A",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【SF6】無理なんだけど～！不利な組み合わせであるガイル対JP戦で重要な対策をドンピシャさんに伝授するプロゲーマーひぐち【スト6】",
+    "source_timestamp": "09:15",
+    "source_quote": "こういうのなんか連射されるの面倒くさいじゃないですかこうやって…これに対してやっぱジャストパリィの読み合いが出来る…なるほどな…ジャストパリィ取ったら…ラッシュ大Pとか入ります…ジャストパリィの読み合いを出来るともう1個上に行けるかなと…なるほど。この組み合わせキツイと思うんで…そもそもキツイですもんね。そこの逆択を出来る様になったりすると結構良いかなと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:47:34.121631",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "400",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

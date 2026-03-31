@@ -1,0 +1,182 @@
+[
+  {
+    "id": "4b5ebc9fbf09",
+    "category": "matchup",
+    "topic": "キャミィキャノンストライク反撃",
+    "content": "キャミィのキャノンストライクをガードした場合、エドは発生5Fの立ち弱Pで反撃可能。さらに、立ち弱PからDRキャンセル弱P -> 弱スナップバックに繋ぐことで720ダメージのコンボを決められる。手前落ちの弱キャノンストライクに対しても同様の連携が可能。立ち弱Pを出すことでキャミィを浮かせて追撃可能にするため、フルコンボを貰わないようにするだけでも有効な対策となる。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのキャノンストライク（または手前落ち弱キャノンストライク）をガードした後",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "00:05",
+    "source_quote": "皆んなねえ、あれでしょどうせ、これ4んでるんでしょう、みんな / 俺のストライク対策。この、これを、こんなんで詰まされてたまるかという事ことで / 手前落ちにはこうやって先に殴って / これ、何で小Pを置いてるかというと、なんで小Pを置いてるかっていうとですね / ほら、ほらほらほらほらほら、ほら、パニッシュカウンター、ほら、簡単でしょ？ こんな簡単にストライクと手前落ちと通常飛びに対応できててしまう。立ち小Pを出すことによって、浮いた瞬間に立ち小Pを出すことによって、まあこれね、手前落ちに関してはこれなくでもいい、正直。先に殴れさえすればいい。こんなん組んなくてもいい。手前落ちにこれやってフルコンもらうのがもうアホすぎて対空が出なくなるっていうのを防げるだけでいい / 食らわないだけでいいんで、これで潰すとフォースダウン",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "384bec7e3258",
+    "category": "matchup",
+    "topic": "キャミィ通常ジャンプ攻撃反撃",
+    "content": "キャミィの通常ジャンプ攻撃（J強Kなど）をガードした場合、エドは発生8Fの立ち強Pで反撃できる。また、立ち弱PからDRキャンセル弱P -> 弱スナップバックでコンボに行ける。OD昇龍拳でカウンターを取ることも可能。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの通常ジャンプ攻撃をガードした後",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "00:15",
+    "source_quote": "あああああ〜ってなってるんでしょ / 通常飛びをガード後、エドは立ち弱PからDRキャンセル弱P -> 弱スナップバックでコンボに行ける。 / ほら！ほら！パニッシュカウンター。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ea7576e1c85",
+    "category": "matchup",
+    "topic": "キャミィジャンプ攻撃への対空",
+    "content": "エドの昇龍拳は発生13Fで、キャミィのジャンプ攻撃に対して間に合う対空手段である。キャノンストライクには中昇龍拳、ストライクでない通常ジャンプ攻撃には弱昇龍拳と使い分けるのが確実な対策となる。OD昇龍拳は光るため視覚的に判断しやすく、対空の難易度が許容できる。ただし、中昇龍拳を通常飛びに対して使用すると不利になるため推奨されない。成功率が3割～5割程度でも、積極的に昇龍拳や反撃を狙うべき。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのジャンプ攻撃に対して対空を出す場合",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "02:00",
+    "source_quote": "浮いたのを見て、立ち小Pやって、あ！通常飛びだ、と思ってから昇龍を入力することで、ほら、間に合うんですよ。ほら、間に合うんですよ / 中昇龍やっちゃうとね、通常飛びにゲロ弱くなるんよ / 結局昇龍の弱と中使い分けるのまたやるのかよって思ったけど、これが確実 / ODが絡んでも、ODの方がむしろ光るから判断できると思う / 実際ストライクも通常飛びも両方落としやすそう / ストライク見て中でじゃなかったら弱 / やるべき！つって、3割失敗してもいい、いや5割失敗してもいいからやるべきって言ってたんだけど",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4b5ebc9fbf09",
+    "category": "matchup",
+    "topic": "キャミィキャノンストライク反撃",
+    "content": "キャミィのキャノンストライクをガードした場合、エドは発生5Fの立ち弱Pで反撃可能。さらに、立ち弱PからDRキャンセル弱P -> 弱スナップバックに繋ぐことで720ダメージのコンボを決められる。手前落ちの弱キャノンストライクに対しても同様の連携が可能。立ち弱Pを出すことでキャミィを浮かせて追撃可能にするため、フルコンボを貰わないようにするだけでも有効な対策となる。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのキャノンストライク（または手前落ち弱キャノンストライク）をガードした後",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "00:05",
+    "source_quote": "皆んなねえ、あれでしょどうせ、これ4んでるんでしょう、みんな / 俺のストライク対策。この、これを、こんなんで詰まされてたまるかという事ことで / 手前落ちにはこうやって先に殴って / これ、何で小Pを置いてるかというと、なんで小Pを置いてるかっていうとですね / ほら、ほらほらほらほらほら、ほら、パニッシュカウンター、ほら、簡単でしょ？ こんな簡単にストライクと手前落ちと通常飛びに対応できててしまう。立ち小Pを出すことによって、浮いた瞬間に立ち小Pを出すことによって、まあこれね、手前落ちに関してはこれなくでもいい、正直。先に殴れさえすればいい。こんなん組んなくてもいい。手前落ちにこれやってフルコンもらうのがもうアホすぎて対空が出なくなるっていうのを防げるだけでいい / 食らわないだけでいいんで、これで潰すとフォースダウン",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "384bec7e3258",
+    "category": "matchup",
+    "topic": "キャミィ通常ジャンプ攻撃反撃",
+    "content": "キャミィの通常ジャンプ攻撃（J強Kなど）をガードした場合、エドは発生8Fの立ち強Pで反撃できる。また、立ち弱PからDRキャンセル弱P -> 弱スナップバックでコンボに行ける。OD昇龍拳でカウンターを取ることも可能。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの通常ジャンプ攻撃をガードした後",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "00:15",
+    "source_quote": "あああああ〜ってなってるんでしょ / 通常飛びをガード後、エドは立ち弱PからDRキャンセル弱P -> 弱スナップバックでコンボに行ける。 / ほら！ほら！パニッシュカウンター。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ea7576e1c85",
+    "category": "matchup",
+    "topic": "キャミィジャンプ攻撃への対空",
+    "content": "エドの昇龍拳は発生13Fで、キャミィのジャンプ攻撃に対して間に合う対空手段である。キャノンストライクには中昇龍拳、ストライクでない通常ジャンプ攻撃には弱昇龍拳と使い分けるのが確実な対策となる。OD昇龍拳は光るため視覚的に判断しやすく、対空の難易度が許容できる。ただし、中昇龍拳を通常飛びに対して使用すると不利になるため推奨されない。成功率が3割～5割程度でも、積極的に昇龍拳や反撃を狙うべき。",
+    "characters": [
+      "ed",
+      "cammy"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのジャンプ攻撃に対して対空を出す場合",
+    "source_video_id": "QNC6X6DlOxI",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "【スト6、エド】難易度○○級！？遂に至ったキャミィ対策",
+    "source_timestamp": "02:00",
+    "source_quote": "浮いたのを見て、立ち小Pやって、あ！通常飛びだ、と思ってから昇龍を入力することで、ほら、間に合うんですよ。ほら、間に合うんですよ / 中昇龍やっちゃうとね、通常飛びにゲロ弱くなるんよ / 結局昇龍の弱と中使い分けるのまたやるのかよって思ったけど、これが確実 / ODが絡んでも、ODの方がむしろ光るから判断できると思う / 実際ストライクも通常飛びも両方落としやすそう / ストライク見て中でじゃなかったら弱 / やるべき！つって、3割失敗してもいい、いや5割失敗してもいいからやるべきって言ってたんだけど",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T02:56:14.948535",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

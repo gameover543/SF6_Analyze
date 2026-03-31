@@ -1,0 +1,224 @@
+[
+  {
+    "id": "fd3d6ac96eb8",
+    "category": "defense",
+    "topic": "弱龍尾脚確定反撃",
+    "content": "ケンが弱龍尾脚（声：おりゃ！）をガードさせた場合、プレイヤーは+4F有利となるため、小技で確定反撃を取ることができます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが弱龍尾脚をガードさせた後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "01:00",
+    "source_quote": "おりゃ！というのが弱です。これ、プラス4Fなので小技が確定します。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5c507a308f48",
+    "category": "defense",
+    "topic": "中龍尾脚確定反撃",
+    "content": "ケンが中龍尾脚（声：しゃあ！）をガードさせた場合、立ちガードで+8F有利、しゃがみガードで+7F有利となります。中攻撃が確定するので、立ちガードしてから中攻撃で確定反撃を取りましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが中龍尾脚をガードさせた後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "01:11",
+    "source_quote": "しゃあ！が中ですね。これ立ちガードするとプラス8フレーム、しゃがみガードするとプラス7フレーム取ることができます。まあ基本的に中攻撃が確定します。できるだけ立ちガードできるといいですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a06770992250",
+    "category": "defense",
+    "topic": "強龍尾脚の割り込み",
+    "content": "ケンが強龍尾脚（声：どうだ！）を出してきた場合、ガードするとケン側が+1F有利となり投げ間合いになるため、ガードしてはならない技です。強龍尾脚は発生モーションが長い（28F）ため、相手のタイミングを読んで小技で割り込むことができます。小技で割り込むと相手をフォースダウン状態にできるため、追撃を入れることが可能です。さらに、ドライブインパクトで潰すことも可能です。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが強龍尾脚を出した後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "01:31",
+    "source_quote": "どうだ！というのが強ですね。これガードしたらケン側がプラス1Fです。しかも投げ間合いなので、投げと打撃の2択を迫られるっていう感じでガードしてはダメな技なんですよね。じゃあどうしたらいいんやって話なんですけども、実はこの技、結構簡単に落とせます。こんな感じで、小技で簡単に落とせる。しかもこれ当たった時フォースダウンになるので、こんな感じで追撃を入れることが可能。追撃可能な技まで調べておくとかなり痛いダメージを与えられることができます。そしてもう一つ。実はこれですねモーションが長いので、ドライブインパクト確定させることができます。こんな感じですね。ガン見してれば反応できると思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "606",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "72cf8134966a",
+    "category": "defense",
+    "topic": "弱迅雷脚確定反撃",
+    "content": "ケンが弱迅雷脚（声：とりゃ！）をガードさせた場合、プレイヤーは+11F有利となりますが、大攻撃などの発生が遅い技で確定反撃を取ろうとすると下段派生で潰されてしまいます。そのため、5F以内の小技で確定反撃のコンボを入れましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが弱迅雷脚をガードさせた後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "02:32",
+    "source_quote": "とりゃ！みたいなやつが弱ですね。弱なんですけど、ガードするとプラス11フレームという事で大攻撃でも確定が取れるんですが、はい。大攻撃で確定取ろうとすると下段派生に潰されてしまいます。なので、このように5F以内の小技で確定反撃のコンボを入れましょう。弱迅雷脚の対策はこれだけ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "feca0bd83588",
+    "category": "defense",
+    "topic": "中迅雷脚の確定反撃",
+    "content": "ケンが中迅雷脚（声：でぃや！）の1段目をガードした場合、-7Fとなります。7F以内の無敵技（例：キャミィのODキャノンストライク）で確定反撃を取ることができます。SAゲージやODゲージを使いたくない場合は、下段派生をガードするタイミングでボタンを押すことで、中段派生を潰し痛い反撃を与えることができます。ただし、下段派生はガードするしかありません。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが中迅雷脚を出した後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "02:59",
+    "source_quote": "でぃや！みたいなやつですね。これが一番厄介。ガードしたら+7Fなんですが...下段派生が暴れ潰しなので小技でも確定が取れません。なので、これは1段目をガードしたら7F以内の無敵技で確定を取る。キャミィだったらボディスパイクですね。こんな感じで1段目にも下段派生にも確定を取ることができます。ただ、SAゲージもODゲージも使いたくないよっていう時があると思います。そういう時は、下段派生をガードするタイミングでボタンを押すことで中断派生を潰すことができます。こんな感じですね。今下段派生をガードするタイミングでボタンを押しました。これですね。ガードできてますね。こんな感じで下段派生をガードするタイミングでボタンを押すと、中断派生が出てきた時に痛い反撃を与えることができます。ただね、下段派生はガードするしかないのでそこは受け入れましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323",
+      "324"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e37e31ba27b",
+    "category": "defense",
+    "topic": "強迅雷脚の確定反撃",
+    "content": "ケンが強迅雷脚（声：迅雷！）の1段目をガードしても、ケンが+2F有利となるため確定反撃はありません。相手が下段派生を出してきた場合、ガードすると+5F有利となり、小技で確定反撃を取ることができます。相手が中段派生を出してきた場合、1段目をガードした後に攻撃ボタンを押すことで割り込みが可能です（強迅雷脚の1段目ガード後に中段派生は連続ガードではないため）。対策として、ケンが「迅雷！」と聞こえたら、中段派生を潰せるしゃがみ系の技（ボタン）を置いておき、もし下段派生をガードしたら、5Fの確定反撃を取りましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが強迅雷脚を出した後",
+    "source_video_id": "gaLzA4b10Do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "【初心者必見】簡単にできる『ケン対策』講座!!立ち回りの最強技『龍尾脚と迅雷脚』の対策を紹介します！【ストリートファイター6】【STREET FIGHTER 6】",
+    "source_timestamp": "04:06",
+    "source_quote": "迅雷！っていうのが強です。これガードしても+2Fなので確定無し。ただしキャンセルに割り込み可能です。しかし、下段派生をガードするとプラス5Fなので確定反撃が取れる。ただし、下段派生のガードを待っていると中断派生を食らってしまう。なんですけど実は、この下段派生連続ガードになってるんですよ。なので、ボタンを押しても技が出ない。という事はこの、1段目をガードした時点でボタンを押しゃ良いんですよ。相手が中断派生なら割り込んでコンボに行ける。下段派生を出してきた場合はガードになるので確定反撃を取れる。っていうことでね、強迅雷脚、「迅雷！」と聞こえたらとりあえず中断を潰せるしゃがみの技を置いとく。で、それガードしてたら今度は5Fの確定反撃を取るっていう風にしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:33:06.856488",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e0ea78c1601b",
+    "category": "defense",
+    "topic": "立ち弱K確定反撃",
+    "content": "立ち弱Kはリーチが長く発生5Fのため、5Fや6Fの確定反撃に使える。例えばケンの立ち中K（ガード時+5F）に対して立ち弱Kで確定反撃を取ることができる。5Fや6Fの確定反撃を見逃さないように。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "相手の技をガードし、確定反撃を狙う時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "03:51",
+    "source_quote": "立ち弱Kは長いので確定反撃でも使える。例えばケンのの立ち中Kの確定反撃。ガードしたら+5Fある。キャミィなら少ししめ込んだ立ち中Kに確定反撃が取れる。なので、5Fや6Fの確定反撃を見逃さないようにしましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7661dad9a0c3",
+    "category": "neutral",
+    "topic": "アクセルスピンナックルでの弾抜け",
+    "content": "アクセルスピンナックルは中、強、OD版が弾抜け可能。ケンやリュウのような弾持ちキャラに対しては、弾を見てからODアクセルスピンナックルで抜けるのがおすすめ。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ken",
+    "situation": "相手が波動拳などの飛び道具を撃ってきた時",
+    "source_video_id": "3B7pCR0m1do",
+    "source_channel": "Rush Gorou / 五郎",
+    "source_video_title": "[Street Fighter 6] Explaining how to use Cammy to win! Introducing Cammy's combos, moves to use i...",
+    "source_timestamp": "05:11",
+    "source_quote": "スピンナックルは中、強、ODが弾抜け可能になっています。ケンやリュウの弾なら見てから抜けることができます。見てから弾抜けを狙うならODでやるのがおすすめ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:20:00.646451",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

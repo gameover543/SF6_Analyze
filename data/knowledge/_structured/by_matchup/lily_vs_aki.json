@@ -1,0 +1,116 @@
+[
+  {
+    "id": "38a984ab404a",
+    "category": "matchup",
+    "topic": "リリー：AKIの遠距離攻撃に対する対策",
+    "content": "AKIが立ち強Pや毒蛇・浮影（ポイズンニードル）のような遠距離攻撃や飛び道具を出す際、リリーは風纏いコンドルダイブやOD風纏いコンドルダイブで抜けることができる。これにより、AKIの攻撃を回避しつつ、有利な状況を作り出すことが可能。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "aki",
+    "situation": "AKIが遠距離攻撃や飛び道具を使用する際",
+    "source_video_id": "iljUfyjdDw4",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendリリーから学ぶ！✨A.K.I.戦立ち回り LEGEND Lily's Matchup Strategy Against A.K.I.〚Hibiki〛〚小路KOG〛",
+    "source_timestamp": "00:16",
+    "source_quote": "LILYがAKIの遠距離攻撃や飛び道具を風纏いコンドルダイブで避けている場面",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:55:45.917580",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "322",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "060fdfbde7b4",
+    "category": "matchup",
+    "topic": "リリー：AKIのしゃがみ攻撃に対する切り返し",
+    "content": "AKIがしゃがみ中Kやしゃがみ強Kなどの下段攻撃を仕掛けてきた場合、リリーはリバーサルOD風纏いコンドルスパイアを使って切り返すことができる。これはアーマー属性を持つため、AKIの攻撃を耐えつつ反撃し、パニッシュカウンターからのコンボで大ダメージを狙える。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "aki",
+    "situation": "AKIが下段攻撃や差し返しを狙う際（特にガード後）",
+    "source_video_id": "iljUfyjdDw4",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendリリーから学ぶ！✨A.K.I.戦立ち回り LEGEND Lily's Matchup Strategy Against A.K.I.〚Hibiki〛〚小路KOG〛",
+    "source_timestamp": "00:47",
+    "source_quote": "LILYがAKIの下段攻撃をリバーサルOD風纏いコンドルスパイアでパニッシュカウンターしている場面",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:55:45.917580",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fd255c83e581",
+    "category": "matchup",
+    "topic": "リリー：AKIの防御に対する崩し",
+    "content": "AKIがガードを固めている際や、防御的な立ち回りを見せる場合、リリーはコマンド投げであるタロク・マイトを使ってガードを崩し、大ダメージを与えることができる。パニッシュカウンターになる場面が多く、リターンが高い。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "aki",
+    "situation": "AKIがガードを固める、または防御的な立ち回りの際",
+    "source_video_id": "iljUfyjdDw4",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendリリーから学ぶ！✨A.K.I.戦立ち回り LEGEND Lily's Matchup Strategy Against A.K.I.〚Hibiki〛〚小路KOG〛",
+    "source_timestamp": "02:08",
+    "source_quote": "LILYがAKIをタロク・マイトで投げている場面",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:55:45.917580",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "92a8d7168642",
+    "category": "combo",
+    "topic": "リリー：パニッシュカウンターからのSA3コンボ",
+    "content": "AKIの通常攻撃に対しパニッシュカウンターが発生した場合、立ち強PからのOD風纏いコンドルスパイア、そしてスーパーアーツ3のレイジングタイフーンへと繋ぐことで、体力の多くを奪う強力なコンボが成立する。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "aki",
+    "situation": "AKIの通常攻撃に対するパニッシュカウンター時",
+    "source_video_id": "iljUfyjdDw4",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendリリーから学ぶ！✨A.K.I.戦立ち回り LEGEND Lily's Matchup Strategy Against A.K.I.〚Hibiki〛〚小路KOG〛",
+    "source_timestamp": "00:54",
+    "source_quote": "LILYがAKIにパニッシュカウンターを取り、立ち強PからOD風纏いコンドルスパイア、SA3へ繋いでKOしている場面",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:55:45.917580",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "405"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

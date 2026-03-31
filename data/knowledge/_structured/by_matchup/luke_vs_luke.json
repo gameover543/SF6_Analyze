@@ -1,0 +1,89 @@
+[
+  {
+    "id": "e20369269c80",
+    "category": "matchup",
+    "topic": "ルーク 強フラッシュナックル対策",
+    "content": "ルークの強フラッシュナックルのためなしをガードした後、5分状況なので4F技で反撃すると相打ちになります。相手がSA3を持っている場合はドライブインパクトでの反撃はできません。代わりにバックジャンプでの対処を検討してください。画面端でも同様の対処が可能です。常にガードし続ける必要はなく、4F技で相打ちを取ることを意識しましょう。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "luke",
+    "situation": "強フラッシュナックルためなしガード後、画面端",
+    "source_video_id": "-Hb4pK51CoA",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】勝率が上がるワンポイントキャラ対策シリーズ part1",
+    "source_timestamp": "00:36",
+    "source_quote": "強フラッシュナックルがかなり強くて、で本来これインパクトが対策なんだけど、SA3があるとそれも出来ないと。いう凄い強い連携なんだけど、でガードさせて+4Fね。これ来るとおもったらバックジャンプで、フルコンです。画面端でもOK。これは覚えておくと良い。これ強フラッシュナックルのためなしをガードした後は5分なので、4F技を打てば相打ちになります。こうやって。だからずっとガードしている必要は全然無くて、これ知っておくとそのキャラへの勝率がちょっとだけ上がるよシリーズね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T00:00:54.533025",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18ccc10191bf",
+    "category": "matchup",
+    "topic": "ルーク戦の対策",
+    "content": "ルークに対しては、ザンギエフの投げ技が有効。投げた後は相手を追いかけるチャンスなので、積極的に攻めを継続する。ドライブインパクトで「止まれ」表示が出た場合、一時停止して相手の行動を待つ。",
+    "characters": [
+      "zangief",
+      "luke"
+    ],
+    "matchup": "luke",
+    "situation": "相手を投げた後、ドライブインパクトで「止まれ」表示が出た時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "02:18",
+    "source_quote": "お前この投げの王を投げるとな？ 不敬な者には罰を与えましょう 投げた後はチャンスです、走って追いかけましょう 止まれ標識です 一時停止は守りました",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "18ccc10191bf",
+    "category": "matchup",
+    "topic": "ルーク戦の対策",
+    "content": "ルークに対しては、ザンギエフの投げ技が有効。投げた後は相手を追いかけるチャンスなので、積極的に攻めを継続する。ドライブインパクトで「止まれ」表示が出た場合、一時停止して相手の行動を待つ。",
+    "characters": [
+      "zangief",
+      "luke"
+    ],
+    "matchup": "luke",
+    "situation": "相手を投げた後、ドライブインパクトで「止まれ」表示が出た時",
+    "source_video_id": "BM9Hcl9CN6M",
+    "source_channel": "★十神★【TENSHIN】",
+    "source_video_title": "[Street Fighter 6] How to use Toshinryu Zangief",
+    "source_timestamp": "02:18",
+    "source_quote": "お前この投げの王を投げるとな？ 不敬な者には罰を与えましょう 投げた後はチャンスです、走って追いかけましょう 止まれ標識です 一時停止は守りました",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T03:16:27.898773",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

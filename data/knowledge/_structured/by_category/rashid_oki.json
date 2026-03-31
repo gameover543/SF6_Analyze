@@ -1,0 +1,1743 @@
+[
+  {
+    "id": "cb2d1c94e28c",
+    "category": "oki",
+    "topic": "中央での起き攻め",
+    "content": "画面端に届かない場合の中ミキサー（236+中攻撃）締め後、相手が後ろ受け身を取らない限りは、前ジャンプ攻撃で相手の起き上がりに重ねることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央で中ミキサー締め後",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "03:15",
+    "source_quote": "で画面端に届かない時は中ミキサーにするんだけど。この時は簡単なのは前ジャンプ。相手が後ろ受け身とかしなけでば、ここからの前ジャンプが相手の起き上がりにちょうど当たるから。簡単なのはここから前ジャンプしてまた中を狙う。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3dc64327a97f",
+    "category": "oki",
+    "topic": "中央での起き攻め（中段連携）",
+    "content": "慣れてきたら、画面端に到達しない場合の中ミキサー（236+中攻撃）締め後、ドライブラッシュから前強攻撃（DR+HK）を出す起き攻めも強力。これは中段攻撃であり、相手のしゃがみガードを崩せる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中央で中ミキサー締め後",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "04:39",
+    "source_quote": "で慣れてきたらこの画面端に到達しない場合に中ミキサーで締めた後、この後にドライブブラッシュ。この中ミキサーを打ったらすぐパリィをして前前って連打していればここからドライブラッシュが出せるので、ここからの前強。これがしゃがみガード出来ない。いわゆる中段攻撃になっているので。これの起き攻めがめちゃくちゃ強力。慣れてきたらこの中ミキサーからのドライブブラッシュ前強。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "59ad0726c9b2",
+    "category": "oki",
+    "topic": "高度な起き攻め（弱サイクロン後の連携）",
+    "content": "アシスト中ガード時の弱サイクロンや、ドライブラッシュ強攻撃での起き攻め後、相手が起き上がりにドライブインパクトを撃ってくる場合は、下SP後の後ろSPでラシードが舞い上がる。舞い上がった後にジャンプ攻撃を出して中アシストコンボにつなげる連携が強力。インパクトを食らっても空中ヒットになるため、痛いコンボは受けにくい。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手の起き上がり時、中段攻撃をガードした後",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "07:53",
+    "source_quote": "たまにね、これ画面端の強ミキサーの後にジャンプ強やる場合、相手が方向キーを前に入れてると実はこのね前ジャンプ強が当たらないんです。なので、このジャンプ強がすかる「あ、この人なんかスカる！」って思ったらここはジャンプ中にしましょう。ジャンプ中にすれば大丈夫。で慣れてきたらこの画面端に到達しない場合に中ミキサーで締めた後、この後にドライブブラッシュ。この中ミキサーを打ったらすぐパリィをして前前って連打していればここからドライブラッシュが出せるので、ここからの前強。これがしゃがみガード出来ない。いわゆる中段攻撃になっているので。これの起き攻めがめちゃくちゃ強力。相手が起き上がりにドライブインパクトを撃たれるとこれ一応食らっちゃうんだけど、これも空中ヒットになるから、あんまり痛いコンボ入れられにくい。という感じでね、これ結構アシスト中コンボの隙をカバー出来るんで。この連携はかなり強いので覚えてみましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a257a7e0810",
+    "category": "oki",
+    "topic": "対空後の起き攻め（ドライブラッシュ強攻撃）",
+    "content": "対空で強ミキサー（前SP）を決めた後、ドライブブラッシュ前強攻撃（DR+HK）の中段起き攻めに移行する。この起き攻めは非常に強力。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "対空の強ミキサー後",
+    "source_video_id": "rC4PsGpFKNQ",
+    "source_channel": "ACQUA",
+    "source_video_title": "【SF6、スト6】初心者おすすめ度S！モダンラシード講座！",
+    "source_timestamp": "14:04",
+    "source_quote": "ドライブラッシュ前強。これの使い方ももう1個あって。この中ミキサーの後っていうのをさっき紹介したんだけど、もう1個対空で強ミキサーを決めた後、相手の前ジャンプに対して前SPの強ミキサーを決めた後にこの後にもドライブブラッシュ前強。この起き攻めが強いです。なので対空決めたらこのドライブブラッシュ前強の中段の起き攻めに行きましょう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T19:07:54.044443",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d586a0ad9b48",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "ラシードが相手を画面端に追い詰めた際の起き攻めは、以下の4つを基本にしましょう。どれを選択するかは状況や相手の行動を見て自分の判断で決めましょう。\n1. 弱連打 (弱アシストコンボ)\n2. 弱攻撃からの投げ (弱アシストコンボ始動で投げる)\n3. 投げ\n4. 垂直ジャンプ",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端の起き攻め",
+    "source_video_id": "a4A3SqVpgWI",
+    "source_channel": "でぃぃち",
+    "source_video_title": "本当に頭を使いたくない人向けのモダンラシード解説",
+    "source_timestamp": "03:00",
+    "source_quote": "起き攻めできるときに、基本することはこの4つだけで良いです。弱連打。弱から投げ。投げ。垂直ジャンプ。どれを選択するかは自分の気分で良いよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T01:32:44.268989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba7f90f16ecb",
+    "category": "oki",
+    "topic": "中アシコン後の画面端起き攻め（モダン）",
+    "content": "画面端で中アシコンをヒットさせた後、相手の起き上がりに合わせて中アシコンを連打し続けると中Pが重なる。相手が暴れたりジャンプで逃げようとしている限り、ヒットし続けるのでこれだけで勝つことも可能。ただし、ガードされると大きな隙を背負うため、これが嫌な場合はガードされても反撃を受けない強アシコンを使うのが良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、中アシコンコンボ後の起き攻め",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "09:41",
+    "source_quote": "ラシードは画面端に到達した場合そのまま中アシコンを連打し続けることで中Pが重なります。相手が暴れたりジャンプで逃げようとしている限り当たり続けるのでこれだけで勝つことも可能です。とはいえさすがに繰り返ししているとガードされるようになり前述の通り中アシコンはガードされると反撃を受けてしまいます。ただし中アシコンはガードされると大きめの隙を背負ってしまうのでこれが嫌な人はガードされても反撃を受けない強アシコンを使うのも良いでしょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b03403315397",
+    "category": "oki",
+    "topic": "投げからの柔道（画面端）",
+    "content": "相手がおとなしくなった場合は投げが選択肢として有効。投げはその場だと届かない場合があるので、ほんの一瞬歩き入力が必要。投げを決めた後は画面端であれば、ステップ入力で再度投げを決められる。最速で投げるとスカるため、少しだけ遅らせるのがポイント。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、投げからの起き攻め",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "10:05",
+    "source_quote": "こういったおとなしくなった相手には投げが選択肢として有効です。投げはその場だと届かないのでほんの一瞬歩き入力が必要な点だけ注意しましょう。投げを決めた後は画面端であればステップ入力をすることで再度投げを決めることができる通称柔道を使いこなすことが可能です。ステップ後最速で投げるとスカってしまうので少しだけ遅らせるのがポイントになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ed510c643c4",
+    "category": "oki",
+    "topic": "投げ抜けやジャンプ逃げへの対策（起き攻め）",
+    "content": "投げ抜けやジャンプ逃げをする相手には、中ターゲットコンボなどの打撃択が必要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手が投げ抜けやジャンプで起き攻めから逃げようとする時",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "10:31",
+    "source_quote": "これを嫌がって投げ抜けやジャンプ等をする相手には打撃択が必要ですがこれも最初中タゲコンで大丈夫です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0ddde927d708",
+    "category": "oki",
+    "topic": "中ミキサー〆後の起き攻め（ラッシュ6強P）",
+    "content": "中ミキサーでコンボを〆た場合、ラッシュ6強Pがおすすめの起き攻め。最速で入力すると相手の起き上がりに重なる中段攻撃となり、ヒット率が高い。ヒット時は中アシコンに繋がり、起き攻めをループさせることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "コンボを中ミキサーで〆た後の起き攻め",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "10:46",
+    "source_quote": "中ミキサーで〆た場合の起き攻めとしてはラッシュ6強Pがおすすめです。入力は最速でおkかつ相手の起き上がりに重なりその上中断なのでヒット率も高くなっています。ヒット時は中アシコンがつながるので起き攻めをループさせましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e5f10bd1a16",
+    "category": "oki",
+    "topic": "後ろ受け身後の起き攻め",
+    "content": "後ろ受け身を確認した場合や画面端到達時は、空J2強Pを重ねることで相手のジャンプ逃げを狩ることができる。空J2強Pはヒット後に跳ねて再度空中行動が可能。ヒット時は降り強Kを出すとコンボになる。また、1段目弱スカイハイキャンセルはヒット時にダウンを奪える。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "後ろ受け身後、または画面端での起き攻め",
+    "source_video_id": "wsgbrO67xdE",
+    "source_channel": "べーやんの部屋【ゆっくり解説チャンネル】",
+    "source_video_title": "【それっぽく動かすラシード】使いこなせばパーフェクトソルジャーになれる!?誰でも起き攻めが身につくラシード初心者向け解説講座基本編【ストリートファイター6】【スト6】",
+    "source_timestamp": "14:46",
+    "source_quote": "なお後ろ受け身をを確認した場合や画面端到達時はJ2強Pを重ねることでジャンプ逃げを狩ることができます。空J2強Pはヒット後跳ね、再度空中行動が可能な技になっていますおり様々な行動が可能です。まずはヒット時にコンボになる降り強Kを出しておくのがよいでしょう。なお1段目弱スカイハイキャンセルはヒット時もコンボになりダウンをとることができます。この場合着地最速DIがジャンプ逃げ不可能なななで合わせて覚えておくとよいでしょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:48:44.856417",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d027bb18d451",
+    "category": "oki",
+    "topic": "中ミキサー後の起き攻め択",
+    "content": "中ミキサーからのドライブラッシュで追撃した場合、相手の起き上がりに中段攻撃を仕掛けることができます。中段攻撃はしゃがみガードができない強力な選択肢です。この中段攻撃を見せた後は、逆に下段攻撃（しゃがみ弱K）を仕掛けることも効果的です。\n中段ルート: 弱P (LP) × 2〜3発 → 中ミキサー → ドライブラッシュ (DR) → 立ち強P (6HP) → 立ち中P (5MP) → 中スパイク (Mスパイク)。\n下段ルート: 弱P (LP) × 2〜3発 → 中ミキサー → ドライブラッシュ (DR) → しゃがみ弱K (2LK) → しゃがみ中K (2MK) → 弱スパイク (Lスパイク)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手の起き上がりの攻め継続",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "01:31",
+    "source_quote": "MミキサーからDR 6HPをすると 相手の起き上がりに中段攻撃をしかけられます 中段攻撃はしゃがみガードができないので ガードの難しい強力な選択肢です 中段攻撃を見せた後は 逆に下段攻撃をしかけるを効果的です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "107",
+      "109",
+      "204",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "57cfbb48feaa",
+    "category": "oki",
+    "topic": "画面端インパクトガード後の攻め",
+    "content": "画面端でドライブインパクトをガードさせた時の攻めです。立ち中P (5MP)から立ち強K (5HK)の繋ぎに少し慣れが必要となります。\nレシピ: インパクトガード (画面端) → 立ち中P (5MP) → 立ち強K (5HK) → 弱ミキサー (Lミキサー) → 強ミキサー (Hミキサー)。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端でインパクトガード時",
+    "source_video_id": "lZFUCcnlGaI",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード入門コンボ紹介！ほぼこの動画のコンボだけでダイア帯勝率77%超え！初心者にもわかりやすいプチ解説つき【ストリートファイター6/SF6】",
+    "source_timestamp": "03:25",
+    "source_quote": "続いてインパクトを画面端で ガードさせた時のコンボです 5MPから5HKの部分に 少し慣れが必要だと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:44:46.360590",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b6d28061f00e",
+    "category": "oki",
+    "topic": "フロント・フリップ起き攻め基本",
+    "content": "ラシードで画面端にて相手をダウンさせた後、ターゲットコンボ（TC）> 214強K（フロント・フリップ）から最速でジャンプ攻撃を出すと、相手の起き上がりにジャンプ攻撃は重ならないが、着地で密着+3Fの状況になる。これにより、相手の起き上がりに下段攻撃や投げを重ねることが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端での起き攻め",
+    "source_video_id": "UD9cWsgcZNs",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】Explain NEW Powerful Rashid's OKI: Front Flip OKI !!!【Street Fighter 6】",
+    "source_timestamp": "00:27",
+    "source_quote": "フロント・フリップ起き攻めは主に画面端のTC>214HKから実行できます。フロント・フリップから最速でジャンプ攻撃を出すと起き上がりにジャンプ攻撃が重なりませんが着地して密着+3の状況になります。もちろん密着+3の起き攻めなので下段や投げを重ねる事が可能です。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:05:15.682387",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "786fb7e4b213",
+    "category": "oki",
+    "topic": "サイド・フリップからの派生起き攻め",
+    "content": "ラシードでサイド・フリップから少し遅らせてフロント・フリップ派生をすると、ジャンプ攻撃を相手の起き上がりに重ねることができる。このジャンプ攻撃のタイミングはかなりシビアだが、安全飛びになるフレームも存在する。これにより、中段、下段、投げの3択を仕掛ける強力な起き攻めが可能となる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "UD9cWsgcZNs",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】Explain NEW Powerful Rashid's OKI: Front Flip OKI !!!【Street Fighter 6】",
+    "source_timestamp": "00:59",
+    "source_quote": "そしてサイド・フリップから少し遅らせてフロント・フリップ派生をするとジャンプ攻撃を相手の起き上がりに重ねる事ができます。かなりタイミングはシビアですが安全飛びになるフレームもあります。中段、下段、投げの3択の起き攻めになります。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:05:15.682387",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "211"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ed5b4af623f",
+    "category": "oki",
+    "topic": "フロント・フリップ起き攻めの制約とウィング・ストロークの価値",
+    "content": "ラシードのTC > 214強K（フロント・フリップ）ルートによる起き攻めは画面端限定である。そのため、ステージ中央など様々なシチュエーションから実行できるウィング・ストローク起き攻めも、依然として高い価値を持っている。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端でのコンボ・起き攻め選択",
+    "source_video_id": "UD9cWsgcZNs",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】Explain NEW Powerful Rashid's OKI: Front Flip OKI !!!【Street Fighter 6】",
+    "source_timestamp": "02:15",
+    "source_quote": "しかし今紹介しているTC>214HKのルートは画面端限定なため、色々なシチュエーションから実行できるウィング・ストローク起き攻めの価値もいまだに高いままです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:05:15.682387",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "211",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b89ced4b7fdf",
+    "category": "oki",
+    "topic": "イウサールの発動とヒットコンボ",
+    "content": "イウサールの最も強い発動位置はトレーニングステージの中央から1本手前の線あたり。発動タイミングとしては、弱スパイク、中スパイク、投げ、弱ミキサー、中ミキサーの後や、ワールをガードさせた後などが良い。\nイウサールがヒットしたら、基本的にODミキサー→ODスカイハイ→派生中ミキサー→SA1に繋ぐ。ODミキサーの前に弱スパイクを後半当てで挟むと火力が伸びるが、難しい。ODゲージに余裕がない場合は、ODミキサー後に強スカイハイ→J2大Pで締めると良い。ODゲージを使わない場合は大K強ミキサーが選択肢となる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "イウサール発動時、イウサールヒット時、ODゲージ状況",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "04:38",
+    "source_quote": "まず発動タイミングと場所について。発動場所はトレーニングステージの中央から一個手前の線ぐらいの位置が一番つよいのだ。まー一番つよいのがここってだけで割と適当に発動しちゃっていいと思うのだ。発動タイミングは。弱中スパイク。中強ミキサー。投げとかの後に発動するのが良いのだ。後はワールをガードさせたとときとかも良いと思うのだ。次がイウサールが当たった時のコンボを解説するのだ。まずイウサールが当たったら基本的にはODミキサーなのだ。そこからODスカイハイ派生中ミキサーSA1。基本的にこのルートなのだ。でODミキサーの前に弱スパイクもはさむことができるのだ。弱スパイクの後半を当てる感じで。ちょっと難しいのだ。でもできたらかなり火力が伸びるので慣れてきたら練習したいのだ。ODミキサーの後Dゲージに余裕がないときは。強スカイハイJ2大Pがおすすめなのだ。でDゲージを使わない場合は大K強ミキサーなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f44162816c88",
+    "category": "oki",
+    "topic": "イウサール中の崩し",
+    "content": "イウサール発動後は、まず前ステ投げを見せるのが非常に強力。相手がこれを警戒するようになると、他の崩しが通りやすくなる。2中K弱サイクロンも有効な崩しで、仮にガードされても攻めを継続できる。中段の4K派生J大Pと下段の4K派生J小Pによる二択崩しが可能。崩せなかった場合は弱ミキサーで攻めを継続する。また、イウサールに合わせて立ち大Pを重ねるのも強い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "イウサール発動中",
+    "source_video_id": "QQi-Qk-Eg7g",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ラシード解説【ずんだもん】",
+    "source_timestamp": "05:53",
+    "source_quote": "では崩し方について解説するのだ。まずは前ステ投げ。これがとにかくつよいのだ。これを警戒させると他の択が通りやすくなるので最初はこのを見せるのだ。で次が2中K弱サイクロン。2中Kで崩れなくても。弱サイクロンから4K派生J大Pで中段と。4K派生J小Pで降りて下段崩しができるのだ。で崩せなくても弱ミキサーで攻め継続できるのだ。この2中K弱サイクロンの選択肢を覚えたら。イウサールを強く使えるのだ。あとはイウサールに合わせで6大Pとかもつよいのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:45:09.925606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a7fa14f8ecb4",
+    "category": "oki",
+    "topic": "後ろ受け身確認シミー",
+    "content": "ラシードが相手をダウンさせた後、相手が後ろ受け身を取ったことを確認すると、ラシードの立ち中K（5MK）がシミーとして機能する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手がダウンし、後ろ受け身を取った時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "00:00",
+    "source_quote": "中央はほぼこれ後ろ受け身を確認してシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7f728a05381d",
+    "category": "oki",
+    "topic": "前ステ6KK裏回り",
+    "content": "ラシードが前ステップ後、6KK（イーグルスパイク）を出すと、相手がその場受け身を取った場合に裏回る。これは画面端から脱出する可能性を生む。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "前ステップ後、相手がその場受け身を取った時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "00:20",
+    "source_quote": "前ステ>6KK +2F その場受け身時に裏回る画面端から脱出できる可能性あり",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d53a0581e89d",
+    "category": "oki",
+    "topic": "LP>6KK安全跳び",
+    "content": "ラシードの立ち弱P（LP）から6KK（イーグルスパイク）連携後の状況。ヒット時は+7F、ガード時は+1Fとなり、9Fの安全跳びとして機能する。ただし、相手が後ろ受け身を取った場合、投げ埋めを狙うのが難しい。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "LP>6KK連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "00:31",
+    "source_quote": "LP>6KK +6F 2LPヒット+7F ガード+1F 9F安全重ね 後ろ受け身時に投げ埋めがかなり難しい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "210",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "17025d8b5fdc",
+    "category": "oki",
+    "topic": "5MKダウン後択",
+    "content": "ラシードの立ち中K（5MK）ダウン後の+23F状況では、持続中段攻撃や前ステップからの+5F連携で択をかけることができる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ラシードの立ち中K（5MK）ダウン後、+23Fの状況",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "01:50",
+    "source_quote": "5MK +23F ラシードのよくある+23F状況持続中段か前ステ+5Fで択る",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb1218964f9b",
+    "category": "oki",
+    "topic": "2LK>6KKシミー",
+    "content": "ラシードのしゃがみ弱K（2LK）から6KK（イーグルスパイク）連携後の+5F状況では、バックステップからフリップ（ジャンプ）派生することで相手の無敵技や投げをスカすシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2LK>6KK連携後、+5Fの状況",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "02:10",
+    "source_quote": "2LK>6KK +5F シミーするならバクステフリップから派生で無敵技や投げをすかせる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "210",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3913bb647724",
+    "category": "oki",
+    "topic": "2LK>5HPシミー",
+    "content": "ラシードのしゃがみ弱K（2LK）から立ち強P（5HP）連携後の+5F状況では、相手の最速投げに対してシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2LK>5HP連携後、+5Fの状況",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "02:30",
+    "source_quote": "2LK>5HP +5F 最速投げにシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "107",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "109d5e2656ad",
+    "category": "oki",
+    "topic": "2MKダウン後のインパクト",
+    "content": "ラシードのしゃがみ中K（2MK）で相手をダウンさせた後、+25Fの状況になる。この状況でドライブインパクトを重ねると、相手が受け身を取ってもインパクトが重なる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中K（2MK）でダウン後、+25Fの状況",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "03:44",
+    "source_quote": "2MK +25F インパクトが重なる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "602",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a08952028b45",
+    "category": "oki",
+    "topic": "持続2MPシミー",
+    "content": "ラシードの持続しゃがみ中P（2MP）の重ねはシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン後、持続2MPを重ねた時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "03:50",
+    "source_quote": "持続2MP重ねレシピ シミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fc45b7b0e9a6",
+    "category": "oki",
+    "topic": "2MP>236HKシミー",
+    "content": "ラシードのしゃがみ中P（2MP）から強イーグルスパイク（236HK）連携後、ヒット時は+13F、ガード時は+5Fとなる。ザンギエフ以外のキャラクターに対してシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "2MP>236HK連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "04:03",
+    "source_quote": "2MP>236HK ヒット+13F ガード+5F ザンギ以外にシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "205",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd96baf5fd00",
+    "category": "oki",
+    "topic": "+0F連携BO時",
+    "content": "ラシードのしゃがみ中K（2MK）から強イーグルスパイク（236HK）連携、またはしゃがみ弱K（2LK）から立ち弱K（5LK）を経て強イーグルスパイク（236HK）連携は、ワールウィンドショットを重ねて+0Fの連携になる。2LK～の連携は相手がバーンアウト時専用。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2MK>236HKまたは2LK>5LK>236HK連携後。2LKバリエーションは相手がバーンアウト時。",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "04:58",
+    "source_quote": "2MK>236HK / 2LK>5LK>236HK ワールを重ねて+0F連携2LK～の方はBO時専用",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "107",
+      "109",
+      "205",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d32df07ef79d",
+    "category": "oki",
+    "topic": "DR6HP持続中段重ね",
+    "content": "ラシードが前ステップからのドライブラッシュ立ち強P（DR 6HP）でダウンさせた後、持続中段攻撃を重ねることができる。この持続重ねにより、相手は投げ暴れができなくなる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "前ステップからのドライブラッシュ立ち強P（DR 6HP）でダウンさせた後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "05:18",
+    "source_quote": "前ステ>DR 6HP ラッシュ持続中段重ねレシピ 持続にすることで投げ択に暴れられなくなる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "204",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "24dfc66ed196",
+    "category": "oki",
+    "topic": "5HP>DR6KK遅らせ投げ",
+    "content": "ラシードの立ち強P（5HP）からドライブラッシュ6KK（イーグルスパイク）連携後は、少し遅らせて投げや無敵技をスカすことができる。ただし、打撃暴れには弱い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "5HP>DR6KK連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "05:39",
+    "source_quote": "5HP>DR 6KK リバサ～少し遅らせ投げと無敵技をかわせる打撃暴れには弱い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "210",
+      "606",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d9b46ab83e21",
+    "category": "oki",
+    "topic": "EXワールウィンドショット後の攻め",
+    "content": "ラシードのEXワールウィンドショット（214PP）後は+3Fとなり、質の良い暴れ潰しや固めが可能。気流強ワールウィンドショット（214HK）でグラップ潰しもできる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "EXワールウィンドショット（214PP）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "05:51",
+    "source_quote": "214PP +3F 質の良い暴れ潰しと固めができる気流214HKでグラ潰しも可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8120b3b05120",
+    "category": "oki",
+    "topic": "前ジャンプ2MP裏表",
+    "content": "ラシードの垂直ジャンプからの空中中P（2MP）は、相手が通常受け身で裏に、後ろ受け身で表に落ちる。着地後最速で2MPを押すとスカる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "前ジャンプからの空中中P（2MP）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "06:22",
+    "source_quote": "前ジャンプ>2MP 通常受け身に裏 後ろ受け身に表着地後最速で2MPを押すとすかる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a6afc0fe63d",
+    "category": "oki",
+    "topic": "前ステ2MK画面端攻め",
+    "content": "ラシードが前ステップで画面端に到達した際、しゃがみ中K（2MK）を使うと+7F状況となり、持続しゃがみ中P（2MP）重ねやシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "前ステップで画面端に到達した時",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "06:39",
+    "source_quote": "前ステ>2MK +7F 前ステで画面端に到達する時に使う持続2MP重ねとシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "109",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2596b33e5643",
+    "category": "oki",
+    "topic": "二回前ステDR2LPシミー",
+    "content": "ラシードが2回の前ステップからのドライブラッシュしゃがみ弱P（DR 2LP）を出すと、ヒット時は+10F、ガード時は+4Fとなる。これは10F安全重ねで、シミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2回の前ステップからのドライブラッシュしゃがみ弱P（DR 2LP）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "08:11",
+    "source_quote": "前ステ>前ステ>DR 2LP ヒット+10F ガード+4F 10F安全重ね シミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "904655434571",
+    "category": "oki",
+    "topic": "二回前ステDR6KK回避",
+    "content": "ラシードが2回の前ステップからのドライブラッシュ6KK（イーグルスパイク）を出すと、相手の投げや無敵技を回避できる。ただし、相手の最速投げに対して確定反撃はない。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2回の前ステップからのドライブラッシュ6KK（イーグルスパイク）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "08:49",
+    "source_quote": "前ステ>前ステ>DR 6KK 投げと無敵技をかわせる最速投げに確定無し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98955e3e9b91",
+    "category": "oki",
+    "topic": "二回前ステDR投げ",
+    "content": "ラシードが2回の前ステップからのドライブラッシュ後に出す投げは、実質+5F投げとなる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2回の前ステップからのドライブラッシュ後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "09:00",
+    "source_quote": "前ステ>前ステ>DR 投げ 実質+5F投げ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ba73296a63a",
+    "category": "oki",
+    "topic": "二回前ステDR5MKシミー",
+    "content": "ラシードが2回の前ステップからのドライブラッシュ立ち中K（DR 5MK）を出すと、ヒット時は+10F、ガード時は+1Fとなる。3F目重ねで、ザンギエフとマリーザ以外のキャラクターに対してシミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "zangief",
+    "situation": "2回の前ステップからのドライブラッシュ立ち中K（DR 5MK）後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "09:07",
+    "source_quote": "前ステ>前ステ>DR 5MK ヒット+10F ガード+1F 3F目重ねザンギエフとマリーザ以外にシミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "66b389014fac",
+    "category": "oki",
+    "topic": "2HK>DR2LPシミー",
+    "content": "ラシードのしゃがみ強K（2HK）からドライブラッシュしゃがみ弱P（DR 2LP）連携後、ヒット時は+11F、ガード時は+5Fとなる。これは9F安全重ねで、シミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2HK>DR 2LP連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "09:23",
+    "source_quote": "2HK>DR 2LP ヒット+11F ガード+5F 9F安全重ね シミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "206",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e0306157f7a5",
+    "category": "oki",
+    "topic": "2HK>2LK>2LPシミー",
+    "content": "ラシードのしゃがみ強K（2HK）からしゃがみ弱K（2LK）を経てしゃがみ弱P（2LP）連携後、ヒット時は+7F、ガード時は+1Fとなる。これは9F安全重ねで、シミーが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "2HK>2LK>2LP連携後",
+    "source_video_id": "OIPIa0D9Hoc",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【SF6】You Can Learn All Rashid's Setups After M Eagle Spike at This vid!!!【Street Fighter 6】",
+    "source_timestamp": "09:46",
+    "source_quote": "2HK>2LK>2LP ヒット+7F ガード+1F 9F安全重ね シミー可",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:32:19.146665",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "107",
+      "206",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cc07c40707d2",
+    "category": "oki",
+    "topic": "弱サイクロン後の詐欺飛び",
+    "content": "弱サイクロンを当てた後の起き攻めとして、「もにょもにょルート」と呼ばれる詐欺飛びがある。これは非常に難しいが、使いこなせれば強力な起き攻めとなる。動画投稿者は前ACTで1000試合ほどこのルートを封印していたが、勝率が全く落ちなかった経験から、個人的には無理に使う必要はないと考えている。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "弱サイクロンヒット後",
+    "source_video_id": "-p3ajb0VlQY",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Street Fighter 6] Legendary Dragon's Guide to 18 Practical Combos [YEAR 3 Compatible]",
+    "source_timestamp": "08:21",
+    "source_quote": "もにょもにょルートと呼ばれる弱サイクロンからの詐欺飛び\nあれだけは本当に難しいですが、個人的には無理に使う必要もねえなと思ってます\n事実自分は前ACTで1０００試合程このルートを封印して\n可能性を感じてTC＞大スパイクの起き攻めはばかり使いましたが、勝率全く落ちませんでした\nその他低空J2強Pのビタコンボも使いません\n別にそんな難しいことせずとも全然レジェ帯狙えます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T21:37:13.707777",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a0487c8ed6f1",
+    "category": "oki",
+    "topic": "端の起き攻めダッシュ投げ",
+    "content": "ラシードが端で起き攻めをする際、ダッシュ投げ（23F）を狙うことができます。相手がバックステップをしても確定反撃を受けませんが、難易度が高いです。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "端の起き攻め",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "01:53",
+    "source_quote": "端の起き攻め ダッシュ 投げO 打撃O シミーO 23Fダッシュ投げ バクステされても確定反撃ない！ けど、難しい！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ae6cbd96c40",
+    "category": "oki",
+    "topic": "端の起き攻め生ラッシュ弱P",
+    "content": "ラシードが端で起き攻めをする際、相手がガードで固まっている場合は生ラッシュからの弱Pが有効です。そこから投げ、打撃重ね、またはシミーの択をかけることができます。ラッシュ中段も有効な選択肢です。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "端の起き攻め、相手がガードで固まっている時",
+    "source_video_id": "SafxEP_KKgk",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンラシードのコンボ、起き攻め、中足ラッシュについて【スト６】",
+    "source_timestamp": "02:14",
+    "source_quote": "端の起き攻め 生ラッシュ弱 投げO 打撃重ねO シミーO 固まっている相手にはラッシュ中段も良い",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T00:16:22.700783",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "06fccf7e2ba4",
+    "category": "oki",
+    "topic": "立中K前ステップシミー",
+    "content": "ラシードの中スパイク後の起き攻めとして、立中Kから前ステップを行う。これにより、軸が大きく前方に移動し、画面中央付近からでも相手に密着した+5Fの有利状況を作り出せる。相手がOD無敵技で暴れてきた場合でも、この連携でヒットさせ、パニッシュカウンターを取ることが可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後の起き攻め、特に画面中央付近",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "00:13",
+    "source_quote": "このセットの真骨頂は 立中K＞前ステと軸を大きく前へ移動出来る事です 画面中央あたりから＋5Fにいけるのが強力",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e50b96b7b693",
+    "category": "oki",
+    "topic": "小足大Pシミー",
+    "content": "ラシードの中スパイク後の起き攻めとして、画面端の状況で小足から大Pを出すと+5Fの有利状況になる。これは非常に強力なセットプレイであり、相手の無敵技の暴れを誘発してシミーで捌くことが可能。ただし、密着ではないため垂直ジャンプには弱い。シミーからの打撃は難しいキャラなので要練習。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後の画面端での起き攻め",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "00:54",
+    "source_quote": "端まで届いた時のド鉄板 基本これ一択ってくらい強いです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f17ba3048f22",
+    "category": "oki",
+    "topic": "コパンフリップ連携",
+    "content": "ラシードの中スパイク後の起き攻めとして、コパンからフリップに派生すると+6Fの有利状況になる。これによりジャンプコパを持続当てで出すことができ、中Pでコンボに繋げられる。発生の遅い無敵技への対策として非常に強力で、相手がバーンアウトしている時や、エド、キンバリーのようにSA1の発生が遅いキャラクターに対して特に有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "ed",
+    "situation": "中スパイク後の起き攻め、相手の無敵技ケア",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "01:13",
+    "source_quote": "これによりジャンプコパが持続当てで可能となり 中Pでコンボに繋げられます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d56142e626a3",
+    "category": "oki",
+    "topic": "小足フリップによる無敵回避",
+    "content": "ラシードの中スパイク後の起き攻めとして、小足からフリップに派生すると密着+5Fの有利状況になる。フリップ派生は相手のほぼ全ての無敵切り返し技を回避できる点が強力。ただし、+5Fからの垂直ジャンプには当たってしまう。春麗、ブランカ、DJなど垂直方向に強いOD技を持つキャラクターに対して有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "chunli",
+    "situation": "中スパイク後の起き攻め、無敵技回避",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "01:38",
+    "source_quote": "フリップ派生する事でほぼ全ての無敵切り返しを 回避できるのが強力",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4354e2653a7c",
+    "category": "oki",
+    "topic": "前ステラッシュ中段/下段",
+    "content": "ラシードの中スパイク後の起き攻めとして、ゲージがある時にドライブゲージを消費して前ステップラッシュから中段攻撃（例: 立ち中K）または下段攻撃を出す。中段攻撃はヒット時に追撃でダメージを伸ばせる。ガードされても+3F有利となり、相手を投げることができる。相手が中段を警戒してガードしている場合は、下段攻撃が有効な崩しになる。シミーはできないが、垂直ジャンプから一部キャラのOD昇龍拳を透かすことも可能。中央でも受け身方向に関わらず持続当てが可能で、非常に強力な起き攻め。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後の起き攻め、ドライブゲージがある時",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "01:52",
+    "source_quote": "ゲージがある時にオススメ かなり圧あります",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5caf49d49f80",
+    "category": "oki",
+    "topic": "小足小足ドライブインパクト",
+    "content": "ラシードの中スパイク後の起き攻めとして、小足から小足、そしてドライブインパクトに繋ぐ連携がある。これは相手を押し込む強力な選択肢だが、小足から小足への繋ぎが地味に難しいため、中足からドライブインパクトに繋ぐ形でも代用可能。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後の起き攻め",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "02:41",
+    "source_quote": "くらえ！と念じながら打ちましょう 小足＞小足が地味に難しいので中足でもOKです",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e94488e913e",
+    "category": "oki",
+    "topic": "小足ドライブインパクト",
+    "content": "ラシードの中スパイク後の起き攻めとして、「汚インパクト式」の小足からドライブインパクトが有効。これは反応の早い相手や、パリーを多用する相手に対して特に強力な択となる。相手がパリーをした場合は、ドライブインパクトを見てから投げに移行することで確定ダメージを与えられる。ドライブインパクトを連打すると危険な状況になるため、注意が必要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "中スパイク後の起き攻め、相手が反応早い場合やパリーを多用する場合",
+    "source_video_id": "1kSITEM8Dcg",
+    "source_channel": "doskonnbu",
+    "source_video_title": "3分で分かるラシード講座：中スパイク後の実用セットプレイ7選",
+    "source_timestamp": "02:51",
+    "source_quote": "汚インパクト式 反応早い”若者”を分からせていきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:09:23.176835",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "28793c154fd3",
+    "category": "oki",
+    "topic": "ODミキサー後のその場受け身への打撃重ね",
+    "content": "ODミキサー後のその場受け身に対しては、以下の打撃重ねを狙う。①6MP：最速で押すとスカるので、一瞬待ってから重ねる。近距離でヒットした場合はその場から6MPを重ねる。ただし、ODミキサーが当たる位置によっては、歩いて6MP > 弱サイクロンをすると確反になる場合があるため、注意が必要。②微歩き2MK：その場から重ねようとするとスカるので、微歩きしてから重ねる。③2HP（モダン限定の強アシスト）：SAがある時にヒット確認からリターンが出る選択肢。ガードされた場合も確反がほとんどない（ケンのSA2くらい）。SA1で画面入れ替えを狙いたい時などに2HPを重ねる。中攻撃（6MP/2MK）の後は弱サイクロンを入れ込んで連ガにしつつDゲージを削ることを目標にする。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ODミキサー後のその場受け身",
+    "source_video_id": "XZmBJRrSW84",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード使い必見！ODミキサー後の起き攻めを徹底解説します！調整で今までの起き攻めは使えなくなっているので注意！！！",
+    "source_timestamp": "02:00",
+    "source_quote": "その場受け身への打撃重ねの候補としては次の３つの内どれかをオススメします\n6MP重ねは最速でボタンを押してしまうとスカってしまうので、一瞬待ってから重ねましょう\n2MKもその場から重ねようとするとスカってしまうので、微歩きしてから重ねましょう\n中攻撃の後は弱サイクロンを入れ込んで連ガを作りつつDゲージを削ることをまずは目標にしたいところです\n2HP重ねはSAがある時にヒット確認からリターンが出る選択肢です\nガードされた場合も確反がほとんど無いので（ケンのSA2くらい）\nSA1で画面入れ替えを狙いたい時などは2HPを重ねましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:13:53.825606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "110",
+      "203",
+      "606",
+      "None",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba037f357f59",
+    "category": "oki",
+    "topic": "ODミキサー後の後ろ受け身への攻め方",
+    "content": "ODミキサー後の後ろ受け身に対しては、様子見をする。後ろ受け身の後に強ワールを出すと前ジャンプに引っかかるなど展開は作れるが、難易度が高いため、まずは直接的な起き攻めではなく、歩いてラインを押し上げることを目標にすると良い。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "ODミキサー後の後ろ受け身",
+    "source_video_id": "XZmBJRrSW84",
+    "source_channel": "4shika / ヨシカ",
+    "source_video_title": "【スト６】ラシード使い必見！ODミキサー後の起き攻めを徹底解説します！調整で今までの起き攻めは使えなくなっているので注意！！！",
+    "source_timestamp": "02:00",
+    "source_quote": "後ろ受け身には様子見をしましょう\n後ろ受け身の後は強ワールが前ジャンプに引っかかるなど\n瞬時に受け身を判断できれば以前のような展開作りは可能ですが\n正直かなり難しいです\n少し練習してみたのですがその場受け身に打撃を重ねつつ\n後ろ受け身に強ワールを出すのは私には無理でした\nとりあえずは直接的な起き攻めをするのではなく\n歩いてラインを押し上げることを目標にしましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T01:13:53.825606",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "660fbb3e8e4a",
+    "category": "oki",
+    "topic": "柔道投げの入力",
+    "content": "ラシードの柔道投げは、ランを最大まで引き付ける必要はなく、相手に密着したタイミングで投げを入力することで可能。練習すればミスなく行えるようになる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "00:41",
+    "source_quote": "ランはそこまで引き付けなくてOK 密着になったら投げるイメージです。練習すればほぼほぼミスなくできるようになるはずです。まずはここから覚えましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "200"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3b8c47fb017f",
+    "category": "oki",
+    "topic": "前ステ立ち中Kの起き攻め",
+    "content": "ラシードの前ステップ立ち中Kは、最速で重ねると+8F取れるため、安定してコンボに移行できる。基本は中サイクロンでコンボを締め、リーサルを狙う場合はODサイクロンルートへ移行する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "00:58",
+    "source_quote": "最速で重ねてプラス8F取れるので安定して前中Pからコンボへいけます。基本は中スパイク。リーサル狙えるならODサイクロンルートへ移行しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "836be9fa2cef",
+    "category": "oki",
+    "topic": "立ち中Kガード後の状況",
+    "content": "ラシードの立ち中Kをガードさせた場合、-1Fだが距離が離れるため、相手は動きにくい。ノーゲージの打撃択としては立ち中Kを継続する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "立ち中Kガード時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "01:13",
+    "source_quote": "ガード時もマイナス1Fでそこそこの距離が離れており、悪さがしやすい状況かなと感じます。ノーゲージ打撃択は立中Kが丸いかなと思います",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2d98ccf19be1",
+    "category": "oki",
+    "topic": "持続2中Pの起き攻めと対策",
+    "content": "ラシードの持続2中Pは、ヒット時はビタで中足が繋がるが、リスクを考慮すると弱ミキサーに繋ぐ方が良い。ガード時は中足から中サイクロン、大サイクロン、微溜めワールの3択で攻め継続が可能。特にしゃがみガード相手には+7F取れるため、中P系列を連打するだけで容易に崩せる。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時、持続2中Pヒット/ガード時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "02:13",
+    "source_quote": "ヒット時ビタで中足が繋がりますがやめといた方が無難かなと思います。こうなる未来しか見えません、入れ込むならリスク考えて弱ミキサーの方が良さげです。ガード時中足から中サイクロン、大サイクロン、微溜めワールの3択がとっても強そう。しゃがみガード相手にはプラス7F取れるのがポイント高いです。中P系列を連ガにできます",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ddde31204e19",
+    "category": "oki",
+    "topic": "持続2中Pでの飛び対策",
+    "content": "ラシードの持続2中Pは、相手の前ジャンプいれっぱにも対応できる。この状況では、前中P > 弱サイクロン > 前中 > 弱サイクロンオイルで詐欺飛びに移行するのが有効。ダメージは取れないが、有利状況を作りつつDゲージを回復・削る用途で活用する。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、相手前ジャンプいれっぱ時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "03:20",
+    "source_quote": "飛びにも実はほぼ確りません、危ないのはインパクトくらいです。ただしダメージは取れません。有利状況を作りながらDゲージを回復したり削ったりする用途で使いましょう。比較的安全にDゲージを削れる択として使用していきましょう。前ジャンプいれっぱにも対応しています。その場合前中P＞弱サイクロン＞前中＞弱サイクロンオイルで詐欺飛びにいきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b148a1b1311d",
+    "category": "oki",
+    "topic": "ラッシュ立ちKの強力な起き攻め",
+    "content": "ラシードはDゲージが4本以上ある場合、ラッシュ立ちKを絡めた起き攻めが非常に強力。投げ間合い外で急停止するとリスクはほぼ0（ザンギエフのSA3を除く）。基本的な攻めは下段、中段、投げの3択。コパン（立ち弱P）は投げ間合い+2F、立ちKは投げ間合い外5分となるため、この投げ間合い外を活かして有利に攻める。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、Dゲージ4本以上",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "04:25",
+    "source_quote": "4ゲージ以上ある時はラッシュを絡めるのもアリよりのアリです。ラッシュ立Kでの崩しは見は超オススメ！投げ間合い以外での急停止は限りなくリスク0ですただしザンギのSA3は勘弁な。基本は下段、中段、投げの3択でOKですが自分のオススメはコパンと立Kの使い分けです。Xでも上げましたがコパンですと投げ間合いプラス2F。立Kだと5分の投げ間合い外となります。ポイントはこの投げがほんっっとうにギリギリ投げ間合い外になってる所です",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "402",
+      "　"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "685e92515e01",
+    "category": "oki",
+    "topic": "ラッシュ2中Pからの攻め",
+    "content": "ラシードはDゲージが使える状況で、安全に攻めたい場合はラッシュで2中Pを使用する。シミーで相手の投げ抜けを誘う必要がなく、ちょうど2中P > 中Pが連続ヒットする。コパン（立ち弱P）は投げ間合いに、立ちKは様子見に使い分けることで、シミーのミスをなくせる。逆択の中足も当たらない。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、Dゲージがある時",
+    "source_video_id": "Tqua5RYeftU",
+    "source_channel": "doskonnbu",
+    "source_video_title": "[Rashid] Judo weakened! 202506 version. How to deploy after edge throw [Street Fighter 6]",
+    "source_timestamp": "05:01",
+    "source_quote": "ラシード使いなら誰しもあると思うのですがシミーを歩きすぎて2中P＞中Pのコンボをスカしてしまいます。この鼻くそみたいなミスを無くせます。つまり投げにいききたい時はコパン。様子見したい時は立KでOKです、シミーする必要がありません。ちょうどよく2中P＞中Pが当たってくれます。安全に攻め込みたい且つDゲージが使える状況なら相当強いなと感じてます。逆択中足当たらないのも見逃せません",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:52:49.733647",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "625373ae1ba4",
+    "category": "oki",
+    "topic": "強アラビアンサイクロン派生アサルトロール",
+    "content": "「しゃがみ中K」からの「強アラビアンサイクロン」派生「アサルトロール」は、相手がガードしている場合、密着状態で+1Fとなり、投げと「立ち弱P」の2択を仕掛けることができる。ただし、相手が暴れている場合、「しゃがみ弱P」などで潰されてしまうため注意が必要。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "起き攻め、相手のガード時または暴れ時",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "01:59",
+    "source_quote": "このしゃがみ中Kから強アラビアンサイクロン、派生のね、アサルトロールを出すと、これ敵がね、ガードしてればね、密着の状態ではプラス1フレームになるんで、この状況はね、投げと立ち弱Pがね2択になってます。ただこれはしゃがみ中Kから強アラビアンサイクロンがしゃがみ弱パンチとかでね、割られてしまうんで、暴れている相手には潰されてしまいます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eb04b5a9e7df",
+    "category": "oki",
+    "topic": "画面端からの安全飛びレシピ",
+    "content": "画面端で【中P→強K】のターゲットコンボから「中イーグルスパイク」に繋げ、着地後に「立ち中K」を空振りしてから前ジャンプ攻撃を出すと、5Fの安全飛びになる。相手の無敵技対策として有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、無敵技持ちの相手への起き攻め",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "05:25",
+    "source_quote": "で、ここからはね、画面端で簡単に使える安全飛びをね、紹介していきますんで、無敵技持ちの相手にはね、ガンガン使っていきましょ。画面端インパクト(ガード時)>【中P→強K】>中スパイク>立ち中K空振り>前ジャンプ攻撃(5F安全飛び)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b50bea1f83e1",
+    "category": "oki",
+    "topic": "画面端からの安全飛びレシピ (強イーグルスパイク版)",
+    "content": "画面端で【中P→強K】のターゲットコンボから「強イーグルスパイク」に繋げ、着地後にバックステップしてから前ジャンプ攻撃を出すと、5Fの安全飛びになる。相手の無敵技対策として有効。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": null,
+    "situation": "画面端、無敵技持ちの相手への起き攻め",
+    "source_video_id": "08FUjtcCLVE",
+    "source_channel": "ぴんぴゲームチャンネル",
+    "source_video_title": "【初心者必見】ラシードですぐに勝ちたい人向け解説攻略動画！【ストリートファイター6】【スト6】【コンボ】",
+    "source_timestamp": "05:48",
+    "source_quote": "【中P→強K】>強スパイク>バクステ前ジャンプ攻撃(5F安全)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T00:14:16.930458",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "f28736d212bb",
+    "category": "defense",
+    "topic": "龍尾脚（昇龍拳）への対応",
+    "content": "ケンの龍尾脚（昇龍拳）を立ちガードした場合、マノン側が-1F不利、しゃがみガードした場合はケン側が+2F有利となる。龍尾脚を見てからドライヴインパクトを打てばパニッシュカウンターが確定する。意識していれば可能。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが龍尾脚を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "00:28",
+    "source_quote": "龍尾脚って立ちガードして、こっちマイナス1フレーム。しゃがみガードすると、ケンがプラス2フレームっていうすごい技なんですよね。で、じゃあ龍尾脚に対してどうすればいいかっていうと、まずーつ目が見てからインパクト。これ結構確定します。結構しっかり見てから打ってもパニッシュカウンターするんでちゃんと。これは意識割いてればできると思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e6df3456d0de",
+    "category": "defense",
+    "topic": "龍尾脚（昇龍拳）への対応（ジャストパリィ）",
+    "content": "ケンの龍尾脚（昇龍拳）をジャストパリィできればコマ投げなどが確定する。ジャストパリィのコツは、ガードするタイミングでパリィを推すこと。最悪ジャストパリィできなくてもガードにはなる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが龍尾脚を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "01:00",
+    "source_quote": "2つ目はパリイですね。ジャストパリイができればコマ投げとか色々確定しますので、これもオススメの対策ですね。ただ問題点としてはジャストパリイが難しいっていうことなんですけど、ジャストパリイのコツとしては、本当にガードするよくらいのタイミングでパリィを押すことなんですよ。これ最悪パリイできなくてもガードにはなるんで",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ea4c843dd745",
+    "category": "defense",
+    "topic": "龍尾脚（昇龍拳）への対応（立ち小技）",
+    "content": "ケンの龍尾脚（昇龍拳）を見てから立ち小技で落とすことが可能。フォースダウンから必殺技まで繋ぐことができる。ただし、反応が遅いと潰されやすいので注意。しゃがみ小技だと潰せない。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが龍尾脚を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "01:36",
+    "source_quote": "3つ目の対策は立ち小技で潰す、ですね。これも結構見てから立ちコパとかで落として、フォースダウンから必殺技までつなぐことができます。ただ、これも反応が遅いと結構潰されちゃったりするんでちょっとリスクは高めですね。あとは、これしゃがみだと潰せないです。基本的に。しゃがみの小技だとこんな感じで負けちゃうんでポイントとしては、立ちですね。立ちで打つこと。これが大事ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "539e36e0689b",
+    "category": "defense",
+    "topic": "龍尾脚（昇龍拳）への対応（ODランヴェル）",
+    "content": "ケンの龍尾脚（昇龍拳）に対して、マノン独自の対策としてODランヴェルを当てる。龍尾脚をかわしつつ、メダルレベルを上げることができる。これもドライヴインパクトと同様に、ガン見してないとかなり難しい。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが龍尾脚を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "02:39",
+    "source_quote": "5つ目の対策は、これはマノン独自の対策なんですけど、以前の動画でもちょっと紹介したようにODランヴェルでこれを当てていきましょう。これで龍尾をかわしつつメダルレベルを上げることができます。ただ、これも正直インパクトとと同じでガン見してないとかなり難しいので、相手がすごい龍尾打ってくる人だったらもう龍尾に意識を割いてこういうのを狙っていくっていうのも一つありですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "767fdc230fe8",
+    "category": "defense",
+    "topic": "迅雷脚・下段派生への対応",
+    "content": "ケンの迅雷脚（中足>中迅雷>下段派生）を密着でガードした場合、マノン側が+5F有利となる。この時、立ち小Kで確定反撃を入れ、そこからコンボに繋げることが可能。ただし、遠距離でガードした場合は立ち小Kが届かないため注意が必要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが迅雷脚（下段派生）を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "03:30",
+    "source_quote": "中足>中迅雷>下段派生。こんな感じでやってくるので。まず最初は。基本的にこの下段派生はこっちがガードして+5フレームなので、近くでガードしたらこんな感じで立ち小キックからパワンまで確定します。ただ、これ遠いと届かないので、そこは注意です。近いと思ったら、小技ロンポワン立ちコア>ロンポワン。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3722f03ba1b8",
+    "category": "defense",
+    "topic": "迅雷脚（中段派生）への対応",
+    "content": "ケンの迅雷脚（中段派生）をガードした場合、マノン側が+7F有利となる。SA2が使用可能な場合はSA2で確実に反撃できる。SA2がない場合は、中段派生や初段止めに対してインパクトが確定する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが迅雷脚（中段派生）を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "04:24",
+    "source_quote": "これがですね。ガードしてこちらが+7フレームなんですね。+7Fっていうことは、どの距離でカードしてもマノンのSA2。これが確定します。SA2であれば、このように下段派生を出してきた時でも、こちらの無敵で勝つことができます。なので、中迅雷をガードしたら、基本的にSA2がある時はSA2を出しておけばまず確定します。これは一つ覚えておきましょう。じゃあ、SA2がない時はどうするのって言うとケンってやっぱり、こんな感じで基本的に中足>中迅雷みたいな感じで出してくるので、この中足をガードした時点でインパクト。これを押せば確定します。これはもちろん、はい、このように初段止め、中迅雷、初段止めでも確定するので、中足をガードしたらインパクトを押すっていうのももう一つ対策です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e9fa293f009",
+    "category": "defense",
+    "topic": "波動拳への対応（ODランヴェル）",
+    "content": "ケンの波動拳を中距離で打ってくる相手に対しては、ODランヴェルを打つ。見てから打つのは難しいが、ガン見していれば可能。相手が中距離で波動拳を多く打ってくる場合は狙う価値がある。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが波動拳を使用（中距離）",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "05:42",
+    "source_quote": "波動拳は主に対策が3つあって。まず一つは見てからODポワンで抜けます。（※ポワンと言っていますがランヴェルです！）これもガン見してないと難しいんですけどガン見してれば結構できるんで相手が中距離で結構波動を打ってくる人だなと思ったら狙ってみるのもありです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "83eb9f9d5f1d",
+    "category": "defense",
+    "topic": "波動拳への対応（グラフェッテ）",
+    "content": "ケンの波動拳に対して、ランヴェルの派生技であるグラフェッテを置く。これは狙ってできるものではないが、当たればコンボに繋がる。距離が遠いと届かないため注意が必要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが波動拳を使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "06:04",
+    "source_quote": "2つ目の対策はランヴェルセの派生で出るグランフェッテ。これを置いておきます。これは本当狙ってできるもんじゃないんでちょっと置いといて当たったらラッキーぐらいな感じで当たってれば、こんなふうにコンボに行けたりするんで、ただ距離が遠いと届かないので、そこは注意です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "caea941b6678",
+    "category": "defense",
+    "topic": "波動拳への対応（ジャストパリィ大K）",
+    "content": "ケンの波動拳を近い距離でジャストパリィし、すぐに大Kを押すことで反撃ができる。ジャストパリィの時に大Kも一緒に押しておく練習をすると良い。これは弾対策として有効。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが波動拳を使用（近い距離）",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "06:39",
+    "source_quote": "3つ目はジャストパリイ>大Kですね。このぐらいの近い距離でうまくジャストパリイしてこの間は何も出ないんですけど、ジャストパリイ取ってる時だけ大Kが出るようになるんで、押す練習をしてみましょう。なかなか難しいですけどね。こんな感じで、しかも結構確定もしないこともあるんで。ただ、これはそんなにリスクはないんでこれはぜひ弾対策として練習してみて下さい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0520c82148d0",
+    "category": "defense",
+    "topic": "立ち大Kへの対応",
+    "content": "ケンの立ち大Kはリーチが長く、ガードしてもケン側が+5F有利のため反撃が取りにくい。この技に対しては、ガードして反撃を狙うよりは、下がって差し返しを狙うのが良い。もしくは、暴れ判定が残っているため、立ち中Pなどに仕込みドライブリバーサルを仕込んでおき、当たっていたらラッキーくらいの感覚で差し返しを狙う。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが立ち大Kを使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "07:44",
+    "source_quote": "ケンの立ち大キック、一文字ですね。非常にリーチが長くて。これガードしてもプラス5Fなんですけど、結構やっぱり反撃が取りにくい技なんですね。なので、この技に対しては、ガードして反撃を取るというよりかはちょっと下がって差し返しを狙うのがいいですね。結構やられ判定が残ってるので、立ち中パンチとかに中の出ガジェを仕込んておいて、当たってたらラッキーぐらいの感じで差し返しを狙うのがいいかなと思います。これもなかなか難しいですけど、頑張っていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2ba0a3f5520",
+    "category": "defense",
+    "topic": "中足ラッシュからの攻めへの対応",
+    "content": "ケンの強力な連携である中足ラッシュ>小パン>投げは、小パンが連続ガードになるため暴れられない。この連携に対しては、中足ラッシュをガードした段階でDリバーサルを出すのが有効。マノンは2ゲージ消費するがケンは3ゲージ消費するため、リスクリターンが良い。Dリバーサルができない場合は、投げ抜けかバックステップで対応するしかない。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ケンが中足ラッシュを使用",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "08:30",
+    "source_quote": "ケンのよくやってくる行動として、この中足ラッシュ>小パンからの投げみたいなのがあるんですけど。これってめちゃめちゃ強くて。まず、この中足ラッシュ>小パン、これが連続ガードなんでこちら暴れができないんですね。まず。そこからのコパンからの投げも、このコパンがガードさせてケンが3F有利なので、この小技と投げの間に割り込もうとしても、これも割ることができないと、非常に強力な連携となっております。なので、対策としては、そもそも中足をガードした段階でDリバーサルをしてしまおうとか。これはこちら（Dゲージ）2ゲージ消費に対して相手3ゲージ消費なんで、リスクリターンとしては悪くないですね。ただ、リバができなくてガードしてしまった場合は正直もう大人しく読み合いしかないですね。ラッシュに対してのDリバを意識しつつ、ガードしてしまった場合は暴れられないんで投げ抜けをするか、バクステをするかかでかわしていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9c623eab567f",
+    "category": "defense",
+    "topic": "画面端の防御",
+    "content": "ケンの画面端の攻めは非常に多種多様で、全てに対応するのは難しい。基本的な守りとしては、打撃読みはしゃがみガードかパリィ、投げ読みは前ジャンプかバックステップ。ケンのファイアー竜巻から小パン空振り>迅雷中段(+4F)のような連携で攻められても、ケンが走るのを見てから立ちガードで対応すると良い。画面端に追い詰められること自体を避ける立ち回りを心がけるのが最も重要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "マノンが画面端にいる時",
+    "source_video_id": "asQQrWFK8so",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】出会って2秒で画面端！マノン視点でのケン対策を解説します！",
+    "source_timestamp": "09:51",
+    "source_quote": "ケンの画面端の攻めは、もう数が多すぎて全部語るのは無理なんですけど、結論としては、打撃を読んだら、しゃがみガードもしくはパリィで投げを読んだら、前ジャンプ。もしくはバクステでして投げてあげるとか、そういった対策でいいんじゃないかなと思います。これね、突き詰めていくと、本当にケンの画面端の攻めへの対応だけで10分ぐらいの動画になっちゃうんで、ちょっとそれは機会があったらいつかやりたいと思います。ただ、一番有名どころだけちょっと紹介しておくとケンがよくやってくるのがファイアー竜巻で締めて、コパンを空振って迅雷>中段で+4F取って、さらにここからこんな感じでコンボを繋いでくるやつっていうのがあるんですけど。この中段はもちろんしゃがんでいたらガードできないんで、見てからケンがこうやって走ったのを見てから立てると非常にいいと思います。今めちゃくちゃ難しいことを言ってるんですけど、頑張りましょう。画面端に言ってしまうたら相当厳しいので、画面端の攻めをしのぐというよりはできるだけ画面端に行かないような立ち回りこれを心がけていきましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:36:55.447894",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e6b511e4b83",
+    "category": "neutral",
+    "topic": "5MPガード後の連携",
+    "content": "マノンの立ち中P（5MP）をガードさせた後（マノン側-1F）、相手がボタンを押してくる読みで少し下がって再度立ち中P（5MP）を出すと、相手の攻撃をパニッシュカウンターで返すことができる。ただし、ケンの中足（しゃがみ中K）のようなリーチの長い技に対しては注意が必要。相手がボタンを押し返さない場合、この連携はリスクが高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "マノンの立ち中Pをガードさせた後（-1F）",
+    "source_video_id": "N-uEBuAsUQY",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】もうスカらない！誰でも簡単大P⇒大Kの差し返しがお手軽で強そうな件",
+    "source_timestamp": "00:23",
+    "source_quote": "中Pをガードさせて、ちょっと下がって、また中Pみたいなことやりますね。やっぱりここって-1Fなんで、相手は結構ボタンを押しなくなるんですけど、ここでボタンを押すと次のの中Pがまた当たるみたいな。これしゃがみ中Kに、まあ、これ小パンに限らず、中足とかでも同じなんすけど。ケンの中足は長いんで、結構食らっちゃうこともありますけど。そう、でもうまくいくと差し返しみたいな形になるんで。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:03:55.814158",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c3e1bd1a502",
+    "category": "neutral",
+    "topic": "5HPガード後の差し返し連携",
+    "content": "マノンの立ち大P（5HP）をガードさせた後、あえてニュートラルにすることでマノンの体が後ろに下がる動きを利用する。この体の引きで相手の攻撃（例：ケンのしゃがみ中K）を空振りさせ、そこに立ち大P（5HP）や立ち大K（5HK）で差し返すことができる。立ち大K（5HK）で差し返すと、相手が何もしていなくてもヒットし、カウンターヒットすればダウンを奪えるため、立ち大P（5HP）で差し返すよりも安定してリターンが高い。立ち大KからはSA1（ランデヴー）やSA2（エトワール）に繋げることができ、リターンも高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "マノンの立ち大Pをガードさせた後",
+    "source_video_id": "N-uEBuAsUQY",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6/マノン】もうスカらない！誰でも簡単大P⇒大Kの差し返しがお手軽で強そうな件",
+    "source_timestamp": "01:14",
+    "source_quote": "大Pガードさせて、敢えてニュートラルにすることで、マノンが体引くんで、これ体引いて、もう一回大Pで差し返すとか。大Kでもいいですけど。これニュートラルじゃないとこの中足食らうんですけど、ニュートラルだとスカすっていう。なかなか面白いやつ。このニュートラルのやつね、でもね言おうほど強くねぇわ。やっぱりこの連携のダメなとこって、2回目の空振りの時にマジで隙を晒すだけなんで。相手がこれの後に結構打ち返してくる人だったら狙ってもいいけどね。大P大Kよくない？これ。これいいじゃん。これだったらさ、相手が打ち返してなくても当たるじゃん。これ良くない？今まで大P大Pでやってたから、相手の技を、相手が何もしてない時にこうスカしちゃったけど、大Kなら当たるし差し返せる。これ良いな。大Kだったら最低ガード以上になるね。これはいい。皆さん今度から、大P>大Pじゃなくて、大P>大Kにしましょう。てかリターンもこっちの方が高い。そう、SA1入れるとか。これいいっすね。あー、これ距離によってはSA2も入る。なるほどね。これはあるんじゃないですか？",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:03:55.814158",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "105",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "627cb02d9bee",
+    "category": "oki",
+    "topic": "ランヴェルセ>ラッシュ急停止",
+    "content": "ランヴェルセ後、ドライブラッシュをかけて即座に停止することで、一部のキャラクターのOD無敵技を誘発させてスカすことができる。ただし、判定が横に長いケンやガイルには無効。対応キャラクターは各自で確認が必要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "ken",
+    "situation": "ランヴェルセ後の相手のOD無敵技",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "04:43",
+    "source_quote": "急停止で一部キャラのOD無敵技をスカせます。 基本的に判定が横に長いケンやガイルは無理です。\n対応キャラはお手数ですが調べてみて下さい",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

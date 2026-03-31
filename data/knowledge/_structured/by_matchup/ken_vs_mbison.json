@@ -1,0 +1,197 @@
+[
+  {
+    "id": "b3fcaf7efb14",
+    "category": "neutral",
+    "topic": "Ground game against Vega",
+    "content": "You cannot win a ground war against Vega. Their ground normals are very strong, including their long-reaching `中足ラッシュ` (mid kick rush), `大P` (heavy punch), and `立ち中P` (standing mid punch). Engaging in ground combat with Vega is a mistake as it plays into their strengths. Instead, actively avoid their ground game and use aerial options.",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "Neutral / Ground game against Vega",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "16:57",
+    "source_quote": "ベガとの地上戦、気を付けるポイント。まずベガとの地上戦は勝てません。滅茶苦茶強いので地上戦自体は。中足ラッシュ待ったり。大パンっていう裏切りコードもあるし、立ち小パンのリーチも長いし。で立ち中パンもその先端でカウンターでリターンが取れちゃう。しかもそれをやってる中でこういう選択肢も混じってくる。だから地上戦を付き合うっていうこと自体がもう無理ですね。勝てません。なのでベガ戦は付き合ってるフリしてずっと待っといてください。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "104",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dba3a370f642",
+    "category": "defense",
+    "topic": "Countering Vega's ground game with jumps",
+    "content": "If you are pushed to the corner or feel pressured by Vega's ground game, use `先端飛び` (outer-edge jump) or `垂直ジャンプ` (vertical jump) to create space and reset the situation. Vega has very few options to counter these jumps without taking significant risks. If Vega attempts `しゃがみ大P` (crouching heavy punch) as anti-air for `先端飛び`, it's often too slow. Mixing in forward jumps with backdashes or Just Parries also makes Vega's oki less effective.",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "Vega is pressuring you on the ground or in the corner",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "17:34",
+    "source_quote": "もう無理です。はい。なのでベガ戦は付き合ってるフリしてずっと待っといてください。なんだったら垂直とかばら撒いて良いです。でこの垂直とかバックジャンプとかに対してリスクの負わせようが基本的にないです。結構リスクを背負わないとリスク背負わせらんないので放置するしかありません。その中でダブニーに対して確反が入りやすいキャラクターとかは尚更だよね。尚更ダブニーって選択肢が結構消えちゃったりするから結構打てない。結局でもそんな事やってもさ、下がってるだけで相手が何かさ、ジリジリジリジリ詰めてきてたら結局端へ追い詰められちゃうし困っちゃうでしょ？そういう時どうすればいいのか。はい。先端飛びやってください。先端飛び対応方法ほぼないです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d1efd1de2900",
+    "category": "defense",
+    "topic": "Countering Vega's `シャドウライズ` (Shadow Rise)",
+    "content": "Vega's `シャドウライズ` (Shadow Rise) is now weaker after a patch, making it susceptible to anti-air from `しゃがみ大P` (crouching heavy punch) on reaction. If you anticipate `シャドウライズ` (Shadow Rise) and `前歩き` (walk forward), you can anti-air it. If you backwalk (後ろ歩き), you can anti-air `シャドウライズ` (Shadow Rise) with `しゃがみ大P` (crouching heavy punch) if Vega delays it. Alternatively, if `シャドウライズ` (Shadow Rise) is used from a distance where it whiffs, you can punish it. Vega's `シャドウライズ` (Shadow Rise) is not as strong as it used to be due to these adjustments.",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "Against Vega's シャドウライズ (Shadow Rise)",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "20:33",
+    "source_quote": "マゴさんシャドウライズに対してはどうすれば良いのでしょうか毎回イライラが止まりません。じゃあ立ち回り編で、まじゃあ次行きましょうか。シャドウライズ困りますよね。まこれあんまり調べてないからあれなんですけど、これあの調整食らったんですよ。これくらいの距離からいきなりこうやって近づいてくる。ま終わってますよねこれ。で前回のバージョンまではなんとこれ対空しようと思っても潰されてたんすよ。だけど今回のバージョンなんと判定が弱くなって、おりゃ！っていうのを見てからしゃがみ大P押せば潰せるようになったんす。なるほどね。前歩きしとけば大丈夫っすよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f907a28c701e",
+    "category": "defense",
+    "topic": "Countering Vega's `大P` (heavy punch) pressure",
+    "content": "When Vega is doing `大P` (heavy punch) pressure, a key counter-strategy is to `引きつけガード` (pull-back guard) and then `暴れ` (raw attack) with a fast normal like `弱P` (light punch) or `弱K` (light kick). This allows you to either trade with Vega's follow-up or force them to rethink their pressure. `しゃがみ大P` (crouching heavy punch) is also effective to anti-air a jumping Vega.",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "Against Vega's `大P` (heavy punch) pressure",
+    "source_video_id": "Osn3o0iDMp8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "レジェンドまでベガをやり込んだマゴによるベガ対策講座【ストリートファイター6】",
+    "source_timestamp": "22:28",
+    "source_quote": "大Pガードした後の読み合い教えて欲しいです。あの先端でガードすることになると思うんですけど基本的に。まキャラによるかもしんないけどここに関しては。でもこれスカってるじゃないですか。でこれスカってるじゃないですか。ここに関しては。でもこれスカってるじゃないですか。当たりましたし、スカるっていう距離でも、ほらスカってんじゃん。でもまあ格ハン取れるかも知んないけど。だけどこれ諦めてマグロってなった時にこれ。ここ。これはもう結構しゃがみ大Pやっていいっす。もう結構しゃがみ大Pやっていいっす。スカされて困るって人は前歩けばいいと思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T20:19:23.899816",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f86efcf2ec17",
+    "category": "matchup",
+    "topic": "ベガ 屈大K (-4F)",
+    "content": "ベガの屈大K (大ダブニー) はガードされて-4Fです。ケンは立ち弱P > 屈中K > 昇龍拳（OD版でも可）で確定反撃できます。単純にドライブインパクトでパニッシュカウンターになった場合は、立ち弱Pで追撃するだけでも良いでしょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの屈大Kがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "00:54",
+    "source_quote": "ベガの『大ダブニー』。これは-4Fです。なので、立ち弱Pから屈中K昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "105",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "47835e3233eb",
+    "category": "matchup",
+    "topic": "ベガ 弱ダブニー/中ダブニー (-5F)",
+    "content": "ベガの弱ダブニーおよび中ダブニーはガードされて-5Fです。ケンは立ち弱K > 昇龍拳（OD版でも可）で確定反撃できます。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガの弱ダブニーまたは中ダブニーがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "05:13",
+    "source_quote": "ベガの弱ダブニーと中ダブニー。これも-5Fです。立ち弱Kから昇龍拳で確定反撃ができます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c46b3d01aad",
+    "category": "matchup",
+    "topic": "ベガ 屈大K (-12F)",
+    "content": "ベガのしゃがみ大Kはガードされて-12Fです。最低でもしゃがみ大Kで確定反撃できますが、より高いダメージを狙うなら立ち強K > 昇龍拳（OD版でも可）で確定反撃しましょう。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのしゃがみ大Kがガードされた時",
+    "source_video_id": "cjk2Gsvrz4I",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "【スト６】ケンで覚えておきたい主要なフレームごとの確定反撃集！　#streetfighter6 #ストリートファイター6 　#スト6",
+    "source_timestamp": "12:39",
+    "source_quote": "ベガのしゃがみ大K。ガードされて-12Fです。最低でもしゃがみ大Kで確定反撃できますが、より高いダメージを狙うなら立ち強K > 昇龍拳で確定反撃しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T10:52:53.395700",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

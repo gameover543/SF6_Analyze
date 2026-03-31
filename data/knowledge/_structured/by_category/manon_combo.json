@@ -1,0 +1,2449 @@
+[
+  {
+    "id": "a9220cb0fbf2",
+    "category": "combo",
+    "topic": "被起き攻め時の暴れコンボ",
+    "content": "被起き攻め時の暴れとして、マノンは『しゃがみ弱P > しゃがみ弱P > 強パワン』のコンボを使用できます。このコンボは現代（M）タイプの場合、『しゃがみ弱P > しゃがみ弱P』で代用が可能です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "被起き攻め時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "00:00",
+    "source_quote": "被起き攻め時の暴れなど、使う機会は多い。Mの場合は2弱＞2弱で代用しよう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e62ad445acdf",
+    "category": "combo",
+    "topic": "小技始動メダル稼ぎコンボ",
+    "content": "小技から各種デガジェに繋ぐマノンの重要コンボです。『しゃがみ弱P > 立ち弱P』から派生します。状況を良くしたい場合は『弱デガジェ』に繋ぎ、ダメージと距離を稼ぎたい場合は『中デガジェ』に繋ぎましょう。ダメージは弱デガジェで1,370dmg、中デガジェで1,530dmgです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "小技ヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "00:10",
+    "source_quote": "小技から各種デガジェに繋ぐ重要コンボ。状況を良くしたい時は弱デガジェにして、ダメージと距離を稼ぎたい場合は中デガジェにしよう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "106",
+      "308",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7ffeb489b41c",
+    "category": "combo",
+    "topic": "ODパワン始動メダル稼ぎコンボ",
+    "content": "ODゲージを使用してダメージを伸ばすコンボです。『しゃがみ弱P > しゃがみ弱P > ODパワン > 中デガジェ』で2,050dmgを与えられます。現代（M）タイプの場合、『しゃがみ弱P > しゃがみ弱P』始動から『弱デガジェ』で同じようなコンボが可能です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コンボ始動時、ODゲージ消費可",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "00:27",
+    "source_quote": "ODゲージを使ってダメージを伸ばす。Mの場合は2弱＞2弱始動で最後に弱デガジェ。似たようなのが出来ます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "308",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f2afce8636c",
+    "category": "combo",
+    "topic": "ODパワンSA1コンボ",
+    "content": "SA1を使用するコンボです。『しゃがみ弱P > しゃがみ弱P > ODパワン > SA1』で2,610dmgを与えられます。画面端を背負っている時に画面入れ替えもできる優秀なコンボです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コンボ始動時、SA1消費可",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "00:40",
+    "source_quote": "SA1使用コンボ。端背負いの時は画面入れ替えでも使える優秀コンボです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa74355cbae4",
+    "category": "combo",
+    "topic": "ODパワンSA2コンボ",
+    "content": "SA2に繋がるコンボです。『しゃがみ弱P > しゃがみ弱P > ODパワン > SA2』で3,100dmgを与えられます。ODパワンからキャンセルで出せればより安定します。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コンボ始動時、SA2消費可",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "00:54",
+    "source_quote": "SA2にも繋がるODパワンからキャンセルで出せればより安心",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "857b114bcadc",
+    "category": "combo",
+    "topic": "メダル稼ぎ必須コンボ",
+    "content": "マノンのメダルを貯めるための必須コンボです。『立ち中P > CDR > しゃがみ中P > 4強P > 中ランヴェ』で2,480dmgを与えられます。現代（M）タイプの場合、始動の『立ち中P』を『立ち弱P』で代用できます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "メダル稼ぎたい時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "01:10",
+    "source_quote": "マノンの超必須コンボ。全てはここから始まる。とりあえずメダルを貯めていこう。Mの場合は2中Pのところを5弱Pで代用",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f6e7f22ab038",
+    "category": "combo",
+    "topic": "しゃがみ中Pノーキャンコンボ",
+    "content": "『しゃがみ中P > 立ち弱K > 強パワン』は、しゃがみ中Pからノーキャンセルで繋がるコンボです。1,540dmgを与えられます。汎用性が高く見えますが、実戦ではあまり使用されません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Pヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "01:31",
+    "source_quote": "2中Pからノーキャンで繋がる。汎用性が高そうに見えるが意外と使わない。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3c1634bdd77",
+    "category": "combo",
+    "topic": "アンオー始動コンボ",
+    "content": "ドライブゲージを消費して前ダッシュするアンオー（4中K）からのコンボです。『4中K > CDR > しゃがみ中P > 4強P > 中ランヴェ』で2,694dmgを与えられます。始動の『5中P > CDR > しゃがみ中P』とは異なり、このコンボは連続ガードにならない点に注意してください。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "アンオー（ドライブラッシュ4中K）ヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "01:42",
+    "source_quote": "鬼つよ押ししてるアンオーからのコンボ。5中P>CDR>2中Pと違って連続ガードにならないので注意。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7597513a67c9",
+    "category": "combo",
+    "topic": "ラッシュしゃがみ中Pヒット時コンボ",
+    "content": "ラッシュ中の『しゃがみ中P』がヒットした際のコンボです。『ラッシュしゃがみ中P > 立ち強P』で1,880dmgを与えられます。あまり使用機会の多いコンボではありません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ラッシュしゃがみ中Pヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "01:57",
+    "source_quote": "とりあえずラッシュ2中Pで触った時のコンボ。あんまり使わないです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "108",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "185adaa5b478",
+    "category": "combo",
+    "topic": "立ち強P単発確認SAコンボ",
+    "content": "『立ち強P』を単発でヒット確認してスーパーアーツ（SA）に繋ぐコンボです。SA1で2,800dmg、SA2で3,500dmg、SA3で4,200dmgを与えられます。成功すれば強力ですが、無理に狙う必要はありません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち強P単発ヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "02:08",
+    "source_quote": "5強Pを単発ヒット、確認して繋ぐコンボ。出来たら結構強い。無理する必要はないです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "06c794d40e6d",
+    "category": "combo",
+    "topic": "立ち中Pカウンターコンボ",
+    "content": "『立ち中P』がカウンターヒットした際に繋がるコンボです。『立ち中P(CH) > しゃがみ弱P > 強パワン』で1,660dmgを与えられます。ヒット確認は難しくないので、余裕があれば挑戦してみてください。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち中Pカウンターヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "02:28",
+    "source_quote": "立ち回りでの5中Pがカウンターする事は結構あります。ヒット確認も難しくないので、余裕がある人はチャレンジしてほしいコンボの1つです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3df9468ce24b",
+    "category": "combo",
+    "topic": "しゃがみ中Pカウンターコンボ",
+    "content": "『しゃがみ中P』がカウンターヒットした際に『立ち中P』が繋がるコンボです。『しゃがみ中P(CH) > 立ち中P > 中デガジェ』で2,280dmgを与えられます。普段から意識していないとヒット確認は難しいです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Pカウンターヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "02:37",
+    "source_quote": "2中Pカウンターで5中Pが繋がります。普段から意識してないと確認は難しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c1c9a6414e7c",
+    "category": "combo",
+    "topic": "近距離強デガジェカウンターコンボ",
+    "content": "近距離で『強デガジェ』がカウンターヒットした際に『立ち弱K』が繋がるコンボです。『強デガジェ(CH) > 立ち弱K > 強パワン』で2,140dmgを与えられます。この距離で強デガジェを使う場面は少ないため、実戦での出番は限られます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "近距離強デガジェカウンターヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "02:54",
+    "source_quote": "強デガジェ近距離でカウンターした時に5弱Kが繋がります。ただ、強デガジェをこの距離で使う事が、あまりないので、出番は少なめです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6d0bdae51221",
+    "category": "combo",
+    "topic": "立ち強Kパニッシュカウンターコンボ",
+    "content": "『立ち強K』がパニッシュカウンターした際の重要なコンボです。『立ち強K(PC)』からの派生として、『中デガジェ』（2,280dmg）、『弱デガジェ』（2,080dmg）、または『SA1』（3,080dmg）に繋げることができます。これはマノンの必修コンボと言えるほど重要です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kパニッシュカウンター時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "03:07",
+    "source_quote": "5強Kパニカンコンボ。超大事です。ここでの必修コンボと言っても過言ではない。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "308",
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e1993419482d",
+    "category": "combo",
+    "topic": "近距離立ち強Kパニッシュカウンターコンボ",
+    "content": "近距離で『立ち強K』がパニッシュカウンターした際のコンボです。『立ち強K(PC) > 立ち中P > CDR > しゃがみ中P > 4強P > 中ランヴェ』で3,274dmgを与えられます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "近距離立ち強Kパニッシュカウンター時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "03:25",
+    "source_quote": "近距離の場合は5中Pからコンボへ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "105",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e4afd4a3530a",
+    "category": "combo",
+    "topic": "無敵技ガード後強デガジェ始動コンボ",
+    "content": "相手の無敵技をガードした後に『強デガジェ』始動で高いダメージを狙うコンボです。『強デガジェ(PC) > 立ち中P > CDR > しゃがみ中P > 4強P > 中ランヴェ』で3,394dmgを与えられます。入力を急ぎすぎると失敗するので注意が必要です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "無敵技ガード時（パニッシュカウンター）",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "03:33",
+    "source_quote": "無敵技ガード後に強デガジェ始動で高いダメージを狙うコンボ。早すぎるどっかかるので注意です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c4963afed34f",
+    "category": "combo",
+    "topic": "弾抜け高効率コンボ",
+    "content": "相手の飛び道具を抜ける際に狙うコンボです。『グランフェッテ(PC) > ラッシュ立ち中K > 強パワン > ラッシュ立ち中P > 強ランヴェ』で3,394dmgを与えられます。このコンボは運び、ダメージ、メダル稼ぎ、全ての面で優れており、クラシック（C）と現代（M）両方の操作タイプで習得しておきたい非常に重要なコンボです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "弾抜け時（パニッシュカウンター）",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "03:51",
+    "source_quote": "弾抜けコンボ。狙ってやるのは少し難しいですが、運び、ダメージ、メダル全てを稼げるコンボです。C,M共に覚えておきたいコンボの1つ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "67f709790c07",
+    "category": "combo",
+    "topic": "無敵技ガード後高効率コンボ（メダル3枚以下推奨）",
+    "content": "無敵技ガード後に最適な重要コンボです。『4強P(PC) > ODグランフェッテ > 弱パワン > 弱ランヴェ』で3,155dmgを与えられます。運び、ダメージ、メダル、ゲージ効率の全てが優秀で、特にメダルが3枚以下の時に狙うと良いでしょう。メダルが4枚以上の場合は、『コマ投げ』の方がダメージが高くなります。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "無敵技ガード時（パニッシュカウンター）、メダル3枚以下",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "04:09",
+    "source_quote": "無敵技ガード後の重要コンボ。運び、ダメージ、メダル、ゲージ効率全てが優秀です。メダル3枚以下の時に決めたいコンボ ※メダル4枚以上はコマ投げの方が減る",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "91b33696a644",
+    "category": "combo",
+    "topic": "インパクトからのメダル稼ぎ（コマ投げ）",
+    "content": "ドライブインパクトがヒットした際に、まずはメダルを稼ぐためのコンボです。『DI > コマ投げ』で2,560dmgを与えられます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "04:28",
+    "source_quote": "インパクトからとりあえずメダルを貯めていく。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "caeeb98c4e1f",
+    "category": "combo",
+    "topic": "インパクトから画面押し込みメダル稼ぎ",
+    "content": "ドライブインパクトがヒットした際に、画面を押し込みつつメダルを貯めるコンボです。『DI > 前ステップ > 4強P > ODパワン > 中ランヴェ』で3,000dmgを与えられます。コンボの途中でドライブゲージの回復が始まるため、ダメージとゲージ効率の両面で優秀です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "04:33",
+    "source_quote": "少し画面を押しつつメダルも貯める。コンボの途中でDゲージの回復が始まるので、与えるダメージとゲージ効率も優秀です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "11efeaba597b",
+    "category": "combo",
+    "topic": "端インパクト画面入れ替えコンボ",
+    "content": "画面端でドライブインパクトがヒットした際に、画面を入れ替えるコンボです。『DI > ジャンプ強K > トモエ（3強K）』で2,300dmgを与えられます。最後に『ラッシュトモエ』にすれば、一応ダウンも奪えます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端でドライブインパクトヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "04:51",
+    "source_quote": "端でインパクトが当たった際に画面を入れ替えるコンボ。ラッシュトモエにすれば一応ダウンも取れます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "26c0f1109342",
+    "category": "combo",
+    "topic": "インパクト壁ドン基本コンボ",
+    "content": "ドライブインパクトで壁ドンした際の基本コンボです。『DI(壁ドン) > 4強P > 中ランヴェ』で1,760dmgを与えられます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクト壁ドン時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "05:05",
+    "source_quote": "インパクト壁ドン。とりこしコンボ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b474a9a167ef",
+    "category": "combo",
+    "topic": "インパクト壁ドン追加ダメージコンボ",
+    "content": "ドライブインパクトで壁ドンした際、もう少しダメージを伸ばしたい場合に使えるコンボです。『DI(壁ドン) > 4強P > (弱ランヴェ) > グランフェッテ > ODパワン > 弱ランヴェ』で2,512dmgを与えられます。このルートは結構使用します。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクト壁ドン時、ダメージ増加狙い",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "05:18",
+    "source_quote": "少しダメージを伸ばしたい場合はグランフェッテを挟みましょう。結構使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63f47f1c34a2",
+    "category": "combo",
+    "topic": "インパクト壁ドンSA2高火力コンボ",
+    "content": "ドライブインパクトで壁ドンからSA2を絡めた高火力コンボです。『DI(壁ドン) > 4強P > ODパワン > 中デガジェ > SA2』で3,560dmgを与えられます。リーサル（相手を倒しきれる）が見えている時に使いましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクト壁ドン時、SA2でリーサル狙い",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "05:36",
+    "source_quote": "SA2を絡めた高火力コンボ。リーサル見えてる時に使っていこう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "952743037ef4",
+    "category": "combo",
+    "topic": "端J強K始動ODパワン2回コンボ（SA1）",
+    "content": "画面端限定で、『ジャンプ強K』始動からODパワンを2回決めるコンボです。『J強K > 4強P > ODパワン x2 > 中デガジェ > SA1』で4,520dmgを与えられます。非常にダメージが大きいです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端、ジャンプ強Kヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "05:59",
+    "source_quote": "端限定のODパワン2回決めるコンボ。かなり減ります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93fcc547cafa",
+    "category": "combo",
+    "topic": "端J強K始動ODパワン2回コンボ（SA2）",
+    "content": "画面端限定で、『ジャンプ強K』始動からODパワンを2回決めるコンボです。『J強K > 4強P > ODパワン x2 > 中デガジェ > SA2』で4,870dmgを与えられます。非常にダメージが大きいです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端、ジャンプ強Kヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "06:09",
+    "source_quote": "端限定のODパワン2回決めるコンボ。かなり減ります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a752ca4aabcb",
+    "category": "combo",
+    "topic": "端J強K始動Dゲージ全消費SA3高火力コンボ",
+    "content": "ドライブゲージを全て消費する高火力SA3コンボです。『J強K > 4強P > ODパワン x2 > ラッシュ4強P > CDR > 4強ランヴェ > SA3』で5,662dmgを与えられます。現代（M）タイプの場合、最後の『ランヴェ』を少し遅らせないと繋がりません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端、ジャンプ強Kヒット時、Dゲージ全消費、SA3使用",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "06:22",
+    "source_quote": "Dゲージ全放出でSA3の高火力コンボ。Mの場合最後のランヴェルセを少し遅らせないと繋がりません。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0843f7a66069",
+    "category": "combo",
+    "topic": "立ち中Pヒット倒し切りSA3コンボ",
+    "content": "『立ち中P』がヒットした際に、相手を倒しきることを目的としたSA3コンボです。『立ち中P > CDR > しゃがみ中P > 4強P > CDR > しゃがみ中P > 4強P > 強パワン > SA3』で4,584dmgを与えられます。よく使用されるコンボです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち中Pヒット時、SA3でリーサル狙い",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "06:44",
+    "source_quote": "5中Pヒットから倒し切りを狙うSA3コンボ。よく使います。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5a3f094de527",
+    "category": "combo",
+    "topic": "アンオー始動高ダメージコンボ",
+    "content": "アンオー（ドライブラッシュ4中K）始動の高ダメージコンボです。『4中K > CDR > しゃがみ中P > 4強P > ODデガジェ > 立ち中P > CDR > 4強P > しゃがみ中P > 立ち弱K > 強パワン』で5,145dmgを与えられます。アンオー始動は相手が強制しゃがみ状態となるため、ODデガジェが+7Fとなり、立ち中Pが繋がる点が特徴です。ダメージは大きいですが、やや難しいコンボです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "アンオー（ドライブラッシュ4中K）ヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "07:03",
+    "source_quote": "アンオー始動の場合は強制しゃがみ扱いになるのでODデガジェが+7Fになり、5中Pが繋がるというコンボです。減りますが少し難しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "108",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3f1391b1974",
+    "category": "combo",
+    "topic": "対空メダル稼ぎコンボ",
+    "content": "対空からメダルを稼ぐための重要なコンボです。『ODパワン > 弱ランヴェ』で2,230dmgを与えられます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "対空攻撃ヒット時",
+    "source_video_id": "k3PLl6_CQf4",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】マノンの実践コンボ30選！これが出来れば一流マノン使いだ！",
+    "source_timestamp": "07:27",
+    "source_quote": "対空からメダルを貯めるコンボ。超大事です。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:22:51.307840",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e660a3824308",
+    "category": "combo",
+    "topic": "基本コンボ",
+    "content": "マノンがよく使う基本コンボ。立ち中Pから2回CDR（コマンデッドダッシュ）でキャンセルし、しゃがみ中P、立ち強P、中ランヴェルセへと繋げる。成功するまで10回練習する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "02:16",
+    "source_quote": "まずはこれですね。これはそんな難しいコンボでは無いと思うので、割愛します。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "108",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4a9cf0855c33",
+    "category": "combo",
+    "topic": "ジャンプからの高火力コンボ",
+    "content": "Year 2から繋がるようになったジャンプ攻撃からのコンボ。J強K、立ち強P、ODグランフェッテ、立ち強P、強ポワンテ、弱ランヴェルセへと繋げる。飛びが通った時やインパクトが当たった時に使う場面が多いので、これも必須コンボの一つ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "飛びが通った時、インパクトが当たった時",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "02:40",
+    "source_quote": "Year 2から繋がるようになったこのコンボですね。これも飛びが通った時、インパクト当たった時とか使う場面は非常に多いので、これも必須コンボの一つですね。これもたくさん練習しましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "312"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e1516acd25b9",
+    "category": "combo",
+    "topic": "SA2締めコンボ",
+    "content": "J強K、立ち強P、ODグランフェッテ、立ち強P、中グランフェッテ、ODポワンテ、中デカガジェ、SA2へと繋げる。12月の調整でSAゲージが溜まりやすくなったため、SA1やSA2を吐く機会が増えた。このコンボは運び性能も高く、SAも回していける。中ランヴェルセからグランフェッテへの繋ぎがコツ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "SAを回したい時",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "03:05",
+    "source_quote": "このコンボはですね、めちゃくちゃ使うかって言われたらそうでもないんですけど、12月の調整でマノンのSAゲージがすごい溜まりやすくなったのでSA1とかSA2を吐く機会が増えたんですよ。っていうところで、このコンボは運び性能も高くてSAも回していけるっていうところで、たまに使います。たまに使うんですけど、使う機会が少ないが故に結構忘れがち、ミスりがちなところなので、自分はこのコンボルーティンの中に、取り入れて、忘れないようにしておきます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7745682ccfa0",
+    "category": "combo",
+    "topic": "高火力SA3締めコンボ",
+    "content": "引き中K、CDR、しゃがみ中P、立ち強P、ODデカガジェ、立ち中P、CDR、立ち強P、しゃがみ中P、立ち弱K、強ポワンテ、SA3へと繋げる。アンオーから崩してリーサルを狙う際に使用する高火力コンボ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "リーサルを狙う時",
+    "source_video_id": "ogNEWarN14A",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] LEGEND Manon's pre-match training routine revealed and explained!",
+    "source_timestamp": "04:03",
+    "source_quote": "引き中K、アン・オーからの高いSA3コンボですね。これもめちゃくちゃ使うかって言われると、そうでもないんですけど、結構最後、アン・オーから崩してリーサル取れるなって時に自分はこのコンボ結構使うことが多いので、これも練習メニューに取り入れてます。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T03:50:17.676598",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "104",
+      "108",
+      "205",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fa2517bd4702",
+    "category": "combo",
+    "topic": "基本コンボ",
+    "content": "マノンの超基本コンボです。立ち中Pで触って当たっていたら立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞中ランヴェルセでコンボ、ガードされていたらコマ投げで崩しましょう。最初の後ろ強Pから中ランヴェルセへの繋ぎが少し難しいかもしれません。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち中Pが当たった場合/ガードされた場合",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "00:16",
+    "source_quote": "マノンの超基本コンボです。5MPで触って当たっていたらコンボ、ガードされていたらコマ投げで崩します。\n最初は4HP>Mランヴェルセの繋ぎが少し難しいかも知れませんが出来る様になって損はないです！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "104",
+      "108",
+      "200",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dda190f9b29e",
+    "category": "combo",
+    "topic": "確認コンボ",
+    "content": "ラッシュからしゃがみ中Pに繋がれば、初動はなんでも大丈夫です。この動画のように飛び込みからも使えるコンボです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "各種初動から",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "00:28",
+    "source_quote": "ラッシュから2MPに繋がれば始動はなんでも大丈夫です\nこの様の飛びからでも使えるコンボです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "44fed7b729b2",
+    "category": "combo",
+    "topic": "立ち弱Pからのコンボ",
+    "content": "しゃがみ弱Pがヒットした時のコンボとして、しゃがみ弱P＞しゃがみ弱P＞中ロンポワンを使用します。強ロンポワンでもOKですが、中ロンポワンの方が若干ダメージが高いです。画面を運びたい時やドライブゲージに余裕がある時は、ODロンポワン＞中デガジェに繋ぎましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ弱Pヒット時、画面運びたい時、ドライブゲージに余裕がある時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "00:37",
+    "source_quote": "キャミイのストライクをちょと高めでガードした時やとりあえず暴れで押した弱Pがヒットした時のコンボです\nHポワンでもOK。Mポワンの方が若干ダメージが高いです。\n画面を運ひない時や、ゲージに余裕があるときはODポワン>Mデガジェと繋いでいきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "106",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e9a0a732ab03",
+    "category": "combo",
+    "topic": "立ち強Kパニッシュカウンターからのコンボ",
+    "content": "立ち回りで立ち強Kがパニッシュカウンターした時のコンボです。基本は中デガジェで画面を押しますが、ゲージがある時はスーパーアーツ1に繋ぎましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kがパニッシュカウンターした時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "00:59",
+    "source_quote": "立ち回りで5HKがパニカンした時のコンボです\n基本はMデガジェで画面を押す。ゲージがある時はSA1に繋ぎましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d22891c1a23",
+    "category": "combo",
+    "topic": "重デガジェカウンター限定コンボ",
+    "content": "重デガジェがカウンターヒットした場合は、重デガジェ（カウンター）＞立ち弱K＞中ロンポワンに繋ぎましょう。通常技からキャンセルをして出すと相手の技を潰すこともありますので、カウンター表示を注視しましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "重デガジェがカウンターヒットした時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "01:37",
+    "source_quote": "カウンター限定コンボです。通常技からキャンセルをして出すと相手の技を潰す事もあるので、カウンター表示を注視しましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4b2ba62bcdeb",
+    "category": "combo",
+    "topic": "ドライブインパクトからのコンボ",
+    "content": "ドライブインパクトが当たった時のコンボです。ドライブゲージ3本で始動しますが、コンボで回収するので実質2.2本まで減る3000ダメージで効率が良いです。ルートはドライブインパクト＞前ステップ＞後ろ強P＞ODロンポワン＞中ランヴェルセです。似たようなコンボでドライブゲージ消費量が少なく、ダメージが若干低いものもありますが、難易度が上がります。ダメージだけを見るならレベル4からは直でコマ投げした方が高いので、上手く使い分けていきましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブインパクトが当たった時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "01:47",
+    "source_quote": "インパクトが当たった時のコンボ。始動はDゲージ3本ですがコンボで回収するので実質2.2本までで3,000dmgと効率ヨシです\n似たようなコンボでこういうのもあります。\nゲージ消費量が少なく、ダメージも若干低いです。そして少し難しい\nちなみに、ダメージだけ見るならレベル4からは直でコマ投げした方が高いので、上手く使い分けていきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6188c7b39586",
+    "category": "combo",
+    "topic": "無敵技確定最大コンボ",
+    "content": "無敵技確定コンボその2。全てを使い切る最大コンボです。重デガジェ（パニッシュカウンター）＞立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ODデガジェ＞しゃがみ中P＞ドライブラッシュ＞後ろ強P＞しゃがみ中P＞立ち弱K＞強ロンポワン＞スーパーアーツ3。相手の体力が25%以下のSA3演出が入ると6000ダメージを超えます。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "無敵技がパニッシュカウンターした時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "02:35",
+    "source_quote": "無敵技確定コンボその2。全てを使い切る最大コンボです。\n25%以下のSA3演出が入ると6,000dmg超えます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "108",
+      "311",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "040841b54233",
+    "category": "combo",
+    "topic": "基本の倒し切りコンボ",
+    "content": "基本の倒し切りコンボです。立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞スーパーアーツ1（スーパーアーツ2）。ドライブゲージ次第ではドライブラッシュは1回に減らしましょう。結構手が忙しく難しいのでたくさん練習しましょう。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "相手を倒し切りたい時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "03:08",
+    "source_quote": "基本の倒し切りコンボ。Dゲージ次第ではラッシュは1回にします。\n結構手が忙しく難しいので、たくさん練習しましょう！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "223e3fb59f86",
+    "category": "combo",
+    "topic": "倒し切り用SA3コンボ",
+    "content": "立ち中P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞ドライブラッシュ＞しゃがみ中P＞後ろ強P＞強ロンポワン＞スーパーアーツ3。このコンボはスーパーアーツ3まで伸ばしたもので、倒し切りでかなり使うのでたくさん練習してください！",
+    "characters": [
+      "manon"
+    ],
+    "matchup": "luke",
+    "situation": "相手を倒し切りたい時",
+    "source_video_id": "SLl4VVU3b5o",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】これが出来れば問題なし！MASTERマノンの実践コンボ10選を紹介します！",
+    "source_timestamp": "03:27",
+    "source_quote": "⑨のコンボをSA3まで伸ばしたやつ。倒し切りでかなり使うのでたくさん練習してください！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T07:32:32.037977",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "108",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "710fafbb0d8c",
+    "category": "combo",
+    "topic": "メダル貯め基本コンボ",
+    "content": "マノンの汎用的なメダル貯めコンボとして、5中Pからキャンセルラッシュで、2中P>4強P>中ランヴェと繋げると良い。このコンボはマノンで一番使うため、しっかり練習すべき。ダメージは2,480。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "汎用的にメダルを貯めたい時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "00:11",
+    "source_quote": "5中P>CDR>2中P>4強P>中ランヴェ 2,480dmg\nマノンで1番使うコンボなのでたくさん練習しましょ！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4ba6a526f472",
+    "category": "combo",
+    "topic": "起き攻め重視コンボ",
+    "content": "起き攻め重視の場合、5中P>キャンセルラッシュ>2中P>4強P(または4中K)>弱デガジェと繋ぐ。4強Pを4中Kにすることでダメージが少し上がり、2,244ダメージ（4中K時は2,323ダメージ）となる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "起き攻め重視の場合",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "00:25",
+    "source_quote": "5中P>CDR>2中P>4強P(4中K)>弱デガジェ 2,244(2,323)dmg\n起き攻め重視の場合は締めを弱デガジェにする\n4強Pを4中Kにすると少しだけダメージアップします",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0475f81f2ea3",
+    "category": "combo",
+    "topic": "5中Pカウンター確認コンボ",
+    "content": "5中Pのカウンターを確認したら、2弱Pからキャンセルラッシュで5弱P>4強P>中ランヴェと繋ぎ、メダルを貯める。このカウンター確認は見た目よりも簡単なので積極的に狙うと良い。ダメージは2,410。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "5中Pがカウンターヒットした時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "00:37",
+    "source_quote": "5中P(CH)>2弱P>CDR>5弱P>4強P>中ランヴェ 2,410dmg\n5中Pカウンターを確認して小技ラッシュからメダルを貯めるコンボ\nこのカウンター確認は一見難しそうですがやってみると意外と簡単な部類です！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "90871ac85a85",
+    "category": "combo",
+    "topic": "全ゲージSA3コンボ",
+    "content": "5中Pラッシュ始動で、2中P>4強P>2強P>4強P(または4中K)>弱ポワン>SA3と繋ぐことで全ゲージを使った大ダメージコンボとなる。2回目の4強Pを4中Kにするとダメージが少し上昇し、4,794ダメージ（4中K時は4,830ダメージ）となる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "全ゲージ使用可能な大ダメージ狙い時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "00:51",
+    "source_quote": "5中P>CDR>2中P>4強P>2強P>4強P(4中K)>弱ポワン>SA3 4,794(4,830)dmg\n5中Pラッシュから全ゲージを使ってSA3に繋ぐコンボ\nこれも2回目の4強Pを4中Kにすると少しだけダメージアップします！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "14d62257304c",
+    "category": "combo",
+    "topic": "ジャンプ攻撃からの鬼つよコンボ",
+    "content": "ジャンプ強Kから4強P>ODグランフェッテ>4強P>強ポワン>弱ランヴェと繋ぐコンボは、Year2で追加された強力なコンボであり、ゲージ回収と運び性能が非常に優れている。強ポワンを省略して4強P>強ランヴェで締めると、運びとゲージ回収は劣るがダメージは向上する。ダメージは3,380。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ強Kがヒットした時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "01:10",
+    "source_quote": "J強K>4強P>ODグランシェ>4強P>強ポワン>弱ランヴェ 3,380dmg\nyear2で追加された鬼つよコンボ ゲージ回収と運び性能がすごいです\n強ポワンを省いて4強P>強ランヴェにすると運びとゲージ回収を犠牲にダメージアップします",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dcce95929233",
+    "category": "combo",
+    "topic": "ラッシュ下段コンボ",
+    "content": "ラッシュから2中K>5中P>弱(または中)デガジェと繋ぐコンボは、Year3で2中Kの始動補正が20%追加されたためダメージが低下している（1,920→1,780）。メダルが2枚以下の時には、このコンボでダウンを取り起き攻めで重ねることが可能。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ2中Kヒット時、メダル2枚以下の起き攻め時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "01:27",
+    "source_quote": "ラッシュ2中K>5中P>弱(中)デガジェ 1,780(1,920)dmg\nyear3から2中Kの始動補正20%追加でダメージが下がっています。\nメダルが2枚以下の時に起き攻めで重ねることができます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "571be60027a5",
+    "category": "combo",
+    "topic": "ラッシュSA2コンボ",
+    "content": "ラッシュから2中Kをヒットさせた場合、直接SA2に繋げることが可能（ヒット+7F）。Year2と比較して火力は落ちているが、ラウンドの最後の押し込みなどで使う機会が多い。ダメージは2,840。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ2中Kヒット時、最後の押し込み",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "01:46",
+    "source_quote": "ラッシュ2中K>SA2 2,840dmg\nヒット+7Fなので、直接SA2も繋がります\nこちらもyear2と比べて火力は落ちていますが最後の一押しで結構使う機会は多いです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2de336e165a8",
+    "category": "combo",
+    "topic": "対空ODポワンからのメダル貯め",
+    "content": "対空でODポワンがヒットした場合、弱ランヴェと繋ぐことでメダルを貯められる。ODポワンを当てる高さによっては中ランヴェに繋ぐことも可能。ダメージは2,150。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "対空ODポワンヒット時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "02:02",
+    "source_quote": "ODポワン(対空)>弱ランヴェ 2,150dmg\n対空からメダルを貯めるコンボ\nODポワンを当てる高さ次第では中ランヴェが繋がることもあります",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3de87e3a6d34",
+    "category": "combo",
+    "topic": "対空ODポワンからのダメージ重視コンボ",
+    "content": "対空でODポワンがヒットした場合、弱ランヴェからSA3に繋ぐことでダメージ重視のコンボが可能。ダメージは3,950。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "対空ODポワンヒット時、ダメージ重視",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "02:15",
+    "source_quote": "ODポワン(対空)>弱ランヴェ>SA3 3,950dmg\nSA3に繋いでダメージ重視でもOK！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1ce7421a69fd",
+    "category": "combo",
+    "topic": "画面端中P単発確認ODポワンコンボ",
+    "content": "画面端で5中Pを単発ヒット確認後、ODポワンを2回繋ぎ、中デガジェ、さらにSA1（またはSA2）を絡めることで大ダメージを狙える。5中Pの単発確認は難しいが、成功すれば強力なコンボとなる。ダメージは4,080（SA2時は4,560）。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端で5中Pがヒットした時、大ダメージ狙い",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "02:23",
+    "source_quote": "（端）5中P>ODポワン>ODポワン>中デガジェ>SA1(SA2) 4,080(4,560)dmg\n端だとODポワンが2回入ってSAを絡めると大ダメージが狙えます\n中P単発確認はめちゃムズいですが出来る来ると強いので自信のある人は狙ってみましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "45ba0370fb81",
+    "category": "combo",
+    "topic": "5強Kパニカンからのコンボ",
+    "content": "鬼リーチの5強Kがパニッシュカウンターした場合、弱デガジェ、中デガジェ、またはSA1に繋ぐ。距離が近い場合は、歩き5中Pなどから追撃も可能。SA1は画面端を背負っている時に使うと良い。ダメージは弱デガジェで2,080、中デガジェで2,280、SA1で3,080。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "5強Kがパニッシュカウンターした時、画面端背負い時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "02:43",
+    "source_quote": "5強K(PC)>弱デガジェ/中デガジェ/SA1 2,080/2,280/3,080dmg\n鬼リーチの5強Kがパニカンした時のコンボ\n距離が近い時は歩き5中Pなども繋がったりします\nSA1は端背負いの時に使っていきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "308",
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e2ca153e7073",
+    "category": "combo",
+    "topic": "5強Pヒット確認SAコンボ",
+    "content": "5強Pを単発ヒット確認後、SA1、SA2、またはSA3に繋ぐ。確認は難しいが、練習次第で習得可能。空振りが大きいので、空振りしすぎないよう注意が必要。BO時はSA1に繋いで入れ替え、スペースを確保することもできる。ダメージはSA1で2,800、SA2で3,600、SA3で4,200。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "5強Pヒット確認時、BO時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "03:02",
+    "source_quote": "5強P>SA1/SA2/SA3 2,800/3,600/4,200dmg\n5強P単発確認からの各種SAコンボ\n確認はまあまあ難しいですが頑張れば出来なくはないレベルだと思います！\n後隙もまあまああるので、空振りすぎには注意！\n自分がBOしてる時はヒット確認からのSA1で窮地を脱出できることもあります\n入れ替えからスペースを確保して凌ぎましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "225dd3682449",
+    "category": "combo",
+    "topic": "小技始動メダル稼ぎコンボ",
+    "content": "2弱P>2弱P>キャンセルラッシュ>5弱P>4強P>中ランヴェと繋ぐことで、ダメージは低いがメダルを効率的に稼ぐことができる。序盤などメダルを増やしたい時に狙っていく価値がある。ダメージは1,713。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "2弱P始動、序盤でメダルを稼ぎたい時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "03:51",
+    "source_quote": "2弱P>2弱P>CDR>5弱P>4強P>中ランヴェ 1,713dmg\nダメージは低いですがメダルを稼げるので序盤は狙っていく価値があります",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3e4083fec316",
+    "category": "combo",
+    "topic": "画面端DIからの基本コンボ",
+    "content": "画面端でドライブインパクトを壁当てした場合、4強P>中ランヴェと繋ぐのが基本コンボとなる。ダメージは1,760。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端でドライブインパクトを壁当てした時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "04:06",
+    "source_quote": "（端）DI>4強P>中ランヴェ 1,760dmg\nインパクト壁ドンの基本コンボ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e21517299792",
+    "category": "combo",
+    "topic": "画面端DIからの高火力コンボ",
+    "content": "画面端でドライブインパクトを壁当てした後、4強P>弱グランフェッテ>ODポワン>弱ランヴェと繋ぐことでダメージを伸ばすことができる。ただし、技を最速で出さないと繋がらないため注意が必要。ダメージは2,312。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端でドライブインパクトを壁当てした時、ダメージを伸ばしたい場合",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "04:21",
+    "source_quote": "（端）DI>4強P>弱グランシェ>ODポワン>弱ランヴェ 2,312dmg\nダメージを伸ばしたい時はこっち\n最速で技を出していかないと繋がらないので注意！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "14003d36006d",
+    "category": "combo",
+    "topic": "グランフェッテ弾抜けコンボ",
+    "content": "グランフェッテでの弾抜けがパニッシュカウンターした場合、ラッシュ5中K>強ポワン>ラッシュ4強P>中ランヴェと繋ぐ。このコンボは運び性能とメダル回収能力が高く非常に優秀。相手との距離が近い場合は、最初のラッシュ5中Kをラッシュ4強Pに置き換えることも可能。ダメージは2,938。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "グランフェッテでの弾抜けがパニッシュカウンターした時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "04:39",
+    "source_quote": "⑥グランシェ(PC)>ラッシュ5中K>強ポワン>ラッシュ4強P>中ランヴェ 2,938dmg\nグランシェで弾抜けした時に使う運びながらメダルを貯める優秀コンボです\n距離が近い時は最初のラッシュ5中Kはラッシュ4強Pでもいけます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a3de364368f4",
+    "category": "combo",
+    "topic": "強デガジェパニカンSA3コンボ",
+    "content": "強デガジェがパニッシュカウンターした場合、SA3に繋ぐことで5,000ダメージのお手軽高火力コンボとなる。強デガジェを出すのが早すぎるとスカってしまうので、相手の技の後隙をしっかり見極めて出すことが重要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "強デガジェがパニッシュカウンターした時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "04:59",
+    "source_quote": "⑦強デガジェ(PC)>SA3 5,000dmg\nお手軽に減るコンボ\n強デガジェが早すぎるとスカってしまうので注意です！\n相手の後隙を見極めて出していきましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "068ce52b2cc6",
+    "category": "combo",
+    "topic": "4中K崩しからの高火力SA3コンボ",
+    "content": "4中Kで相手を崩した際に、キャンセルラッシュ>2中P>4強P>ODデガジェ>5中P>キャンセルラッシュ>4強P>2中P>弱ポワン>SA3と繋ぐことで、Year2よりも火力が上がった5,215ダメージのコンボになる。難しい場合は、画面端DIからの基本コンボ（14番のコンボ）でも良い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "4中Kで相手を崩した時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "05:23",
+    "source_quote": "⑧4中K>CDR>2中P>4強P>ODデガジェ>5中P>CDR>4強P>2中P>弱ポワン>SA3 5,215dmg\n4中Kで崩した時のコンボ。新要素の弱ポワンSA3でyear2より火力UPしています\n難しい！って人は⑭のコンボでも問題ないです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "311",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2b831bf470f4",
+    "category": "combo",
+    "topic": "5強PパニカンからのODポワンSA1コンボ",
+    "content": "Year3で追加された新コンボ。5強Pがパニッシュカウンターした場合、ODポワン>中デガジェ>SA1と繋ぐ。主に強P差し返しの後に使用でき、2,840ダメージ（ODポワン追加時は3,320ダメージ）と結構ダメージが取れるため、積極的にゲージを使っていくと良い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "5強Pがパニッシュカウンターした時、強P差し返し後",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "05:48",
+    "source_quote": "⑨5強P(PC)>ODポワン>中デガジェ>SA1 2,840(3,320)dmg\nyear3新コンボ\n主に強P差し返しの後に使えます\n結構ダメージ取れるので、積極的にゲージを使ってもいいと思います！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98638d75973b",
+    "category": "combo",
+    "topic": "5強Pパニカンからのメダル貯めコンボ",
+    "content": "5強Pがパニッシュカウンターした場合、ODポワン>生ラッシュ>5弱K>弱ランヴェと繋ぐことで、ダメージを取りつつメダルを貯めることが可能。5弱Kの代わりに2弱Pでも同様に繋がる。ダメージは2,840。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "5強Pがパニッシュカウンターした時、メダルを貯めたい時",
+    "source_video_id": "NlzpgbSsNsI",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year3対応！基本に新要素を加えたマノンの実践コンボ20選！",
+    "source_timestamp": "06:02",
+    "source_quote": "⑩5強P(PC)>ODポワン>ラッシュ5弱K>弱ランヴェ 2,840dmg\n生ラッシュも使ってメダル貯めも可能\n5弱Kでなくとも、2弱PでもOKです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:02:22.076705",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "59566f9aa4a6",
+    "category": "combo",
+    "topic": "コマ投げ>ODテガジェ>SA2",
+    "content": "マノンのコマ投げ後のODグランフェッテ（テガジェ）がヒットした場合、SA2に繋げることができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コマ投げ後のヒット時",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "00:52",
+    "source_quote": "コマ投げ後の距離でODテガジェを当てるとそこからSA2が繋がります。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "af78734d5c17",
+    "category": "combo",
+    "topic": "ランヴェルセ>ラッシュ2中K>5中P",
+    "content": "ランヴェルセ後のドライブラッシュしゃがみ中Kがヒットした場合は、基本的に立ち中Pに繋げば良い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ランヴェルセ後のヒット時",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "03:27",
+    "source_quote": "基本的には5中Pに繋げば間違いなしです",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "600b5ae58239",
+    "category": "combo",
+    "topic": "ランヴェルセ>ラッシュ2中K重ね 相打ちコンボ",
+    "content": "ランヴェルセ後のドライブラッシュしゃがみ中K重ねが相手の4F暴れと相打ちになった場合、+11Fの有利が取れ、立ち中Pに繋げられる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ランヴェルセ後の相打ち時",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "03:45",
+    "source_quote": "相打ちで+11F取れるので、5中Pが繋がるほか",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe9613258e34",
+    "category": "combo",
+    "topic": "ランヴェルセ>ラッシュ2中K重ね 相打ちコンボとリスク",
+    "content": "ランヴェルセ後のドライブラッシュしゃがみ中K重ねが相打ちになった場合、立ち強Pやしゃがみ強Kにも繋げられる。ただし、相打ちでもダメージを受けてしまうため、体力が少なくKOされそうな状況では使用を控えるべき。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ランヴェルセ後の相打ち時",
+    "source_video_id": "Sh95nrJSPgE",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "【スト6】year2対応！新要素で強くなったマノンの実践起き攻め33選！",
+    "source_timestamp": "03:53",
+    "source_quote": "5強Pや2強Kも繋がります\nデメリットとしては、相打ちとは言えダメージを貰ってしまう点です。体力が少なく、相打ちてもKOされそうな状況では使うのは控えておいた方が丸いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:45:18.097897",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "109",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "327502191375",
+    "category": "combo",
+    "topic": "立ち弱P始動コンボ",
+    "content": "マノンは相手密着時、立ち弱Pからの小パン小パン > ODロンポワン（ボタン二つ押し）またはSA1に繋ぐコンボが強力です。状況に応じてSA1かSA2に繋ぐことも可能です。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手密着時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "10:47",
+    "source_quote": "コンボもいろいろあるんですけど、これができたらとりあえずいけるなっていうコンボを3つほど紹介します。まず先ほど立ち回りの項目でも出てきた、（中略）これです。先ほども言ったんですが、これが正直マノンの超基本コンボで、難しいかもしれないんですけど、これはぜひ練習してできるようになってください。めちゃめちゃ強いんで。（中略）ODのロンポワンが当たった時は、中のデガジェ、もしくはSAの1。これで追撃をすることができます。（中略）弱攻撃からのコンボとしては結構強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "717de1e77b01",
+    "category": "combo",
+    "topic": "飛び込み攻撃始動コンボ",
+    "content": "マノンは飛び込み攻撃（ジャンプ大K）から引き中K > 中デガジェ、または引き中K > SA1に繋ぐコンボが可能です。引き中Kが中段属性のため、しゃがみガードしている相手にもヒットしやすいです。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "飛び込み攻撃ヒット時",
+    "source_video_id": "v8usebI40Ow",
+    "source_channel": "GANAKEN / ガナケン",
+    "source_video_title": "[Street Fighter 6] For beginners! We'll explain the basics of how to use Manon!",
+    "source_timestamp": "12:12",
+    "source_quote": "三つ目があとは飛びからのコンボで、（中略）ジャンプ大キック、引き中キック。この技、アン・オーっていいます。ジャンプ大キック引き中キックから、中のデガジェ、もしくは先ほども紹介したキャンセルラッシュからのコンボ。 （中略）引き中キックの何が強いかっていうと、これはですね、あの、二段目が中段属性といって、まあさっきも言ったんですけどしゃがみではガードできないんです。格ゲーの基本ってやっぱりしゃがみガードなので、これはみんな喰らいます。（中略）飛びから、中デガジェ、もしくは先ほども紹介したキャンセルラッシュからのコンボ。ここまで繋げると強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T09:02:46.244354",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "205",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "24654834086e",
+    "category": "combo",
+    "topic": "打撃始動のメダル獲得コンボ",
+    "content": "ジャンプ強攻撃（J.強PまたはJ.強K）から、後ろ強Pをキャンセルして中ランヴェルセに繋ぐことで、打撃からメダルレベルを上げることができる。後ろ強PはSA3にも繋がりやすい。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ジャンプ攻撃からのコンボ、または地上からのコンボ",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "01:06",
+    "source_quote": "まずジャンプ強攻撃、後ろ強パンチキャンセル中ランヴェルセ…これで打撃からメダルレベルを上げれるぜ…後ろ強パンチ中ランヴェルセはSA3にも繋がるから覚えておいてくれ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313",
+      "402",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "598e7933b1af",
+    "category": "combo",
+    "topic": "ODランヴェルセからの追撃",
+    "content": "ドライブゲージに余裕がある場合、OD版のランヴェルセ（ロン・ポウン）をヒットさせた後に中デガジェで追撃すると、ダメージを増やしつつ相手を運びやすい。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "OD版ランヴェルセがヒットした時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "01:39",
+    "source_quote": "ドライブゲージに余裕があるときは、OD版ロン・ポウンにすると中デガジェで追撃できるぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "08f66a89b64b",
+    "category": "combo",
+    "topic": "ODランヴェルセからのSA2",
+    "content": "OD版のランヴェルセ（ロン・ポウン）はキャンセルしてSA2にも繋ぐことができる。SA3を使わずに相手を倒しきれる状況で有効な選択肢。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "OD版ロン・ポウンがヒットし、SA2ゲージがある時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "01:49",
+    "source_quote": "ODロン・ポウンはキャンセルしてSA2にも繋げれるぜ。SA3を使わなくても倒しきれる時に便利ね",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7babd7b1594f",
+    "category": "combo",
+    "topic": "立ち強Kからのパニッシュカウンターコンボ",
+    "content": "マノンの立ち強Kがパニッシュカウンターになると、中デガジェが確定で繋がる。反応が難しい場合は弱デガジェでも良い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち強Kがパニッシュカウンターヒットした時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "02:51",
+    "source_quote": "更にこの攻撃はパニッシュカウンターで中デガジェが確定するんだ…意識してると出来るようになるけど、難しい場合は弱デガジェの方が簡単だぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "308",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "89ab566e412f",
+    "category": "combo",
+    "topic": "コマ投げ後の確定状況",
+    "content": "コマンド投げ後は19フレーム有利になるため、発生20フレームの強デガジェがそのまま重なる（重ねられる）。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コマンド投げヒット後",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "04:14",
+    "source_quote": "ちなみにコマンド投げのあとは19フレーム有利だから発生20フレームの強デガジェがそのまま重なるぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c36e4c169e31",
+    "category": "combo",
+    "topic": "ドライブキャンセルを使ったコンボ",
+    "content": "立ち中Pや立ち中Kからドライブキャンセル（DRC）でラッシュし、しゃがみ中P、後ろ強P、打撃投げ（ランヴェルセ）に繋ぐとコンボが伸び、メダルレベルを稼げる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "コンボ中",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "04:25",
+    "source_quote": "前進しながら出る立ち中パンチからキャンセルラッシュしてしゃがみ中パンチ後ろ強パンチ打撃投げとか…立ち中パンチより遠くても届く立ち中キックから同じコンボを入れるのもいいな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "108",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ebbd46eac08",
+    "category": "combo",
+    "topic": "立ち強Pからのヒット確認コマ投げ",
+    "content": "立ち強Pがヒットしたことを確認できたら、もう一度立ち強Pで相手を引き寄せ、そこから中マネージュ・ドレに繋ぐことができる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "立ち強Pがヒットした時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "04:50",
+    "source_quote": "立ち強パンチをヒット確認できたら、もう1回強パンチで引き寄せて3フレ有利だから",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ba0f35e3ab55",
+    "category": "combo",
+    "topic": "後ろ中Kタゲコンからの追撃",
+    "content": "後ろ中Kのターゲットコンボ（2ヒット）の2段目にキャンセルをかけて中デガジェに繋ぐことができる。ドライブゲージに余裕があれば、ラッシュから打撃投げ（ランヴェルセ）に繋ぐことも可能。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "後ろ中Kターゲットコンボがヒットした時",
+    "source_video_id": "vVWY9Sb6GUE",
+    "source_channel": "ぬりかべ",
+    "source_video_title": "【スト６初心者さん向け攻略】簡単！優雅！高火力！！マノンの基本コンボと立ち回り【ゆっくり実況】",
+    "source_timestamp": "05:00",
+    "source_quote": "後ろ中キック2回のタゲコンが対になっていて、タゲコンの2段目にキャンセルがかかるので中デガジェに繋いだり…ドライブゲージに余裕があればラッシュから打撃投げに繋ぐこともできるぜ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:03:17.308423",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "205",
+      "309",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e182fd352975",
+    "category": "combo",
+    "topic": "弱デガジェ後ラッシュ中足からの運び",
+    "content": "相手ダウン後の起き攻めで、弱デガジェからのラッシュ中足がヒットした場合は、ODデガジェで追撃し運びのコンボに移行できる。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン後、弱デガジェからのラッシュ中足ヒット時",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "01:44",
+    "source_quote": "これで運び行ったりとか。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "308",
+      "311"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe1fdd4f4a06",
+    "category": "combo",
+    "topic": "アン・オーからの追撃",
+    "content": "弱デガジェ後の起き攻めでアン・オーがヒットした場合は、中Pから中デガジェで追撃できる。ドライブゲージが余っている場合は、メダル獲得のためのコンボに繋ぐことも可能。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "弱デガジェからの起き攻めでアン・オーヒット後",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "02:18",
+    "source_quote": "こんなの食らってね、この密着状態でね、暴れてくるなんつったらたいしたもんよ。これ当たったらこんなん。そんなんでもいいし、ゲージあるんだったらメダルを貯めに行く。アン・オー→ラッシュしゃがみ中P→レバンス→ランヴェルセ。バーンアウト中だったらSAでもいいし。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "205",
+      "308",
+      "309"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "31480a68256b",
+    "category": "combo",
+    "topic": "画面端インパクト返し後のコンボ（ゲージあり）",
+    "content": "画面端でインパクト返し後、ドライブゲージが余っている場合は、ジャンプ強Kからラッシュトモエに繋げ、そこから前ステ→マネージュ・ドレへ移行する。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "画面端でのインパクト返し後、ゲージが余っている時",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "04:14",
+    "source_quote": "ゲージが余っている時。ジャンプ強Kから入るんだけど。これ当てた後ジャンプ強K。これをラッシュ。あー、なるほどね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "13862ee44010",
+    "category": "combo",
+    "topic": "ゲージ稼ぎたい時のコンボ",
+    "content": "ドライブゲージを稼ぎたい時は、ジャンプ強K→レバンス→ODグラン・フェッテ→レバンス→大パウン→弱ランヴェルセのコンボを使用する。ダメージは低いが、ゲージ回収率が高い。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "ドライブゲージを稼ぎたい時",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "06:58",
+    "source_quote": "あとちょっとでSA3溜まるな、とか。なんか、ゲージ稼ぎたいなって時は、こっちでいい。これはダメージ低い、でも。ダメージ低いけど、ゲージ回収率がいいの？が高い。これ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "312",
+      "316",
+      "317",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c184a60e4416",
+    "category": "combo",
+    "topic": "ロビンさんのお披露目コンボ（最大火力・運び）",
+    "content": "ロビンさん考案の最大火力・運びコンボ。ジャンプ強K→レバンス→ODグラン・フェッテ→レバンス→グラン・フェッテ→ODパウン→ラッシュしゃがみ中P→ラッシュしゃがみ中P→キャンセルラッシュレバンス→強ランヴェルセキャンセルSA3。非常に高い火力と運び性能を持つ実用的なコンボ。距離によってはランヴェルセを中にしたり弱にしたりと使い分けが必要な場面もあるため、練習が必要。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "最大ダメージを与えたい時",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "07:35",
+    "source_quote": "ロビンさんのお披露目コンボ。むずいむずいやろ。慣れたら簡単よ。すっご！何それ？これ距離によって入らないとか、中にしなきゃ届かないとか、弱にしなきゃいけないとかあるから。これちょっとめんどくさいから完全に忘れていいこれ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "117",
+      "314",
+      "316",
+      "317",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a31e30816969",
+    "category": "combo",
+    "topic": "比較的簡単な高火力コンボ",
+    "content": "上記のお披露目コンボより簡単な高火力ルート。ジャンプ強K→レバンス→ODグラン・フェッテ→レバンス→グラン・フェッテ→ODパウン→中デガジェ→SA2。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "高ダメージを与えたい時、より簡単なルートを使いたい場合",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "09:05",
+    "source_quote": "難しいから、最初のうちはこういう方がオススめかも。この後これやって。これODグランフェッテ。中デガジェ→SA2。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "309",
+      "316",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "94b76695a9ec",
+    "category": "combo",
+    "topic": "SAなしの運びコンボ",
+    "content": "SAゲージを使わない運びコンボ。ジャンプ強K→レバンス→ODグラン・フェッテ→レバンス→グラン・フェッテ→ODパウン→ランヴェルセ。",
+    "characters": [
+      "manon"
+    ],
+    "matchup": null,
+    "situation": "高ダメージを与えたい時、SAを使いたくない時",
+    "source_video_id": "WIrKQqOi8wU",
+    "source_channel": " SHAKA Ad Channel",
+    "source_video_title": "【スト６】SHAKAと学ぶ！  マノン使いの大先輩、ろびんくんに教わるマノンのあれこれ【前編】　～起き攻めのレパートリー、ヒット確認のタイミングで変わる技の強弱、お披露目コンボ　...etc.",
+    "source_timestamp": "09:16",
+    "source_quote": "一応俺が今までやってた、その辺のコンボは、これやって。こっからSA。まあこれ今弱で言ったけど。これ中か。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T02:01:09.360779",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "117",
+      "316",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

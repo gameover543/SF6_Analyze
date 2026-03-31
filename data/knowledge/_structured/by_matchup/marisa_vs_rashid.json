@@ -1,0 +1,57 @@
+[
+  {
+    "id": "a71e3dbd5d1d",
+    "category": "neutral",
+    "topic": "ラシードの風への対応",
+    "content": "ラシードが中距離で風（ワールウィンドショット）を溜めてくる場合、マリーザはファランクスをタイミング良く合わせることを狙う。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "rashid",
+    "situation": "ラシードが中距離で風（ワールウィンドショット）を溜めている場合",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "01:01",
+    "source_quote": "中距離なら風を溜めてくるだろう。ここだー！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d06a6be798f3",
+    "category": "combo",
+    "topic": "バーンアウト状態へのSA3使用",
+    "content": "バーンアウト状態の相手に対して、SA3を当てることで大ダメージを与え、KOを狙うことができる。SA2でも対応可能。",
+    "characters": [
+      "marisa"
+    ],
+    "matchup": "rashid",
+    "situation": "相手がバーンアウト状態の時",
+    "source_video_id": "IPLqVdaGz_0",
+    "source_channel": "白熊Baller",
+    "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+    "source_timestamp": "02:21",
+    "source_quote": "でもあれが来れば来たーーー！SA3だーーー！！！！おりゃー！これ、確定らしいです！ちなみにSA2でも返せるので是非お試しあれーーー！！！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:12:30.363432",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "403",
+      "404"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

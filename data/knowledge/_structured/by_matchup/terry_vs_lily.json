@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8580f6ed1f69",
+    "category": "matchup",
+    "topic": "リリー戦の注意点",
+    "content": "テリーはリリーに対して、端まで届く技の発生が遅いため、リリーに`風 (Wind)`溜めを許しやすいという弱点がある。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "lily",
+    "situation": "リリー戦",
+    "source_video_id": "Jvpkgsap2ds",
+    "source_channel": "小路KOG",
+    "source_video_title": "【SF6】10分で分かる！新キャラ「テリー」初日完全攻略！【小路KOG】",
+    "source_timestamp": "09:58, 10:04",
+    "source_quote": "リリー有利取れそう？ 端まで届く技が遅いから風はためれそう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:44:02.084368",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8580f6ed1f69",
+    "category": "matchup",
+    "topic": "リリー戦の注意点",
+    "content": "テリーはリリーに対して、端まで届く技の発生が遅いため、リリーに`風 (Wind)`溜めを許しやすいという弱点がある。",
+    "characters": [
+      "terry",
+      "lily"
+    ],
+    "matchup": "lily",
+    "situation": "リリー戦",
+    "source_video_id": "Jvpkgsap2ds",
+    "source_channel": "小路KOG",
+    "source_video_title": "【SF6】10分で分かる！新キャラ「テリー」初日完全攻略！【小路KOG】",
+    "source_timestamp": "09:58, 10:04",
+    "source_quote": "リリー有利取れそう？ 端まで届く技が遅いから風はためれそう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T04:44:02.084368",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "a11ce6038a53",
+    "category": "neutral",
+    "topic": "遠距離での立ち回り",
+    "content": "遠距離ではリーチの長い通常技（立ち中Pや立ち中K）を振って相手を牽制し、相手が飛んできたら対空で落とすのが基本戦術です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "遠距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "01:24",
+    "source_quote": "遠距離はリーチの長い通常技で飛ばせて落とす。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "959d8323ee6a",
+    "category": "neutral",
+    "topic": "中距離での立ち回り",
+    "content": "中距離では、立ち中Pや立ち中Kの先端でガードを固める相手にはドリルキックで攻めたり、ヨガフロートで触りに行ったり、テレポーテーションで距離を取ったりします。相手が突進してくる場合は立ち中Pで迎撃し、画面端に近づきそうになったらテレポーテーションで画面を入れ替える意識が大切です。常に自分に有利な距離で戦うように画面を大きく使います。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "01:36",
+    "source_quote": "中距離はドリルで攻めるか、フロートやテレポで距離を取るか。\nダルの二中Pの先端ぐらいで固まってくれる人がいるんですけど、ま、こういう人に対しては、ま、フロートから触りに行ったりとか、ドリルで有利を取っていくっていうのがいいのかなって感じです。\nずかずか来る人やったらそもそも二中パンで引っかかるし\n画面意識が大切なので端にいきそうになったら入れ替えたり画面を大きく使って対戦したい。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "408faaefc366",
+    "category": "neutral",
+    "topic": "立ち中Pと立ち中Kの使い分け",
+    "content": "立ち中Pと立ち中Kはどちらもリーチが長く、とりあえず振っておける技です。気分で使い分けますが、立ち中Pの方がわずかにリーチが長く、立ち中Kの方が硬直がやや短いので、対空に使える場面もあります。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "02:51",
+    "source_quote": "リーチが長いためとりあえず振っとけに使える気分で立ち中Kと使い分ける。\nリーチが長いのでとりあえず振っとけに使える気分で立ち中Pと使い分ける。\n微妙に立ち中Pの方がリーチが長いんで、立ち中Pでいいやってなるかもしれないんですけど、硬直がですね、立ち中Kの方がやや短いんで、この立ち中Kって振ると対空で落とせる瞬間とかもあったりしますね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b9d9f418e3b4",
+    "category": "neutral",
+    "topic": "立ち大P、屈大P、立ち大Kの使い分け",
+    "content": "立ち大P、屈大P、立ち大Kは立ち中P、立ち中Kをメインに戦いつつ、アクセントとして使用します。これらの技は全体硬直が大きいため、飛びが確定しやすいので、多用はせずほどほどに使うのが良いでしょう。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "03:23",
+    "source_quote": "立ち中P、立ち中Kメインでアクセントとして使い分ける。硬直が大きいので飛びが確定しやすいのでほどほどに。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6aa5c620e436",
+    "category": "neutral",
+    "topic": "ヨガファイアの立ち回り活用",
+    "content": "ダルシムのヨガファイア（通常版とOD版）は強力です。特にODヨガファイアは強く、ODヨガファイアからテレポーテーションをすることで、画面を入れ替えたり、有利な距離感を作って崩しに使うことができます。画面端に追い込まれそうな時にODヨガファイアからの入れ替えも強力です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般、画面端近く",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "03:49",
+    "source_quote": "通常版も強いがOD版も強く、ODヨガファイア > テレポで画面を入れ替えたり、テレポで有利な距離感を覚えて崩しに使う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "40eec9d69d7d",
+    "category": "neutral",
+    "topic": "ODヨガアーチの立ち回り活用",
+    "content": "ODヨガアーチは隙が大きい技ですが、中距離で使い、ドライブダッシュ中スライディングと合わせて攻めに使うと強力です。相手が技を振りにくくなった時や、牽制技の先端でガードを固めている相手に対し、ODヨガアーチからのテレポートで奇襲し、攻めを展開することも可能です。中距離の差し合いで使うのが定石です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "04:18",
+    "source_quote": "隙が大きいが中距離でうって、中スラと一緒に攻めるのに使う。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d9d16c7863d6",
+    "category": "neutral",
+    "topic": "屈中Pの立ち回り活用",
+    "content": "屈中Pはダルシムの数少ないキャンセル可能な技です。中距離で空振りさせて、ヒット時にラッシュ、ODヨガファイア、ODヨガアーチなどを仕込むセットプレイが有効です。屈中Pが当たらない程度の距離を覚え、置き技として使うと良いでしょう。ヒットした際にラッシュキャンセルでコンボに繋げたり、ヨガファイアで画面を押し返したり、ODヨガアーチで入れ替えたりと、様々な派生が可能です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "04:49",
+    "source_quote": "数少ないキャンセルできる技。中距離で色々な技を仕込んで置いておく。ラッシュ、ODヨガファイア、ODヨガアーチなど仕込む。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4910a44531d1",
+    "category": "neutral",
+    "topic": "ドリルキックの立ち回り活用",
+    "content": "ドリルキックは足元に当てると有利フレームが取れる、ダルシムの貴重な攻めの起点です。中距離から直接足元に当てるのは難しいですが、小技（弱P）を2回ガードさせた後にバックジャンプから中ドリルキックを出すセットプレイなどで有利フレームを取る練習をしましょう。固まっている相手には足元に当てることでプラスフレームを取れます。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般、近距離、中距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "05:47",
+    "source_quote": "足元に当てると有利を取ることができる。ダルシムの貴重な攻めの起点。中距離から突然ドリルキックを足元に当てるのは難しいが小技2回>バックジャンプ中ドリルなどセットプレイで覚えるのが良い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3a963b3fb6e0",
+    "category": "neutral",
+    "topic": "ヨガフロートの立ち回り活用",
+    "content": "ヨガフロートは普通にジャンプするよりも技の発生が早いため、空中フロートを多用します。中距離でフロートで浮いておくのが強いです。地上から攻めてくる相手にはジャンプ大Pで迎撃し、飛んできた相手には中Pで対空します。相手が動かない場合はフロートから触りに行きます。危ないと感じたら後ろテレポーテーションで逃げるなど、状況を見て様々な使い方ができます。この「状況を見て後出しジャンケン」ができるようになることが、ダルシムを極めるポイントの一つです。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "06:41",
+    "source_quote": "とりあえず中距離で浮いておくのも強い。地上からくるなら大Pで迎撃、飛んできたら中P。後ろにスペースがあるなら後ろテレポで逃げるなど。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "187b837d2f35",
+    "category": "neutral",
+    "topic": "ODコメットの立ち回り活用",
+    "content": "ODコメットは画面端を入れ替える時に使う技です。特にODコメットから前テレポーテーションを繋げることで、挟み込みつつ有利フレームを取りながら画面を入れ替えることができ、非常に強力です。画面端に追い込まれそうになった時に、この連携を使って状況をリセットするのに使えます。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "画面端近く",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "07:44",
+    "source_quote": "画面端を入れ替えるときに使う。ODコメット>前テレポで画面を入れ替える。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e64ec2a28c17",
+    "category": "neutral",
+    "topic": "ダルシムの飛び込み方",
+    "content": "ダルシムは通常ジャンプが遅いため、基本的に普通に飛んで攻めることはありません。代わりに、ヨガフロートからジャンプ大Pを出したり、ドリルキックで攻めることが多いです。ヨガフロートで距離を調整し、相手の動きに合わせてジャンプ攻撃やドリルキックで攻め込む、というアプローチが有効です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り全般",
+    "source_video_id": "IrGHcupqb7E",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6] A 15-minute tutorial on how to use Dhalsim! Explaining tips for mastering this...",
+    "source_timestamp": "09:36",
+    "source_quote": "飛びが遅いので基本的に普通に飛んでいくことはない。フロートからジャンプ大Pをうったりドリルで攻めることが多い。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T21:13:23.800934",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3f4228500d90",
+    "category": "neutral",
+    "topic": "弾の使い分け",
+    "content": "ヨガファイアはダルシムの基本の弾。弱中強で弾速を使い分けることで相手は対応しにくくなる。ヨガアーチは、ヨガファイアを嫌がって飛んでくる相手にたまに混ぜることで、飛びを抑止できる。ヨガコメットは画面にヨガファイアが残っていても出せるため、ヨガファイアと交互に出すことで時間稼ぎや相手の動きを制限するのに有効。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "wPqfYRNadMc",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【スト6】モダンダルシムのすすめ　コンボ,起き攻め,立ち回りを世界一詳しく解説【Mダルシム】",
+    "source_timestamp": "03:37",
+    "source_quote": "まず弾の基本となるのはこのヨガファイアです。弱中強を使い分けると相手は対応しにくくなります。一番よく使う弾はこのヨガファイアで間違いないです。そしてそのファイアにたまにこういう風にアーチを混ぜるのが強いです。アーチの何が強いかと言うと、ファイアを嫌がって飛ぼうとしてくる相手にアーチを混ぜてあげることで当たって相手は飛びづらくなります。そして三つ目のこのヨガコメットは私は時間稼ぎ的に使うことが多いです。というのもこのヨガコメットが強い点は、画面にヨガファイアが残っている状態でも撃てることです。なのでファイアを撃ってコメットを撃ってファイアを撃ってコメットを撃つみたいな時間稼ぎがとても強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:08:15.969797",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bd3493143e04",
+    "category": "neutral",
+    "topic": "通常技の基本",
+    "content": "ダルシムの通常技の基本は、技の先端を相手に当てること。近距離でリーチの長い技を振るとガード硬直が長く、相手の確定反撃やジャンプ攻撃をくらいやすいため避けるべき。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "wPqfYRNadMc",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【スト6】モダンダルシムのすすめ　コンボ,起き攻め,立ち回りを世界一詳しく解説【Mダルシム】",
+    "source_timestamp": "04:20",
+    "source_quote": "全ての通常技の基本は技の先端を相手に当てることです。例えば大Pをフルにしてもこのようにナルべく先端で当てる。しゃがみ中Pの時もナルべく先端で当てる。合掌キックを打つ時もナルべく先端で当てる感じです。でこれ初心者ありがちなんですが本当に良くないのはこういう近距離の相手に対してリーチが長い技を打っちゃうことです。これをやっちゃうと相手の確反とかをたまに食らうし相手のジャンプ攻撃とかもくらいやすくなってしまいます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:08:15.969797",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "204"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d1830d0125ef",
+    "category": "neutral",
+    "topic": "通常技の使い分け",
+    "content": "強P（強）と強K（アシスト強）は、強Kがしゃがみ相手にも当たらないという欠点はあるが、ヒット時にキャンセルで弾（ヨガファイア）を出せるため、キャンセル連携ができる点で強Pより優位。下強Pはリーチが短い下段攻撃であり、相手の弾を避けながら攻撃できるため、弾キャラ対策に有効。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "wPqfYRNadMc",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【スト6】モダンダルシムのすすめ　コンボ,起き攻め,立ち回りを世界一詳しく解説【Mダルシム】",
+    "source_timestamp": "12:19",
+    "source_quote": "まずこの強Pとアシスト強で出るこの強K、この違いをちょっと知っておく必要があります。この強Kの特徴として強Pと違ってこういう風に遠くのしゃがんでる相手には当たらないって特性があります。それだけだとただの強Pの劣化番なんですが、強Kのいいところは相手にヒットしてたらこういう風にキャンセルして弾を出せることです。なのでこの強Kを使う時は基本弾をキャンセルして出せるようにしましょう。じゃないとこの強Kを使う意味がほとんどないです。次にこのしゃがみ強Pです。これは強Pと強Kよりリーチは短いんですが、強K強Pと違って下段攻撃なので相手はしゃがみガードをしないといけません。なので単純にヒットしやすいです。そしてしゃがみ強Pの強いところが相手が弾打っていたらそれを避けながらこのように攻撃できることです。なので弾キャラ相手にはこのしゃがみ強Pをうまく使えると強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:08:15.969797",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5d008c4a36ae",
+    "category": "neutral",
+    "topic": "起き攻め（ブラスト締め後）",
+    "content": "ブラスト締めの起き攻めは、最速でテレポして+3F有利を取る。その後は打撃（弱攻撃コンボ）、投げ（最速投げ）、シミー（フロートJ強K）の三択を仕掛ける。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "ブラスト締め後",
+    "source_video_id": "wPqfYRNadMc",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【スト6】モダンダルシムのすすめ　コンボ,起き攻め,立ち回りを世界一詳しく解説【Mダルシム】",
+    "source_timestamp": "24:28",
+    "source_quote": "ブラストでコンボを締めた後はこのように最速でテレポしてください。すると+3F取れます。そしてテレポの後は打撃、投げ、シミーの三択を仕掛けていきます。打撃択であれば弱攻撃コンボ、投げであれば当然最速投げ。シミーをする時はフロートJ強Kでシミーをして下さい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:08:15.969797",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "919ae44d085a",
+    "category": "neutral",
+    "topic": "起き攻め（ODファイア/強フレイム締め後）",
+    "content": "ODファイア/強フレイム締めの起き攻めは、少し遅らせたテレポで+2～5F有利を取る。その後は打撃（弱攻撃コンボ）、投げ（少し遅らせた投げ）、シミー（後ろ下がり）の三択を仕掛ける。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "ODファイア/強フレイム締め後",
+    "source_video_id": "wPqfYRNadMc",
+    "source_channel": "たこ煮。",
+    "source_video_title": "【スト6】モダンダルシムのすすめ　コンボ,起き攻め,立ち回りを世界一詳しく解説【Mダルシム】",
+    "source_timestamp": "26:27",
+    "source_quote": "この２つで締めた時の起き攻めは共通していて、それが少し遅らせたテレポです。すると+２から５F取れるように練習してみて下さい。そしてテレポの後は打撃、投げ、シミーの三択を仕掛けるんですが、この三択はさっきブラスト締めのところで紹介した三択と全く同じなので、さっき紹介した内容を使ってください。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:08:15.969797",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "63e52df92cd6",
+    "category": "neutral",
+    "topic": "ヨガファイアによる地上戦",
+    "content": "ダルシムのしゃがみ中Pをガードした後に相手が前ステやラッシュで近づいてくる場合、しゃがみ中Pからキャンセルしてヨガファイアを出すことで相手の行動を潰せる。しゃがみ中Pの硬直差は-1Fだが、ヨガファイアを出すことで相手の行動を読み、有利に立ち回れる。相手がドライブインパクトを打ってきた場合は、ODヨガファイアで返すことができる。また、相手のガードやパリィのタイミングをずらすために、弱中強のヨガファイアを使い分けるのが効果的。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "ダルシムのしゃがみ中Pをガードした後に相手が前ステやラッシュで近づいてくる時。または相手がドライブインパクトを打ってきた時。",
+    "source_video_id": "ZCrausx-uwA",
+    "source_channel": "たこ煮。",
+    "source_video_title": "[Dhalsim] Master the powerful move \"Down-Middle P\"! A comprehensive guide to combos, linkages, an...",
+    "source_timestamp": "00:55",
+    "source_quote": "この連携の強いところはしゃがみ中Pをガードして、こんな感じで前ステで近づいてくる相手だったり、こうラッシュで近づいてこようとしてる相手にこんな感じで勝てることです。ただこれにも弱点があって、例えばこんな感じでインパクトは確定しちゃうし、相手の飛びとかもこんな感じで対空が間に合わないです。インパクトに対してはODファイアにすることで返すことができるようになります。この時に使うファイアの強度は弱中強で特に変わりませんが、相手のガードのタイミングとか、パリィのタイミングをずらすっていう意味で、弱中強を使い分けるのが強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:19:59.533620",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4abf23439cc4",
+    "category": "neutral",
+    "topic": "ヨガアーチによる対空と攻め",
+    "content": "ダルシムのしゃがみ中Pをキャンセルしてヨガアーチを出すと、相手のジャンプ攻撃に勝てる。飛びを落とした後は、強スライディングや、ラッシュ→アッパー→中ブラスト→強スライディング、またはSA1などで追撃し、高いリターンを得られる。ヨガアーチは、ガード時の連携として、アーチ→中スライディング→涅槃→中フレームと繋げることで、相手のDゲージを約1.5本削ることができる（連ガではないためパリィには注意）。また、アーチ→生ラッシュ→投げは、アーチや中スライディングをパリィしようとする相手に対して、パニカン投げで崩すことができる。さらに、アーチ→後ろテレポートで相手のガード方向を揺さぶり、涅槃やブラストで追撃する選択肢もある。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手がジャンプ攻撃をしてくる時、またはしゃがみ中Pをガードした時、相手がパリィを狙っている時、相手のガード方向を揺さぶりたい時。",
+    "source_video_id": "ZCrausx-uwA",
+    "source_channel": "たこ煮。",
+    "source_video_title": "[Dhalsim] Master the powerful move \"Down-Middle P\"! A comprehensive guide to combos, linkages, an...",
+    "source_timestamp": "02:00",
+    "source_quote": "さっきキャンセルファイアは飛びには負けるという話をしましたが、アーチであればこんな感じで相手の飛びに勝てます。そして相手の飛びを落とした時は強スライディングとか、これちょっと難しいですが、ラッシュアッパーブラスト強スライディングとかで追撃できるので、飛びと噛み合った時のリターンが結構高いです。そしてこのキャンセルアーチからは色んな攻めに展開しやすいので、アーチの後の攻めの攻めをいくつか紹介します。まず一つ目がアーチ、中スラ、涅槃、ブラストとかでコンボに行きます。これの強いところは、この中スライディングガードされていても、ガードされた後はダルシム側がかなり先に動けるので、そっから、まあ投げに行ったり、こんな感じでシミーをしたり、何より強いのはガードされていた時も涅槃中フレームで入れ込んじゃって、これ連ガなので確定で相手のドライブゲージを1.5本ぐらい削れます。パリィされていたら別です。二つ目がアーチ生ラッシュ投げです。というのもこれの何が強いかというと、この上から降ってくるアーチをパリィしようとしたり、さっきの1つ目で紹介したこの中スライディングをパリィしようとして、結構相手としてはパリィを狙うことが多いタイミングなので、そのパリィをパニカン投げで取ることができる。3つ目がアーチ後ろテレポートです。これをすると相手はガード方向を急に逆に入れに入れないとダメなので結構ガードするのが難しいです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:19:59.533620",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "45bdd02b9e39",
+    "category": "neutral",
+    "topic": "生ラッシュしゃがみ中Pの活用",
+    "content": "ダルシムの体力がリードされ、相手にガードを固められた際に攻めを継続したい場合、生ラッシュしゃがみ中Pが有効。遠距離の相手にもヒットさせやすく、特にファイアに繋げた場合、通常のしゃがみ中Pからのファイアではインパクトに負けるが、生ラッシュしゃがみ中Pからのファイアであれば相手のインパクトを返せるようになるため、相手のインパクト対策のリスクを上げることができる。これにより、キャンセルアーチも打ちやすくなり、中スライディングや生ラッシュ投げなど、より多様な攻めを展開できる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "体力をリードされ、相手にガードを固められた時。または遠距離の相手に攻めたい時。相手がドライブインパクトを打ってくる時。",
+    "source_video_id": "ZCrausx-uwA",
+    "source_channel": "たこ煮。",
+    "source_video_title": "[Dhalsim] Master the powerful move \"Down-Middle P\"! A comprehensive guide to combos, linkages, an...",
+    "source_timestamp": "04:14",
+    "source_quote": "ダルシムの課題として体力をリードされガードを固められるときついっていうのがあるんですが、これを使うと攻めやすいです。まず生ラッシュから出すことで遠距離の相手にも当てられるし、1つ目で紹介したただのしゃがみ中パンチからファイアを出す時はインパクトが返せませんでした。でしたが生ラッシュから出すことで返せるようになります。生のしゃがみ中パンチからファイアとかアーチを出す時は相手としてはインパクトっていうのが結構安全な対策だったんですが、生ラッシュからではファイアに限ってはインパクトを返せるようになるので相手はこの対策のリスクが非常に上がります。するとキャンセルアーチも打ちやすくなり、特にこのアーチを打てるとそこからさっき紹介した中スライディングだったり生ラッシュ投げとかいろんな攻めに展開できます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:19:59.533620",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "107",
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c819732e129",
+    "category": "neutral",
+    "topic": "フロートによる撹乱と攻め",
+    "content": "ダルシムのしゃがみ中Pからキャンセルフロートを出す。これは相手を惑わす動きとして非常に強力。フロート後の行動として、ヨガコメットで相手の裏に回る、ジャンプ強Pからの攻め（ジャンプ強Pをガードさせるとダルシムが有利）、後ろテレポートで裏に回ってジャンプ強Pで攻める、前方フロート→ジャンプ弱P空振り→着地投げなどの選択肢がある。特に前方フロートからの投げは、ジャンプ強Pなどをパリィしようとする相手に対して有効。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "しゃがみ中Pからキャンセルできる時。相手を惑わしたい時、攻めを継続したい時。ジャンプ強Pをパリィしようとする相手に対して。",
+    "source_video_id": "ZCrausx-uwA",
+    "source_channel": "たこ煮。",
+    "source_video_title": "[Dhalsim] Master the powerful move \"Down-Middle P\"! A comprehensive guide to combos, linkages, an...",
+    "source_timestamp": "12:56",
+    "source_quote": "最後10コ目がキャンセルフロートです。これ特にコンボに行けるとかではないんですが、相手を惑わす動きとして非常に強力です。このキャンセルフロート後のおすすめの行動をいくつか紹介します。まずはヨガコメット。2つ目がジャンプ強Pからこんな感じで攻めていく方法。ジャンプ強Pはガードさせるとこちらがかなり有利なので、そっから投げでもシミーでもいろんな動きができますね。そのほかにも裏に回ってみたり、前方フロートジャクピー空振り着地して投げとかですね。この投げはジャンプ強Pとかをパリィしようとする相手をこんな感じで投げれるので強いです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T18:19:59.533620",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "112",
+      "116",
+      "333"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1f43f2a17358",
+    "category": "neutral",
+    "topic": "弾を空中ヒットさせた後の追撃",
+    "content": "ヨガファイアなどの弾を相手に空中ヒットさせた場合、立強Kで追撃し、状況に応じてキャンセルしてヨガファイアを重ねるか、ラッシュでラインを上げてドライブゲージを削る。相手が投げ抜けを狙ってくる場合は、低空フロートやバックステップからダメージに繋げる。相手がダルシム戦に慣れていない場合は特に有効で、相手の防御の癖を洞察してここぞという場面で仕掛けることが重要。着弾直前に前方Pテレポートで投げ間合いに入り有利を取る選択肢もあるが、これはジャストパリィに弱いので注意が必要。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手がダルシムのヨガファイアなどの弾を空中ヒットした時",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "00:52",
+    "source_quote": "その①：ヨガファイアなどの弾を踏んだ（空中ヒットした）相手に立強Kで追撃\nまずあまりにシンプルながらできていない人が多いこれ。\n立強Kはファイアでキャンセルしておくと相手の動きを制限できて状況がいい。\nファイアの強度はどれでもいいが、弱中だと取れる動きの選択肢が多い。\nラッシュで追いかけてラインを上げつつドライブゲージを削ることも可能。\n相手との距離に応じて届く技で横押しするとよい。\n着弾する直前で前方Pテレポートすれば投げ間合いで有利を取ることもできる。（ただしジャストパリィに弱い）\n投げ抜け狩りの低空フロートやバックステップでダメージに繋げたい。\n特にダルシム戦に慣れていない相手だと防御の癖が出やすいいため相手の傾向を洞察しておいて、ここぞという場面で仕掛けるのが有効。\n注意点として、これらの相手に近づく選択肢はリスクもあるので毎回やるのではなく、リターンが欲しいときに留めた使い方でよい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "333",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f328099bd957",
+    "category": "neutral",
+    "topic": "飛び道具への確定反撃",
+    "content": "相手の飛び道具を見てから3強K（大スラ）で確定反撃を取る。先読みでの使用は避け、ラウンド開始から少し離れた間合いで狙いやすい。3強Kが先端で当たった場合は、弱ヨガアーチを続けてテレポなどのセットプレイに繋げることが可能。相手が弾速の速い飛び道具を使う場合や、多段の飛び道具で撃ち勝とうとする場合は、2強Pやフロートを併用して対応する。相手が弾を撃って来ない場合は横押しで対応し、先端当てであれば反撃の心配もない。遠距離からの低空フロートで弾を誘い、後方着地から3強Kを確定させるテクニカルな選択肢もある。端端の弾に対しては、ラッシュからの2中K→3強Kも有効で、上級者にも通用する。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手の飛び道具（弾）に対して",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "02:04",
+    "source_quote": "その②：飛び道具を見てから3強K（大スラ）を確定させる\n飛び道具（弾）を”見てから”大スラで確定を取る。先読みは基本NG。\nラウンド開始より少し離れた間合いが狙いやすい。\n先端当てなら弱アーチを撃ってさら先に動けるので、テレポなどを使ったセットプレイに繋げることが可能。\n飛び道具の撃ち合いになりやすい相手だと重要度が増す。\n弾速が速い弾は抜けるのが難しいので、2強Pやフロートも併用したい。ただうっかり被弾しても致命傷にはならない。\n多段の飛び道具で撃ち勝とうとする相手にも有効。\n相手に攻め込まれるきっかけになる弾をくぐれば一気楽になる。\nそもそも大スラを先端当てすれば釣られたとしても反撃されない。\nキャラによっては、遠めの低空フロートにやられることが苦しいので、とりあえず弾を撃ってくるタイプの人もいる。この場合遠くのフロートで弾を誘い、後方着地→大スラを確定させるというややテクニカルな当て方も狙える。\n端端の弾にはラッシュ（ここは先読み）から中大スラも有効。フロートを使った誘いと同様、上級者にも結構決まる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "309",
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b47f1541b62a",
+    "category": "neutral",
+    "topic": "フロートからのジャンプ攻撃後の連携",
+    "content": "フロートからのジャンプ攻撃がヒットした後は、その有利な状況を活かしてコンボや連続ガード連携に繋げる。ジャンプ強Pの先端付近でヒットした場合は、1強Pか2中Pが基本的な追撃となる。ジャンプ強Pは強力だが、距離が遠すぎると追撃が届かずコンボチャンスを逃すため、ヒットした高さや距離に応じて最適な技を選択できるよう練習することが重要。特に2中Pでしかコンボに繋がらない状況も多いため、この判断を早く正確にできるようになることは、試合への影響が非常に大きい。さらに高い位置からジャンプ強Pを当てた場合は、有利フレームが減少するため4中Kや立弱Pを使用する。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "フロートからのジャンプ攻撃がヒットした時",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "05:26",
+    "source_quote": "その⑤：フロートからのジャンプ攻撃の後に適切なリーチの技を出す\nフロートからのジャンプ攻撃後は有利な状況を生かしてコンボや割り込めない連携に繋げたい。（これは連続ガードの連携）\nジャンプ強Pの先端付近で触れた後は1強Pか2中Pが基本となる。\nジャンプ強Pが強力なのでヒットする機会は多いが、技が相手に届かないとコンボチャンスを逃すことになる。\n2中Pでないとコンボにいけない状況も多い。\n試合への影響が非常に大きいのでこの判断はできるようになりたい。\nなお最低空でなくもっと高い場所からジャンプ強Pを出した場合は有利フレームが少なくなるので、4中Kや立弱Pも使う必要がある。\n1強Pが繋がりそうにない高さでは4中K、それよりさらに高いところからのジャンプ攻撃後は立弱Pを使いたい。\n非常に重要な割にできていない人が突出して多いと感じたポイント。\nまず2中Pを忘れないようにするだけで即効性の効果が表れるはず。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "116"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98b58b9e26df",
+    "category": "neutral",
+    "topic": "立弱Kの活用",
+    "content": "ダルシムの立弱Kは、9F発生だがリーチが長く、多くのキャラクターの2中Kより少し長いという特徴を持つため、相手の踏み込み攻撃やラッシュを止めるのに有効。リスクが少なく、相手が飛んでもブラスト対空が間に合いやすい。単発ヒット後は2中Pなどを使って有利な距離を維持する。ラッシュを止めればカウンターヒットとなり、ラッシュ4中Kへの繋ぎが可能。一部の技への確定反撃としても機能し、パニッシュカウンター時はラッシュ1強Pに繋げられる。難しい間合いでの守りや、前進してくる相手への牽制として、積極的に活用すべき。10人中9人が忘れている技と言われるが、使いこなせば大きな助けとなる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手が前進してくる時、ラッシュを止める時",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "06:35",
+    "source_quote": "その⑥：立弱Kを思い出だす\n存在を忘れられている技、立弱K。\n発生は9Fで速くはないが、多くのキャラの中足（2中K）より少し長い。\n踏み込んで攻撃を当てようとする相手を止めるのに適している。\n長所はリスクが少ないことで、ほとんどの場合飛ぼれても対空が間に合う。\nタイミングによってはブラスト対空も間に合う。立弱Kを振りながら意識を上を割くのがコツ。\nランダムなタイミングのインパクトが来てもほぼ返せる。とにかく前進してアクションを起こすタイプの相手に活用したい。\n単発ヒットだとリターンは少ないが、当てた後は2中Pなどを使って押し返し有利な距離にしよう。\nラッシュを止めるのにも適している。\n見てからの迎撃、置き技のどちらでも出番がある。\nラッシュを止めた場合はカウンターヒットなので基本的にラッシュ4中Kに繋ぐとよい。\n一部の技への反撃としても活躍する。\n確定反撃としてヒットさせた場合はパニッシュカウンターなのでラッシュ1強Pに繋ぐことができる。\n反撃で4中Kが届かない状況のとき出せるようにしておきたい。\n強いかどうかはともかく難しい間合いで助けてくれる存在といる。\n10人中9人が忘れていそうな技なのでまずは使ってみよう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9244fe4e945a",
+    "category": "neutral",
+    "topic": "ODヨガアーチの活用",
+    "content": "ODヨガアーチは攻守ともに有効な技であり、弱＋中版を出すだけで相手を下がらせることが多い。相手に着弾するようならテレポートで入れ替えることも狙えるため、画面端に追い込まれる前に切り返す手段として利用する。ただし、ラッシュや一部の突進技には注意が必要。能動的に攻めに使う場合は、ODヨガアーチの着弾地点にドリルで移動し、投げなどを狙うのが基本となる。相手が投げ抜けを多用する場合は、投げ間合いギリギリからのシミーが効果的。ODヨガアーチを嫌がって前ジャンプしてくる相手には、中ブラストで対空し、アーチが拾ってくれる状況から高威力コンボを決めることができる。ダメージ4000を超える連携も可能で、ドライブゲージに余裕があれば、ODアーチをリターンに繋げることで、試合の状況を大きく変えることができる。ODコメットは射出時のリスクが低く飛距離も長いため、遠距離の相手に対して特に有効。弾をガードやパリィさせている間にテレポートで有利な状況を作り出すこともできる。下に潜られづらいタイミングで出し、着弾を見てから入れ替える判断を養うことで、より安全な立ち回りが可能になる。ジャストパリィをしてくる強敵相手にはリスクがあるが、生テレポートで特攻するよりもはるかに安全な選択肢として身につけておきたい。試合が荒れそうな気配を感じたら、一度中距離に戻すための手段としても有効である。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "攻守両方の状況",
+    "source_video_id": "JAx6qRSq4gQ",
+    "source_channel": "伊予 / I-yo",
+    "source_video_title": "【スト6】ダルシム初中級者向け基礎テクニック10選を解説　マスターすればレジェンドは近い 【～MR1800におすすめ】",
+    "source_timestamp": "08:10",
+    "source_quote": "その⑦：ODヨガアーチを使いこなす\n攻守ともに活躍するがなぜかあまり使わない人が多い技。\n弱＋中版を出すだけで下がってくれる相手が多い。\n相手に着弾するようならテレポートで入れ替えが狙える。\n完全に追い込まれる前に出して切り返そう。ただしラッシュと一部突進技には注意。\n追い込まれた状況でなくても、攻めに使うこともできる。最初の着弾地点にドリルで移動しつつ、投げなどを狙うのが基本。\n投げ抜けを入れれる相手には投げ間合いギリギリからシミーが有効。\nそれらを嫌がって前ジャンプする相手には中ブラストで対空したい。\nアーチが拾ってくれるので高威力コンボを決められる。\nダメージ4000超なので割とシャレになっていない。\nドライブゲージに余裕があるときはODアーチをリターンに繋げたい。\n飛び道具を盾にして安全にテレポートする\n弾をガードorパリィさせている間にテレポートして有利を取る伝統のテクニック。\n今作ではジャストパリィの存在が弱点だが、やはり必要。\nファイア以外の弾でも可能。相手に着弾するかどうか画面をよく見てテレポートしよう。\n動きが速い相手や距離が近めの場合は先のODアーチが有効。\n多段の弾である点も安全度を上げてくれる。出す時間さえあれば溜めファイアも盾として有効。\nODコメットは射出時のリスクが低く飛距離もあるため、遠めの相手に対して出すのに向いている。\n下に潜られづらいタイミングで出し、相手に着弾するようなら入れ替えよう。\nジャストパリィしてくる強い相手にはリスクがあるが、生テレポで特攻するよりよほど安全なので身につけておきたい。\n試合が荒れそうな気配を感じたら一度中距離に戻す使い方もあり。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T19:46:25.203823",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e23fc7a7db16",
+    "category": "neutral",
+    "topic": "遠距離からの攻め",
+    "content": "ヨガファイアを盾にドライブインパクトを仕掛けるのが基本。相手が飛び込んでくる場合は、ヨガファイアヒット後にドライブインパクトで追撃し、立ち中Pからヨガブラストでコンボを繋げると大ダメージを狙える（約3500ダメージ）。ドライブインパクト入力時に余計な方向入力をしないことで、相手が遅れてジャンプしてもドライブインパクトが途切れず、安全に追撃可能となる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "遠距離、相手がヨガファイアをガードまたはジャンプ",
+    "source_video_id": "OvaSzftq5tY",
+    "source_channel": "牙キバル@VTuber",
+    "source_video_title": "【スト６ダルシム】実は攻めも強い！ダルシムの最強攻め方５選！【初心者講座】#ストリートファイター6 #スト6解説 #vtuber #dhalsim",
+    "source_timestamp": "00:19",
+    "source_quote": "ファイアからのラッシュ。これ一択。俺の攻めパターンはほぼコレ。(0:19) 相手が前ジャンプしてるとラッシュ引き中Pから3500減ります。(0:47) ラッシュ引き中Pを出すまで何も入力しない。出す瞬間だけ押す。(1:03) これがめちゃめちゃ大事。(1:36)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:49:42.241246",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "42074ce0d69c",
+    "category": "neutral",
+    "topic": "ODヨガアーチでの接近と対空",
+    "content": "遠距離からの接近にはODヨガアーチが非常に強力。弾抜け性能があるため、相手の飛び道具を掻い潜りながらラインを上げられる。相手がジャンプした場合は対空として機能し、ドライブインパクトからの追撃で約4000ダメージを奪うことができる。安全にODヨガアーチを出すためには、まずヨガファイアを撃ち、相手がガードしていることを確認してからODヨガアーチを出すと、相手のドライブインパクトを考慮せずに技を出せる。ODヨガアーチ後に弱ヨガドリルを仕込むことで、相手のドライブインパクトに対して有利な状況を作れる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "遠距離での接近、または相手のジャンプ",
+    "source_video_id": "OvaSzftq5tY",
+    "source_channel": "牙キバル@VTuber",
+    "source_video_title": "【スト６ダルシム】実は攻めも強い！ダルシムの最強攻め方５選！【初心者講座】#ストリートファイター6 #スト6解説 #vtuber #dhalsim",
+    "source_timestamp": "01:40",
+    "source_quote": "ODヨガアーチ。出さえすれば盾にして攻められる。(1:40) 飛びにめちゃめちゃ強くて、ODヨガアーチを踏むとラッシュ中Pからコンボに繋げられます。(2:02) ODヨガアーチを打ってODヨガブラスト対空構えておくとこんなことまでできます。(2:11) ファイア打って当たったらこう。(2:23) 相手はファイアガードしてるんで、ラッシュができないので安全にODヨガアーチが打てる。(2:27) ODヨガアーチ打った後に弱ドリル打っておくと、相手のラッシュに少し強くなる。(2:33)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:49:42.241246",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "322",
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9ed92836b491",
+    "category": "neutral",
+    "topic": "フロート強Pでの中距離攻め",
+    "content": "中距離ではフロート強Pが強力な選択肢となる。この技は判定が非常に強く、相手の多くの中距離技に打ち勝つことができる。先端当てであればしゃがみ中Pからドライブインパクトに繋いでダメージを伸ばせる。密着でヒットさせた場合はさらにコンボを伸ばすことが可能。ガードされてもダルシム側が+10フレーム有利となるため、さらにフロート強Pを重ねたり、中段攻撃と混ぜることで相手のドライブゲージを1.5本削ることができる。相手のジャストパリィを狙う行動に対しては、フロート強Pの出すタイミングをずらすことで対応する。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "OvaSzftq5tY",
+    "source_channel": "牙キバル@VTuber",
+    "source_video_title": "【スト６ダルシム】実は攻めも強い！ダルシムの最強攻め方５選！【初心者講座】#ストリートファイター6 #スト6解説 #vtuber #dhalsim",
+    "source_timestamp": "02:49",
+    "source_quote": "フロート強P。これマジで最強っす。(2:49) 判定が鬼強い。(2:55) ここらへんから相手が技打ってきても落ちません。(2:58) 強パンチ先端だったら、しゃがみ中Pラッシュからこんな風に攻めたりとか。(3:11) 近目で当たったらこんな感じで伸ばしたりとか。(3:17) しかもガードされたとしてもダルシム側+10Fなんすよ。(3:21) ここまで入れ込めれます。(3:27) 相手がガードしてればDゲージ1.5本削れます。(3:31) 普通に打っても強いけど、こっから様子見を混ぜればさらに強い。(3:52) ジャストパリィ狙ってくる。(3:44) いくらでもタイミングをずらせる。(3:50)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:49:42.241246",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "602",
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "06b7a063b621",
+    "category": "neutral",
+    "topic": "ヨガドリルでの中距離攻め",
+    "content": "ヨガドリルは、相手の膝より下部分に当てることで有利フレームを取れる。膝くらいの高さだと五分、それより高いと不利になるため、トレーニングモードで弱ドリルと中ドリルの当て方を練習し、当て有利になる間合いを掴むことが重要。コパン3発刻みからバックジャンプ弱ドリル、コパン3発刻みから垂直ジャンプ中ドリル、コパン2発刻みからバックジャンプ中ドリル、フロート強P先端当てから弱ドリルといった連係がある。ヨガドリルは後ろ歩きで避けられる弱点があるため、相手が後ろ歩きで避けようとする場合は他の攻めに切り替える読み合いが必要。コパン刻みドリルは、相手がコパン刻み後に中攻撃を振りがちであるのに対し、上から踏みつけられるためパニッシュカウンターを狙える点で強力。これはキャミィの昇龍弾に似ている。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "OvaSzftq5tY",
+    "source_channel": "牙キバル@VTuber",
+    "source_video_title": "【スト６ダルシム】実は攻めも強い！ダルシムの最強攻め方５選！【初心者講座】#ストリートファイター6 #スト6解説 #vtuber #dhalsim",
+    "source_timestamp": "04:05",
+    "source_quote": "このドリルに感謝は結構コツというかやり込みが必要で、どんな当て方なら有利取れるのかって見極めが難しい。(4:05) 相手の膝より下に当てる。(4:15) これ有利取れる。(4:18) これ不利っすね。(4:24) 弱ドリルと中ドリル、これをどんな当て方すれば有利取れるのかってところをまず練習する。(4:27) 小足3発刻むならバックジャンプ弱ドリル。(4:42) 垂直ジャンプ中ドリル。(4:46) 小足2発刻みからバックジャンプ中ドリル。(4:49) フロート強P先端から弱ドリル。(4:54) 後ろ歩きされたらスカります。(5:06) 決まった状況のドリルは当てやすいけどスカされやすい。(5:08) 相手がドリルに退社下がってくる相手やなってなったらこういう感じの攻めに切り替えていく。(5:16) 小足刻みドリルってめちゃめちゃ強くて何故かと言うとこれができるんすよ。(5:25) 小足刻んだ後って相手って中攻撃を振りがちなんすよ。(5:33) それにに対して上から踏みつけることができるんでこの連係はめちゃめちゃ強い。(5:44) ほぼキャミィと一緒。(5:49)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T20:49:42.241246",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "107",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "deccfe3540bc",
+    "category": "neutral",
+    "topic": "安全な固め連携",
+    "content": "しゃがみ中Pからのドライブラッシュ、4中K（中ヨガカタパルト）、中ヨガフレイムの連携はガードされても反撃を受けないので、安全な固めとして使用できる。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手のガード時",
+    "source_video_id": "fqf0osxbP5I",
+    "source_channel": "トマソン#スト6委員会",
+    "source_video_title": "【スト6】ダルシムのコンボは3つ覚えればOK【ダルシム解説】",
+    "source_timestamp": "00:13",
+    "source_quote": "ガードされても反撃無し",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:36:18.259534",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "68bf028f2a9b",
+    "category": "neutral",
+    "topic": "固めからの投げ択",
+    "content": "相手がガードを固めている場合は、上記の連携（しゃがみ中Pからのドライブラッシュ、4中K、中ヨガフレイム）の間に投げを混ぜて揺さぶりをかける。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手のガード時",
+    "source_video_id": "fqf0osxbP5I",
+    "source_channel": "トマソン#スト6委員会",
+    "source_video_title": "【スト6】ダルシムのコンボは3つ覚えればOK【ダルシム解説】",
+    "source_timestamp": "00:18",
+    "source_quote": "ガードされる時は投げも混ぜる",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:36:18.259534",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "93bdd66cc968",
+    "category": "neutral",
+    "topic": "立ち回り全般",
+    "content": "立ち回りでは、ヨガフレイム、ヨガアーチ、ヨガコメットといった飛び道具を混ぜつつ、ヨガテレポートからのジャンプ攻撃で相手に触りに行くのが有効。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "立ち回り時",
+    "source_video_id": "fqf0osxbP5I",
+    "source_channel": "トマソン#スト6委員会",
+    "source_video_title": "【スト6】ダルシムのコンボは3つ覚えればOK【ダルシム解説】",
+    "source_timestamp": "01:21",
+    "source_quote": "立ち回りはファイア、アーチ、コメット混ぜつつワープ→ジャンプ攻撃で触る感じ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T23:36:18.259534",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8fb4b4d95010",
+    "category": "neutral",
+    "topic": "遠距離牽制",
+    "content": "遠距離で相手がいる時は、弾速の速い立ち大Pを使いましょう。また、立ち大Pと同じくらいの距離では、必殺技キャンセル可能な立ち大Kも有効ですが、基本的にしゃがみ相手には当たらないため注意が必要です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "遠距離",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "0:59",
+    "source_quote": "まずは大P。遠距離に相手がいる時に振るのだ。イメージとしては弾速の早い弾って感じなのだ。次が大K。大Pと同じくらいの距離で使うのだ。必殺技キャンセルが可能なのだ。基本しゃがみに当たらないので注意なのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "511d048450b8",
+    "category": "neutral",
+    "topic": "中距離牽制",
+    "content": "立ち大Pや立ち大Kより近い距離では、発生が早めの立ち中Pを使いましょう。また、立ち中Pより発生が早く硬直が短い立ち中Kはリーチが短いですが、相手のドライブラッシュを止めるのに有効です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "中距離",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "1:16",
+    "source_quote": "次が中パンチ。発生早めの大Pみたいな感じなのだ。大P大Kの距離より近い時に使うのだ。次に中K。中Pより発生早く硬直が短いけどリーチが少し短いのだ。ラッシュを止めるのに使いやすいのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0e4c08b99f6b",
+    "category": "neutral",
+    "topic": "飛び道具への対処と牽制",
+    "content": "相手の飛び道具を避けながら攻撃したい場合、しゃがみ大Pやしゃがみ大Kが有効です。遠距離での展開維持にはしゃがみ大P、攻めたい時はしゃがみ大Kを使い分けましょう。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "相手の飛び道具対策",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "1:31",
+    "source_quote": "次が2大P。下段攻撃で相手の弾をよけながら攻撃できるのだ。次が2大K。これも相手の弾をよけながら攻撃できるのだ。遠距離の展開を維持したい場合は2大P、攻めたいなら2大Kって感じなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4dc282751512",
+    "category": "neutral",
+    "topic": "近距離での差し合い",
+    "content": "近距離での差し合いでは、中ヨガフレイム (214K) > 中ヨガフレイムが連ガ（連続ガード）になるため反撃がなく、おすすめです。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "近距離の差し合い",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "2:29",
+    "source_quote": "次が4中K。近距離の差し合いで使うのだ。【4中K>中フレーム】がレンガで反撃がないのでおすすめなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d81636316e77",
+    "category": "neutral",
+    "topic": "ラッシュ止めと近距離牽制",
+    "content": "しゃがみ小Kは、相手のドライブラッシュ止めや近距離での牽制に使いやすい技です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ止め、近距離牽制",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "2:36",
+    "source_quote": "次が小K。ラッシュ止めや近めの牽制に使うのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "3df146efb6c6",
+    "category": "neutral",
+    "topic": "ヨガファイアの活用",
+    "content": "ヨガファイアは、弱と強で弾速に緩急をつけて牽制できます。弱ヨガファイアを撃ち、生ラッシュで追いかけて攻めるのがおすすめです。遠距離から攻める場合は、前ステップから生ラッシュで追いかけると良いでしょう。生ラッシュからは中ヨガフレイム (214K) や直接投げが有効です。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "遠距離牽制、攻め継続",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "3:26",
+    "source_quote": "次がヨガファイアーなのだ。弱と強で緩急をつけたり、弱をRで追いかけて攻めてもいいのだ。遠目なら前ステからRで追いかけるのがおすすめなのだ。Rからは4中Kや直投げがおすすめなのだ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "301",
+      "316"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4f0eb8dba43a",
+    "category": "neutral",
+    "topic": "ヨガフロートの活用",
+    "content": "ヨガフロートは滞空できる技です。フロート中からは立ち中Kで牽制したり、相手の届かない距離で待機したり、ヨガコメットを出して嫌がらせしたり、立ち中Pで+フレームを取ったり、立ち大Pで攻めたりと、様々な選択肢があります。フロート立ち大Pからヒットした場合は、立ち確認が不要な「中ヨガフレイム (214P) > 強ヨガブラスト」のルートがおすすめです。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": null,
+    "situation": "空中での立ち回り、攻め継続",
+    "source_video_id": "5YTWNfcZPaQ",
+    "source_channel": "ネジィィch",
+    "source_video_title": "【スト6】簡単ダルシム解説",
+    "source_timestamp": "4:09",
+    "source_quote": "次がヨガフロート。滞空できる技なのだ。フロートからは中Kで牽制したり、相手の届かないところで待ったり、コメット出して嫌がらせしたり、中Pで+取ったり、大Pで攻めたりできるのだ。フロート大Pからは【4中P強ブラスト>各種追撃】のルートがおすすめなのだ。(立確認が要らない為)",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T01:07:46.932447",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "103",
+      "316",
+      "321",
+      "328"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

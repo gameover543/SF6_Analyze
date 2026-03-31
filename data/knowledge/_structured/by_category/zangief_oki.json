@@ -1,0 +1,938 @@
+[
+  {
+    "id": "06766845199e",
+    "category": "oki",
+    "topic": "起き攻め投げ",
+    "content": "相手の起き上がりに合わせてスクリューパイルドライバーで投げよう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時",
+    "source_video_id": "Thb9bnTNbmk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] Modern Zangi Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "00:32",
+    "source_quote": "起き攻めで投げる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:02:09.875799",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e6dad0f1b099",
+    "category": "oki",
+    "topic": "アシスト強からの連携",
+    "content": "アシスト強で有利が取れたら、そのまま攻めを継続したり、スクリューパイルドライバーを狙ったりできる。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "アシスト強ヒット/ガード後",
+    "source_video_id": "Thb9bnTNbmk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] Modern Zangi Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "01:59",
+    "source_quote": "有利が取れるので、そのまま攻め続けたりスクリューしたいできます",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:02:09.875799",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "94a71656934b",
+    "category": "oki",
+    "topic": "アシスト弱からの起き攻め",
+    "content": "アシスト弱からのダブルラリアット中に前入力をしておくことで、少し移動でき、起き攻めがしやすくなる。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "アシスト弱からのコンボ後、起き攻め",
+    "source_video_id": "Thb9bnTNbmk",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] Modern Zangi Explained for People Who Don't Want to Use Their Brains",
+    "source_timestamp": "02:43",
+    "source_quote": "ダブラリ中は少し動けるので、前に移動入力をしておこう（起き攻めしやすくなるよ）",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T04:02:09.875799",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9e0163dfec5a",
+    "category": "oki",
+    "topic": "投げ後のラッシュ選択肢",
+    "content": "ザンギエフは弱P+ドライブアッシュからのコマ投げ、ODダブルラリアットからのドライブラッシュコマ投げ、そしてコマ投げ後のドライブラッシュODコマ投げといった連係を駆使して相手を揺さぶります。中Pガードからの弱コマ投げ、ジャンプ中Pからのコマ投げ、アシスト強Pからのコマ投げも有効な選択肢です。特にDリバーサルガード後はコマ投げが確定します。これらは起き攻めの選択肢として非常に強力です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時、投げ後、ODダブルラリアット後、Dリバーサルガード後",
+    "source_video_id": "e-ETjKcymU0",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1700モダンザンギ 徹底解説 コンボ 立ち回り読みあい...【Mザンギ】",
+    "source_timestamp": "02:22",
+    "source_quote": "まず1個、弱からのキャンセルラッシュコマ投げ。あとはODダブラリからのラッシュコマ投げ。続いてコマ投げからラッシュ伸ばしてでのOD。続いて、中ガードからのコマ投げ。続いて、ジャンプ中からのコマ投げ。続いて、アシスト強からのコマ投げ。で、ま、最後、これは確定なんですけども、Dリバガードしたとのコマ投げですね。自分が使ってたコマ投げの連携はこんな感じです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:57:09.785165",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d923ab25b4b9",
+    "category": "oki",
+    "topic": "ラッシュ起き攻めの限定運用",
+    "content": "ザンギエフのラッシュ起き攻めは、ODダブルラリアットまたはコマ投げがヒットした後のみに限定して使用することが推奨されます。それ以外の状況でのラッシュ起き攻めは、リスクが高く、Master Rankを安定して上げる上では控える方が良い場合もあります。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時、ODダブルラリアットヒット後、コマ投げヒット後",
+    "source_video_id": "e-ETjKcymU0",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1700モダンザンギ 徹底解説 コンボ 立ち回り読みあい...【Mザンギ】",
+    "source_timestamp": "02:49",
+    "source_quote": "自分はですね、起き攻め、基本的にコンボで、こんな感じで、ODダブラリをあった後、もしくはコマ投げをあった後、それ以外ですね、基本的にラッシュをしませんでした。ま、ただこれ立ち回りのスタイルとか、ま、ゲージ残量とかによって変わってくることはあると思うので、ま、これはね、もう絶対こうしろ！ではないと思います。自分的にはODダブラリコマ投げ以外ではラッシュしない方が、なんかMR盛れたって言うので一応紹介しました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T08:57:09.785165",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e6b6870bbb56",
+    "category": "oki",
+    "topic": "起き攻めからのラッシュ選択",
+    "content": "立ち回りでの技（立ち大P、しゃがみ大足、コマ投げ）で相手をダウンさせたら、ラッシュからの起き攻めを仕掛けましょう。相手が遠い場合はラッシュしゃがみ大足かラッシュコマ投げ、近い場合はラッシュ立ち中Pかラッシュコマ投げを使います。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン後",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "01:59",
+    "source_quote": "相手が立ち小足に当たって来ない距離感になったら立ち中パンやしゃがみ大足立ち大パンで相手のダウンを奪おう相手のダウンを奪うことができたら次に教えるラッシュと起き攻めのテクニックを使って特大リターンを取っていこう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "106",
+      "110",
+      "205"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "43a624243388",
+    "category": "oki",
+    "topic": "起き攻めでのラッシュしゃがみ大足活用",
+    "content": "相手をダウンさせた後、ドライブパリィからのラッシュで追撃に行きましょう。ダウンした相手に追撃に行くときは、相手が遠い場合はラッシュしゃがみ大足かラッシュコマ投げ、近い場合はラッシュ立ち中Pかラッシュコマ投げを使います。ラッシュしゃがみ大足はガードドライブインパクトやOD無敵技以外の全ての行動にダメージを与えることができます。まずはラッシュしゃがみ大足をして相手の様子を見ましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン後、起き攻め",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "02:26",
+    "source_quote": "相手のダウンを奪うことができたら次に教えるラッシュと起き攻めのテクニックを使って特大リターンを取っていこうもし相手がガードを固めてくる場合は前中足で近づいて小パンで嫌がらせしたりコマ投げで投げちゃおうラッシュと起き攻めについて説明していくのださっきの立ち回りで使う技で相手をダウンさせることができたらドライブパリィからのラッシュで相手を追撃しに行こうダウンした相手に追撃に行くときは相手が遠い場合はラッシュしゃがみ大足かコマ投げ近い場合はラッシュ立ち中パンかコマ投げを使うのだなんとこのラッシュしゃがみ大足相手のガードドライブインパクトODの無敵技以外の全ての行動にダメージを与えることができるのだまずはこのラッシュしゃがみ大足をして相手の様子を見るのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "113",
+      "205",
+      "602",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "228f2a67168b",
+    "category": "oki",
+    "topic": "ラッシュしゃがみ大足とラッシュコマ投げの択",
+    "content": "ラッシュしゃがみ大足がガードされたり、ドライブインパクトで返されそうだと感じたら、次はラッシュコマ投げをやってみましょう。ドライブインパクトは投げることができるので、ラッシュコマ投げで相手のガードやドライブインパクトにも対応できます。つまり、ラッシュしゃがみ大足を防ごうとするとラッシュコマ投げに当たりやすくなり、ラッシュコマ投げを避けようとするとラッシュしゃがみ大足に当たりやすくなる、というサイクルが生まれます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "起き攻め中の相手のガードやドライブインパクト",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "03:05",
+    "source_quote": "そしてラッシュしゃがみ大足がガードされたりドライブインパクトで返されそうだと想ったら次はラッシュコマ投げをやってみるのだ実はドライブインパクトは投げることかできるのでラッシュコマ投げで相手のガードにもドライブインパクトにも対応することができるのだつまりラッシュしゃがみ大足を防ごうとするとラッシュコマ投げに当たりやすくなりラッシュコマ投げを避けようとするとラッシュしゃがみ大足に当たりやすくなるというサイクルが生まれるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "205",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "03e330d57587",
+    "category": "oki",
+    "topic": "起き攻めでの無敵技ケア",
+    "content": "相手の無敵技の暴れをケアしたい場合は、ラッシュコマ投げをする直前に少し時間を置いてからコマ投げをすることで、無敵技の暴れをケアすることも可能です。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手ダウン後、無敵技暴れが予想される場合",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "03:35",
+    "source_quote": "無敵技もラッシュコマ投げをする直前に少し時間を置いてからコマ投げをすることで無敵技の暴れをケアすることもできるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b2794be9e085",
+    "category": "oki",
+    "topic": "ラッシュ立ち中P後の選択肢",
+    "content": "ラッシュ立ち中Pがヒットした時はそのままコンボを打ち切り、ガードされた時は立ち中Pをそのまま撃つか、コマ投げをするかの2択を迫って相手を追い詰めましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "ラッシュ立ち中Pヒット/ガード後",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "03:45",
+    "source_quote": "ラッシュ立ち中パンがヒットした時はそのまま打ち切ってガードされた時は立ち中パンをそのまま撃つかコマ投げをするかの2択を迫って相手を追い込もう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d7da1e8d55ff",
+    "category": "oki",
+    "topic": "飛び越え攻撃からの連携",
+    "content": "相手を飛び越えてしまう時は、飛びながら下大P（ボディプレス）で相手をめくりながら攻撃できます。相手との距離に応じて使い分けましょう。相手に空中からの攻撃をガードされたら、斜め下中Pまでで止めて相手の様子を見ましょう。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手を飛び越えた時、空中からの攻撃ガード後",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "04:31",
+    "source_quote": "相手を飛び越えてしまう時は飛びながら下大パンのボディプレスで相手をめくりながら攻撃することができるので相手との距離に応じて使い分けよう相手に空中からの攻撃をガードされたら斜め下中パンまでで止めて相手の様子を見よう",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "106"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4df959bf74e1",
+    "category": "oki",
+    "topic": "空からの攻めとスカし投げ",
+    "content": "もし相手がガードをしてその場に固まるようであれば、飛んだ時に空中中Kを出さずにそのまま着地してコマ投げをしましょう。これは通称「スカし投げ」といって、ザンギエフにとってとても武器になる選択肢になります。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手が空中攻撃をガードして固まる場合",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "04:49",
+    "source_quote": "もし相手がガードをしてその場に固まるようになら飛んだ時に中キックを出さずにそのまま着地してコマ投げをしようこれは通称すかし投げといってザンギエフにとってとても武器になる選択肢になるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5111254dd4a5",
+    "category": "oki",
+    "topic": "空中攻撃ガードからのコアコパ投げ",
+    "content": "空中中Kをガードされた場合、斜め下中Pの代わりに、しゃがみ小足しゃがみ小P（通称コアコパ）を当てましょう。コアコパが当たっていればODダブルラリアットにコンボになります。そしてこのコアコパをガードされた後、相手がガードもしくは最速小Pをしてきた場合、コマンド入力で弱コマ投げをすると相手の攻撃より先に投げを重ねることができます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "空中中Kガード後、コアコパガード後",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "05:10",
+    "source_quote": "今度は中キックをガードされたら斜め下中パンの代わりにしゃがみ小足小パン通称コアコパを当てるのだコアコパが当たっていればダブルラリアットでコンボになるしそしてこのコアコパをガードされた後相手がガードもしくは最速小パンをしていた場合コマンド入力で弱コマ投げをすると",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "110",
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e75ce2c41fc3",
+    "category": "oki",
+    "topic": "バックステップへのODシベリアンエクスプレス",
+    "content": "相手がバックステップをした場合、コマ投げは避けられてしまいますが、ODシベリアンエクスプレスを少し遅らせて撃つことで、相手のバックステップにもお仕置きすることができます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手のバックステップ",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "05:36",
+    "source_quote": "ちなみに相手がバックステップをした場合コマ投げは避けられてしまうんだけどODシベリアンエクスプレスに変えることで相手のバックステップにもお仕置きすることができるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "312",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "397440d218d7",
+    "category": "oki",
+    "topic": "バックジャンプへのラッシュコアコパ",
+    "content": "相手がバックジャンプに対してお仕置きする方法がないままだと、相手はジャンプすれば大丈夫、という状態になってしまいます。そこで、さっき教えていた斜め下中Pの後にキャンセルラッシュをしてコアコパを当てることで、空中の相手も掴める間合いに持っていくことができます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手のバックジャンプ",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "05:50",
+    "source_quote": "ただこのままだと相手のバックジャンプに対してお仕置きする方法がなくて相手からしたらジャンプすれば大丈夫って状態になっちゃうよねそこでさっき教えていた斜め下中パンの後にキャンセルラッシュをしてコアコパをあてることで空中の相手も掴める間合いに持っていくことができるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "579dc731d97d",
+    "category": "oki",
+    "topic": "バックジャンプへの空中コマ投げ",
+    "content": "相手はかなり高い確率でジャンプしてくるので、そこに空中コマ投げを当てて大ダメージを与えちゃいましょう。空中コマ投げが難しい場合は、中キックで落として着地した所を投げたり、ラッシュ中Pで追撃に行くのがおすすめです。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手のジャンプ",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "06:11",
+    "source_quote": "相手はかなり高い確率でジャンプしてくるのでそこに空中コマ投げを当てて大ダメージを与えちゃおう空中コマ投げが難しい場合は中キックで落として着地した所を投げたりラッシュ中パンで追撃に行くのがおすすめだよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a7d00e639411",
+    "category": "oki",
+    "topic": "相手の暴れへの投げ重ね",
+    "content": "相手が飛んでいなかった場合はまた中キックで攻めに行くことができるので、斜め下中Pを当ててまた相手の様子を見ましょう。ラッシュコアコパを当てた後はさっきと同じで、バックステップにはシベリアンエクスプレス、ガードする相手にはそのままコマ投げが通ります。ただし相手の小P暴れには当たってしまうから、その場合はラッシュコアコパを3回にすることで、空中コマ投げは投げられない代わりに相手の小P暴れに投げを重ねることができます。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "相手の小P暴れ",
+    "source_video_id": "N9-D8nFMzG8",
+    "source_channel": "煌月ソウル【スト6解説】",
+    "source_video_title": "マスター行くならこれでOK！ザンギエフの使い方解説【スト6】",
+    "source_timestamp": "06:28",
+    "source_quote": "相手が飛んでいなかった場合はまた中キックで攻めに行くことができるので斜め下中パンを当ててまた相手の様子を見ようラッシュコアコパを当てた後はさっきと同じでバックステップにはシベリアンエクスプレスガードする相手にはそのままコマ投げが通るよただ相手の小パン暴れには当たってしまうからその場合はラッシュコアコパコパと3回にすることで空中コマ投げは投げられない代わりに相手の小パン暴れに投げを重ねることができるよ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T15:23:54.739989",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103",
+      "312",
+      "402"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cb4fc52605e3",
+    "category": "oki",
+    "topic": "立ち中Pによる起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、立ち中Pは安定した選択肢。先端当てを意識し、ヒット確認をして使うこと。ドライブインパクトにも勝てる。ガードされた場合は、再度ドライブラッシュから2小K→スクリューの連携で崩しを狙うのも面白い。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "00:30",
+    "source_quote": "立ち中P 一番安定択だと思うのだ。まずはこれで様子見をしよう。先端当て意識して、ヒット確認して使おう。インパクトにも勝てるのだ。ガードされた場合、ここからもう一回ラッシュして2小Kからスクリューとすると面白いのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1482f6f3cacf",
+    "category": "oki",
+    "topic": "6中K（ニーバット）による起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、6中K（ニーバット）は有効な選択肢。最速で出すとスカる場合があるため、少し遅らせて持続当てを狙うと良い。相手のパンチ系統の暴れには負けるが、下段技には勝つ。ガードされた場合は先端当てから有利が取れる。相手がジャンプする場合は立ち大Kで対応できる。6中Kがカウンターヒットした場合、3中P（動画内のテキストでは「3中P」と表示されているが、実際には6強P/ヘッドバットが入力されている）で追撃することも可能だが、難しい場合は2小Kで刻んでからスクリューに繋ぐのがおすすめ。ODダブルラリアットが2段ヒットしている場合は、中スクリューや6強P（ヘッドバット）で追撃。1段ヒットの場合は、弱スクリュー、立ち中P、または6中K（ニーバット）に繋げることができるので、状況に応じて使い分けること。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "00:49",
+    "source_quote": "ニーバット。僕がよく使う選択肢なのだ。最速だとスカっちゃうから少し遅らせて持続当てをしよう。相手のパンチ系統の暴れには負けちゃうけど、下段技には勝てるし、ガードには先端当てから有利取れるし、ジャンプされても立ち大Kから起き攻めに行けるのだ！カウンター確認で3中Pが出せれば強いけど難しいから、とりあえず6中Kの後に2小Kを擦っておけばいいのだ。そこからスクリュー択や、ヒットなら2小K、立ち小P、ODダブラリから起き攻めへ、ODダブラリが2段ヒットしてるなら、中スクリュー or 6強Pの起き攻めへ、※強も行けるけど難しいので中スクリュー推奨、ODダブラリが1段ヒットなら弱スクリュー or 立ち中P or 6中Kの起き攻めが出来るから試してみて欲しいのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "107",
+      "201",
+      "202",
+      "300",
+      "301"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0809b8a3c2b5",
+    "category": "oki",
+    "topic": "立ち小KからのキャンセルDR起き攻め",
+    "content": "ザンギエフのスクリュー後、Dゲージが5本以上ある場合、立ち小Kからキャンセルドライブラッシュ（CDR）は強力な選択肢。CDRからスクリューや通常投げ（SA1仕込み）に繋げられる。相手の最速ドライブインパクトに対しては、こちらはドライブインパクトを遅らせて出すことでパニッシュカウンターを取れる。打撃択では、CDRから2中Kで連続ガードの下段を作ると強い。ガードされた場合は立ち中Pを擦るのがおすすめで、相手の暴れやバクステに勝てる。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め、Dゲージ5本以上",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "01:38",
+    "source_quote": "立ち小K、CDR～ Dゲージが5本以上なら使える強力な選択肢。スクリューしてもいいし、通常投げ（SA1仕込み）でもいいのだ。もちろんインパクトにも勝てるのだ。打撃択だと、ここから2中Kで連ガ下段を作れて強いのだ！とりあえず2中K擦っとけばいいのだ！ヒットなら3中P、ダブラリのコンボへ。ガードされたらスクリュー or 立ち中Pがおすすめなのだ！3中Pだとジャンプには勝てるけど最速暴れには負けちゃうのだ。バクステにも負けるのだ。立ち中Pだと相手の暴れに勝てるし、バクステにも一応勝てるから、ガードされたら立ち中P擦るのはおすすめなのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "400",
+      "602",
+      "606",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "29719197d49e",
+    "category": "oki",
+    "topic": "弱スクリューでの起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、弱スクリューは強気な選択肢。相手のバクステ、ジャンプ、後ろ下がりには勝てる。無敵技で返される可能性はあるが、決まれば非常に強力。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "02:22",
+    "source_quote": "弱スクリュー 貪欲な選択肢。これが決まるとめっちゃ気持ちいいのだ！バクステ、ジャンプ、後ろ下がり、無敵以外には勝てるのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0a8d8dfdd097",
+    "category": "oki",
+    "topic": "2大Kでの起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、2大Kはターン継続ができる選択肢。ただし、相手のドライブインパクトで確定反撃を受けるため注意が必要。ディー・ジェイの起き上がりジョースクェアや、ルークのサプレッサーなど、特定のキャラの起き上がり行動に対しては効果的。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": "deejay",
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "02:35",
+    "source_quote": "2大K ターン継続できる選択肢。でもインパクトされると確定だから個人的にはあまり好きではないのだ。（それで負けるとめっちゃ萎えるのだ！）起き上がりジョースクェア擦ってくるDJや、サプレッサーでずらしてくるルークなんかに使うと効果的だから、ぼくは特定キャラと対戦する時にはよく使ってるのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1296cd79f49d",
+    "category": "oki",
+    "topic": "2中Kでの起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、2中Kはローリスク・ローリターンの選択肢。相手の体力を少し削りたい時などに使うと良い。相手がキャンセルドライブラッシュを仕込んだ技を出した場合、最速ではなく少し溜めてドライブインパクトを受けることでパニッシュカウンターを狙えるが、基本的にはドライブインパクトが確定するので注意が必要。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "02:56",
+    "source_quote": "2中K ローリスク＆ローリターンな選択肢。あとちょっと削りたい時などに使うといいのだ。相手がCDRを入れ込んだ技にパニカン食らわせると美味しいし、※最速インパクトは溜めて受ける事ができる でもインパクト確定だから気を付けるのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7c67470948fe",
+    "category": "oki",
+    "topic": "6強K（ボルシチダイナマイト）での起き攻め",
+    "content": "ザンギエフのスクリュー後の起き攻めとして、6強K（ボルシチダイナマイト）は、もうどうしようもない状況で相手が下段技でラッシュを止めてくることを期待して出す、最終手段的な選択肢。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め、切羽詰まった状況",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "03:13",
+    "source_quote": "6強K もうどうしようもない状況で相手が下段技でラッシュ止めしてくることを祈って打つのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bdff3c90075c",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "ザンギエフが画面端でスクリューを決めた後、相手は後ろ下がりでスクリューを避けられないため、中央での起き攻めよりも強力になる。相手が嫌がって前ジャンプしてくることが多いので、6中K（ニーバット）も強い選択肢。安定を取りたい場合は、立ち中Pも有効。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の画面端起き攻め",
+    "source_video_id": "KK_UhpuZfjo",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "【スト6】スクリュー決めた後の起き攻め、セットプレイ集！アルマスザンギが解説！",
+    "source_timestamp": "03:27",
+    "source_quote": "画面端 後ろ下がりでスクリューが避けられないから中央よりも強いのだ！それを嫌がって前ジャンしてくる人が多いから6中Kも強いのだ！安定を取るならここも立ち中PでOK",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T17:53:38.434384",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "98b67a8105f5",
+    "category": "oki",
+    "topic": "スクリュー後の微歩きニーパッド",
+    "content": "ザンギエフを使用時、スクリュー（スクリュー）後に微歩きニーパッドを先端当てすると、反撃を受けない有利な状況を作れる。この後すぐに立ち中P（立中P）を擦っておくことで、反撃してきた相手に自動で差し返しができる。ただし、画面端ではニーパッド（6中K）がめり込んで確定反撃を受けてしまうため、画面端での使用は避ける。相手がインパクトで対応してくる場合は、大人しく諦めるのが賢明。相手の体力が僅かな場面では非常に強力で、インパクトされてもそのままKOを狙えるためおすすめ。微歩きでニーパッドを出すと、相手が騙されてインパクトを押してくることがあるので狙ってみよう。この連携から垂直ジャンプでコンボを狙えるため、自分がバーンアウトの際にも面白い選択肢となる。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリュー後、相手が残り体力僅かな時、自分がバーンアウトの時",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "07:23",
+    "source_quote": "スクリュー後に微歩きニールキック先端当てをすると反撃がない状態になるのだこのあとに立中Pをこすっておくと、反撃をしてきた相手に自動差し返しが出来るのだ画面端が見えてる時は、6強Kがめり込んで確定反撃をもらっちゃうのでやめておくのだ！ちなみに見てからインパクトが間に合うので、対応されたら大人しくやめるのだでも相手の残り体力あとちょっとの場面で使うと強くて、仮にインパクトされても体力を削ってそのままKOできるのでオススメなのだ！ちょっと歩いて膝をやる(微歩きニーパッド)と、相手が騙されてインパクト押してくる時があるのお勧めなのだ！垂直ジャンプからコンボいけるので自分がバーンアウトの時にやると面白いのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d55b6af4390e",
+    "category": "oki",
+    "topic": "画面端での生ラッシュ立小Kインパクト",
+    "content": "ザンギエフを使用時、画面端が近い状況では、生ラッシュ立ち小K（生DR立小K）からインパクトへ繋げるのが有効。スクリュー後やダブルラリアット後にこの連携を使うと良い。展開が速いため、相手に通りやすい。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "画面端が近い時、スクリュー後、ダブルラリアット後",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "08:11",
+    "source_quote": "画面端が近いならやってみるのだ！スクリュー後や、ダブラリ後にやるといいのだ展開が早いから通りやすいのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9bf366892971",
+    "category": "oki",
+    "topic": "画面端での生ラッシュ攻め",
+    "content": "ザンギエフを使用時、画面端でコンボから通常ダブルラリアットを決めた後や、立ち中P（立中P）がヒットして3段目まで繋がった後に生ラッシュを狙う。最速でヘッドバット（6強P）を出すとちょうど重ねることができ強力。ヒットすれば持続当てとなり、もう一度ヘッドバットが入る。ガードされた場合でも+11Fの有利フレームが取れるため、相手の攻撃技に負けずにヘッドバットが勝てる。生ラッシュスクリューや3投げも有効。生ラッシュで様子見ガードをすることで、相手の無敵技もガードできる。Dゲージが余っている場合は、Dゲージ一本で強力な択を迫れるため、生ラッシュを積極的に使うのが良い。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "画面端でのコンボ後、立中Pヒット後、Dゲージが余っている時",
+    "source_video_id": "D4nmAyg7gVQ",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] All you need to do is this! A collection of Zangi's powerful moves and combos!...",
+    "source_timestamp": "09:13",
+    "source_quote": "画面端でコンボから通常ダブラリを決め後や、立中Pがヒットして3段目まで繋がった後に生ラッシュをしよう最速で6強Pを出すとちょうど重なって強いのだ！当たれば持続当てになってて、もう一回6強Pが入るのだ！ガードでも+11F取れるから相手の攻撃技に負けずに6強Pが勝てるのだ！もちろん生ラッシュスクリューや3投げでもOK！生ラッシュ様子見ガードで相手の無敵技もガードできるのだ！Dゲージ一本でかなり強い択を迫れるのでDゲージが余ってたら生ラッシュするのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T04:23:38.476586",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "202",
+      "212",
+      "300"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf9116cd8128",
+    "category": "oki",
+    "topic": "補正切り連係（ヘッドバット）",
+    "content": "キャンセルドライブラッシュ (CDR) > しゃがみ弱Pの後にヘッドバット (6強P) を出すと、相手は割り込むことができない連係になる。ラッシュしゃがみ弱Pヒット時は+10F有利、ヘッドバットの発生は14Fなので、相手の最速暴れ（4Fや5F）と相打ちになり、そこからコンボに移行できる。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "ラッシュしゃがみ弱Pヒット時",
+    "source_video_id": "EK0tgIVM8Lg",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] Actions, wake-up attacks, and things to keep in mind to reach Grand Master! Ar...",
+    "source_timestamp": "00:23",
+    "source_quote": "そこでCDR、2小Pのあとにと6強Pをやると所謂割れない連携になるのだ ラッシュ2小Pヒットで+10F 6強Pは発生14Fなので、相手の最速暴れと相打ちしてこっちがコンボに行けるのだ",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:43:07.481512",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "202",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bfc254a40cff",
+    "category": "oki",
+    "topic": "補正切り（ヘッドバット）の状況判断",
+    "content": "ラッシュしゃがみ弱P後の連係で、相手が暴れ、バックステップ、またはジャンプを試みた場合、ヘッドバット (6強P) がヒットし、約2500ダメージのコンボに繋がる。ヘッドバットはヒット確認可能なので、ヒットしたらヘルスタブ (3中P) へ、ガードされたらスクリューパイルドライバーかヘルスタブ (3中P) 投げの択を仕掛ける。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "ラッシュしゃがみ弱P後の攻防",
+    "source_video_id": "EK0tgIVM8Lg",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] Actions, wake-up attacks, and things to keep in mind to reach Grand Master! Ar...",
+    "source_timestamp": "00:39",
+    "source_quote": "もし相手が暴れ、バクステ、ジャンプをしていたら 6強Pがヒットして2500ダメージコンボなのだ！ 6強Pはヒット確認可能なので、ヒットなら3中Pへ ガードならスクリューor3中Pの択をやるのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:43:07.481512",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108",
+      "200",
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "c892aa4f242d",
+    "category": "oki",
+    "topic": "画面端での起き攻め",
+    "content": "画面端が近い場合は、補正切り連係よりも通常のキャンセルドライブラッシュ (CDR) コンボで締め、起き攻めを仕掛ける方が確実である。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "画面端が近い時",
+    "source_video_id": "EK0tgIVM8Lg",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] Actions, wake-up attacks, and things to keep in mind to reach Grand Master! Ar...",
+    "source_timestamp": "00:53",
+    "source_quote": "ちなみに画面端が近いなら 普通にCDRコンボをして起き攻めした方が確実なのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:43:07.481512",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "aac5afcedd53",
+    "category": "oki",
+    "topic": "連ガ下段（スクリューパイルドライバー後）",
+    "content": "スクリューパイルドライバー後の連ガ下段連係として、生ドライブラッシュ > 立ち小K > キャンセルドライブラッシュ (CDR) > しゃがみ中K > ヘルスタブ (3中P) > ダブルラリアットが最も手軽で強力である。Dゲージが5本以上あるなら積極的に狙うべき。相手の体力が少ない時にこれを決め、ODダブルラリアットからスーパーアーツ3 (SA3) に繋げればリーサルを狙える。",
+    "characters": [
+      "zangief"
+    ],
+    "matchup": null,
+    "situation": "スクリューパイルドライバー後の起き攻め",
+    "source_video_id": "EK0tgIVM8Lg",
+    "source_channel": "ザンギもん【スト6】ザンギエフ解説",
+    "source_video_title": "[Street Fighter 6] Actions, wake-up attacks, and things to keep in mind to reach Grand Master! Ar...",
+    "source_timestamp": "02:23",
+    "source_quote": "一番手軽で強いのは、スクリュー後の生ラッシュ、立小K、CDR、2中K、3中P、ダブラリなのだ Dゲージが5本以上ならとりあえずやってみて欲しいのだ 特にこのくらいの相手の体力でスクリューを決めると激アツ ここから連ガ下段で崩してODダブラリからSA3リーサルを決めるのだ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:43:07.481512",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "113",
+      "200",
+      "300",
+      "301",
+      "404",
+      "609"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "id": "6021b6117c70",
+    "category": "matchup",
+    "topic": "Juriの昇龍拳によるBlankaのローリングアタック対策",
+    "content": "JuriはBlankaのローリングアタックに対し、近距離であれば昇龍拳で返すことができる。",
+    "characters": [
+      "juri",
+      "blanka"
+    ],
+    "matchup": "blanka",
+    "situation": "Blankaが近距離でローリングアタックを仕掛ける時",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "04:33",
+    "source_quote": "あの近距離でロリを昇竜で返せるのはもうすごいわ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "b660625bc5b8",
+    "category": "defense",
+    "topic": "ローリング対策（弱）",
+    "content": "ブランカの弱ローリングに対しては、立ち中Pを押すことで、強ローリングはガードしつつ、弱ローリングを潰して追撃できる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがローリングをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "01:00",
+    "source_quote": "これなら 強ローリングはガード 弱ローリングにはコパンが確定します",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e548adb14f04",
+    "category": "defense",
+    "topic": "ローリング対策（強）",
+    "content": "ブランカの強ローリングに対しては、立ち中Pを押すことで潰して追撃できる。弱ローリングにも確定する。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがローリングをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "01:16",
+    "source_quote": "なので、オススメは強ローリングを潰すタイミングで中P これができれば 強ローリングは潰して 弱ローリングにも確定します",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ccf10ae4359e",
+    "category": "defense",
+    "topic": "ローリング対策（インパクト）",
+    "content": "ブランカの強ローリングに対しては、ジャストパリィを狙うのではなく、ドライブインパクトをジャスパのタイミングで出すと確定する。ただし、タイミングが早いと反撃されるハイリスクハイリターン。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが強ローリングをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "01:39",
+    "source_quote": "強ローリングにジャスパ狙いではな インパクトが確定します",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "9fa8038204ae",
+    "category": "defense",
+    "topic": "バックステップローリング対策",
+    "content": "ブランカのバックステップローリングに対しては、通常技で迎撃する。判定はあまり強くない技なので、通常技で打ち勝てる上、スカってもリスクがないため、対空技のように読み合いをしなくてよい。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがバックステップローリングをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "02:09",
+    "source_quote": "この技に対しては通常技で落としましょう 判定はあまり強くない技なので 通常技で打ち勝てますし スカってもリスクはないので",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6e45b7ddcbca",
+    "category": "defense",
+    "topic": "起き攻めサプライズフォワード対策",
+    "content": "起き攻めで使うサプライズフォワードは、全てブランカ有利の読み合いだと意識する。画面端での起き攻めサプフォは視認しにくいが、ガードできればブランカが画面端を背負うことになるため、立ち位置が有利になるので、ガードを反転させるかパリィで守る。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが起き攻めでサプライズフォワードを使ってきた際、特に画面端",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "04:17",
+    "source_quote": "とにかく起き攻めサプフォを使ってきたら ブランカ有利の読み合いだと意識しましょう 画面端での起き攻めにサプフォを使われると 特にに見にくい裏回りになりますが この時はガードを反対にするかパリィで守りましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "719127626401",
+    "category": "defense",
+    "topic": "立ち回りサプライズフォワード対策",
+    "content": "立ち回りでのサプライズフォワードは絶対にブランカが不利。前に飛んできたらコパン（立ち弱P）を押すのが最も重要。ブランカのコマ投げ（ワイルドハント）と見間違えることもあるが、ワイルドハントにもコパンは有効。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが立ち回りでサプライズフォワードやワイルドハントをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "04:49",
+    "source_quote": "立ち回りでのサプライズフォワードは絶対にブランカ不利だということ 前に飛んで来たらコパンを押す ブランカ対策ではこれが一番重要かもしれません ブランカのコマ投げのワイルドハントと見間違えることはありますが ワイルドハントに対しても コパンを出しても大丈夫です",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4130502bbf8f",
+    "category": "defense",
+    "topic": "サプライズフォワード＆ワイルドハント対策のベスト",
+    "content": "サプライズフォワードに対してはコパン（立ち弱P）、ワイルドハントに対してはジャンプで対応できるのが理想的。ジャンプには余裕があれば垂直ジャンプが一番リターンを出せる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがサプライズフォワードやワイルドハントをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "05:11",
+    "source_quote": "可能であれば、サプライズフォワードにはコパン ワイルドハントにはジャンプとできれば最高です 余裕があれば、垂直ジャンプが一番リターンが一番出せます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2ade263ad6ab",
+    "category": "defense",
+    "topic": "ブランカちゃん人形セットプレイ対策",
+    "content": "画面端でのブランカちゃん人形を使ったセットプレイは、インパクト壁張り付き後の打ち上げパンチやODバクロリから人形設置で+5F有利を取るのが基本。この後の通常技2発からのOD電撃、中段、下段、サプフォでの表裏読み合いが一般的な流れ。OD電撃ガード後は中段をパリィできない。このセットプレイ対策としては、OD電撃前の2発目の打撃に対して、ドライブリバーサルを入れるか、そこからパリィするのが有効。ドライブリバーサルなら電撃を潰し人形も消え、パリィなら中下段やサプフォの表裏択も全て防げる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが画面端でブランカちゃん人形を使った起き攻めセットプレイをしてきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "07:23",
+    "source_quote": "打ち上げパンチもしくはODバクロリから 人形設置で+5Fを取ってきます この後、通常技2発からOD電撃 人形起動して中段というセットプレイです もちろん、下段を混ぜたり投げを混ぜたりと択を仕掛けてきます このセットプレイはOD電撃からの 中段が連続ガードになっており OD電撃をガードした時点で中段をパリィすることはできません なので、おすすめの対策は、OD電撃前の2発目の打撃に 対して、Dリバ もしくははそこからパリィです DリバならOD電撃つぶして人形も消えます パリィなら中下段択 サプフォの表裏択も全て防ぎます",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "58b0528038c4",
+    "category": "defense",
+    "topic": "人形設置後のブランカ無敵技対策",
+    "content": "人形が近くにある状態でブランカがダウンした時は、ブランカは無敵技をほぼ確実に撃ってくる。これは、無敵技をガードされても人形起動で無敵技の隙がなくなるため、逆に有利を取れるからである。ODバチカの場合は、ガード後にすぐドライブインパクトを出すと確定でパニッシュカウンターが取れる。SA1の場合は、反撃後に垂直ジャンプ攻撃を出すと安全に確反が取れる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカが人形近くでダウン後、起き上がりに無敵技を使ってきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "11:04",
+    "source_quote": "人形が近くにある状態でブランカがダウンしたケース この時、ブランカはほぼ無敵技を撃ってきます なぜかというと、無敵技をガードされても人形起動で無敵技の隙がなくな 無敵技をガードされても有利の取れる無敵技 最強です ODバチカの場 ODバチカガード後にすぐインパクト 派生後垂直ジャンプ攻撃",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2977e23fb91a",
+    "category": "defense",
+    "topic": "SA2ライトニングビースト対策",
+    "content": "SA2ライトニングビーストをガードし続けると、ほぼバーンアウトまでゲージが削られる。ブランカはSA2発動後、通常技から1発目のローリングをしてくる。これにドライブリバーサルを入れ込むと確定で吹き飛ばせる。通常技ローリングをガードすると、次は空中から2発攻撃してくるが、この1発目と2発目の間のタイミングがパリィの読み合いとなる。パリィできればドライブゲージを大きく回復できるが、ブランカもパリィ読みで着地から投げを仕掛けてくる選択肢もある。SA2のメモリがある状態のブランカは最強状態なので、なるべくバーンアウトされずにメモリがなくなるまで凌ぐ意識を持つ。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカがSA2ライトニングビーストを発動してきた際",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "12:04",
+    "source_quote": "SA2はガードし続けると ほぼバーンアウトまでゲージが削られます まず最初に、ここの通常技にDリバするかの読み合いがあります 通常技ローリングとと入れ込んでれば Dリバが確定して吹き飛ばせます 通常技ローリングをガードすると 次は空中から2発撃ってきます この1発目と2発目の間がパリィするかの読み合いです パリィできればドライブゲージを大きく回復できます しかし、ブランカもパリィ読みで着地から投げてくる選択肢もあります SA2のメモリがある状態のブランカは最強状態ですので なるべくバーンアウトされずに メモリがなくなるまで凌ぐ意識を持ちましょう",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "71335b6de171",
+    "category": "defense",
+    "topic": "逆択対策（OD無敵技）",
+    "content": "ブランカを画面端に追い詰めると、ODバチカ、ODエアロリ、中足といった無敵技を使い守り手側が攻める逆択を積極的にしてくる。ODバチカやODエアロリに対しては、投げ重ねが負けるため、ブランカには打撃重ねが有効。特に、それらの無敵技に勝てて、かつODバチカをガードできるタイミングの遅らせ打撃重ねがさらに有効。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "blanka",
+    "situation": "ブランカを画面端に追い詰めた際、ブランカが無敵技で逆択をしてきた場合",
+    "source_video_id": "oVUiN0Ja1jg",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Blanka Strategy Guide [Updated Edition] A Must-See for Those Who Are Not Good ...",
+    "source_timestamp": "13:09",
+    "source_quote": "ブランカを画面端に追い詰めると ブランカはODバチカ ODエアロリ 中足 と、普通の守り以外に守り手が攻める逆択を積極的にしてきます ODバチカ ODエアロリに対して 投げ重ねが負けるので ブランカにに対しては投げ重ねはあまり有効に働かないイメージがあります なので、ブランカにに対しては打撃重ねが有効で その打撃重ねねもODエアロリ、逆択中足に勝てて ODバチカはガードできるタイミングの遅らせ打撃",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T14:17:00.048950",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "118",
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6021b6117c70",
+    "category": "matchup",
+    "topic": "Juriの昇龍拳によるBlankaのローリングアタック対策",
+    "content": "JuriはBlankaのローリングアタックに対し、近距離であれば昇龍拳で返すことができる。",
+    "characters": [
+      "juri",
+      "blanka"
+    ],
+    "matchup": "blanka",
+    "situation": "Blankaが近距離でローリングアタックを仕掛ける時",
+    "source_video_id": "8DSVjsVhmGQ",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「意図的にダメージを貰うという技術がある」世界大会で優勝したブランカの試合を見て解説するカワノ【スト6】",
+    "source_timestamp": "04:33",
+    "source_quote": "あの近距離でロリを昇竜で返せるのはもうすごいわ。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T23:16:56.411501",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

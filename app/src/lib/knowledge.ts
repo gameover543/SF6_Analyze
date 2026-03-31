@@ -112,12 +112,17 @@ function loadDigest(slug: string): string | null {
 
 /**
  * マッチアップ別インデックスを読み込む
+ * slug_vs_opponent が存在しない場合、opponent_vs_slug も試みる（逆方向ナレッジも活用）
  */
 function loadMatchupIndex(slug: string, opponent: string): KnowledgeEntry[] {
-  const data = readJsonSafe(
-    path.join(STRUCTURED_DIR, "by_matchup", `${slug}_vs_${opponent}.json`)
-  );
-  return (data as KnowledgeEntry[]) || [];
+  const forwardPath = path.join(STRUCTURED_DIR, "by_matchup", `${slug}_vs_${opponent}.json`);
+  const forwardData = readJsonSafe(forwardPath);
+  if (forwardData) return (forwardData as KnowledgeEntry[]);
+
+  // 逆引き: opponent_vs_slug.json があればそれも活用
+  const reversePath = path.join(STRUCTURED_DIR, "by_matchup", `${opponent}_vs_${slug}.json`);
+  const reverseData = readJsonSafe(reversePath);
+  return (reverseData as KnowledgeEntry[]) || [];
 }
 
 /**
@@ -160,15 +165,17 @@ function loadLatestPatchSummary(): string | null {
 
 /**
  * ユーザーの質問からマッチアップ対象キャラを検出
+ * mainSlug（メインキャラ）を除いて最初にマッチしたキャラを返す
  */
-function detectOpponent(text: string): string | null {
+function detectOpponent(text: string, mainSlug?: string): string | null {
   const lower = text.toLowerCase();
   for (const [slug, jp] of Object.entries(CHAR_JP)) {
+    // メインキャラ自身はスキップ（「ジェイミーでケンに勝てない」でジェイミーを誤検出しない）
+    if (slug === mainSlug) continue;
     if (lower.includes(jp.toLowerCase()) || lower.includes(slug)) {
       return slug;
     }
   }
-  // 「対策」「対面」「きつい」の直前にキャラ名がある場合
   return null;
 }
 
@@ -301,9 +308,9 @@ export function buildKnowledgeContext(
   let indexEntries: KnowledgeEntry[] = [];
 
   if (latestQuestion) {
-    // マッチアップ検出
-    const opponent = detectOpponent(latestQuestion);
-    if (opponent && mainSlug && opponent !== mainSlug) {
+    // マッチアップ検出（メインキャラ自身は除外して対戦相手を検索）
+    const opponent = detectOpponent(latestQuestion, mainSlug);
+    if (opponent && mainSlug) {
       const matchupEntries = loadMatchupIndex(mainSlug, opponent);
       indexEntries.push(...matchupEntries);
     }

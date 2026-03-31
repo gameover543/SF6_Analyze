@@ -108,16 +108,12 @@ class KnowledgeExtractor:
             logger.error(f"知識抽出のJSONパース失敗: {candidate.video_id}")
             return []
 
-            # KnowledgeEntry に変換
-            entries = self._convert_entries(entries_data, candidate)
-            logger.info(
-                f"EXECUTE: {len(entries)}件の知識を抽出 - {candidate.title[:40]}"
-            )
-            return entries
-
-        except Exception as e:
-            logger.error(f"EXECUTE失敗 ({candidate.video_id}): {e}")
-            return []
+        # KnowledgeEntry に変換
+        entries = self._convert_entries(entries_data, candidate)
+        logger.info(
+            f"EXECUTE: {len(entries)}件の知識を抽出 - {candidate.title[:40]}"
+        )
+        return entries
 
     def _convert_entries(
         self, raw_entries: list[dict], candidate: VideoCandidate

@@ -3372,9 +3372,284 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "7f8543b5f5c6",
+      "category": "combo",
+      "topic": "エレナの微ディレイコンボ",
+      "content": "エレナのコンボは「大Pパニカン -> DR微ディレイ屈大P -> 大Pサイズ弱リンク派生微ディレイ強化ハーベスト -> 中ライノSA3」というルートで5730ダメージが出るが、微ディレイの入力が非常に難しいため実戦での採用は難しい。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "パニッシュカウンター時",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "00:30",
+      "source_quote": "大Pパニカン→DR微ディレイ屈大P→P大サイズ弱リンク派生微ディレイ強化ハーベスト→中ライノSA3 これです",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a63c08a65b88",
+      "category": "combo",
+      "topic": "エレナの最大ダメージコンボ",
+      "content": "エレナの最大ダメージは飛びからのコンボで6624ダメージが出る。地上コンボからは飛びからのコンボよりもダメージが少ない。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "最大ダメージ",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "04:31",
+      "source_quote": "エレナのガチ最大ってどんぐらい出るんですか？一応これ？飛びからのほうが減るわ 6624",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b9dadb998cb7",
+      "category": "matchup",
+      "topic": "ダルシムのヨガファイア対策",
+      "content": "ダルシムの地上ヨガファイアに対して、エレナはしゃがみ大K、立ち中P、またはODバックラッシュキックで差し返したり、抜けて反撃することができます。特にODバックラッシュキックは無敵時間があるため、リスクを伴いますが強力な切り返し手段となります。また、垂直ジャンプ大Pや垂直ジャンプ大Kでヨガファイアを潰し、パニッシュカウンターを取ることも有効です。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムが地上ヨガファイアを撃ってきた時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "00:10",
+      "source_quote": "オーライ！ (00:10)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "105"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "322c72b74d98",
+      "category": "matchup",
+      "topic": "ダルシムの空中軌道変化技対策",
+      "content": "ダルシムの空中ヨガファイアやヨガテレポートに対して、エレナは垂直ジャンプ大Pや垂直ジャンプ大Kで攻撃を潰すことができます。ヨガテレポートで近距離にワープしてきた場合は、ODバックラッシュキック（投げ）で掴んでダウンを取ることで、有利な状況を作れます。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムが空中ヨガファイアやヨガテレポートで軌道変化・接近してきた時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "01:17",
+      "source_quote": "そりゃ！ (01:17)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "7519f09f2bb0",
+      "category": "defense",
+      "topic": "リバーサルODバックラッシュキック",
+      "content": "エレナは相手の起き攻めや連係に対して、リバーサルODバックラッシュキック（無敵技）で切り返すことができます。特にダルシムの遠距離攻撃を潜り抜けて反撃する際に有効です。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムの起き攻めや連係中に防御側が切り返したい時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "00:34",
+      "source_quote": "オーライ！ (00:34)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b1a924239861",
+      "category": "combo",
+      "topic": "立ち中KからのSA1コンボ",
+      "content": "エレナは立ち中KのパニッシュカウンターからSA1（ヒューリングダンス）に繋ぐことで、大ダメージを与えつつ相手を画面端に運ぶことができます。画面端では起き攻めや更なる攻め継続が狙えます。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "立ち中Kがパニッシュカウンターヒットした時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "00:54",
+      "source_quote": "いくよ！ (00:54)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b4dd19394960",
+      "category": "combo",
+      "topic": "ODバックラッシュキックからのSA3コンボ",
+      "content": "エレナはODバックラッシュキックのパニッシュカウンターからSA3（スピリットオブサバンナ）に繋ぐことで、高ダメージのコンボを決め、KOを狙うことができます。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ODバックラッシュキックがパニッシュカウンターヒットした時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "01:39",
+      "source_quote": "オーライ！ (01:39)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "38af5c76195e",
+      "category": "general",
+      "topic": "SA2（ヒールミー）による体力回復",
+      "content": "エレナはSA2（ヒールミー）で体力を回復することができます。相手のダルシムをダウンさせたり、安全な距離にいる際に使用することで、試合を有利に進めることが可能です。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": null,
+      "situation": "体力が減少し、安全な状況で体力を回復したい時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "01:31",
+      "source_quote": "オーライ！ (01:31)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "e53e6295b1d1",
+      "category": "oki",
+      "topic": "投げ後のドライブラッシュ",
+      "content": "エレナは通常投げで相手をダウンさせた後、ドライブラッシュで間合いを詰めることで起き攻めや攻め継続を狙うことができます。ダルシムに対しては、起き上がりのヨガファイアを読んでODバックラッシュキックなどで対応する準備も必要です。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "通常投げで相手をダウンさせた後",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "00:32",
+      "source_quote": "オーライ！ (00:32)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a938a3b69c7a",
+      "category": "neutral",
+      "topic": "ダルシムの近距離技に対する立ち回り",
+      "content": "ダルシムが立ち中Kなどの近距離技を出してきた場合、エレナはODバックラッシュキックの無敵技で切り返し、パニッシュカウンターからの高ダメージコンボを狙うことができます。",
+      "characters": [
+        "elena"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムが立ち中Kなどの近距離技を出してきた時",
+      "source_video_id": "5l0-nPMYorA",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendエレナから学ぶ！✨ダルシム戦立ち回り LEGEND Elena's Matchup Strategy Against Dhalsim〚kosaku〛〚今井翔太〛",
+      "source_timestamp": "02:02",
+      "source_quote": "オーライ！ (02:02)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T04:21:30.739477",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T02:09:46.634898",
-  "source_video_count": 11,
+  "last_updated": "2026-04-01T04:21:30.759739",
+  "source_video_count": 13,
   "last_validated_version": "2"
 }

@@ -6574,9 +6574,784 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "05f4ae13dc34",
+      "category": "matchup",
+      "topic": "マリーザのドライブインパクト対策",
+      "content": "マリーザは相手のドライブインパクトに対して、しゃがみ中Kでパニッシュカウンターを取ることができます。また、マリーザ自身もドライブインパクトを相手の攻撃に対するカウンターとして活用できます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）がドライブインパクトを使用、または攻撃してきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:11",
+      "source_quote": "ドライブインパクトからのしゃがみ中Kがヒット",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "111",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c44f1852e97d",
+      "category": "matchup",
+      "topic": "マリーザのグラディウス活用",
+      "content": "舞の遠距離立ち強Pのような牽制技に対して、マリーザはグラディウスでカウンターを取ることができます。また、ガード後にグラディウスを出すことで反撃することも有効です。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が遠距離立ち強Pを出した時、または相手の攻撃をガードした後",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:18",
+      "source_quote": "遠距離立ち強Pに対してグラディウスがヒット",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "3d461e8d8fbc",
+      "category": "matchup",
+      "topic": "マリーザのファランクス活用",
+      "content": "マリーザのファランクスは、相手の攻撃やジャンプ攻撃（特に0:27の状況）に対するカウンターとして機能します。ガード後の反撃オプションとしても有効です。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が攻撃してきた時、またはジャンプ攻撃を仕掛けてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:20",
+      "source_quote": "ファランクス",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9785be8c3c6b",
+      "category": "matchup",
+      "topic": "マリーザのタメグラディウスでパニッシュカウンター",
+      "content": "舞が空中投げを仕掛けた際に、マリーザはタメグラディウスでパニッシュカウンターを取り、大ダメージに繋げることができます。また、ジャンプ攻撃に対してのタメグラディウスも強力です。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が空中投げを試みた時、またはジャンプ攻撃に対して",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:28",
+      "source_quote": "オーディオスがパニッシュカウンター、空中投げに対して",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c0ae0a9b5b9e",
+      "category": "matchup",
+      "topic": "マリーザのクアドリガで下段対策",
+      "content": "舞の下段攻撃に対して、マリーザはクアドリガ（28K）でカウンターを取ることができます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が下段攻撃を仕掛けてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:40",
+      "source_quote": "ガロッサ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "d1c6d3ac3aeb",
+      "category": "matchup",
+      "topic": "マリーザのパルミラ活用",
+      "content": "マリーザのパルミラ（236K）は、相手（舞）が空中ガード不可の状況や、ジャンプしてきた時、またはパニッシュカウンターの機会に有効なコマンド投げです。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が空中やジャンプ中、またはパニッシュカウンターを狙える時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:40",
+      "source_quote": "パルミラ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "94305007ca22",
+      "category": "matchup",
+      "topic": "マリーザのクアドリガで下段攻撃への対処",
+      "content": "舞の下段攻撃に対して、マリーザはクアドリガ（28K）を出すことでカウンターを取ることができます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が下段攻撃を仕掛けてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:42",
+      "source_quote": "ガロッサ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "26edd30137a1",
+      "category": "matchup",
+      "topic": "マリーザのガード後反撃",
+      "content": "相手の攻撃をガードした後、マリーザはしゃがみ中Kからファランクスに繋ぐことで反撃できます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手の攻撃をガードした後",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:44",
+      "source_quote": "しゃがみ中Kからファランクス",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "111"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f42abbd4b759",
+      "category": "matchup",
+      "topic": "マリーザのODファランクスでの反撃",
+      "content": "舞の立ち強Kに対して、マリーザはODファランクスでパニッシュカウンターを取り、大ダメージに繋げることができます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）が立ち強Kを放った時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "02:54",
+      "source_quote": "立ち強Kに対してODファランクスがヒット",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106",
+        "319"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a7050d4fa9cd",
+      "category": "matchup",
+      "topic": "マリーザのしゃがみ強Kでの対空",
+      "content": "舞がジャンプ攻撃を仕掛けてきた際、マリーザはしゃがみ強Kで対空することができます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）がジャンプしてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "03:34",
+      "source_quote": "しゃがみ強Kがヒット",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "208"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "875e1f4ea171",
+      "category": "matchup",
+      "topic": "マリーザのODグラディウスでの対空",
+      "content": "舞がジャンプ攻撃を仕掛けてきた際、マリーザはODグラディウスで対空することができます。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "mai",
+      "situation": "相手（舞）がジャンプしてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "06:04",
+      "source_quote": "ODグラディウス",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "307"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "7a361e60ba51",
+      "category": "general",
+      "topic": "SA後反撃の基本",
+      "content": "基本的には、相手のスーパーアーツ(SA)をガードした後の反撃にはドライブインパクト(DI)か溜め強Pを使用する。ただし、以下のキャラの特定のSAに対してはインパクトができないため、他の選択肢を検討する必要がある。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": null,
+      "situation": "相手のSAガード後",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "00:00",
+      "source_quote": "基本的にはインパクトor溜め大Pで反撃を取ります。インパクトができないキャラは以下の通りです。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "14a83245678e",
+      "category": "matchup",
+      "topic": "ディージェイSA1確定反撃",
+      "content": "ディージェイのSA1(ジャストコオル)をガード後、硬直差が+12Fあるため、立ち弱Pから密着時の溜め強Pで反撃可能。ジャンプ攻撃から入ることでより大きなダメージを狙える。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "deejay",
+      "situation": "ディージェイSA1ガード後（+12F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "00:10",
+      "source_quote": "ディージェイ SA1 +12F 立P 密着時引強P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "503609c073fc",
+      "category": "matchup",
+      "topic": "リュウSA2確定反撃",
+      "content": "リュウのSA2(電刃波動拳)をガード後、硬直差が+20Fあるため、ジャンプ攻撃から溜め強Pで反撃可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "ryu",
+      "situation": "リュウSA2ガード後（+20F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "00:36",
+      "source_quote": "リュウ SA2 +20F ジャンプ攻撃 溜め確認ジャンプ溜め立P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c5c943cb068d",
+      "category": "matchup",
+      "topic": "ブランカSA1確定反撃",
+      "content": "ブランカのSA1(アースグランジ)をガード後、硬直差が+43Fあるため、ジャンプ攻撃から溜め強Pで反撃可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカSA1ガード後（+43F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "01:11",
+      "source_quote": "ブランカ 人形SA1 ジャンプ攻撃",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "bdfa0ac8cf4e",
+      "category": "matchup",
+      "topic": "ケンSA2確定反撃",
+      "content": "ケンのSA2(紅蓮炎迅脚)をガード後、硬直差が+5Fだが、確定反撃は存在しない。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "ken",
+      "situation": "ケンSA2ガード後（+5F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "01:23",
+      "source_quote": "ケン SA2 +5F 確定無し",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "639dabdb776e",
+      "category": "matchup",
+      "topic": "春麗SA1確定反撃",
+      "content": "春麗のSA1(気功掌)をガード後、硬直差が+22Fあるため、溜め強Pで反撃可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "chunli",
+      "situation": "春麗SA1ガード後（+22F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "01:32",
+      "source_quote": "春麗 SA1 +22F 溜め引強P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "00c9fda5e1e6",
+      "category": "matchup",
+      "topic": "ダルシムSA1確定反撃",
+      "content": "ダルシムのSA1(ヨガインフェルノ)をガード後、硬直差が+10Fあるため、溜め強Pで反撃可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムSA1ガード後（+10F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "01:48",
+      "source_quote": "ダルシム SA1 +10F 引強P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "740484af1e2c",
+      "category": "matchup",
+      "topic": "ダルシムSA2確定反撃",
+      "content": "ダルシムのSA2(ヨガサンサーラ)をガード後、硬直差が+17Fあるため、溜め屈強P > ドライブキャンセル > 溜め強P > 強ディマディレイ派生のコンボで反撃可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "dhalsim",
+      "situation": "ダルシムSA2ガード後（+17F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "02:03",
+      "source_quote": "ダルシム SA2 溜め屈強P＞ラッシュ引強P＞強ディマディレイ派生～",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "270a85090fd2",
+      "category": "matchup",
+      "topic": "AKI SA2確定反撃",
+      "content": "AKIのSA2(毒蛇の抱擁)をガード後、硬直差が+19Fあるため、立ち中Kか溜め強Pで反撃可能。ジャンプ攻撃から立ち中Kへ繋ぎ、さらに溜め強Pまで追撃することで高ダメージを狙える。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "aki",
+      "situation": "AKI SA2ガード後（+19F）",
+      "source_video_id": "7XSEFUeiKpA",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】マリーザ 調整後 SA反撃コンボ まとめ SF6 Marisa Punish Combo",
+      "source_timestamp": "02:56",
+      "source_quote": "A.K.I. SA2 +19F 立中K or 引強P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:30:23.395952",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103",
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "11d44f211ac2",
+      "category": "defense",
+      "topic": "OD昇龍拳への対処",
+      "content": "ケンがOD昇龍拳（OD昇竜拳）を放ってきた際、マリーザ側はガードしてDゲージを削る選択肢がある。相手のDゲージが削れれば、下段からのラッシュ頻度を下げさせることができる。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "ken",
+      "situation": "相手がOD昇竜拳（OD昇竜拳）を放ってきた際",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "04:25",
+      "source_quote": "ケンさんのOD昇龍は意外と打たせてもいいのかもしれません。その分バーンアウトの確率が増えて、下段からのラッシュの頻度が下がるなら、甘んじて受け入れましょう",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a71e3dbd5d1d",
+      "category": "neutral",
+      "topic": "ラシードの風への対応",
+      "content": "ラシードが中距離で風（ワールウィンドショット）を溜めてくる場合、マリーザはファランクスをタイミング良く合わせることを狙う。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "rashid",
+      "situation": "ラシードが中距離で風（ワールウィンドショット）を溜めている場合",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "01:01",
+      "source_quote": "中距離なら風を溜めてくるだろう。ここだー！",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "d06a6be798f3",
+      "category": "combo",
+      "topic": "バーンアウト状態へのSA3使用",
+      "content": "バーンアウト状態の相手に対して、SA3を当てることで大ダメージを与え、KOを狙うことができる。SA2でも対応可能。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "rashid",
+      "situation": "相手がバーンアウト状態の時",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "02:21",
+      "source_quote": "でもあれが来れば来たーーー！SA3だーーー！！！！おりゃー！これ、確定らしいです！ちなみにSA2でも返せるので是非お試しあれーーー！！！",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "403",
+        "404"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "043e34834ffb",
+      "category": "matchup",
+      "topic": "ザンギエフの対空への対処",
+      "content": "ザンギエフの対空はアーマー付きの技であり強力なため、マリーザ側は安易な飛び込みを控えるべき。対空を誘ってガードさせるなど、工夫して立ち回る必要がある。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "zangief",
+      "situation": "ザンギエフ戦において",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "03:38",
+      "source_quote": "お相手の対空がかなり厄介だ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c46f64dfe4ad",
+      "category": "combo",
+      "topic": "ザンギエフ戦でのSA3連携",
+      "content": "ザンギエフ戦において、中アシスト（アシスト中攻撃）からのSA3（SA3）は4300ダメージとなり、高いダメージを奪えるコンボである。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "zangief",
+      "situation": "ザンギエフ戦",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "03:49",
+      "source_quote": "ここは中アシストが入ってSA決まって4300！！",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "404"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f77f04ea6e8c",
+      "category": "neutral",
+      "topic": "ケン戦での遠距離ドライブインパクト",
+      "content": "ケン戦で相手が遠距離でDゲージ回復のために竜巻旋風脚（リュウビキャク）などで固めてくる場合、マリーザはドライブインパクト（インパクト）を警戒し、カウンターを狙うことも有効。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "ken",
+      "situation": "ケンがリュウビキャクで固めてDゲージ回復を狙う遠距離の状況",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "04:39",
+      "source_quote": "お相手のDゲージが少ないがリュウビキャクから固めて回復しちゃうな。あの距離はインパクトを用意してもいいかもしれないですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "6a5cd3079a80",
+      "category": "matchup",
+      "topic": "マリーザミラーでの下段狙い",
+      "content": "マリーザのミラーマッチでは、下段攻撃の狙い合いが重要となる。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "marisa",
+      "situation": "マリーザミラーマッチ",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "06:19",
+      "source_quote": "マリーザさん同キャラは下段の狙い合いになりますね",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "698e57b77955",
+      "category": "defense",
+      "topic": "マリーザミラーでのSA3ガード",
+      "content": "マリーザのSA3（SA3）は、見てからガード（防御）が間に合うため、ミラーマッチでは注意が必要である。",
+      "characters": [
+        "marisa"
+      ],
+      "matchup": "marisa",
+      "situation": "マリーザミラーマッチ",
+      "source_video_id": "IPLqVdaGz_0",
+      "source_channel": "白熊Baller",
+      "source_video_title": "【~LP21150】Mマリーザダイヤ３達成までもう少し！！コンボも覚えた！！さぁ行くぞ！！【スト6】",
+      "source_timestamp": "07:18",
+      "source_quote": "割とマリーザさんのSA3は見てからガードが間に合っちゃうのが辛いよな",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:12:30.363432",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "404"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T04:27:26.132346",
-  "source_video_count": 21,
+  "last_updated": "2026-04-01T03:12:30.386478",
+  "source_video_count": 24,
   "last_validated_version": ""
 }

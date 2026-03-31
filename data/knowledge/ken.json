@@ -8827,9 +8827,91 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "64957253f34e",
+      "category": "general",
+      "topic": "波動拳と昇龍拳の入力ミス",
+      "content": "ケン使用時、しゃがみ小Pから昇龍拳を出す際に波動拳になってしまう場合、しゃがみ小Pを入力する際に1方向（斜め下後ろ）ではなく3方向（斜め下前）で入力し、そこから昇龍拳のコマンドを入力すると自然と昇龍拳が出やすくなる。",
+      "characters": [
+        "ken"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ小Pからの昇龍拳入力が波動拳になってしまう時",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "01:33",
+      "source_quote": "しゃがみ小パンを1でやっちゃってるとこの昇龍拳しようとした時にレバーをこの1からこうぐるっと前にやるのやると波動拳になっちゃうんすけど、しゃがみ小パンやる時点で1方向じゃなくて3方向で小パン出すと3方向から波動拳ってやろうとすると自然と昇龍拳になります",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "8dd03f339559",
+      "category": "general",
+      "topic": "真空竜巻の入力難易度 (1P/2P)",
+      "content": "真空竜巻の入力は、コントローラーの持ち方によって1P側と2P側の難易度が異なる。かぶせ持ちの場合、1P側の真空竜巻は入力の動きが大きくなるため難しいが、ワイン持ち（下から握る）だと1Pと2Pの差をなくせる可能性がある。",
+      "characters": [
+        "ken"
+      ],
+      "matchup": null,
+      "situation": "真空竜巻の入力",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "02:10",
+      "source_quote": "棒の持ち方によるんすよ。これかぶせ持ち？かぶせだと1P真空はムズいっす。だって手の動きがさ、単純に1P真空がこうで2P真空だと人差し指と親指だけで済むんすよ2P真空って。でこれワイン持ちだと1Pと2Pの差結構なくせるんすけどかぶせ持ちだとあの2P真空の方が行いやすいっていうのは人間の手の構造上、至極自然な話ですね。手の運動量が1Pの方がどうしてもしんく、真空はやっぱり増えちゃうと思う。",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "6feca738bb53",
+      "category": "defense",
+      "topic": "ケンのSA1",
+      "content": "ケンのSA1は、切り返しで使った際に相手と入れ替われるのが強い。バーンアウトしている時やラッシュなどで攻め立てられている時に、SA1昇龍拳で切り返して入れ替わることで状況を打開できる。",
+      "characters": [
+        "ken"
+      ],
+      "matchup": null,
+      "situation": "追い込まれている時、バーンアウト時、攻め立てられている時",
+      "source_video_id": "C8vMFee2oH4",
+      "source_channel": "ももち / Momochi",
+      "source_video_title": "新動画で紹介されてたラシードの技がいろいろ超ヤバそうなので解説します【ももち】#スト6 #ストリートファイター6",
+      "source_timestamp": "07:27",
+      "source_quote": "ケンのSA1はトータル俺は強い。なぜならやっぱり切り返しなんですよね。切り返しで使う時って、基本的に自分が追い込まれてる時なんですよ。切り返しだから。基本的に追い込まれてると仮定すると、まあバーンアウトしてる時とか、なんかラッシュとかで攻め立てられてる時に、こうやって入れ替えるっていうのがやっぱ強い。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:57:02.411934",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T03:34:52.804083",
-  "source_video_count": 36,
+  "last_updated": "2026-04-01T03:57:02.450171",
+  "source_video_count": 38,
   "last_validated_version": "2"
 }

@@ -6621,9 +6621,234 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "65315611e810",
+      "category": "matchup",
+      "topic": "舞の空中対策",
+      "content": "マリーザがジャンプ攻撃を仕掛けてきた際、舞は空中投げで対応することができます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）がジャンプしてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:15",
+      "source_quote": "空中投げで対応",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "d4a29a454fb3",
+      "category": "matchup",
+      "topic": "舞のSA1使用時の注意点",
+      "content": "舞の流転鳳凰脚（SA1）はガードされると反撃を受けるリスクがあるため、使用には注意が必要です。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "流転鳳凰脚（SA1）を出す際",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:44",
+      "source_quote": "SA1ガード",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "850efb9eb4d4",
+      "category": "matchup",
+      "topic": "舞のドライブインパクト反撃コンボ",
+      "content": "マリーザのドライブインパクトに対しては、舞の遠距離立ち強Pから鳳凰脚（SA3）に繋ぐことで、高いダメージを奪うことができます。また、しゃがみ中Kや紅舞（SA2）、流転鳳凰脚（SA1）もドライブインパクトへの反撃手段として有効です。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）がドライブインパクトを使った時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "00:57",
+      "source_quote": "ドライブインパクトに対して遠距離立ち強Pから鳳凰脚",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "109",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "67f406e53528",
+      "category": "matchup",
+      "topic": "舞の無敵SAでの切り返し",
+      "content": "マリーザの攻めに対して、舞は無敵技を持つスーパーアーツ（SA）で切り返すことができます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）の攻めが続いている時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:02",
+      "source_quote": "無敵技がヒット",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "26ec01924dc2",
+      "category": "matchup",
+      "topic": "舞のジャンプ攻撃対策コンボ",
+      "content": "マリーザがジャンプしてきた際、舞は立ち強Kを当ててから空中投げに繋ぐことでダメージを与えられます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）がジャンプしてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:07",
+      "source_quote": "立ち強K、空中投げ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "e037c7980f0d",
+      "category": "matchup",
+      "topic": "舞の立ち強Pからの空中投げ",
+      "content": "舞の立ち強Pがカウンターヒットした場合、空中投げに繋いでダメージを伸ばすことができます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "舞の立ち強Pがカウンターヒットした時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:20",
+      "source_quote": "立ち強Pがカウンター、空中投げ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "25722e583c39",
+      "category": "matchup",
+      "topic": "舞のダイブキック対策",
+      "content": "マリーザのダイブキックに対しては、舞の遠距離立ち強Pから流転鳳凰脚（SA1）に繋いでカウンターを狙うことができます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）がダイブキックを仕掛けてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "01:57",
+      "source_quote": "ダイブキックに対して遠距離立ち強PからSA1",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c33f42ecc289",
+      "category": "matchup",
+      "topic": "舞のしゃがみ中Pからの空中投げ",
+      "content": "マリーザがグラディウスを仕掛けてきた際、舞はしゃがみ中Pを当ててから空中投げに繋ぐことで反撃できます。",
+      "characters": [
+        "mai"
+      ],
+      "matchup": "marisa",
+      "situation": "相手（マリーザ）がグラディウスを仕掛けてきた時",
+      "source_video_id": "X9JiCbjAmTM",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendマリーザから学ぶ✨舞戦立ち回りLEGEND Marisa's Matchup Strategy Against Mai〚たゆたゆ〛〚Kurobuchi〛",
+      "source_timestamp": "02:50",
+      "source_quote": "しゃがみ中P、空中投げ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:15:28.312125",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T03:16:27.953543",
-  "source_video_count": 16,
+  "last_updated": "2026-04-01T01:15:28.365593",
+  "source_video_count": 17,
   "last_validated_version": ""
 }

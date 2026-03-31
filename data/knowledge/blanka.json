@@ -5531,9 +5531,722 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "e2e663d42a42",
+      "category": "combo",
+      "topic": "基本コンボ1",
+      "content": "立ち弱Kから立ち弱Kに繋ぎ、キャンセルして弱サンダーを出す。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "00:44",
+      "source_quote": "はい、まずワズですね、ブランカの基本コンボの弱K弱Kサンダーですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "4fb59d9d26ee",
+      "category": "oki",
+      "topic": "基本コンボ1後の起き攻め",
+      "content": "弱K→弱K→弱サンダーのコンボ後、前ステップで近づき、ドライブキャンセルから引き中K（しゃがみ中K）を出す。または、投げを選択する。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "弱K→弱K→弱サンダーのコンボ後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "00:51",
+      "source_quote": "で、この後のオススメの起き攻めは前ステップから引き中K。引き中キックじゃなくて投げに行ったり。弱K2回サンダーの後は前ステップからラッシュを練習してみましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "5f218a3c72c7",
+      "category": "combo",
+      "topic": "ダウン後の固めコンボ",
+      "content": "ダウンさせた後の密着から、しゃがみ中Kから立ち弱Pに繋ぎ、キャンセルして弱サンダーを出す。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ダウンさせた後の密着時",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "01:24",
+      "source_quote": "はい、続いてですね、続いては引き中キック弱パンチサンダーですね。このコンボの使い方がとしては、え、相手をダウンさせた後に、はい、このように固めるために使います。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a1c94498628d",
+      "category": "oki",
+      "topic": "ダウン後の起き攻め（投げ択）",
+      "content": "相手をダウンさせた後、少し遅らせて前ステップし、投げを選択する。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "相手をダウンさせた後の起き上がりに重ねる時",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "01:37",
+      "source_quote": "はい、こんな感じで、はい、相手の起き上がりに、え、重ねる時に良く使ったりします。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "65af12c44661",
+      "category": "combo",
+      "topic": "ダウンを奪うコンボ",
+      "content": "立ち強Pからワイルドリフトに繋ぎ、アマゾンリバーランでダウンを奪う。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "01:53",
+      "source_quote": "はい、続いてのここは、え、強パンチからワイルドリフト行ってアマゾンリバーランですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "204",
+        "206"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "962c1014a941",
+      "category": "oki",
+      "topic": "ダウン後の起き攻め（遅らせ前ステ）",
+      "content": "立ち強P→ワイルドリフト→アマゾンリバーランのコンボ後、3～6フレーム程度遅らせて前ステップし、投げなどに行く。この「ちょっと遅らせる」のがコツ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "立ち強P→ワイルドリフト→アマゾンリバーランのコンボ後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "02:01",
+      "source_quote": "このコンボの後のオススメの起き攻めはちょっと遅らせて（3～6Fくらい）前ステップ。このちょっと遅らせるのが書なので、練習の時に投げに行く練習もしてみましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "204",
+        "206"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "3c98f3754afd",
+      "category": "combo",
+      "topic": "ラッシュからのヒット確認コンボ",
+      "content": "ドライブインパクトからのドライブラッシュ引き中K（しゃがみ中K）をヒット確認し、立ち強P→ワイルドリフト→弱バチカへ繋ぐ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ドライブインパクトヒット後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "02:18",
+      "source_quote": "続いてのコンボは、え、ラッシュ引き中K（ここでヒット確認）強Pワイルドリフト弱バチカですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "109",
+        "206",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "29c206d6f427",
+      "category": "oki",
+      "topic": "ラッシュヒット確認コンボ後の起き攻め",
+      "content": "ラッシュ引き中K→立ち強P→ワイルドリフト→弱バチカのコンボ後、サプライズフォワードで起き攻めをかける。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ引き中K→強P→ワイルドリフト→弱バチカのコンボ後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "02:28",
+      "source_quote": "この後はサプライズフォワードで起き攻め。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "206",
+        "208"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9992ce295552",
+      "category": "general",
+      "topic": "ラッシュヒット確認の練習方法",
+      "content": "トレーニングモードで相手のガード設定をランダムにし、ドライブラッシュ引き中Kがヒットしたらコンボを繋げ、サプライズフォワードで密着。ガードされていたら投げに行く練習をする。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ヒット確認練習時",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "02:37",
+      "source_quote": "練習法としては、ランダムにしといて当たってたらこのコンボに行ってサプライズフォワードで近づく。ガードされてたら投げる。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "208"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "583efc45a35a",
+      "category": "combo",
+      "topic": "ラッシュからのヒット確認コンボ2",
+      "content": "ドライブラッシュ前中Pをヒット確認し、立ち強K→しゃがみ弱P→弱バチカへ繋ぐ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "02:55",
+      "source_quote": "続いては中段択のラッシュ前中P（ここでヒット確認）強K下弱P弱バチカですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "89afe5365e27",
+      "category": "oki",
+      "topic": "ラッシュヒット確認コンボ2後の起き攻め",
+      "content": "ラッシュ前中P→立ち強K→しゃがみ弱P→弱バチカのコンボ後、サプライズフォワードで起き攻めをかけるか、しゃがみ中K→サンダーで打撃を重ねるか、投げを選択する。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ前中P→強K→下弱P→弱バチカのコンボ後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "03:02",
+      "source_quote": "このコンボの後はサプライズフォワードで起き攻め。打撃などは適当に下中K→サンダーを重ねる感じ。このコンボは主に投げの後などに使います。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "106",
+        "109",
+        "208",
+        "606"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "337d63ba50b5",
+      "category": "combo",
+      "topic": "強ローリングパニカンからの追撃",
+      "content": "強ローリングがパニッシュカウンターになった場合、ドライブラッシュからアマゾンリバーランへ繋ぐ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "強ローリングがパニッシュカウンターになった時",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "03:22",
+      "source_quote": "続いてですね、続いては、え、強ロリ（パニカン）ラッシュアマリバを出すというものになります。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "204"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "bec703534f27",
+      "category": "oki",
+      "topic": "強ローリングパニカンコンボ後の起き攻め",
+      "content": "強ローリング（パニカン）→ラッシュアマゾンリバーランのコンボ後、少し遅らせて前ステップし、起き攻めをかける。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "強ローリング（パニカン）→ラッシュアマゾンリバーランのコンボ後",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "03:49",
+      "source_quote": "これの起き攻めは、まあさっきと同じで、え、ちょっと遅らせてから前ステップってやるといい感じに起き攻めができます。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "204"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "027bdc4aee9a",
+      "category": "combo",
+      "topic": "パニカンからの大ダメージコンボ",
+      "content": "立ち強Kがパニッシュカウンターになった場合、または相手の無敵技や隙の大きい技をガードした後に、立ち強P→ワイルドリフト→中ローリング→SA3へ繋ぐ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "立ち強Kがパニッシュカウンターになった時、または相手の無敵技や隙の大きい技をガードした時",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "03:57",
+      "source_quote": "続いてのコンボはですね、相手が無敵技などを打ってきた時に使える。強K（パニカン）強Pワイルドリフト中ロリSA3。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "105",
+        "206",
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c70ec3f11bad",
+      "category": "combo",
+      "topic": "下段始動キャンセルラッシュコンボ",
+      "content": "しゃがみ中Pをキャンセルしてドライブラッシュに繋ぎ、引き中K（しゃがみ中K）→立ち強P→ワイルドリフト→SA1へ繋ぐ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "04:47",
+      "source_quote": "はい、こっからですね、え、キャンセルラッシュを使ったコンボになります。下中P.キャンセルラッシュ→引き中K→強P→ワイルドリフト→SA1。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "108",
+        "109",
+        "206",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "911ac5d0ac6e",
+      "category": "combo",
+      "topic": "下段始動キャンセルラッシュコンボ2",
+      "content": "しゃがみ中Kをキャンセルしてドライブラッシュに繋ぎ、引き中K（しゃがみ中K）→立ち強P→ワイルドリフト→SA1へ繋ぐ。ヒット確認は引き中Kで行う。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "04:56",
+      "source_quote": "はい、下中K.キャンセルラッシュからも同じようなコンボに繋ぐことができます。ヒット確認は引き中Kでしましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "109",
+        "206",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "47af9d82c11a",
+      "category": "combo",
+      "topic": "エリアルコンボ",
+      "content": "しゃがみ中PからODワイルドリフトに繋ぎ、ジャンプ中P→強エリアルローリングへ繋ぐ。ジャンプ中Pの後の強エリアルローリングは、少し遅らせて入力するのがコツ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "05:07",
+      "source_quote": "はい、続いて、続いては、え、ブランカで、まちょっと癖があって難しいコンボなんですけど、下中P→ODロリ→ジャンプ中P→強エリアルロリと。このジャンプ中パンチの後の強エリアルローリングを遅らせるのが、え、鍵となってきます。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108",
+        "114",
+        "206",
+        "332"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "158625561a13",
+      "category": "combo",
+      "topic": "画面端大ダメージコンボ",
+      "content": "画面端限定で、立ち強P→ODバックステップローリング→強バチカ→ODバチカへ繋ぐ。ドライブゲージを使わずに大ダメージを与えられる。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "画面端",
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "05:40",
+      "source_quote": "はい、最後にですね、最後に、え、画面端のコンボで強P→ODバクロリ→強バチカ→ODバチカですね。このコンボね、ブランカでノーゲージだと、え、かなり減るコンボなので、ましっかり画面端では、まこのコンボにいけるように頑張ってみましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "326"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b1764c01ce1d",
+      "category": "general",
+      "topic": "コンボ応用の推奨",
+      "content": "強Pワイルドリフトはかなり使うコンボで、そこからアマゾンリバーラン、弱バチカ、中ローリングなど様々なルートに派生できる。自分の中でコンボを使い分け、状況に合わせて練習することで、より高いランクを目指せる。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "43-5lJDgxKk",
+      "source_channel": "saga",
+      "source_video_title": "[Street Fighter 6] Must-See for Beginners! 10 Combos Recommended by Classic Blanka Players",
+      "source_timestamp": "06:22",
+      "source_quote": "勘のいい人は気付いたかもしれませんが、途中から同じようなコンボが、実はたくさん出てきていて、例えば強パンチワイルドリフトは、まかなり使うコンボなので、強パンチワイルドリフトからアマゾンリバーランや、え、弱バチカ、ま今回紹介しなかったんですけど、ま中バチカルローリングなんかにも、え、いけるので、ま自分の中でね、コンボなどを変えながら練習してみましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:50:43.334851",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "204",
+        "206"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "95ee55aa92d2",
+      "category": "combo",
+      "topic": "立ち強P始動SA2コンボ",
+      "content": "ブランカのSA2始動コンボ。立ち強PからSA2を起動し、SA2ヒット後、立ち強P、しゃがみ中K、弱ローリングアタック、人形設置と繋げる。SAゲージを効率的に消費し、ダメージを与えつつ有利な状況を作るための重要なコンボ。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "SAゲージが溜まっている時",
+      "source_video_id": "eoqRetuXxyA",
+      "source_channel": "えまおチャンネル(emaoch)",
+      "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+      "source_timestamp": "00:26",
+      "source_quote": "まずはこちら大Pから始めるコンボですね。このコンボはもうSA使ってガンガンいきたいです。SAゲージをガンガン回してこのコンボでダメージを取りつつ有利な状態で試合を運んでいくっていう中での一番大事なコンボかなと思いますので、ぜひ練習してみて ください。コンボの内容ですが、大Pから指導してSA2起動。ここがまず難しいです。でこの後大P中バシか斜め、もう一回中バシかちょっとためてから斜めでブランカちゃんの人形設置まで。ここまでがセットになります。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:47:37.672635",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "109",
+        "304",
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c804e926dceb",
+      "category": "combo",
+      "topic": "SA2めくりコンボ",
+      "content": "ブランカのSA2めくりコンボ。SA2を起動した後、ODローリングアタックで相手をめくり、そこから立ち弱P、しゃがみ強K、ODローリングアタック、人形設置と繋げる。相手に触りにいけてない時やSAゲージが余っている時に有効で、相手にわかっていても対策が難しい。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "相手に触りにいけてない時、SAゲージが余っている時",
+      "source_video_id": "eoqRetuXxyA",
+      "source_channel": "えまおチャンネル(emaoch)",
+      "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+      "source_timestamp": "01:03",
+      "source_quote": "さて続いては、まあちょっととりあえず出してみようみたいなタイミング。なかなか相手を触りに行けてないしっていう時にやるめくりのコンボになってます。結構分かってても対策は難しいコンボなので、まあSAゲージがちょっと使えてないっていう方はとりあえずSA2を出してこのコンボを当てに行ってみるっていうようなやり方ができると結構相手を倒しやすいんじゃないかなと思います。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:47:37.672635",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "111",
+        "310",
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "3f5ebff1b652",
+      "category": "combo",
+      "topic": "中段始動SA2コンボ",
+      "content": "ブランカのSA2中段始動コンボ（クラシック専用）。立ち中P（オーバーヘッド）からコンボを開始し、立ち強K、立ち弱P、ODサンダーショット（2段目ヒット後）を繋げてSA2を起動する。SA2ヒット後は強ローリングアタックで打ち上げ、人形設置でコンボを締める。相手が中段を意識していない場合に有効。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "相手が中段ガードを意識していない時",
+      "source_video_id": "eoqRetuXxyA",
+      "source_channel": "えまおチャンネル(emaoch)",
+      "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+      "source_timestamp": "01:47",
+      "source_quote": "続いて最後が中段から始まるコンボですね。こちらはちょっとモダンの方は使えないコンボになってるんですけど、中段始動でSA2を起動した時のブランカちゃん設置までのコンボになってます。で、この対策を知ってる相手だと中段かなり注意して当たらないんですけど、そうなってくると逆にラッシュ中足が刺さったりします。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:47:37.672635",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "100",
+        "102",
+        "105",
+        "109",
+        "308",
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "123ae746de2a",
+      "category": "neutral",
+      "topic": "中段とラッシュ中足の使い分け",
+      "content": "ブランカの中段攻撃（立ち中P）は強力だが、相手が中段始動コンボの対策を知っている場合、ラッシュ中足のような下段攻撃も織り交ぜることで、ガードを揺さぶることが有効。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "相手が中段ガードを意識している時",
+      "source_video_id": "eoqRetuXxyA",
+      "source_channel": "えまおチャンネル(emaoch)",
+      "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+      "source_timestamp": "02:08",
+      "source_quote": "この対策を知ってる相手だと中段かなり注意して当たらないんですけど、そうなってくると逆にラッシュ中足が刺さったりします。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:47:37.672635",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "cc0bc5f68923",
+      "category": "general",
+      "topic": "ブランカSA2コンボの重要性",
+      "content": "ブランカはバランスの取れたキャラクターであり、SA2を使ったコンボを1つでも2つでも習得しておくことで、立ち回りの幅が広がり、マスターランク到達を目指す上で強くなれる。",
+      "characters": [
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "ブランカを使用している全ての場合",
+      "source_video_id": "eoqRetuXxyA",
+      "source_channel": "えまおチャンネル(emaoch)",
+      "source_video_title": "3 Blanka SA2 Combos for those who want to start playing SA2",
+      "source_timestamp": "02:40",
+      "source_quote": "ブランカは結構バランスが取れてるキャラなので、まこれからマスターいきたいよっていう方はSA2使えなくてもマスターいけちゃうと思うんですけど、ま今後の伸びしろブランカの使い方の幅を広げていくためにも1個でも2個でも覚えておくと強くなれるんじゃないかなと思います。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:47:37.672635",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "402"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T05:16:00.137883",
-  "source_video_count": 15,
+  "last_updated": "2026-04-01T05:47:37.693655",
+  "source_video_count": 17,
   "last_validated_version": ""
 }

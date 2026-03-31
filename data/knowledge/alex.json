@@ -9489,9 +9489,505 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "69baf98910fe",
+      "category": "combo",
+      "topic": "小技始動エアニーコンボ",
+      "content": "アレックスで相手に小技がヒットした際、強エアニー（昇龍コマンド）に繋いでコンボを継続しましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "通常攻撃ヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:00",
+      "source_quote": "小技→強エアニー(昇竜)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "6a102e8756ca",
+      "category": "combo",
+      "topic": "小技始動フラコンボ",
+      "content": "アレックスで相手に小技がヒットした際、弱フラ（波動コマンドP）に繋いでコンボを継続しましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "通常攻撃ヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:05",
+      "source_quote": "小技→弱フラ(波動P)",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "82e9080c9fdb",
+      "category": "combo",
+      "topic": "小技始動ODフラSAコンボ",
+      "content": "アレックスで相手に小技がヒットした際、ODフラ（波動コマンドP）に繋ぎ、スーパーアーツ2または3でキャンセルして大ダメージを狙いましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "通常攻撃ヒット時、ドライブゲージがある場合",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:09",
+      "source_quote": "小技→ODフラ(波動P)→SA2or3",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "be9abe1f58bb",
+      "category": "combo",
+      "topic": "しゃがみ中P始動コンボ",
+      "content": "アレックスでしゃがみ中Pがヒットした際、キャンセルして立ち中P、さらに立ち中P、そして強エアニーに繋ぐコンボです。補正切りなどが難しい場合に活用しましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中Pヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:20",
+      "source_quote": "しゃがみ中パン→CR立ち中パン→立ち中パン→強エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "110"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "d2358a2d1077",
+      "category": "combo",
+      "topic": "強起き攻めコンボ",
+      "content": "アレックスでしゃがみ中Pがヒットした際、引き中K、しゃがみ大P、構え弱P、構え強P、立ち弱K、エアニーまたはフラに繋ぐコンボです。多分起き攻めが強い場面で使いましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中Pヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:26",
+      "source_quote": "しゃがみ中パン→引き中K→しゃがみ大パン→構え弱P→構え強P→立ち弱K→エアニーorフラ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "102",
+        "104",
+        "110"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "31dfce0fd4f9",
+      "category": "combo",
+      "topic": "高ダメージコンボ",
+      "content": "アレックスでしゃがみ中Pがヒットした際、引き中K、しゃがみ大P、構え弱P、構え強P、構え強K（2段目まで）に繋ぐコンボです。ダメージを取りたい時に使いましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中Pヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:32",
+      "source_quote": "しゃがみ中パン→引き中K→しゃがみ大パン→構え弱P→構え強P→構え強K2段目",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "110",
+        "213"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "8e339cfa8a58",
+      "category": "combo",
+      "topic": "溜め立ち大P始動コンボ",
+      "content": "アレックスで溜め立ち大Pがヒットした際、大フラ、引き中Kに繋ぐ簡単なコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "溜め立ち大Pヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:38",
+      "source_quote": "溜め立ち大パン→大フラ→引き中K",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "7e8681ea5178",
+      "category": "combo",
+      "topic": "ジャンプ攻撃始動基本コンボ",
+      "content": "アレックスでジャンプ大Pがヒットした際、しゃがみ大P、キャンセルして引き中K、しゃがみ大P、構え弱P、構え強P、立ち弱K、エアニーまたはフラに繋ぐ基本的なコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ジャンプ攻撃ヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:45",
+      "source_quote": "ジャンプ大P→しゃがみ大パン→CR引き中K→しゃがみ大パン→構え弱P→構え強P→立ち弱K→エアニーorフラ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "104"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "325b174e9cbe",
+      "category": "combo",
+      "topic": "ラッシュ中下段コンボ",
+      "content": "アレックスでドライブインパクトからラッシュ中足（しゃがみ中K）、立ち中P、キャンセルしてしゃがみ大P、大フラ、引き中Kに繋ぐ、簡単でダメージの高いコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ中足（しゃがみ中K）ヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "00:52",
+      "source_quote": "ラッシュ中足→立ち中パン→CRしゃがみ大パン→大フラ→引き中K",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "111",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "282fb8f46191",
+      "category": "combo",
+      "topic": "ラッシュ中段コンボ",
+      "content": "アレックスでドライブインパクトからラッシュ中段攻撃、立ち中P、キャンセルしてしゃがみ大P、大フラ、引き中Kに繋ぐ、簡単でダメージの高いコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ中段攻撃ヒット時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:01",
+      "source_quote": "ラッシュ中段→立ち中パン→CRしゃがみ大パン→大フラ→引き中K",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "3682c413d989",
+      "category": "combo",
+      "topic": "インパクトしゃがみ大Pコンボ1",
+      "content": "アレックスでドライブインパクトがヒットしパニッシュカウンターになった際、しゃがみ大P、中フラ、構え中P、強エアニーに繋ぐコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ドライブインパクトのパニッシュカウンター時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:10",
+      "source_quote": "しゃがみ大パン→中フラ→構え中パン→強エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "72e058a976f3",
+      "category": "combo",
+      "topic": "インパクトしゃがみ大Pコンボ2",
+      "content": "アレックスでドライブインパクトがヒットしパニッシュカウンターになった際、しゃがみ大P、構え弱P、構え強P、立ち弱K、エアニーまたはフラに繋ぐコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ドライブインパクトのパニッシュカウンター時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:18",
+      "source_quote": "しゃがみ大パン→構え弱P→構え強P→立ち弱K→エアニーorフラ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "104",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "53743dd075c1",
+      "category": "combo",
+      "topic": "インパクト前ステップコンボ",
+      "content": "アレックスでドライブインパクトがヒットしパニッシュカウンターになった際、前ステップからしゃがみ大P、構え前P、構え中P、中エアニーに繋ぐコンボです。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "ドライブインパクトのパニッシュカウンター時",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:27",
+      "source_quote": "前ステ→しゃがみ大パン→構え前P→構え中パン→中エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b2c5c685613d",
+      "category": "combo",
+      "topic": "無敵技ガード後大フラコンボ",
+      "content": "アレックスで相手の無敵技をガードした際、大フラからしゃがみ大P、構え弱P、構え強P、立ち弱K、エアニーまたはフラに繋いで反撃しましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "無敵技ガード後",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:35",
+      "source_quote": "大フラ→しゃがみ大パン→構え弱P→構え強P→立ち弱K→エアニーorフラ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "104"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "375901a49359",
+      "category": "combo",
+      "topic": "無敵技ガード後溜めKコンボ",
+      "content": "アレックスで相手の無敵技をガードした際、溜め大Kから溜め大P、中フラ、構え前P、中エアニーに繋いで反撃しましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "無敵技ガード後",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:42",
+      "source_quote": "溜め大K→溜め大パン→中フラ→構え前P→中エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c04b1e14bfa7",
+      "category": "combo",
+      "topic": "無敵技ガード後大K生Rコンボ",
+      "content": "アレックスで相手の無敵技をガードした際、大Kからしゃがみ大P、構え中P、生ラッシュしゃがみ大P、中フラ、中エアニーに繋いで高ダメージ反撃を狙いましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "無敵技ガード後",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "01:51",
+      "source_quote": "大K→しゃがみ大パン→構え中パン→生Rしゃがみ大パン→中フラ→中エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "104",
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c716e7323087",
+      "category": "combo",
+      "topic": "無敵技ガード後ODフラSAコンボ",
+      "content": "アレックスで相手の無敵技をガードした際、大フラからしゃがみ大P、ODフラ、SA2、生ラッシュしゃがみ大P、中フラ、構え中P、中エアニーに繋いで、ドライブゲージとスーパーアーツゲージを使い高ダメージ反撃を狙いましょう。",
+      "characters": [
+        "alex"
+      ],
+      "matchup": null,
+      "situation": "無敵技ガード後、ドライブゲージとスーパーアーツゲージがある場合",
+      "source_video_id": "06s-X9qad9g",
+      "source_channel": "rari",
+      "source_video_title": "【アレックス解説動画】これだけでマスターできる各種コンボ紹介　　　　　　#スト6 #ストリートファイター6 #アレックス",
+      "source_timestamp": "02:00",
+      "source_quote": "大フラ→しゃがみ大パン→ODフラ→SA2→生Rしゃがみ大パン→中フラ→構え中P→中エアニー",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:26:44.758807",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T05:06:44.025695",
-  "source_video_count": 16,
+  "last_updated": "2026-04-01T03:26:44.794337",
+  "source_video_count": 17,
   "last_validated_version": ""
 }

@@ -4677,9 +4677,421 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "eed376d6832e",
+      "category": "combo",
+      "topic": "グアイルの基本コンボダメージ比較",
+      "content": "グアイルの「立ち中P > しゃがみ中P > サマーソルト」と「立ち中P > ダブルバレット > サマーソルト」は、いずれも2320ダメージで同等です。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "00:43",
+      "source_quote": "見ての通りダメージは一緒なんですよね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108",
+        "209"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "e4bd8687cd8c",
+      "category": "combo",
+      "topic": "グアイルのダブルバレットコンボの注意点",
+      "content": "ダブルバレットを絡めたコンボ（例: 立ち中P > ダブルバレット > サマーソルト）は、相手の遠い飛び込みに対して2段目が届かず、コンボが途切れる可能性があります。その場合、相手に大Kなどで差し返されるリスクがあります。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "相手の遠い飛び込みに対して",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "01:07",
+      "source_quote": "例えば飛びを通しに行った時にこういう遠い飛びになった時...こう、こういう事が起こるんですよね。今みたいにダブルバレットだった場合、しゃがみ中Pまでは当たってくれるんだけど、しゃがみ中Pの後の二発目が当たってくれない",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "105",
+        "108",
+        "209"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "0cde12e1a4ca",
+      "category": "combo",
+      "topic": "SA3を使ったコンボの火力最大化",
+      "content": "グアイルのSA3を絡める場合、ダブルバレットを使用するとSA3が出ないことがあります（画面端を除く）。SA3単品で4000ダメージなのに対し、「立ち中P > しゃがみ中P > サマーソルト > SA3」は中央でも繋がり、4720ダメージと単品より720ダメージ高くなるため、このルートが推奨されます。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "SA3を絡めるコンボ",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "01:54",
+      "source_quote": "ダブルバレットを絡めてしまうとSA3が出ないんです。SA3単品で出して4000なのでむしろコンボ行かない方が強いってなっちゃうんですよね。に対して、中央だったとしても立ち中P/しゃがみ中P/サマーソルトSA3だった場合は、こういう風にしっかり中央でも当たってくれますし、しっかりと1000近く（+720）SA3単品で出すより火力が上がってくれます。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108",
+        "209",
+        "400",
+        "403"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "063e61648581",
+      "category": "combo",
+      "topic": "ラッシュ立ち中Pからのコンボ",
+      "content": "ラッシュ立ち中Pは+10フレームの有利が取れるため、再度「立ち中P」を刻むことで、ラッシュ立ち中P > 立ち中P > しゃがみ中P > サマーソルト > SA3へと繋げることができます。このコンボは4860ダメージと非常に高火力で、体力半分近くを削ることが可能です。難易度は高いですが、習得を目指す価値があります。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ立ち中Pがヒットした後、ドライブゲージやSAゲージがある場合",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "03:43",
+      "source_quote": "ラッシュ立ち中Pで+10入りますよねと。こっから投げ択に行くか打撃択に行くか。でこの二発目に当たりましたっていう時にこの立ち中P/しゃがみ中P/サマーソルトが出来てないと、これが出来てないんでこれが出来ると良いですよねっていう感じです。これがね、出来るようになると良いなという感じです。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108",
+        "403",
+        "606",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "139c6743a97e",
+      "category": "defense",
+      "topic": "ラッシュ立ち中Pに対するODリバーサルへの対策",
+      "content": "相手がラッシュ立ち中Pをガードした後にOD技でリバーサルを狙ってきた場合、OD技は削りダメージが発生しますが、続けて攻撃を仕掛ける（連ガで削る）ことで相手のゲージを減らしつつ、次の相手の行動を読み切って投げやシミーで対処することができます。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "相手がラッシュ立ち中Pをガードした後にODリバーサルを狙ってきた場合",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "06:17",
+      "source_quote": "これが例えばOD技だったりした場合。こういう風にパナされる事があります。次にラッシュ立ち中Pだった場合は連続ガードになるんで。こういう風に相手のパナしを、例えば1打目をガードしてラッシュで来られた所でパナそうとしてる相手に連続ガードで削って且つ、シミーが出来る距離になっています。かつ投げ間合いなんですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "2eadd99070dc",
+      "category": "general",
+      "topic": "グアイルのドライブゲージ管理",
+      "content": "ラッシュ立ち中Pを相手にガードさせた場合、これは連続ガードとなり、ガードさせた後に投げ間合いになりシミーも可能になります。これにより相手のODリバーサルをケアしつつ、択を迫ることができます。これはガードされた後も継続して有利な状況を築く上で重要な駆け引きです。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "相手がラッシュ立ち中Pをガードした後",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "07:09",
+      "source_quote": "連続ガードにさせてそこから捌る事も出来る。もう一回打撃択に行っても良いし。シミーしても良いし。こういう風に投げ択行っても大丈夫ですよっていう風な感じの駆け引きになっております。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "400",
+        "606"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c37d4ed5f737",
+      "category": "combo",
+      "topic": "ラッシュ立ち中P始動での火力とヒット確認",
+      "content": "ラッシュ立ち中Pからのコンボで火力を求める場合、ヒット確認をした上で「大K」に繋ぐことでより高いダメージを得られます。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "ラッシュ立ち中Pがヒットした場合",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "07:54",
+      "source_quote": "バンストラッシュ始動で言うと大Kの方が火力が高いんですよね。なのでここでヒット確認をしているっていう感じ。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "105",
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b10c87e1296f",
+      "category": "defense",
+      "topic": "しゃがみ弱Pによる相手の暴れ潰し",
+      "content": "しゃがみ弱Pは持続が長く、ヒット確認がしやすいため、相手が最速で暴れてくる傾向がある場合は、しゃがみ弱Pで暴れを潰すことができます。これにより、相手をガードさせてからしっかりと有利を埋めることが可能になります。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "相手がガードした後に暴れを狙ってくる場合",
+      "source_video_id": "661f1XEOHms",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】難しくても覚えるべきガイルの基礎コンボについて【SF6】",
+      "source_timestamp": "08:35",
+      "source_quote": "しゃがみ弱Pに暴れさせる事によってガードしましたよってなった後に最速で暴れてくれるんで、しっかりと埋める事も大事になって来る訳ですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:46:59.928203",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "38fdc5d8a685",
+      "category": "defense",
+      "topic": "超危険区域でのソニック使用",
+      "content": "ガイルが「しゃがみ中Pが届かず、しゃがみ中Kが届く」超危険区域で、相手が飛びやDI（ドライブインパクト）をしてくる読みでソニックブームを打つと、相手の飛びとDIが確定するため、避けるべきハイリスク・ローリターンの行動である。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "「しゃがみ中Pが届かず、しゃがみ中Kが届く」超危険区域で相手の飛びやDI読みでソニックを打つ場合",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "01:29",
+      "source_quote": "「屈中P=届かない:屈中K=届く」距離って言うのは、「危険ソニック圏内」の中でも「超危険区域」です。ソニックを2回撃つと「飛び」が確かっちゃうし「DI」もかっくってしまうハイリスク・ローリターンな駆け引きですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "109",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "4e1dcf64330f",
+      "category": "neutral",
+      "topic": "超危険区域での技の選択肢",
+      "content": "超危険区域で相手の飛びやDIに対して必殺技キャンセル可能なしゃがみ中Pを置くことで、飛びにはサマーソルトキックが間に合い、DIにはDI返しができる。ただし、しゃがみ中Pはリーチが短く、喰らい判定が前側にあるため、差し返し気味に技を喰らいやすいリスクがある。ソバットやしゃがみ中Kのようなリーチの長い必殺技キャンセル不可の技で差し込むと、飛びには勝てるがDIには負けやすい。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "超危険区域で相手の飛びやDIに対して技を置く場合",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "02:17",
+      "source_quote": "この「飛び」や「DI」に勝つ選択肢として「必殺技キャンセル=〇」の「屈中P」を置く。こうすると「飛び」にはサマソ対空が間に合うし「DI」には「DI返し」が出来る。ただこの「屈中P」は意外とリーチが短い。その上で「喰らい判定」もかなり前側に残っているからこんな風に差し返し気味に技を喰らいがちなんですよね。この「ソバット」のような技で「差し込み」をするって事はさっきも話した「DIを喰らうリスク」が有りますよって事ですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "108",
+        "109",
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f83cdb2bbb47",
+      "category": "neutral",
+      "topic": "超危険区域からの離脱",
+      "content": "ガイルが超危険区域にいる場合、相手に主導権があり長く留まるほど不利になるため、速やかに離脱すべきである。サマーソルトキックの準備をしていなくても、通常技対空が可能な状態で超危険区域から離脱する。具体的には、1秒ほど下がることで弾しか届かない「中危険区域」に移行できる。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "超危険区域にいる場合",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "03:39",
+      "source_quote": "「危険ソニック」の中でも「超危険区域」の距離では「相手に有利」な「駆け引き」を「仕掛けられている」って事なんですよね。相手の方が「読み勝った時のリターンが高い」。要は相手に寄られてこの「超危険区域」の距離を作られてしまった場合「相手に主導権が有る」って事なんですよね。だからそもそもこの距離に居続ける時間が長ければ長い程負け易くなります。大前提として「落とせる時には落とす様にする」コレが一番の要になります。「落とせる時」って言うのは「サマソを準備してる時」では無く「通常技対空が出来る時」の事を言います。この「対空能力」を携えて「超危険区域」から速やかに離脱して下さい。大体1秒ぐらい下がると相手がガン歩きせず立ち回ってる限りは「弾しか届かない距離」が作れてます。ここは「中危険区域」になりますね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b5385fee5c5b",
+      "category": "neutral",
+      "topic": "中危険区域での立ち回り",
+      "content": "ガイルが中危険区域（弾しか届かない距離）にいる場合、対空とDI返しを主に狙う。基本的に大ソニックを撃ち、相手を「弾集中モード」にさせたら、小ソニックで大幅有利を活かして奇襲をかける。相手がソニックを飛びたい心理状態になったら、対空やDI返しを狙うために待つ。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "中危険区域にいる場合",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "05:06",
+      "source_quote": "この距離を作られると相手は「一方的」な状況を嫌うので「ソニックを読んで「飛ぶ」か「DI」を振ってきます。この「飛び＆DI」を選んだタイミングで「ソニック」を撃ってしまうと確定してしまいますので下がりながらシッカリと「DI返し」や「対空」を狙いましょう。ソバット等が当たってくれます。なので相手をこの心理状態にさせたらソニックは撃ち放題です。ちなみに「ソニック」は「大ソニック」を基本的に撃って下さい。何故かと言うと引っ掛かり易いからです。「弾を見てから跳ぼう」と思ったりしている相手にヒットさせる事によって「集中して早めに対処をしなければイケない」って心理状態に出来るからです。相手が「弾集中」の心理状態になっている時に遅い「小ソニック」を撃つと早めにパリィやガードを判断して固まってくれやすいです。なのでこの「小ソニック」で取れる有利Fを活かして「Pラッシュ」を使って攻めたりする。そうすると相手は「ソニックを飛びたい」って心理状態になり易いので「対空」や「DI返し」を狙う為に待ちましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "605"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "8a21e049ee1f",
+      "category": "neutral",
+      "topic": "相手の地上接近行動への対処",
+      "content": "相手が超危険区域から中危険区域への離脱を読んできて地上で詰めてくる場合、リスクを承知の上でソバットのような技を振って相手を一旦止め、その後に下がる。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "相手が超危険区域から中危険区域への離脱を読んできて地上で詰めてくる場合",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "06:26",
+      "source_quote": "ただし「最初の超危険区域」から「中危険区域」に離脱しようとしている事を読まれて「地上で詰めて来る」場合も有ります。なのでそう言う相手には「リスクを承知の上」で「ソバット等」を振ったりして一旦相手を止めた後に下がりましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "709845a0559c",
+      "category": "defense",
+      "topic": "離脱中の差し返し",
+      "content": "超危険区域から離脱している最中に相手に追い払い技をガードさせた場合、相手がすぐに技を振ってくる場面なので、積極的に差し返しを狙う。差し返しで相手に痛い思いをさせると、より踏み込もうとする心理状態を誘発させ、ソバットなどの技が当たりやすくなる。",
+      "characters": [
+        "guile"
+      ],
+      "matchup": null,
+      "situation": "超危険区域から離脱している最中に相手に追い払い技をガードさせた時",
+      "source_video_id": "oSU-G2M1lrY",
+      "source_channel": "愚浪 GROW Fighting gamer‘s",
+      "source_video_title": "【ガイル解説】危険ソニックの撃ち方！跳びが確定してしまうソニックの距離で何をすれば良いかを初心者に向けて解説【SF6】",
+      "source_timestamp": "06:48",
+      "source_quote": "「超危険区域」を離脱する時のポイントは相手がガードしていた場合すぐに技を振って来やすい場面ですよって事です。なので「差し返し」の狙い所となります。今言った行動を行う事で「ソニックしか届かない」けど「危険ソニック」圏内である距離を「ガイル側が主導権を握る」事が出来る様になるんですよね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T02:03:56.192794",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T04:47:34.143868",
-  "source_video_count": 17,
+  "last_updated": "2026-04-01T02:03:56.213775",
+  "source_video_count": 19,
   "last_validated_version": ""
 }

@@ -4160,9 +4160,35 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "add1ce3b8196",
+      "category": "general",
+      "topic": "ストリートファイター6の崩し方",
+      "content": "ストリートファイター6は基本的に中段技や下段技で相手のガードを崩すゲームではない。しゃがみガードしている相手には投げで崩すことが重要である。",
+      "characters": [
+        "general"
+      ],
+      "matchup": null,
+      "situation": "相手がしゃがみガードしている状況",
+      "source_video_id": "hfTYg-U2hhU",
+      "source_channel": "ももち / Momochi",
+      "source_video_title": "【エド攻略】少なくなっていくエド、調整の話と初心者質問への回答【スト６】",
+      "source_timestamp": "05:47",
+      "source_quote": "たしかにエドは中段がない。中段1個もないよ。ま一応なんかF式みたいなであるけど、ま基本中段はない。だけど他のキャラも相手がしゃがみガードしてるから中段で崩すって状況はそんなに多くない。ストリートファイター6は中下で崩すゲームではない。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T01:20:06.233578",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T03:34:52.777734",
-  "source_video_count": 27,
+  "last_updated": "2026-04-01T01:20:06.287052",
+  "source_video_count": 28,
   "last_validated_version": "2"
 }

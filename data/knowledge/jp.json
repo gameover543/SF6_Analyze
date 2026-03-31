@@ -8328,9 +8328,593 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "ffb844f9f94d",
+      "category": "oki",
+      "topic": "OD設置からのF式連携",
+      "content": "JPのOD設置（トリグラフOD版）からしゃがみ弱P、弱ワープ（トリグラフ弱版）を繋ぎ、F式連携（ジャンプ攻撃からの連係）に移行することで、起き攻めを継続できる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "00:00",
+      "source_quote": "OD設置＞屈弱P＞弱ワープからF式",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "1f8f97c4caec",
+      "category": "oki",
+      "topic": "OD設置からの連続ガード連携",
+      "content": "JPのOD設置（トリグラフOD版）からしゃがみ弱P、パルスコンプレッション・牽引(中版)、トリグラフ(中版)を繋ぎ、トリグラフの弾攻撃（中段と下段）に派生させることで、連続ガードを維持しつつリバーサルガードも可能な強力な起き攻め連携になる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "00:16",
+      "source_quote": "OD設置＞屈弱P＞引中PTCから中下弾 ※連続ガードかつリバサガード可能",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a19c88269499",
+      "category": "oki",
+      "topic": "高めOD設置からの起き攻め",
+      "content": "JPが高めのOD設置（トリグラフOD版）をヒットさせた後、トリグラフ(弱版)からのしゃがみ弱P、中下弾に繋げることで、相手のガードを揺さぶる起き攻めを展開できる。特に、トリグラフがパニッシュカウンターとなった場合は、より有効な連携となる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "00:37",
+      "source_quote": "高めOD設置＞トリグラフ＞屈弱Pから中下弾",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "364aed7f2d26",
+      "category": "oki",
+      "topic": "OD弾からの投げ連携",
+      "content": "JPがアムネジア(OD版)をヒットさせた後、トリグラフ(弱版)でワープし、トリグラフ(通常版)を設置。そこから通常投げで追撃することで起き攻めを継続できる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "00:54",
+      "source_quote": "OD弾＞トリグラフ＞通常設置から投げで追撃可能",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "4bd41d2bba30",
+      "category": "neutral",
+      "topic": "弾フェイントからのワープ崩し",
+      "content": "JPがアムネジアのフェイントを使い、その後にトリグラフ(中版)でワープすることで、相手のガードを崩したり、位置を入れ替えたりして、立ち回りでの有利状況を作り出すことができる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "01:13",
+      "source_quote": "弾フェイントからワープ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "468254d30516",
+      "category": "defense",
+      "topic": "対空OD設置からの即ワープ",
+      "content": "JPは相手のジャンプ攻撃に対してトリグラフ(OD版)で対空を取り、その後すぐにトリグラフ(弱版)でワープすることで、着地後の相手に対して追撃や起き攻めを仕掛けられる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "相手のジャンプ攻撃に対する対空時",
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "01:29",
+      "source_quote": "対空OD設置から即ワープ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a3cf2a2da6bf",
+      "category": "defense",
+      "topic": "ラッシュ止め対策のラッシュ屈中P",
+      "content": "相手のドライブRUSHからの連携（ラッシュ止め）に対して、JPはドライブRUSHからのしゃがみ中Pを仕込むことで、ヒット時はトリグラフ(OD版)やアムネジア(OD版)に繋ぎ、ダメージを取りつつ追撃を狙える。ガードされても五分以上の状況を作れるため、有効な対策となる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "相手がドライブRUSHを仕掛けてきた時",
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "01:42",
+      "source_quote": "ラッシュ止め対策のラッシュ屈中P",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9bed7997b98b",
+      "category": "oki",
+      "topic": "設置からのラッシュ中下段",
+      "content": "JPはトリグラフ(通常版)を設置した後、ドライブRUSHを使い、トリグラフの弾攻撃（中段）とトリグラフの弾攻撃（下段）を使い分けることで、相手のガードを揺さぶる強力な起き攻めを仕掛けられる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "02:00",
+      "source_quote": "設置からラッシュ中下",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "0c6f4070709f",
+      "category": "oki",
+      "topic": "設置起爆タイミングでのジャンプ攻撃",
+      "content": "JPはトリグラフ(通常版)を設置した後、設置が起爆するタイミングに合わせてジャンプ攻撃を仕掛けることで、相手のガードを揺さぶることができる。設置の多段ヒット中にジャンプ攻撃がヒットすればコンボに移行可能。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "02:16",
+      "source_quote": "設置から起爆タイミングでジャンプ攻撃",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f1438bc3d765",
+      "category": "combo",
+      "topic": "屈強Pから中弾での補正切り",
+      "content": "JPのしゃがみ強Pからアムネジア(中版)を繋ぐことで、コンボ補正を切ることができる。この連携はヒット後に+11Fの有利フレームを得られ、次の攻めに繋げやすい。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "o6zXaO4iIz0",
+      "source_channel": "レイ【スト6】",
+      "source_video_title": "【スト6】JP 強行動 強連携 コンボ 起き攻め セットプレイ SF6 Jp Combo Oki Setup",
+      "source_timestamp": "02:24",
+      "source_quote": "屈強P＞中弾で補正切り +11F",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T00:57:58.351098",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "110",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "8f0e3fc42813",
+      "category": "combo",
+      "topic": "JPの基礎コンボ",
+      "content": "しゃがみ弱Pから弱ストリボーグのコンボ。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "01:46",
+      "source_quote": "しゃがみ弱P弱ストリボーグ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106",
+        "306"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "d9ddbfb6fc51",
+      "category": "combo",
+      "topic": "JPの基礎コンボ",
+      "content": "ドライブインパクトからの前ステ大P、大ストリボーグ、中トルバラン、大トリグラフのコンボ。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "01:48",
+      "source_quote": "ドライブインパクトから前ステ大P大ストリボーグ中トルバラン大トリグラフ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "321",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9c4a1fb5ecbc",
+      "category": "combo",
+      "topic": "JPの基礎コンボ",
+      "content": "空中大Kからの大K大P（ターゲットコンボ）、中ストリボーグのコンボ。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "01:56",
+      "source_quote": "空中大Kから大K大Pのターゲットコンボからの中ストリボーグ",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "307"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "56d17910a1ec",
+      "category": "combo",
+      "topic": "JPの基礎コンボ",
+      "content": "端で当身からの後ろ投げ、大P、中トルバランで攻めを継続するコンボ。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "画面端",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "02:01",
+      "source_quote": "端で当身から後ろ投げ大P中トルバランで逆に展開を作る",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "321"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "1ea67406c1fd",
+      "category": "neutral",
+      "topic": "JPの強い行動",
+      "content": "立ち回りでは大Pを積極的に使用し、対空はしゃがみ大Pで行い、3種類の飛び道具（ストリボーグ、トリグラフ、ヴィーハト）で相手をハメる、しゃがみ中足で差し込むといったJPの強みを活かす。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "03:32",
+      "source_quote": "立ち回りで大P良く振るなぁ、対空はしゃがみ大P良くするんだな、3種の飛び道具でハメるのつええ、しゃがみ中足で差し込む",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109",
+        "607"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "ccb244501465",
+      "category": "general",
+      "topic": "相手キャラの理解を深める",
+      "content": "JPの技の理解だけでなく、相手キャラの得意な差し込み技や攻め手、技のリーチなどを対人戦で把握し、対策を立てる。CPU戦では得られない情報が多い。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "対人戦",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "04:56",
+      "source_quote": "JPの事はわかっていても相手キャラクターの理解が足りなかったんです、CPU対戦だと得られない対人戦での経験値っていうことですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9aebf22ddef0",
+      "category": "neutral",
+      "topic": "しゃがみ中Kを用いた差し合い",
+      "content": "JPの大Pが読まれやすくなるダイヤ帯では、リスクの低いしゃがみ中Kを積極的に振る。しゃがみ中Kは相手の接近を止めつつ、ヒット時には大Pが先端で当たる間合いになるため、「大Pを当てるための布石」として機能する。下段ヒットなのでしゃがみガードしない相手には当たりやすく、この技で距離を測ることで差し合いが有利になる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "ダイヤ帯での差し合い",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "06:40",
+      "source_quote": "しゃがみ中Kは単発ヒットだとコンボがないのでリターンが出ない技っていう認識で振ることが無かったんです、このしゃがみ中Kを相手に当てる（ガードさせる）と、相手が近づいてきているのを止めることができる、HITさせるとそこは大Pがちょうど先端気味に当たる間合いになっている、所詮「大Pを当てるためのしゃがみ中K」という使い方、リスクが低く下段ヒットなためしゃがみガードをしていないと相手は当たってしまうこの技で距離を測れる",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "b6a166c29091",
+      "category": "neutral",
+      "topic": "しゃがみ中Pを用いたドライブラッシュ対策",
+      "content": "ジュリ、DJ、ジェイミーなどドライブラッシュによる差し込みが強力な相手に対しては、「置き」としてしゃがみ中Pを使用する。しゃがみ中Pはキャンセル可能な技なので、相手のドライブラッシュを止めつつ、そこからフルコンボに繋げて大きな火力を取ることができる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "相手のドライブラッシュ差し込み対策",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "07:58",
+      "source_quote": "「置き」として使うしゃがみ中Pで相手のドライブラッシュを止めて、しゃがみ中Pはキャンセル可能な技なので、そこからフルコンボで大きな火力を取れたり",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c9aaa97ae7d6",
+      "category": "defense",
+      "topic": "JPの対空意識",
+      "content": "JPの強さは弾と近距離のバランスで成り立つが、大前提として相手の単調な飛びは95%以上落とす必要がある。しゃがみ大Pが強力なため落としやすいが、意識配分を変えて対空を落とせなくなると本末転倒なので、常にしゃがみ大Pで相手を落とす意識を持つこと。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "対空",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "08:53",
+      "source_quote": "JPは弾が強い代わりに近距離が強い、単調な飛びに対しては簡単に落とすことができるというのが条件で、しゃがみ大Pが強すぎて落としやすすぎるので、以前は落とせていた対空が意識配分を変えたことで落とせなくなってしまったら本末転倒なので、しゃがみ大Pで相手を落とす意識は常に持つようにしました。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "39857f864297",
+      "category": "defense",
+      "topic": "全ての択に対応することを諦める",
+      "content": "対戦で負けが込んでいる時は、「全ての相手の強力な択に対応する」ことを諦める。例えばDJの超高速ドライブラッシュからの差し込みに対して、毎回しゃがみ中Pで咎めるのは難しい。無理に攻撃を合わせに行くのではなく、一度ガードするなどして無理をしない選択肢を取る。これにより不必要な被弾を減らすことができる。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": "deejay",
+      "situation": "相手の強力な択への対応",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "09:34",
+      "source_quote": "勝つことを諦めるという話ではなく、すべての択に対応することを諦めるということです、例えばDJの超高速のドライブラッシュによる差し込みだと毎回毎回しゃがみ中Pで咎められるかというと自分どころかトッププロでも出来ていません、無理に攻撃を合わせに行くのではなくガードするという、無理をすることででの被弾が確実に減ったというということです",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "fa4e73d369c5",
+      "category": "general",
+      "topic": "自分だけの「とっておき」を作る",
+      "content": "負けが込んでいる時に気分転換として、自分で考案した「とっておき」のコンボや連携をトレーニングモードで練習し、実戦で試してみる。これによって「勝敗」だけでなく「成長」に焦点を当てることができ、負け試合からでも得られるものがあると感じやすくなる。例としてドライブラッシュ弱P即コマ投げ、相手ダウン時に脈絡なしのコマ投げ、コンボをあえて前大Kで締めて設置後にダブルアップを狙うなどがある。",
+      "characters": [
+        "jp"
+      ],
+      "matchup": null,
+      "situation": "負けが込んでいる時",
+      "source_video_id": "v2jqXgPadNI",
+      "source_channel": "むらさと/murasat",
+      "source_video_title": "【スト6】格ゲー初心者が100時間でマスターに行った練習方法",
+      "source_timestamp": "10:27",
+      "source_quote": "負けが込んでいる時は自分だけの「とっておき」を作ってみる、ドライブラッシュ弱P即コマ投げ、相手のダウンに脈絡なしのコマ投げ、コンボをあえて前大Kで締めて設置後ダブルアップを狙う、勝つことを目指すんじゃなくて「成長すること」に重きを置いてランクマッチを頑張りやすくなるってことですね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:55:53.519597",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T04:47:34.155801",
-  "source_video_count": 25,
+  "last_updated": "2026-04-01T05:55:53.548107",
+  "source_video_count": 27,
   "last_validated_version": "2"
 }

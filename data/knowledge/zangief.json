@@ -6290,9 +6290,222 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "ba516f103704",
+      "category": "combo",
+      "topic": "ボディスラム（ホールド）",
+      "content": "ザンギエフの通常投げ「ボディスラム（ホールド）」を出す際は、方向要素を入力すると別の投げ（フライングボディプレス）になってしまうため、ニュートラル入力で出すことに注意してください。また、ホールド入力も忘れずに行ってください。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "通常投げとして使用する際",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "00:17",
+      "source_quote": "このボディスラム、ニュートラル投げなのです。方向要素を入れていると違う投げになります。注意。意外と前入れながら投げがちなので、そこがやはり注意。あと、ホールドも忘れずに。私は忘れてました。やればすぐわかりますが、ちょっしたつまりポイントです。お気を付けて。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "206",
+        "401",
+        "500"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "310e1a2d5342",
+      "category": "combo",
+      "topic": "しゃがみ弱Kからのコンボ",
+      "content": "しゃがみ弱Kからしゃがみ弱P、立ち強Pに繋げ、ODダブルラリアットに派生するコンボでは、立ち強PからODダブルラリアットを繋ぐ際に、前方向要素を入れながら接近しないとODダブルラリアットが当たらない点に注意してください。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ弱K始動のコンボ",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "00:38",
+      "source_quote": "これは普通に出すと、コンボとしてつながりません。ナンデ！ですがこれは前方向要素入れて、接近しながらじゃないとODダブルラリが当たらないのです。これに気づかないと一生できないので、地味ですが注意点です。本当に地味に難しいとこです。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "106",
+        "108",
+        "110",
+        "300",
+        "301"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "487ab969f8b2",
+      "category": "combo",
+      "topic": "立ち強Kパニカンからのエリアルロシアンスラム",
+      "content": "立ち強Kがパニッシュカウンターした際にエリアルロシアンスラムに繋ぐ場合、この連携はキャンセルではないため、立ち強Kの硬直が終わった後に即座にエリアルロシアンスラムを出す必要があります。エリアルロシアンスラムの入力が遅れると繋がらないので、立ち強Kがパニッシュカウンターした瞬間にコマンドをカカッと入れ込んでおく（先行入力する）と成功しやすくなります。また、相手との距離が遠すぎると繋がりにくいため、ある程度近い距離で実行することが重要です。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "立ち強Kがパニッシュカウンターした時",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "00:56",
+      "source_quote": "パニカンで浮くところをエリアルで吸うやつですが、キャンセルではないので、そこに注意が必要です。スパキャンとかではなく、立ち強キックが終わったら即座に出すタイプ。なので、このエリアルを出す部分が遅いと、当然繋がりません。なので、立ち強キックがパニカンする！という時、コマンドをカカッと入れ込んでおくのがつなぐポイントです。それと、ある程度近くでやるのも。遠すぎるとエリアル繋がりにくいです。近くで最速。慣れです。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "5a1ffe7e3740",
+      "category": "combo",
+      "topic": "スメタナドロップキックパニカンからのSA3",
+      "content": "スメタナドロップキックがパニッシュカウンターした後にボリショイストームバスター（SA3）に繋ぐ場合、ドロップキック中に方向要素をグルグル回し、硬直が切れたタイミングでボタンを押してください。硬直の終わりを正確に把握しないと、ザンギエフが空中に飛んでしまい失敗します。相手が画面端に張り付いたあたりで硬直が解除されるのが目安です。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "スメタナドロップキックがパニッシュカウンターした時",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "01:24",
+      "source_quote": "SA3確定だよもさ。ドロップキック中に方向要素グルグルして硬直が切れたらボタンを押す。グルグル余分に回していても、硬直が切れてボタン押す辺りで丁度良くなります。ただ、硬直の終わりが分かっていないと、ザンギエフがお空に飛んでしまいます。なので、硬直の感覚を覚えないとちょっと難しいかも。大体、相手が画面端に張り付いた辺りで硬直が解ける。そう覚えておけば、後はそこに向けてグルグルからのボタン押しするだけです。慣れさえすれば結構楽なやつです。ガンガングルグル回して投げるのに慣れましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "122",
+        "204",
+        "404"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "1093894db5fe",
+      "category": "combo",
+      "topic": "しゃがみ中PからのSA2追撃",
+      "content": "しゃがみ中Pからサイクロンラリアット（ホールド）に繋ぎ、ODポルシチダイナマイトで追撃するコンボでは、サイクロンラリアット（ホールド）からすぐにジャンプしてODポルシチダイナマイトを出す必要があります。ODポルシチダイナマイトの入力が遅れるとスカってしまうため、サイクロンラリアット（ホールド）後にすぐにジャンプし、ポルシチダイナマイトを入力することを心がけてください。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ中P始動、SA2ゲージがある時",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "01:57",
+      "source_quote": "サイクロンラリアットのホールドから飛んでボルシチというだけ。ボルシチを早めに出さないとスカります。つまりすぐジャンプする必要あり。すぐ跳んでも地味に横軸があってない時もあるんですが、これが意外と吸ってくれます。なので、サイクロンリアットホールドからすぐにジャンプです。ジャンプからボルシチが難しい感はありますが跳びつつ回しましょう。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "112",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "925474d5f784",
+      "category": "combo",
+      "topic": "立ち強Kパニカンからの発展コンボ（画面端）",
+      "content": "立ち強Kがパニッシュカウンターした後に、パリィドライブラッシュ、ヘルスタブ（ドライブキャンセル）、しゃがみ中P、エリアルロシアンスラムに繋ぐコンボです。パリィドライブラッシュは立ち強Kの硬直中にパリィボタンを押しっぱなしにし、硬直が解けた瞬間に前方向にカカッと入力して出すのがポイントです。その後、ヘルスタブをドライブキャンセルし、素早くしゃがみ中Pに繋いでエリアルロシアンスラムを出すことでコンボが成立します。このコンボは画面端限定です。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "立ち強Kがパニッシュカウンターした時、画面端限定、ドライブゲージがある時",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "02:17",
+      "source_quote": "立ち強キックパニカンコンボ発展版。パリィドライブラッシュは立ち強キック中にパリィのボタン押しっぱから、硬直切れた！と思ったところで前方向カカッと。そこからヘルスタブキャンセルエリアルロシアンスラム、ですがここは個人差麺。私はあんまり出ません。なので、ヘルスタブにドライブキャンセルをかけ、その後しゃがみ中パンチからエリアルロシアンスラムにとやります。画面端限定ですが、こういうクリアもあると言うことで。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "103",
+        "107",
+        "112",
+        "200",
+        "605",
+        "608"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "fb69a8cb1fca",
+      "category": "combo",
+      "topic": "サイクロンニールキックパニカンからのコンボ（画面端）",
+      "content": "サイクロンニールキックがパニッシュカウンターした後に、ヘルスタブ、キャンセルドライブラッシュ、立ち強K、ODポルシチダイナマイトに繋ぐコンボです。特に立ち強Kを安定して当てるのが難しく、このコンボは画面端推奨です。ODポルシチダイナマイトは最低空で出す必要があり、素早いジャンプ入力が求められます。一回転技の操作が苦手な方は、この部分で特に苦労する可能性があります。",
+      "characters": [
+        "zangief"
+      ],
+      "matchup": null,
+      "situation": "サイクロンニールキックがパニッシュカウンターした時、画面端推奨、ドライブゲージがある時",
+      "source_video_id": "X5pKeiMTM9U",
+      "source_channel": "ハンハンス",
+      "source_video_title": "【スト6】　コンボトライアル攻略メモ　ザンギエフ編",
+      "source_timestamp": "02:43",
+      "source_quote": "サイクロンニールキック拾いコンボ。キャンセルドライブラッシュを使いますが、意外と立ち強キックにつなぐのがむずい。立ち強キックが当たらないことが多く、難易度が高いです。仮にそこが出来ても、ボルシチが更にむずい。ここもジャンプを素早く案件です。立ち強キックを安定して当てるなら画面端で、です。そして最低空ボルシチを出すと繋がります。今のはつながってないのでノーカン。最低空なら、このようにギリギリですが吸えるのです。最低空ボルシチを覚えましょう。基本的に難しいのはそう多くないですが、上級３が個人差出るところかなと。一回転の操作とかが苦手、という方に難しいところもあります。特に上級４は最低空ボルシチというのがあるので、難しいという部分もあるかも。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:24:46.373955",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "200",
+        "203",
+        "609"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T05:49:47.165157",
-  "source_video_count": 19,
+  "last_updated": "2026-04-01T03:24:46.396718",
+  "source_video_count": 20,
   "last_validated_version": ""
 }

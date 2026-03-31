@@ -9923,9 +9923,69 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "74d3bea64506",
+      "category": "matchup",
+      "topic": "ルーク戦におけるサプレッサーの対処",
+      "content": "ルークのサプレッサーは、ヒットすると即死に近いダメージを与えられ、ガードされても不利フレームが少ないため、非常に強力な技。中足などの通常技で打ち返そうとすると避けられてしまう。胴を狙う攻撃や、足払いを避ける工夫が必要。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": "ルークのサプレッサー（特殊技）対策",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "07:15",
+      "source_quote": "サプレッサー？あの技なかったらルーク戦マジであと3割くらい技振り増やせんねんけど。あの技食らったら即死の可能性あるからマジで打ち返しできないんよなサプのせいで結構。もしくは届く技振らないといけないからだるい。ジョスクールのほうが攻撃避けるけどあのサプレッサーの方がガードさせた後とかあのパニカン時、てかノーマルでもリターンあるから。ジュリの中足とかも避けるから相当判定強いですよ。当たったらフルコンで確反なしやぞ。胴にしたら当たるとかあるんですかねあれ。中足とかをかなり足元にやられ判定あんまないんすよ。だから打ち返しを胴にしたら胴殴る技にしたらマシは一応結構ある。こういこういやつやねんけど。これ。これ。これこれこれ。ほらあのま、エレナのチュンパンがくそ長いからってのもあんねんけど。胴殴る技にしたら。",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "110",
+        "201"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "2df3a520ca9e",
+      "category": "general",
+      "topic": "ルークのキャラ性能評価",
+      "content": "ルークのラッシュ性能はトップクラスで、端々まで届くため非常に強力。しかし、弾は弱く、小技やロー、大足も非常に弱い。ルークの負けパターンは、ラッシュ以外の攻めが苦手なため、ラッシュに頼りすぎた結果自滅するというものが多い。特に小技が強い相手にはラッシュをせざるを得なくなり、その過度な依存が弱みとなる。立ち弱Pは足元無敵がないため詐欺飛びにも弱い。",
+      "characters": [
+        "luke"
+      ],
+      "matchup": null,
+      "situation": "ルークのキャラ特性",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "08:50",
+      "source_quote": "強化もらえるそうやし。ルーク強化されたら結構いいんじゃな？突破力はあるキャラやし。このゲームで、あんま強くないとは言え弾あるかどうかで結構変わるしな。ラッシュ性能上からどころかトップクラスじゃないですか。ルークのラッシュ端端くらい届くから。慣性乗る技も結構あるしなこいつ。ほら。ルークのかわいそうなとこ？弾でしょ。弾。まあでも相手BOさしてる時とかは結構強いねんけどな。強い瞬間はあるけど普通の弾としての運用は不可能やな。弱い。ローが弱い。ローがやっば弱いなのと大足も超弱い。結局大パンかサプ当たってるかみたいな感じになっちゃうから小技強強マン相手はやっぱり結構だるそうなイメージあるな。あと、あの負ける時の負け方がなんか自滅自滅が多いと思うわルーク。やっぱりなんかこういうのとか。なんか。やっぱりこういうのとか打つやん。でも相手が何もしてなかったら「ああはい」みたいな。結構多いから自滅は絶対多いと思うこのキャラ。あとは詐欺飛びがジャスパするしかない瞬間あると思う。ファジする絶対無理やから。自分から攻めんのはやっぱラッシュ以外で結構苦手なキャラやから。ただラッシュは本当に強いです。だからやっぱラッシュせざるを得ないっていうのが一応やっぱ弱みなんじゃないかなぁ。",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "105",
+        "202",
+        "607"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T04:44:20.147420",
-  "source_video_count": 40,
+  "last_updated": "2026-03-31T23:51:17.738980",
+  "source_video_count": 41,
   "last_validated_version": "2"
 }

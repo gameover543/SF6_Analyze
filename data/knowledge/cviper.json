@@ -8432,9 +8432,592 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "40789ca2e6a5",
+      "category": "combo",
+      "topic": "ドライブラッシュコンボ",
+      "content": "C.ヴァイパーは、相手のドライブラッシュをパニッシュカウンターした後、中P -> 強ブレイザー -> EXブレイザー -> SA1で大ダメージコンボ（4138ダメージ、60%）に繋げることができます。このコンボは相手のドライブゲージを大きく削るのに有効です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "相手のドライブラッシュをパニッシュカウンターした時",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "01:19",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "914e4961d25a",
+      "category": "combo",
+      "topic": "しゃがみ弱K始動コンボ",
+      "content": "C.ヴァイパーは、しゃがみ弱Kがヒットまたはガードさせている場合、しゃがみ中P -> 強ブレイザー -> 強ブレイザー -> EXブレイザー -> SA1でダメージ3012 (42%) のコンボに繋ぐことができます。主に地上での確定反撃として有効です。相手がドライブインパクトで固まった際にも狙いやすい連携です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "地上での確定反撃、またはドライブインパクトをガードまたはパニッシュカウンターした時",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "00:15",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "108",
+        "400",
+        "602"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "9b113f4a73c2",
+      "category": "combo",
+      "topic": "しゃがみ弱K始動別ルート",
+      "content": "C.ヴァイパーは、しゃがみ弱Kがヒットまたはガードさせている場合、弱ブレイザー -> 強ブレイザー -> EXブレイザー -> SA1でダメージ2592 (36%) のコンボに繋ぐことができます。これは上記のコンボよりダメージは低いですが、状況に応じて使い分けが可能です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "地上での確定反撃",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "00:24",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "a2c7f3e771c6",
+      "category": "combo",
+      "topic": "対空コンボ（立ち強P始動）",
+      "content": "C.ヴァイパーは、相手のジャンプ攻撃に対して立ち強Pで対空し、強ブレイザー -> EXブレイザー -> SA1でダメージ3490 (41%) のコンボに繋ぐことができます。対空後の追撃として非常に強力です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "相手のジャンプ攻撃を対空カウンターまたはパニッシュカウンターした時",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "01:00",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "104",
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "1e53cff27367",
+      "category": "combo",
+      "topic": "対空からの垂直ジャンプ中K着地コンボ",
+      "content": "C.ヴァイパーは、垂直ジャンプ中Kで対空した後、着地からしゃがみ弱K -> しゃがみ中P -> 強ブレイザー -> EXブレイザー -> SA1でダメージ3058 (42%) のコンボに繋ぐことができます。相手のジャンプを読んで確実にダメージを与えたい場合に有効です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "垂直ジャンプ中Kで相手のジャンプ攻撃を迎撃した後",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "01:07",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "107",
+        "108",
+        "204",
+        "400",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "06228fdebc57",
+      "category": "combo",
+      "topic": "大ダメージSA2締めコンボ（しゃがみ強P始動）",
+      "content": "C.ヴァイパーは、しゃがみ強Pをパニッシュカウンターでヒットさせた後、SA2に繋ぐことで大ダメージ（約4000ダメージ、100%表示はヒット数に対するダメージ比率）を与えることができます。相手の隙の大きい技に確定反撃として狙いましょう。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "相手の隙の大きい技に確定反撃を入れる時（パニッシュカウンター）",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "00:34",
+      "source_quote": "まあまあだったわね。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "110",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "00954c81a104",
+      "category": "combo",
+      "topic": "大ダメージSA2締めコンボ（しゃがみ中K始動）",
+      "content": "C.ヴァイパーは、しゃがみ中Kをパニッシュカウンターでヒットさせた後、SA2に繋ぐことでダメージ2910 (37%) のコンボを決めることができます。相手の隙を突く場合に有効な選択肢です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "相手の隙の大きい技に確定反撃を入れる時（パニッシュカウンター）",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "02:58",
+      "source_quote": "あらあら、心配させちゃうかな。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "763a150d4522",
+      "category": "general",
+      "topic": "C.ヴァイパー攻略リプレイ",
+      "content": "このチャンネルではC.ヴァイパーの対戦動画をアップロードしており、キャラクター対策に役立つリプレイを参考にすることができます。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": null,
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "00:05",
+      "source_quote": "This channel uploads replay videos for SF6 character countermeasures!!",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "2652a230f012",
+      "category": "defense",
+      "topic": "投げ抜け",
+      "content": "C.ヴァイパーは、相手の投げに対してしっかりと投げ抜けを成功させることで、ダメージを受けることなく状況をリセットできます。ただし、投げ抜けが成功しても有利フレームは得られないため、その後の行動に注意が必要です。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "相手が投げを仕掛けてきた時",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "02:05",
+      "source_quote": "甘い！",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "1348b09c4d1e",
+      "category": "defense",
+      "topic": "SA発動中のセリフ",
+      "content": "C.ヴァイパーのSA1発動中には「そろそろ帰らせて。」、KO後には「この程度で済まさない。」というセリフを聞くことができます。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "SA1発動時、またはKO後",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "02:16",
+      "source_quote": "そろそろ帰らせて。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "ae37a11f1d51",
+      "category": "defense",
+      "topic": "SA2発動中のセリフ",
+      "content": "C.ヴァイパーのSA2発動中には「我慢しなさい。」、KO後には「やれやれ、ごめんね。」というセリフを聞くことができます。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": null,
+      "situation": "SA2発動時、またはKO後",
+      "source_video_id": "VDIKjuegqMs",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥翔ヴァイパーから学ぶ立ち回り！Pro Player Strategies feat.Kakeru Viper!",
+      "source_timestamp": "03:37",
+      "source_quote": "我慢しなさい。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T03:22:42.820294",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "16b4392f30a5",
+      "category": "defense",
+      "topic": "ホンダの立ち大Pへの対処",
+      "content": "ホンダの立ち大Pをガードした後は、パリィしてODバーニングキックまたはODサンダーナックルで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の立ち大Pをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:11",
+      "source_quote": "これにはパニカン取ってODバーニングで割り込み。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "0e411373064a",
+      "category": "defense",
+      "topic": "ホンダの頭突きへの対処",
+      "content": "ホンダの頭突き（通常、OD、SA1、SA3）をガードした後は、パリィしてODサンダーナックル、ODバーニングキック、EXバーニングキック、SA3、またはCAで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の頭突きをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:14",
+      "source_quote": "頭突きはガード後パリィしてODサンダーナックル。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "400",
+        "402",
+        "403",
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "c48b4a4d6afb",
+      "category": "defense",
+      "topic": "ホンダの立ち中Pへの対処",
+      "content": "ホンダの立ち中Pをガードした後は、パリィしてODサンダーナックルまたはODバーニングキックで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の立ち中Pをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:21",
+      "source_quote": "立ち中Pはガード後パリィしてODサンダーナックル。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "82f6142f0a71",
+      "category": "defense",
+      "topic": "ホンダの足払いへの対処",
+      "content": "ホンダの足払いをガードした後は、パリィしてODサンダーナックルで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の足払いをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:23",
+      "source_quote": "足払いはガード後パリィしてODサンダーナックル。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "605"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "23187c7e0e7b",
+      "category": "defense",
+      "topic": "ホンダの立ち弱Kへの対処",
+      "content": "ホンダの立ち弱Kをガードした後は、パリィしてODバーニングキックで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の立ち弱Kをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:28",
+      "source_quote": "立ち弱Kはガード後パリィしてODバーニングキック。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "101",
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "663872aaac8a",
+      "category": "defense",
+      "topic": "ホンダのSA2への対処",
+      "content": "ホンダのSA2をガードした後は、パリィしてODバーニングキックで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手のSA2をガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:43",
+      "source_quote": "SA2はガード後パリィしてODバーニングキック。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "401",
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "e020541466e2",
+      "category": "defense",
+      "topic": "ホンダの張り手への対処",
+      "content": "ホンダの張り手（通常、SA2、OD）をガードした後は、パリィしてODサンダーナックル、ODバーニングキック、またはCAで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の張り手をガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "00:46",
+      "source_quote": "張り手はガード後パリィしてODサンダーナックル。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "401",
+        "403",
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "de379730bd27",
+      "category": "matchup",
+      "topic": "ホンダのパリィ対策",
+      "content": "ホンダがパリィしている時には、ドライブキャンセルからのODバーニングキックでパリィを崩し、ドライブゲージも回収できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手がパリィしている時",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "01:32",
+      "source_quote": "DRからのODバーニングキックはホンダのパリィを潰せる。ドライブゲージも回収可能。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "fe0e48f53e7d",
+      "category": "defense",
+      "topic": "ホンダの投げ抜けへの対処",
+      "content": "ホンダの投げ抜けをガードした後は、パリィしてODサンダーナックルまたはODバーニングキックで反撃できる。",
+      "characters": [
+        "cviper"
+      ],
+      "matchup": "honda",
+      "situation": "相手の投げ抜けをガードした後",
+      "source_video_id": "QRBFdLxx1NU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendヴァイパーから学ぶ！✨本田戦立ち回り LEGEND C.Viper's Matchup Strategy Against E.Honda〚Oil King〛〚naruo〛",
+      "source_timestamp": "01:46",
+      "source_quote": "投げ抜けはガード後パリィしてODサンダーナックル。",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T06:00:35.940878",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "605",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-30T23:41:37.282333",
-  "source_video_count": 16,
+  "last_updated": "2026-04-01T06:00:35.966522",
+  "source_video_count": 18,
   "last_validated_version": ""
 }

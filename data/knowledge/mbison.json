@@ -5588,9 +5588,237 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "deff80bb242b",
+      "category": "oki",
+      "topic": "ベガの起き攻め投げとフレーム消費",
+      "content": "画面端でダウンさせた相手に対し、投げを重ねる場合、最速で投げると+7フレームとなり確定投げになる。しかし、攻撃を空振りしてフレームを消費してから投げると、相手がバクステで投げを避けられる状況（ベガ側が-2フレーム）になる。フレーム消費は、投げを一番良いフレームで重ねるための戦略的な行動であり、ミスを減らすための保険でもある。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": null,
+      "situation": "画面端でのダウン後起き攻め",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "03:36",
+      "source_quote": "だたまに画面端でダウンした時に相手が攻撃からうちうちして悩んだりしてくるのですが直で掴むのとなにか違いはあるのですか？バクステした時点でほらベガプラス7とかになってるじゃないですか。だから投げを避けられるとバクステで避けられると確定反撃なんすよ。なんですけど、フレーム消費することによってベガがマイナス2になってるでしょ。だから投げを一番いいフレームで重ねるためにだいたいフレーム消費とかしてますね。攻めを強くするためにやってるって感じっす。別に体感でもそのプラスえっと投げをバクステでよけられて確反もらわないフレームにはできるんですけど目押しになるんでミスる可能性があるんすよ。フレーム消費だと最速行動でいいからミスなくなるっていう感じっすね。だからミスらないための保険ですわ要は。馬鹿にされてるわけではないのね。ちゃんと戦略的な行動です。",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "320"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "2355a883ab2f",
+      "category": "combo",
+      "topic": "ベガの最大ダメージコンボ",
+      "content": "ベガの最大ダメージコンボは、しゃがみ相手にCAまで繋げると7870ダメージが出せる。弱サイコとODフィストはダメージが同じで、ODサイコの方が少しダメージが高い。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": null,
+      "situation": "しゃがみ相手への最大ダメージコンボ",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "05:25",
+      "source_quote": "ディクテーターの全力コンボいただけますか？全力コンボでしょ？これ？これなのか？7730。弱サイコとODフィストダメージ一緒なんすよね。弱サイコとODフィストは変わんない。ODサイコやったらもうちょっと減る。いやガチ最大だったらまあCAじゃないですか。相手しゃがんでると大サイコ入るんじゃなかったっけ。これ大サイコ入ったらな。7870",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "ce642bb89734",
+      "category": "defense",
+      "topic": "ベガのしゃがみ中Pとサイコの対処",
+      "content": "ベガのしゃがみ中P（中足）先端からサイコクラッシャーがヒットすると+6フレームになるが、直後に投げられる場合が多いため、その状況で投げかスカし行動かの判断は非常に難しい。相手の動きを注意深く見て対処するしかない。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": null,
+      "situation": "ベガのしゃがみ中P（中足）からサイコがヒットして+6フレームになった状況",
+      "source_video_id": "Q_6LsJ8YYhU",
+      "source_channel": "どぐらのちょっとええ感じ",
+      "source_video_title": "Fighting game advice & Dogura shows off Elena and Vega's high-powered combo [Street Fighter 6] [C...",
+      "source_timestamp": "06:00",
+      "source_quote": "ベガしゃがみ中P先端端サイコが+6なって投げかさる時めっちゃ多いんすけどうしたらいいですかね。マジでむずい判断。気を付けるしかないと思う。",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-03-31T23:51:17.682855",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "108",
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f0526ffeec56",
+      "category": "matchup",
+      "topic": "ブランカのローリングアタック対策",
+      "content": "ブランカのローリングアタック（ガード時-8F）をガードした後、ベガは発生6Fのしゃがみ中Kで確定反撃を行うことができる。相手がローリングアタック後に暴れるのを潰すのにも有効。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカのローリングアタックガード後",
+      "source_video_id": "yHPk4vTk7oU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendブランカから学ぶ！✨ベガ戦立ち回り　Learning Blanka's strategy against Bison from a legendary player !",
+      "source_timestamp": "00:51",
+      "source_quote": "PUNISH COUNTER",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:00:48.630491",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "109",
+        "320",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "f90090398646",
+      "category": "matchup",
+      "topic": "ブランカのローリングアタック対策",
+      "content": "ブランカのローリングアタックをガードした後、相手が攻めを継続しようとする行動（暴れや固め）に対して、ベガは投げでガードを崩すことができる。ブランカのローリングアタックがガード時に-8Fであるため、投げは確定ではないが、有効な読み合いの選択肢となる。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカのローリングアタックガード後",
+      "source_video_id": "yHPk4vTk7oU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendブランカから学ぶ！✨ベガ戦立ち回り　Learning Blanka's strategy against Bison from a legendary player !",
+      "source_timestamp": "00:16",
+      "source_quote": "",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:00:48.630491",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "320",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "7feeb0255acd",
+      "category": "matchup",
+      "topic": "ブランカのローリングアタック対策",
+      "content": "ブランカのローリングアタック（ガード時-8F）をガードした後、ベガはODサイコクラッシャーアタックで割り込み、パニッシュカウンターを狙うことができる。ドライブゲージがある場合に非常に強力な反撃手段となる。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカのローリングアタックガード後",
+      "source_video_id": "yHPk4vTk7oU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendブランカから学ぶ！✨ベガ戦立ち回り　Learning Blanka's strategy against Bison from a legendary player !",
+      "source_timestamp": "00:24",
+      "source_quote": "PUNISH COUNTER",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:00:48.630491",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "306",
+        "320",
+        "None"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "63781a975e86",
+      "category": "matchup",
+      "topic": "ブランカのローリングアタック対策",
+      "content": "ブランカがローリングアタックで突進してきた際、ベガは垂直ジャンプ大Kで対空し、パニッシュカウンターを狙うことができる。相手の突進を見極めて、ローリングアタックの出始めに垂直ジャンプ攻撃を出すことが重要。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカがローリングアタックで突進してきた際",
+      "source_video_id": "yHPk4vTk7oU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendブランカから学ぶ！✨ベガ戦立ち回り　Learning Blanka's strategy against Bison from a legendary player !",
+      "source_timestamp": "01:50",
+      "source_quote": "PUNISH COUNTER",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:00:48.630491",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "dbc8b6300989",
+      "category": "matchup",
+      "topic": "ブランカのローリングアタック対策",
+      "content": "ブランカのローリングアタックをガードしてフレーム不利な状況で、相手の攻め継続や次の行動を読んでドライブリバーサルを使用して割り込み、自身のターンを取り戻す。ドライブゲージがある場合に選択肢となる。",
+      "characters": [
+        "mbison"
+      ],
+      "matchup": "blanka",
+      "situation": "ブランカのローリングアタックガード後（フレーム不利時）",
+      "source_video_id": "yHPk4vTk7oU",
+      "source_channel": "SF6キャラ対策リプレイコレクション",
+      "source_video_title": "【SF6】🔥Legendブランカから学ぶ！✨ベガ戦立ち回り　Learning Blanka's strategy against Bison from a legendary player !",
+      "source_timestamp": "05:07",
+      "source_quote": "REVERSAL",
+      "confidence": 1.0,
+      "channel_trust": 0.3,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-01T05:00:48.630491",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-03-31T05:02:26.291580",
-  "source_video_count": 15,
+  "last_updated": "2026-04-01T05:00:48.651611",
+  "source_video_count": 17,
   "last_validated_version": ""
 }

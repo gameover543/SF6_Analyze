@@ -61,7 +61,7 @@ class Pipeline:
         self.budget = BudgetTracker(
             daily_request_limit=config.daily_request_limit,
             daily_video_minutes=config.daily_video_minutes,
-            request_interval_sec=config.request_interval_sec,
+            min_interval_sec=config.request_interval_sec,
         )
         self.discoverer = VideoDiscoverer(config)
         self.scorer = CredibilityScorer(self.store.load_channels())

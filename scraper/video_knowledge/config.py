@@ -128,6 +128,17 @@ SEARCH_QUERY_TEMPLATES: list[str] = [
     "スト6 初心者 上達 攻略",
 ]
 
+# コーチング動画検索クエリ
+COACHING_QUERY_TEMPLATES: list[str] = [
+    "SF6 コーチング",
+    "スト6 コーチング",
+    "SF6 coaching",
+    "SF6 コーチング 初心者",
+    "SF6 コーチング ゴールド",
+    "SF6 コーチング マスター",
+    "SF6 {char_jp} コーチング",
+]
+
 # ギャップクエリ生成用テンプレート
 GAP_QUERY_TEMPLATES: list[str] = [
     "SF6 {char_jp} {topic_jp} 解説",
@@ -152,7 +163,8 @@ CATEGORY_JP_NAMES: dict[str, str] = {
 TUTORIAL_INDICATORS: list[str] = [
     # 日本語: 講座・解説系
     "解説", "攻略", "対策", "講座", "コンボ", "立ち回り", "起き攻め",
-    "座学", "テクニック", "使い方", "始め方", "コーチング",
+    "座学", "テクニック", "使い方", "始め方",
+    "コーチング", "coaching", "コーチ", "指導", "アドバイス",
     "確反", "セットプレイ", "連携", "崩し", "差し返し", "対空",
     "初心者", "上達", "上級者", "フレーム",
     # 英語

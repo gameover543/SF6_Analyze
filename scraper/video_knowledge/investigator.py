@@ -16,6 +16,7 @@ logger = logging.getLogger(__name__)
 class InvestigationResult:
     """INVESTIGATE の結果"""
     is_tutorial: bool = False
+    is_coaching: bool = False  # コーチング形式かどうか
     knowledge_density: float = 0.0
     characters: list[str] = None
     topics: list[str] = None
@@ -119,6 +120,7 @@ class VideoInvestigator:
                 )
 
             is_tutorial = result_data.get("is_tutorial", False)
+            is_coaching = result_data.get("is_coaching", False)
             knowledge_density = float(result_data.get("knowledge_density", 0))
             characters = result_data.get("characters", [])
             topics = result_data.get("topics", [])
@@ -135,6 +137,7 @@ class VideoInvestigator:
 
             return InvestigationResult(
                 is_tutorial=is_tutorial,
+                is_coaching=is_coaching,
                 knowledge_density=knowledge_density,
                 characters=characters,
                 topics=topics,

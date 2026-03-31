@@ -15,6 +15,7 @@ from .config import (
     TRUSTED_CHANNELS,
     CHARACTER_JP_NAMES,
     SEARCH_QUERY_TEMPLATES,
+    COACHING_QUERY_TEMPLATES,
     EXCLUDE_PATTERNS,
 )
 
@@ -163,10 +164,18 @@ class VideoDiscoverer:
             char_jp = CHARACTER_JP_NAMES.get(slug, slug)
             for template in SEARCH_QUERY_TEMPLATES:
                 if "{opponent_jp}" in template:
-                    # マッチアップクエリは主要対面のみ（全組み合わせは多すぎ）
                     continue
                 query = template.format(char_jp=char_jp)
                 queries.append(query)
+
+        # コーチング動画クエリを追加
+        for template in COACHING_QUERY_TEMPLATES:
+            if "{char_jp}" in template:
+                for slug in chars[:5]:  # 主要キャラのみ
+                    query = template.format(char_jp=CHARACTER_JP_NAMES.get(slug, slug))
+                    queries.append(query)
+            else:
+                queries.append(template)
 
         return queries
 

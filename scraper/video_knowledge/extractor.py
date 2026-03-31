@@ -5,7 +5,7 @@ import logging
 from datetime import datetime
 
 from .schemas import VideoCandidate, KnowledgeEntry
-from .prompts import EXTRACTION_PROMPT
+from .prompts import EXTRACTION_PROMPT, COACHING_EXTRACTION_PROMPT
 from .budget import BudgetTracker
 from .config import PipelineConfig, CHARACTER_JP_NAMES
 from .move_resolver import MoveResolver
@@ -39,7 +39,7 @@ class KnowledgeExtractor:
                 self._client = genai.Client(api_key=self.config.google_api_key)
         return self._client
 
-    def extract(self, candidate: VideoCandidate, max_retries: int = 3) -> list[KnowledgeEntry]:
+    def extract(self, candidate: VideoCandidate, max_retries: int = 3, is_coaching: bool = False) -> list[KnowledgeEntry]:
         """動画から攻略知識を抽出（429エラー時はリトライ、動的待ち時間）"""
         if not self.budget.can_process(candidate.duration_seconds):
             logger.warning("予算上限到達。抽出をスキップ。")
@@ -65,7 +65,7 @@ class KnowledgeExtractor:
                                 mime_type="video/*",
                             )
                         ),
-                        EXTRACTION_PROMPT,
+                        COACHING_EXTRACTION_PROMPT if is_coaching else EXTRACTION_PROMPT,
                     ],
                 )
 
@@ -157,6 +157,11 @@ class KnowledgeExtractor:
                 content, raw.get("source_quote", ""), characters
             )
 
+            # knowledge_type の検証
+            knowledge_type = raw.get("knowledge_type", "technique")
+            if knowledge_type not in ("technique", "coaching_pattern"):
+                knowledge_type = "technique"
+
             entry = KnowledgeEntry(
                 category=category,
                 topic=raw.get("topic", "")[:50],
@@ -169,9 +174,13 @@ class KnowledgeExtractor:
                 source_video_title=candidate.title,
                 source_timestamp=raw.get("source_timestamp", ""),
                 source_quote=raw.get("source_quote", ""),
-                confidence=1.0,  # バリデーション後に調整
+                confidence=1.0,
                 channel_trust=candidate.channel_trust,
                 extracted_at=now,
+                # コーチング動画フィールド
+                knowledge_type=knowledge_type,
+                target_rank=str(raw.get("target_rank", "") or ""),
+                coaching_context=str(raw.get("coaching_context", "") or ""),
                 # パッチ鮮度管理フィールド
                 game_version=self._resolver.get_game_version(),
                 video_upload_date=candidate.upload_date or "",

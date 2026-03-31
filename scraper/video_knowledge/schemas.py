@@ -63,6 +63,10 @@ class KnowledgeEntry(BaseModel):
     channel_trust: float = 0.0
     frame_data_conflicts: list[str] = Field(default_factory=list)
     extracted_at: str = ""
+    # コーチング動画由来のフィールド
+    knowledge_type: str = "technique"  # "technique" | "coaching_pattern"
+    target_rank: str = ""  # 例: "ゴールド", "初心者"（コーチング対象のランク帯）
+    coaching_context: str = ""  # 例: "生徒が対空できないことへのアドバイス"
     # パッチ鮮度管理フィールド
     game_version: str = ""  # フレームデータのバージョン（抽出時点）
     video_upload_date: str = ""  # 動画のアップロード日 (YYYYMMDD)

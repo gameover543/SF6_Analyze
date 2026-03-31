@@ -29,6 +29,11 @@ interface KnowledgeEntry {
   channel_trust: number;
   frame_data_conflicts: string[];
   extracted_at: string;
+  // コーチング動画フィールド
+  knowledge_type: "technique" | "coaching_pattern";
+  target_rank: string;
+  coaching_context: string;
+  // パッチ鮮度管理
   game_version: string;
   video_upload_date: string;
   referenced_moves: string[];
@@ -379,9 +384,17 @@ export function buildKnowledgeContext(
 
   const selectedEntries = [...indexEntries, ...fallbackEntries];
 
+  // 攻略知識とコーチングパターンを分離
+  const techniqueEntries = selectedEntries.filter(
+    (e) => (e as KnowledgeEntry & { knowledge_type?: string }).knowledge_type !== "coaching_pattern"
+  );
+  const coachingEntries = selectedEntries.filter(
+    (e) => (e as KnowledgeEntry & { knowledge_type?: string }).knowledge_type === "coaching_pattern"
+  );
+
   // === 出力フォーマット ===
-  if (selectedEntries.length > 0) {
-    lines.push(`## 質問に関連する知識（${selectedEntries.length}件）\n`);
+  if (techniqueEntries.length > 0) {
+    lines.push(`## 質問に関連する知識（${techniqueEntries.length}件）\n`);
 
     // パッチサマリー
     const patchSummary = loadLatestPatchSummary();
@@ -392,7 +405,7 @@ export function buildKnowledgeContext(
       lines.push("");
     }
 
-    for (const entry of selectedEntries) {
+    for (const entry of techniqueEntries) {
       let stalenessMark = "";
       if (entry.staleness_status === "confirmed_stale") {
         stalenessMark = " **[旧バージョン情報]**";
@@ -410,6 +423,19 @@ export function buildKnowledgeContext(
       lines.push(
         `- **[${entry.category}] ${entry.topic}**${stalenessMark}${conflictMark}`
       );
+      lines.push(`  ${entry.content}`);
+      lines.push("");
+    }
+  }
+
+  // === コーチングパターン ===
+  if (coachingEntries.length > 0) {
+    lines.push(`## プロのコーチングパターン（${coachingEntries.length}件）\n`);
+    lines.push(`以下はプロ選手が実際にコーチングした時の課題診断と対処法です。回答スタイルの参考にしてください。\n`);
+    for (const entry of coachingEntries) {
+      const rank = (entry as KnowledgeEntry & { target_rank?: string }).target_rank;
+      const rankMark = rank ? ` [${rank}帯向け]` : "";
+      lines.push(`- **${entry.topic}**${rankMark}`);
       lines.push(`  ${entry.content}`);
       lines.push("");
     }

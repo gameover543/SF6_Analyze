@@ -181,6 +181,7 @@ class Pipeline:
             start_time = time.time()
 
             # INVESTIGATE（信頼度が高ければスキップ）
+            is_coaching = False
             if self.scorer.needs_investigation(candidate):
                 result = self.investigator.investigate(candidate)
                 if not result.passed:
@@ -193,12 +194,20 @@ class Pipeline:
                     print(f"    → スキップ: {record.skip_reason}")
                     continue
                 record.relevance_score = result.knowledge_density
+                is_coaching = result.is_coaching
             else:
                 print(f"    → Sランクチャンネル: INVESTIGATEスキップ")
                 record.relevance_score = 1.0
+                # タイトルからコーチング判定（Sランクはスキップされるため）
+                title_lower = candidate.title.lower()
+                if any(kw in title_lower for kw in ["コーチング", "coaching", "コーチ"]):
+                    is_coaching = True
+
+            if is_coaching:
+                print(f"    → コーチング動画として処理")
 
             # EXECUTE
-            entries = self.extractor.extract(candidate)
+            entries = self.extractor.extract(candidate, is_coaching=is_coaching)
             if not entries:
                 record.status = "completed"
                 record.entries_extracted = 0

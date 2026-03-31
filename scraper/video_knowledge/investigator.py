@@ -53,16 +53,18 @@ class VideoInvestigator:
         return self._client
 
     def investigate(self, candidate: VideoCandidate, max_retries: int = 3) -> InvestigationResult:
-        """動画を精査して解説動画かどうか判定（429エラー時はリトライ）"""
+        """動画を精査して解説動画かどうか判定（429エラー時はリトライ、動的待ち時間）"""
         if not self.budget.can_process(candidate.duration_seconds):
             return InvestigationResult(
                 error="予算上限到達", passed=False
             )
 
         import time
+        import re
 
+        response = None
         for attempt in range(max_retries):
-            self.budget.wait_for_rate_limit()
+            self.budget.wait_for_rate_limit(candidate.duration_seconds)
 
             try:
                 client = self._get_client()
@@ -85,8 +87,10 @@ class VideoInvestigator:
                 break  # 成功
 
             except Exception as e:
-                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                    wait = 60 * (attempt + 1)
+                err_str = str(e)
+                if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                    retry_match = re.search(r"retryDelay.*?(\d+)", err_str)
+                    wait = int(retry_match.group(1)) + 5 if retry_match else 60 * (attempt + 1)
                     logger.warning(
                         f"レート制限 (試行{attempt+1}/{max_retries})。{wait}秒待機... "
                         f"({candidate.video_id})"
@@ -96,11 +100,17 @@ class VideoInvestigator:
                         return InvestigationResult(
                             error="レート制限（リトライ上限）", passed=False
                         )
-                    continue
+                elif "400" in err_str or "INVALID_ARGUMENT" in err_str:
+                    logger.error(f"INVESTIGATE失敗（無効な動画）: {candidate.video_id}")
+                    return InvestigationResult(error="無効な動画", passed=False)
                 else:
                     logger.error(f"INVESTIGATE失敗 ({candidate.video_id}): {e}")
                     return InvestigationResult(error=str(e), passed=False)
 
+        if response is None:
+            return InvestigationResult(error="リトライ上限", passed=False)
+
+        try:
             # レスポンスからJSONを抽出
             result_data = self._parse_json_response(response.text)
             if result_data is None:

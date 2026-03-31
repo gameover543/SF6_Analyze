@@ -80,23 +80,40 @@ class KnowledgeEvaluator:
         return coverage
 
     def _generate_gap_queries(self, matrix: dict[str, dict[str, int]]) -> list[str]:
-        """カバレッジの薄い領域から検索クエリを自動生成"""
-        gap_queries = []
+        """カバレッジの薄い領域から検索クエリを自動生成（下位キャラ優先）"""
+        # キャラ別の総件数を計算して、少ない順にソート
+        char_totals = {
+            slug: sum(matrix.get(slug, {}).values())
+            for slug in CHARACTER_JP_NAMES
+        }
+        sorted_chars = sorted(char_totals.items(), key=lambda x: x[1])
 
-        for slug, char_jp in CHARACTER_JP_NAMES.items():
+        gap_entries = []  # (priority_score, query)
+
+        for slug, total in sorted_chars:
+            char_jp = CHARACTER_JP_NAMES[slug]
             char_counts = matrix.get(slug, {})
 
             for category, topic_jp in CATEGORY_JP_NAMES.items():
                 count = char_counts.get(category, 0)
                 if count < COVERAGE_SUFFICIENT_THRESHOLD:
+                    # 優先度: 件数が少ないキャラ×カテゴリほど高い
+                    priority = (COVERAGE_SUFFICIENT_THRESHOLD - count) + max(0, 200 - total)
                     for template in GAP_QUERY_TEMPLATES:
                         query = template.format(
                             char_jp=char_jp, topic_jp=topic_jp
                         )
-                        gap_queries.append(query)
+                        gap_entries.append((priority, query))
 
-        # 重複除去
-        gap_queries = list(dict.fromkeys(gap_queries))
+        # 優先度順でソートし、重複除去
+        gap_entries.sort(key=lambda x: -x[0])
+        seen = set()
+        gap_queries = []
+        for _, query in gap_entries:
+            if query not in seen:
+                seen.add(query)
+                gap_queries.append(query)
+
         return gap_queries
 
     # --- レポート表示 ---

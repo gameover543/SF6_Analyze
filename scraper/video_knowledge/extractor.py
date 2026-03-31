@@ -40,15 +40,17 @@ class KnowledgeExtractor:
         return self._client
 
     def extract(self, candidate: VideoCandidate, max_retries: int = 3) -> list[KnowledgeEntry]:
-        """動画から攻略知識を抽出（429エラー時はリトライ）"""
+        """動画から攻略知識を抽出（429エラー時はリトライ、動的待ち時間）"""
         if not self.budget.can_process(candidate.duration_seconds):
             logger.warning("予算上限到達。抽出をスキップ。")
             return []
 
         import time
+        import re
 
+        response = None
         for attempt in range(max_retries):
-            self.budget.wait_for_rate_limit()
+            self.budget.wait_for_rate_limit(candidate.duration_seconds)
 
             try:
                 client = self._get_client()
@@ -71,8 +73,11 @@ class KnowledgeExtractor:
                 break  # 成功
 
             except Exception as e:
-                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                    wait = 60 * (attempt + 1)  # 60秒, 120秒, 180秒
+                err_str = str(e)
+                if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                    # レスポンスからretryDelay値を抽出（あれば）
+                    retry_match = re.search(r"retryDelay.*?(\d+)", err_str)
+                    wait = int(retry_match.group(1)) + 5 if retry_match else 60 * (attempt + 1)
                     logger.warning(
                         f"レート制限 (試行{attempt+1}/{max_retries})。{wait}秒待機... "
                         f"({candidate.video_id})"
@@ -81,18 +86,27 @@ class KnowledgeExtractor:
                     if attempt == max_retries - 1:
                         logger.error(f"EXECUTE失敗（リトライ上限）: {candidate.video_id}")
                         return []
-                    continue
+                elif "400" in err_str or "INVALID_ARGUMENT" in err_str:
+                    # 非公開/削除済み動画等 → リトライしても無駄
+                    logger.error(f"EXECUTE失敗（無効な動画）: {candidate.video_id}")
+                    return []
                 else:
                     logger.error(f"EXECUTE失敗 ({candidate.video_id}): {e}")
                     return []
-        else:
+
+        if response is None:
             return []
 
-            # レスポンスからJSON配列を抽出
+        # レスポンスからJSON配列を抽出
+        try:
             entries_data = self._parse_json_array(response.text)
-            if entries_data is None:
-                logger.error(f"知識抽出のJSONパース失敗: {candidate.video_id}")
-                return []
+        except Exception as e:
+            logger.error(f"JSONパース例外 ({candidate.video_id}): {e}")
+            return []
+
+        if entries_data is None:
+            logger.error(f"知識抽出のJSONパース失敗: {candidate.video_id}")
+            return []
 
             # KnowledgeEntry に変換
             entries = self._convert_entries(entries_data, candidate)
@@ -113,14 +127,20 @@ class KnowledgeExtractor:
         now = datetime.now().isoformat()
 
         for raw in raw_entries:
+            if not isinstance(raw, dict):
+                continue
+
             # 必須フィールドのチェック
-            content = raw.get("content", "").strip()
+            content = str(raw.get("content", "")).strip()
             if not content:
                 continue
 
             characters = raw.get("characters", [])
-            # slugの検証: 不正なslugを除外
-            characters = [s for s in characters if s in VALID_SLUGS]
+            # LLMがネストされたリストを返す場合の防御（[["jamie"]]→["jamie"]）
+            if characters and isinstance(characters[0], list):
+                characters = [s for sublist in characters for s in sublist]
+            # slugの検証: 不正なslugを除外（文字列以外も除外）
+            characters = [s for s in characters if isinstance(s, str) and s in VALID_SLUGS]
             if not characters:
                 # キャラ指定なしの一般知識も許容
                 characters = ["general"]

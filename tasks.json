@@ -167,7 +167,7 @@
       "priority": "low",
       "subject": "技名検索機能の追加",
       "description": "フレームデータページに技名（日本語名・コマンド入力・move_type）で検索できるテキストフィールドを追加。FrameTable.tsxにフィルター＋ソート機能は実装済みだが、技名による自由テキスト検索がない。対戦中に「波動拳のフレームは？」とすぐ調べたいユースケースに対応する。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     },
     {

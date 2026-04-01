@@ -521,3 +521,22 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - インラインコードとコードブロックの区別: `code` コンポーネントの `className` が `language-*` を含むかどうかで判定すること
 - キャラslug→日本語名は `@/lib/characters` の `CHAR_JP` を import すること。ローカル定義を追加しないこと（タスク#19以降）
 - 新キャラ追加時は `app/src/lib/characters.ts` の `CHAR_JP` のみ更新すれば全箇所に反映される
+
+### タスク#21: 技名検索機能の追加（2026-04-02）
+`FrameTable.tsx` の既存検索フィルターに `move_type`（技タイプ日本語ラベル）を追加した。
+
+**変更内容:**
+1. `app/src/components/FrameTable.tsx` — 検索フィルターの対象に `TYPE_LABELS[m.move_type]` を追加:
+   - 既存: `skill`（技名）・`command`（クラシックコマンド）・`command_modern`（モダンコマンド）
+   - 追加: 技タイプの日本語ラベル（例: "必殺技"、"通常技"）
+2. プレースホルダーを `"技名・コマンドで検索..."` → `"技名・コマンド・技タイプで検索..."` に更新
+3. `searchLower` を変数に抽出し、フィルター内での `toLowerCase()` 重複呼び出しを削減
+
+**設計の確認:**
+- タスク起票時点では「検索フィールドがない」と記述されていたが、実際には以前のタスクで検索フィールド（skill + command）は実装済みだった
+- 不足していた `move_type` 検索を追加することで要件を完全に満たした
+- 検索中もグループ表示は維持される（`isGrouped = sortCol === null && typeFilter === null` の条件に `search` が含まれないため）。検索結果が各タイプセクションに分散表示される動作は仕様通り
+
+## 次のタスクへの申し送り
+
+- `FrameTable.tsx` の検索は skill・command・command_modern・move_type日本語ラベルの4軸。検索中はグループ表示を維持（フラット切替なし）

@@ -196,13 +196,17 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
     ? byControl.filter((m) => m.move_type === typeFilter)
     : byControl;
 
-  // 検索フィルタ
+  // 検索フィルタ（技名・コマンド・技タイプ日本語ラベルに対応）
+  const searchLower = search.toLowerCase();
   const searched = search
     ? byType.filter(
         (m) =>
-          m.skill.toLowerCase().includes(search.toLowerCase()) ||
-          (m.command || "").toLowerCase().includes(search.toLowerCase()) ||
-          (m.command_modern || "").toLowerCase().includes(search.toLowerCase())
+          m.skill.toLowerCase().includes(searchLower) ||
+          (m.command || "").toLowerCase().includes(searchLower) ||
+          (m.command_modern || "").toLowerCase().includes(searchLower) ||
+          (TYPE_LABELS[m.move_type] || m.move_type || "")
+            .toLowerCase()
+            .includes(searchLower)
       )
     : byType;
 
@@ -271,7 +275,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
         {/* 検索: モバイルでは幅いっぱいに展開 */}
         <input
           type="text"
-          placeholder="技名・コマンドで検索..."
+          placeholder="技名・コマンド・技タイプで検索..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           className="flex-1 min-w-[120px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"

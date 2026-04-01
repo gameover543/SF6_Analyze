@@ -272,6 +272,41 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - カウンセリングモードのプロフィール抽出は全文受信後に実施（ストリーム中にJSON境界をまたぐため）
 - エラーが発生した場合も `data: {"error":"..."}` 形式で通知（接続前エラーは通常の `getErrorMessage` で処理）
 
+### タスク#13: ナレッジ注入のトークン量最適化（2026-04-01）
+`app/src/lib/knowledge.ts` にトークン推定・予算管理ロジックを追加し、ダイジェスト圧縮と動的エントリ数調整を実装した。
+
+**変更内容:**
+1. `estimateTokens(text)` — ASCII: 4文字=1トークン、日本語等: 1文字=1.5トークンで推定する軽量ヘルパー
+2. `truncateDigest(digest, maxTokens)` — 行単位でダイジェストをトークン上限以内に切り詰め。上限: `DIGEST_MAX_TOKENS = 1200`
+3. `calcMaxEntries(digestTokens, questionLength)` — ダイジェスト消費後の残余予算と質問の複雑さからエントリ上限を計算（2〜8件）
+   - 短い質問（<30文字）: 3件、中程度（30-100文字）: 5件、長い/複雑（>100文字）: 7件
+4. `buildKnowledgeContext()` — ダイジェストを `truncateDigest` で圧縮し、スライス件数をハードコードの5から `maxEntries` に変更
+5. `buildMatchupKnowledgeContext()` — `latestQuestion` を関数先頭に移動。マッチアップエントリに上限追加（`calcMaxEntries(0, ...) + 3`、最大12件）
+
+**トークン予算の設計値:**
+- `DIGEST_MAX_TOKENS = 1200` （≈ 日本語800文字）
+- `KNOWLEDGE_TOKEN_BUDGET = 3500`（ナレッジ全体）
+- `AVG_ENTRY_TOKENS = 150`（エントリ1件の平均）
+- ダイジェストの実際のサイズ: 7〜10KB（≈ 3500〜5000トークン）→ 約70%削減
+
+**注意点:**
+- ダイジェストは前半の重要セクション（キャラ特性・主要技・基本戦略）が優先的に残る
+- テストは全25件通過。`truncateDigest` は短いモックテキストでは発動しないため既存テストに影響なし
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+- Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
+- セッションIDは `profile-storage.ts` の `getOrCreateSessionId()` で取得。コンポーネント側で直接生成しないこと
+- ナレッジのトークン予算: `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`。調整が必要な場合は `knowledge.ts` 先頭の定数を変更する
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -287,3 +322,5 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - `llm.ts` の `chat()` メソッドは削除済み。`streamChat()` のみ使用すること
 - SSEバッファ処理の定石: `buffer += decode(value, { stream: true })` → `split("\n")` → `buffer = lines.pop() || ""`（末尾の不完全行をバッファに残す）
 - カウンセリングモードのプロフィールJSON抽出は全文受信後に実施。ストリーミング中間でJSONブロックが分割される可能性があるため
+- ナレッジトークン予算の定数は `knowledge.ts` の `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`。LLMが文脈不足に感じた場合は `KNOWLEDGE_TOKEN_BUDGET` を増やすことを検討
+- `buildMatchupKnowledgeContext` の `latestQuestion` は関数先頭で宣言済み（マッチアップ上限計算と補完ナレッジ計算の両方で使用）

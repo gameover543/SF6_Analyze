@@ -166,6 +166,76 @@ function loadLatestPatchSummary(): string | null {
   }
 }
 
+// --- トークン推定・予算管理 ---
+
+/** テキストのおおよそのトークン数を推定（ASCII: 4文字=1トークン、日本語等: 1文字=1.5トークン） */
+function estimateTokens(text: string): number {
+  let ascii = 0;
+  let nonAscii = 0;
+  for (const ch of text) {
+    if (ch.charCodeAt(0) < 128) ascii++;
+    else nonAscii++;
+  }
+  return Math.ceil(ascii / 4 + nonAscii * 1.5);
+}
+
+// ダイジェストのトークン上限（約1200トークン ≈ 日本語約800文字）
+const DIGEST_MAX_TOKENS = 1200;
+// ナレッジコンテキスト全体のトークン予算
+const KNOWLEDGE_TOKEN_BUDGET = 3500;
+// 1エントリあたりの平均推定トークン数
+const AVG_ENTRY_TOKENS = 150;
+
+/**
+ * ダイジェストをトークン上限内に切り詰める（行単位で丸める）
+ * セクション（###見出し）の途中で切れることがあるが、
+ * 前半の重要なコア情報は必ず含まれる
+ */
+function truncateDigest(digest: string, maxTokens: number): string {
+  if (estimateTokens(digest) <= maxTokens) return digest;
+
+  const lines = digest.split("\n");
+  const result: string[] = [];
+  let usedTokens = 0;
+
+  for (const line of lines) {
+    // 改行コスト（\n）を加算して推定
+    const lineTokens = estimateTokens(line) + 0.25;
+    if (usedTokens + lineTokens > maxTokens) {
+      result.push("\n...（長いため省略）");
+      break;
+    }
+    result.push(line);
+    usedTokens += lineTokens;
+  }
+
+  return result.join("\n");
+}
+
+/**
+ * トークン予算と質問の複雑さからナレッジエントリの最大件数を決定する
+ * @param digestTokens ダイジェストが消費したトークン数
+ * @param questionLength 最新質問の文字数
+ * @returns エントリの最大件数（2〜8件）
+ */
+function calcMaxEntries(digestTokens: number, questionLength: number): number {
+  // ダイジェスト消費後の残りトークン予算
+  const remaining = KNOWLEDGE_TOKEN_BUDGET - Math.min(digestTokens, DIGEST_MAX_TOKENS);
+  const tokenBudgetMax = Math.floor(remaining / AVG_ENTRY_TOKENS);
+
+  // 質問の複雑さによる基準件数（長い質問ほど多くのコンテキストが有益）
+  let baseEntries: number;
+  if (questionLength < 30) {
+    baseEntries = 3;  // 短い質問: 少なめで十分
+  } else if (questionLength < 100) {
+    baseEntries = 5;  // 中程度
+  } else {
+    baseEntries = 7;  // 長い/複雑な質問: 多めに注入
+  }
+
+  return Math.max(2, Math.min(8, Math.min(tokenBudgetMax, baseEntries)));
+}
+
 // --- クエリ分析 ---
 
 /**
@@ -295,12 +365,16 @@ export function buildKnowledgeContext(
   const mainSlug = characterSlugs[0];
 
   // === 層1: ダイジェスト（コア知識） ===
+  let digestTokens = 0;
   if (mainSlug) {
     const digest = loadDigest(mainSlug);
     if (digest) {
+      // トークン上限を超える場合は行単位で切り詰め
+      const truncated = truncateDigest(digest, DIGEST_MAX_TOKENS);
+      digestTokens = estimateTokens(truncated);
       const charName = CHAR_JP[mainSlug] || mainSlug;
       lines.push(`## ${charName} のコア知識\n`);
-      lines.push(digest);
+      lines.push(truncated);
       lines.push("");
     }
   }
@@ -309,6 +383,9 @@ export function buildKnowledgeContext(
   const latestQuestion = recentMessages.length > 0
     ? recentMessages[recentMessages.length - 1]
     : "";
+
+  // ダイジェスト消費後のトークン残量と質問の複雑さからエントリ上限を決定
+  const maxEntries = calcMaxEntries(digestTokens, latestQuestion.length);
 
   let indexEntries: KnowledgeEntry[] = [];
 
@@ -347,23 +424,23 @@ export function buildKnowledgeContext(
     return true;
   });
 
-  // スコアリングして上位5件
+  // スコアリングして上位 maxEntries 件（動的件数）
   const expandedQuery = latestQuestion ? expandQuery(latestQuestion) : "";
   if (indexEntries.length > 0 && expandedQuery) {
     indexEntries = indexEntries
       .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
       .sort((a, b) => b.score - a.score)
-      .slice(0, 5)
+      .slice(0, maxEntries)
       .map((s) => s.entry);
   } else {
-    indexEntries = indexEntries.slice(0, 5);
+    indexEntries = indexEntries.slice(0, maxEntries);
   }
 
   // === 層3: キーワードフォールバック ===
-  // インデックスで5件未満の場合、全エントリからキーワード検索で補完
+  // インデックスで maxEntries 件未満の場合、全エントリからキーワード検索で補完
   let fallbackEntries: KnowledgeEntry[] = [];
-  if (indexEntries.length < 5 && expandedQuery) {
-    const needed = 5 - indexEntries.length;
+  if (indexEntries.length < maxEntries && expandedQuery) {
+    const needed = maxEntries - indexEntries.length;
     const allEntries: KnowledgeEntry[] = [];
     for (const slug of characterSlugs) {
       const data = readJsonSafe(path.join(KNOWLEDGE_DIR, `${slug}.json`)) as CharacterKnowledge | null;
@@ -476,8 +553,20 @@ export function buildMatchupKnowledgeContext(
   const mainName = CHAR_JP[mainSlug] || mainSlug;
   const opponentName = CHAR_JP[opponentSlug] || opponentSlug;
 
-  // === マッチアップデータ（全件） ===
-  const matchupEntries = loadMatchupIndex(mainSlug, opponentSlug);
+  // 質問はマッチアップ上限計算にも使うため先に取得
+  const latestQuestion =
+    recentMessages.length > 0
+      ? recentMessages[recentMessages.length - 1]
+      : "";
+
+  // === マッチアップデータ（トークン予算内で上限付き） ===
+  // マッチアップは最も関連性が高いため通常より多め（+3件）、最大12件
+  const allMatchupEntries = loadMatchupIndex(mainSlug, opponentSlug);
+  const maxMatchupEntries = Math.min(
+    allMatchupEntries.length,
+    Math.min(12, calcMaxEntries(0, latestQuestion.length) + 3)
+  );
+  const matchupEntries = allMatchupEntries.slice(0, maxMatchupEntries);
   const seenIds = new Set<string>(matchupEntries.map((e) => e.id));
 
   if (matchupEntries.length > 0) {
@@ -518,11 +607,6 @@ export function buildMatchupKnowledgeContext(
   }
 
   // === 質問に応じた補完ナレッジ（カテゴリ + キーワードフォールバック） ===
-  const latestQuestion =
-    recentMessages.length > 0
-      ? recentMessages[recentMessages.length - 1]
-      : "";
-
   if (latestQuestion) {
     const expandedQuery = expandQuery(latestQuestion);
 
@@ -550,10 +634,10 @@ export function buildMatchupKnowledgeContext(
       }
     }
 
-    // キーワードフォールバック（合計5件未満の場合）
+    // キーワードフォールバック（合計 maxMatchupEntries 件未満の場合）
     const totalSoFar = matchupEntries.length + (seenIds.size - matchupEntries.length);
-    if (totalSoFar < 5) {
-      const needed = 5 - totalSoFar;
+    if (totalSoFar < maxMatchupEntries) {
+      const needed = maxMatchupEntries - totalSoFar;
       const allEntries: KnowledgeEntry[] = [];
       const data = readJsonSafe(
         path.join(KNOWLEDGE_DIR, `${mainSlug}.json`)

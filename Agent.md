@@ -341,6 +341,32 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - カテゴリボーナスが効くのは「トピックにキーワードが少ないがカテゴリは正しいエントリ」。フォールバック層での精度改善が主目的
 - `detectCategory` は `buildKnowledgeContext` 内で事前に1回だけ呼ぶ設計に統一
 
+### タスク#16: コーチ応答品質のA/Bテスト基盤（2026-04-01）
+`scraper/ab_benchmark.py` を新規作成。5つのベンチマーク質問 × 5バリアントで応答を生成し、LLM-as-a-Judgeで品質を自動評価する仕組みを構築した。
+
+**実装内容:**
+1. `BENCHMARK_CASES` — 5件の評価質問セット（ナレッジ活用テスト・フレーム引用テスト・システム知識テスト・対戦知識テスト・モダン操作テスト）
+2. `VariantConfig` クラス — プロンプト構築の設定差分を表す（use_knowledge/use_digest/max_entries/max_frame_moves/prompt_style）
+3. `VARIANTS` — 5バリアント定義:
+   - `baseline`: 現行設定（ダイジェスト+エントリ8件+フレーム15技）
+   - `no_knowledge`: ナレッジなし（フレームデータのみ）
+   - `no_digest`: ダイジェストなし（エントリのみ）
+   - `more_entries`: ナレッジエントリ増加（最大15件）
+   - `strict_prompt`: 厳格プロンプト（フレーム引用を義務付け）
+4. `build_variant_prompt()` — バリアント設定に基づいてシステムプロンプトを構築
+5. `evaluate_response()` — Gemini 2.5 Flashをジャッジに使い、正確性・実用性・フレーム引用の3軸でスコアリング（各1-5点）
+6. `print_summary_table()` — バリアント別平均スコアの比較テーブルをコンソール出力
+7. CLIオプション: `--variants`, `--cases`, `--skip-eval`, `--output`
+
+**実行方法:**
+```
+cd scraper && python ab_benchmark.py                         # 全バリアント×全ケース
+cd scraper && python ab_benchmark.py --variants baseline,no_knowledge
+cd scraper && python ab_benchmark.py --cases bm_01 bm_02
+cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ（評価なし）
+```
+結果は `scraper/logs/ab_benchmark_results.json` に保存される。
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -362,3 +388,6 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - `buildMatchupKnowledgeContext` の `latestQuestion` は関数先頭で宣言済み（マッチアップ上限計算と補完ナレッジ計算の両方で使用）
 - `scoreEntry()` の第3引数 `detectedCategory` はオプショナル。省略すると旧動作と同じ（カテゴリボーナスなし）
 - 精度評価テストはモックでカテゴリインデックスやフォールバックJSONを制御する方式。`endsWith("jamie.json") && !includes("_structured") && !includes("_digests")` でフォールバックファイルを特定すること
+- `ab_benchmark.py` のバリアント追加方法: `VARIANTS` 辞書に `VariantConfig` を追加するだけ。既存テスト結果とJSONで比較できる
+- ベンチマーク結果は `scraper/logs/ab_benchmark_results.json`（gitignore対象外なので注意）。大量実行時は `--output` で別ファイルに保存すること
+- `--skip-eval` オプションで評価なし（応答生成のみ）に切り替え可能。APIコスト節約や応答プレビュー確認に使う

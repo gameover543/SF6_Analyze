@@ -111,7 +111,7 @@
       "priority": "high",
       "subject": "ナレッジ増加に伴う_digests再生成",
       "description": "ナレッジが8,406→10,022件に約20%増加したが、_digests/は前回生成時のまま。新規追加ナレッジ（特にgeneral系が大幅増: ryu 27→110, jamie 51→110等）を反映したダイジェストを再生成する。scraper/video_knowledge/digest_generator.pyを実行し、_digestsの内容を最新ナレッジに同期する。",
-      "status": "pending",
+      "status": "done",
       "category": "コア機能"
     },
     {

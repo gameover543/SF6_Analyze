@@ -307,6 +307,20 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - セッションIDは `profile-storage.ts` の `getOrCreateSessionId()` で取得。コンポーネント側で直接生成しないこと
 - ナレッジのトークン予算: `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`。調整が必要な場合は `knowledge.ts` 先頭の定数を変更する
 
+### タスク#14: ナレッジ増加に伴う_digests再生成（2026-04-01）
+`scraper/video_knowledge/digest_generator.py` を全キャラ対象で実行し、ダイジェストを最新ナレッジに同期した。
+
+**実施内容:**
+- 全29キャラのダイジェストを再生成（約17分）
+- ナレッジ件数: 多数のキャラで大幅増（ryu: 406→527, juri: 399→536, ken: 298→443, chunli: 247→412等）
+- 生成されたダイジェスト: 各2246〜3650文字（平均約2900文字）
+- `_digests/_manifest.json` も自動更新済み
+
+**実行方法の確認:**
+- `cd scraper && python -m video_knowledge.digest_generator` で実行（CLAUDE.mdの `--characters` 省略 = 全キャラ）
+- Vertex AI (Gemini 2.5 Flash) を使用。各キャラ間に3秒のレートリミットスリープあり
+- 実行ディレクトリは `scraper/` ではなく **プロジェクトルート** でも動作する（モジュールとして実行）
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -323,4 +337,6 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - SSEバッファ処理の定石: `buffer += decode(value, { stream: true })` → `split("\n")` → `buffer = lines.pop() || ""`（末尾の不完全行をバッファに残す）
 - カウンセリングモードのプロフィールJSON抽出は全文受信後に実施。ストリーミング中間でJSONブロックが分割される可能性があるため
 - ナレッジトークン予算の定数は `knowledge.ts` の `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`。LLMが文脈不足に感じた場合は `KNOWLEDGE_TOKEN_BUDGET` を増やすことを検討
+- `_digests/` の再生成はプロジェクトルートから `python -m video_knowledge.digest_generator` で実行。約17分かかる（29キャラ × API呼び出し + 3秒スリープ）。ナレッジ大量追加後は定期的に再生成すること
+- `_digests/_manifest.json` の `chars` フィールドはダイジェスト生成時のエントリ数。現在のエントリ数と比較して差が大きければ再生成の目安になる
 - `buildMatchupKnowledgeContext` の `latestQuestion` は関数先頭で宣言済み（マッチアップ上限計算と補完ナレッジ計算の両方で使用）

@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-04-01T06:25:55.496519",
+  "generated_at": "2026-04-01T23:29:21.118736",
   "digests": {
     "ryu": {
       "file": "ryu.md",
-      "chars": 406
+      "chars": 527
     },
     "luke": {
       "file": "luke.md",
-      "chars": 336
+      "chars": 477
     },
     "jamie": {
       "file": "jamie.md",
-      "chars": 277
+      "chars": 376
     },
     "chunli": {
       "file": "chunli.md",
-      "chars": 247
+      "chars": 412
     },
     "guile": {
       "file": "guile.md",
-      "chars": 156
+      "chars": 307
     },
     "kimberly": {
       "file": "kimberly.md",
-      "chars": 241
+      "chars": 278
     },
     "juri": {
       "file": "juri.md",
-      "chars": 399
+      "chars": 536
     },
     "ken": {
       "file": "ken.md",
-      "chars": 298
+      "chars": 443
     },
     "blanka": {
       "file": "blanka.md",
@@ -39,83 +39,83 @@
     },
     "dhalsim": {
       "file": "dhalsim.md",
-      "chars": 174
+      "chars": 191
     },
     "honda": {
       "file": "honda.md",
-      "chars": 233
+      "chars": 247
     },
     "deejay": {
       "file": "deejay.md",
-      "chars": 354
+      "chars": 361
     },
     "manon": {
       "file": "manon.md",
-      "chars": 325
+      "chars": 389
     },
     "marisa": {
       "file": "marisa.md",
-      "chars": 251
+      "chars": 267
     },
     "jp": {
       "file": "jp.md",
-      "chars": 296
+      "chars": 331
     },
     "zangief": {
       "file": "zangief.md",
-      "chars": 213
+      "chars": 216
     },
     "lily": {
       "file": "lily.md",
-      "chars": 184
+      "chars": 194
     },
     "cammy": {
       "file": "cammy.md",
-      "chars": 295
+      "chars": 395
     },
     "rashid": {
       "file": "rashid.md",
-      "chars": 288
+      "chars": 306
     },
     "aki": {
       "file": "aki.md",
-      "chars": 269
+      "chars": 378
     },
     "ed": {
       "file": "ed.md",
-      "chars": 245
+      "chars": 289
     },
     "gouki": {
       "file": "gouki.md",
-      "chars": 286
+      "chars": 307
     },
     "mbison": {
       "file": "mbison.md",
-      "chars": 190
+      "chars": 238
     },
     "terry": {
       "file": "terry.md",
-      "chars": 995
+      "chars": 1036
     },
     "mai": {
       "file": "mai.md",
-      "chars": 232
+      "chars": 266
     },
     "elena": {
       "file": "elena.md",
-      "chars": 115
+      "chars": 129
     },
     "cviper": {
       "file": "cviper.md",
-      "chars": 299
+      "chars": 317
     },
     "sagat": {
       "file": "sagat.md",
-      "chars": 267
+      "chars": 270
     },
     "alex": {
       "file": "alex.md",
-      "chars": 330
+      "chars": 334
     }
   },
   "total": 29

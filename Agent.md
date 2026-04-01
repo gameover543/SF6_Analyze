@@ -54,6 +54,32 @@
 - `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
 - `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
 
+### タスク#3: ChatInterfaceコンポーネントの分割リファクタリング（2026-04-01）
+535行の `ChatInterface.tsx` を2カスタムフック＋3サブコンポーネントに分割した。
+
+**分割結果:**
+- `app/src/hooks/useSessionState.ts` — プロフィール・モード・キャラ選択・初期化を管理
+- `app/src/hooks/useChatMessages.ts` — メッセージ送受信・isLoading・履歴保存を管理。`Message` 型もここで定義・export
+- `app/src/components/chat/ChatSidebar.tsx` — サイドバー（プロフィールカード＋キャラ選択）
+- `app/src/components/chat/MessageList.tsx` — メッセージ一覧・空状態・ローディング表示。自動スクロールも担当
+- `app/src/components/chat/ChatInputArea.tsx` — テキスト入力＋送信ボタン
+
+**注意点:**
+- `useSessionState` と `useChatMessages` は循環しないよう設計。プロフィール抽出コールバック `onProfileExtracted` で疎結合に連携
+- 初期履歴の復元は `useEffect([initialized])` で一度だけ行う（ChatInterface本体の責務）
+- `resetProfile()` はLocalStorageのクリアのみ担当。メッセージクリアは `clearMessages()` を呼ぶ側（ChatInterface）が行う
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+
 ## 次のタスクへの申し送り
 
-- タスク#3（ChatInterface分割）: `app/src/components/ChatInterface.tsx` が535行。分割前に必ず全体を読んで依存関係を把握すること。
+- タスク#4（マッチアップ特化コーチングモード）: `by_matchup` データは `_structured/by_matchup/` に格納。`_manifest.json` の `matchup_pairs` で利用可能ペアを確認できる
+- タスク#4では現在の `mode` state（"counseling" | "coaching"）に "matchup" を追加する想定。`useSessionState` の `mode` 型を拡張することになる

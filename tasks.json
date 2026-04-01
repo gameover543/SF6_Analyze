@@ -23,7 +23,7 @@
       "priority": "medium",
       "subject": "ChatInterfaceコンポーネントの分割リファクタリング",
       "description": "ChatInterface.tsxが535行と肥大化。プロフィール管理、メッセージ表示、入力エリア、セッション管理をサブコンポーネント/カスタムフックに分離して保守性を向上させる。",
-      "status": "pending",
+      "status": "done",
       "category": "品質・保守性"
     },
     {

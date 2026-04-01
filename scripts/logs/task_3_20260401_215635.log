@@ -1,0 +1,15 @@
+完了しました。
+
+**実施内容:**
+
+535行の `ChatInterface.tsx` を以下に分割しました：
+
+| ファイル | 役割 |
+|---|---|
+| `hooks/useSessionState.ts` | プロフィール・モード・キャラ選択・LocalStorage初期化 |
+| `hooks/useChatMessages.ts` | メッセージ送受信・ローディング・履歴保存 |
+| `components/chat/ChatSidebar.tsx` | サイドバー（プロフィールカード＋キャラ選択） |
+| `components/chat/MessageList.tsx` | メッセージ一覧・空状態・自動スクロール |
+| `components/chat/ChatInputArea.tsx` | テキスト入力・送信ボタン |
+
+`ChatInterface.tsx` は170行に縮小。ビルドエラーなし、既存機能は全て維持されています。

@@ -1,0 +1,22 @@
+タスク#7 完了です。
+
+---
+
+## 実装まとめ
+
+**追加・変更ファイル（8件）:**
+
+| ファイル | 変更内容 |
+|---|---|
+| `app/src/app/api/history/route.ts` | **新規作成** — GET/POST エンドポイント。`app/.data/history/{sessionId}.json` にファイル保存 |
+| `app/src/lib/profile-storage.ts` | `getOrCreateSessionId()` / `getSessionId()` / `clearSessionId()` 追加 |
+| `app/src/hooks/useSessionState.ts` | init を async 化。サーバー → LocalStorage フォールバックの順で履歴を取得 |
+| `app/src/hooks/useChatMessages.ts` | メッセージ保存時にサーバーへも非同期 POST |
+| `app/src/components/ChatInterface.tsx` | 「新しい会話」でサーバー側履歴も削除 |
+| `app/.gitignore` | `.data/` を追加 |
+
+**設計のポイント:**
+- **セッションID方式**: UUID を localStorage に保管し将来の認証に備えた設計（ユーザーID差し替えだけで対応可）
+- **二重保存**: localStorage（即時・オフライン対応）+ サーバー（永続・端末間共有）
+- **UUIDバリデーション**: パストラバーサル攻撃対策
+- **Vercel展開時の注意**: `route.ts` の `fs` 操作部分のみ Vercel Blob/Upstash KV に差し替えが必要

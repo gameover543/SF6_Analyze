@@ -1,0 +1,11 @@
+ファイルへの書き込み許可が必要です。許可を承認してください。
+
+**変更内容の説明:**
+
+現状の問題点：
+- `_structured/by_situation/` に `バーンアウト.json`・`パニカン.json`・`中央.json` が存在するが、`detectSituation()` がこれらを検出できない
+- `_structured/by_category/` に `*_general.json` が存在するが、`detectCategory()` が "general" を検出できない
+
+変更：
+1. `detectSituation()` に「バーンアウト」「パニカン」「中央」の検出キーワードを追加
+2. `detectCategory()` に「使い方」「強み」「弱み」等から "general" を検出するロジックを追加

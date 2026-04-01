@@ -89,6 +89,118 @@
       "description": "フレームデータ更新時のdiff情報をアプリ上で表示。「前回パッチからの変更点」をキャラページに表示し、ユーザーが調整内容を把握できるようにする。",
       "status": "done",
       "category": "UX向上"
+    },
+    {
+      "id": 12,
+      "priority": "high",
+      "subject": "ストリーミング応答の実装",
+      "description": "現在のchat APIはLLMの応答完了を待ってからレスポンスを返すため、長い回答ほど体感の待ち時間が長い。Gemini APIのstreamGenerateContentを使い、SSE(Server-Sent Events)でトークンを逐次送信するストリーミング対応を実装する。llm.tsにstreamChatメソッド追加、route.tsでReadableStreamを返す、フロント側でfetch+ReadableStreamReaderで受信しリアルタイム表示する。",
+      "status": "pending",
+      "category": "コア機能"
+    },
+    {
+      "id": 13,
+      "priority": "high",
+      "subject": "ナレッジ注入のトークン量最適化",
+      "description": "ナレッジが10,022件に増加し、ダイジェスト+インデックス検索+フォールバックで注入されるコンテキストがLLMのトークン上限を圧迫している可能性がある。現在上位5件固定だが、実際のトークン消費量を計測し、質問の複雑さに応じて動的にエントリ数を調整するロジックを実装する。また、ダイジェストが長すぎるキャラ（terry: 1,036件）のダイジェスト要約を圧縮する仕組みを検討する。",
+      "status": "pending",
+      "category": "コア機能"
+    },
+    {
+      "id": 14,
+      "priority": "high",
+      "subject": "ナレッジ増加に伴う_digests再生成",
+      "description": "ナレッジが8,406→10,022件に約20%増加したが、_digests/は前回生成時のまま。新規追加ナレッジ（特にgeneral系が大幅増: ryu 27→110, jamie 51→110等）を反映したダイジェストを再生成する。scraper/video_knowledge/digest_generator.pyを実行し、_digestsの内容を最新ナレッジに同期する。",
+      "status": "pending",
+      "category": "コア機能"
+    },
+    {
+      "id": 15,
+      "priority": "medium",
+      "subject": "ナレッジ検索の精度評価・改善",
+      "description": "ナレッジ10,022件・276マッチアップとデータ量が増えたが、検索品質の定量評価がない。典型的な質問パターン（起き攻め、対策、コンボ選択等）に対して期待される検索結果を定義したテストセットを作り、適合率・再現率を計測する。scoreEntry()のスコアリング重みやSYNONYMSの拡充を検討する。",
+      "status": "pending",
+      "category": "品質・保守性"
+    },
+    {
+      "id": 16,
+      "priority": "medium",
+      "subject": "コーチ応答品質のA/Bテスト基盤",
+      "description": "プロンプト改善やナレッジ注入方法の変更が応答品質にどう影響するか客観的に評価する仕組みがない。test_personas.pyを拡張し、同じ質問セットに対して異なるプロンプト/ナレッジ設定で応答を生成→LLM評価（正確性・実用性・フレームデータ引用の正しさ）するベンチマークを構築する。",
+      "status": "pending",
+      "category": "品質・保守性"
+    },
+    {
+      "id": 17,
+      "priority": "medium",
+      "subject": "会話のMarkdownレンダリング強化",
+      "description": "コーチの応答にはフレームデータの表形式やコンボレシピのリスト、強調テキスト等が含まれるが、現在はプレーンテキストとして表示。react-markdownまたは同等のライブラリを導入し、AIの応答をMarkdown→HTMLとしてリッチに表示する。テーブル、コードブロック（コマンド表記用）、太字、リスト等に対応する。",
+      "status": "pending",
+      "category": "UX向上"
+    },
+    {
+      "id": 18,
+      "priority": "medium",
+      "subject": "対戦相手のフレームデータもコーチに参照させる（通常モード）",
+      "description": "マッチアップモードでは両キャラのフレームデータを注入しているが、通常コーチングモードで「ケンの昇竜って何フレ？」と聞いても、メインキャラ以外のフレームデータはコンテキストにない。detectOpponent()で対戦相手が検出された場合、そのキャラのフレームデータも自動で追加注入する。",
+      "status": "pending",
+      "category": "コア機能"
+    },
+    {
+      "id": 19,
+      "priority": "medium",
+      "subject": "charNames定数の一元管理",
+      "description": "キャラslug→日本語名マップ（charNames/CHAR_JP）がknowledge.ts、prompts.ts、route.ts、ChatInterface.tsx等の複数ファイルに散在し、honda/ehonda問題等の不整合リスクがある。共通の定数ファイル（例: lib/characters.ts）に統合し、全箇所からimportする。",
+      "status": "pending",
+      "category": "品質・保守性"
+    },
+    {
+      "id": 20,
+      "priority": "medium",
+      "subject": "Vercelデプロイ対応（履歴ストレージ移行）",
+      "description": "タスク#7で実装したサーバーサイド履歴はfs（.data/history/）ベース。Vercelのサーバーレス環境ではファイルシステムが永続化されないため、Vercel BlobまたはUpstash Redisに移行する。api/history/route.tsのfs操作部分を抽象化し、環境変数でストレージバックエンドを切替可能にする。",
+      "status": "pending",
+      "category": "インフラ"
+    },
+    {
+      "id": 21,
+      "priority": "low",
+      "subject": "技名検索機能の追加",
+      "description": "フレームデータページに技名（日本語名・コマンド入力・move_type）で検索できるテキストフィールドを追加。FrameTable.tsxにフィルター＋ソート機能は実装済みだが、技名による自由テキスト検索がない。対戦中に「波動拳のフレームは？」とすぐ調べたいユースケースに対応する。",
+      "status": "pending",
+      "category": "UX向上"
+    },
+    {
+      "id": 22,
+      "priority": "low",
+      "subject": "コーチングセッションの要約生成",
+      "description": "コーチング会話終了時（新しい会話開始時）に、直前の会話からLLMで「今日学んだこと・次の練習テーマ」を自動要約し、ユーザーに表示する機能。上達のための振り返りを促進し、次回のコーチングの出発点にする。",
+      "status": "pending",
+      "category": "機能拡張"
+    },
+    {
+      "id": 23,
+      "priority": "low",
+      "subject": "キャラ別おすすめナレッジ表示",
+      "description": "キャラ詳細ページ（frames/[slug]）にフレームデータだけでなく、そのキャラのナレッジダイジェストの要点や人気トピック（最多カテゴリ上位3件等）を表示する。ナレッジの存在をユーザーに知らせ、コーチング機能への導線を作る。",
+      "status": "pending",
+      "category": "UX向上"
+    },
+    {
+      "id": 24,
+      "priority": "low",
+      "subject": "ダークモード/テーマ切替",
+      "description": "現在はダーク固定（bg-gray-950系）。対戦中の視認性を考慮したハイコントラストモードや、好みに応じたライトモード切替を実装する。CSS変数でテーマを管理し、LocalStorageに保存。",
+      "status": "pending",
+      "category": "UX向上"
+    },
+    {
+      "id": 25,
+      "priority": "low",
+      "subject": "未コミットのナレッジ更新をコミット",
+      "description": "data/knowledge/配下に446ファイル・270,934行の未コミット変更がある（8,406→10,022件、452→563動画、223→276マッチアップ）。_structured/by_category, by_matchup、各キャラJSON、_index.json、_coverage.json等。適切なコミットメッセージで一括コミットする。",
+      "status": "pending",
+      "category": "管理"
     }
   ]
 }

@@ -1,0 +1,21 @@
+タスク#6 完了です。
+
+---
+
+## 実施内容まとめ
+
+**追加したもの:**
+
+| ファイル | 内容 |
+|---|---|
+| `app/vitest.config.ts` | Vitest設定（`@` エイリアス・Node環境） |
+| `app/src/__tests__/lib/frame-data.test.ts` | フレームデータ純粋関数テスト（12件） |
+| `app/src/__tests__/lib/knowledge.test.ts` | ナレッジ検索ロジックテスト（9件） |
+| `app/src/__tests__/api/characters.test.ts` | APIルートテスト（4件） |
+
+**テスト結果:** 3ファイル・**25件全パス**（1.15秒）、ビルドも正常。
+
+**工夫した点:**
+- `knowledge.ts` は `fs` を直接使うため `vi.mock("fs")` でモック化し、ファイルシステム不要で実行可能に
+- `next/server` の `NextResponse` は軽量モックに差し替え、Next.js ランタイムなしでAPIルートをテスト
+- `npm test` スクリプトを追加したので `cd app && npm test` で実行できます

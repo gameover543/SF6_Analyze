@@ -87,7 +87,7 @@
       "priority": "low",
       "subject": "パッチノート表示機能",
       "description": "フレームデータ更新時のdiff情報をアプリ上で表示。「前回パッチからの変更点」をキャラページに表示し、ユーザーが調整内容を把握できるようにする。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     }
   ]

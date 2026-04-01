@@ -1,0 +1,116 @@
+{
+  "old_version": "1",
+  "new_version": "2",
+  "diffed_at": "2025-01-22T10:00:00",
+  "summary": "Jamie: 立ち弱P 発生5→4, ジャンプ中P ダメージ800→900\nRyu: 波動拳（弱） ダメージ700→600, 大足払い ガード-8→-6\nKen: 竜巻旋風脚（強） ガード-6→-4\nChun-Li: 百烈脚 ヒット-2→0",
+  "characters": [
+    {
+      "slug": "jamie",
+      "character_name": "Jamie",
+      "total_changes": 2,
+      "changed_moves": [
+        {
+          "web_id": "100",
+          "move_name": "立ち弱P（杯打）",
+          "character_slug": "jamie",
+          "changed_fields": {
+            "startup_frame": ["5", "4"],
+            "hit_frame": ["5", "6"]
+          },
+          "impact_level": "value_changed"
+        },
+        {
+          "web_id": "115",
+          "move_name": "ジャンプ中P",
+          "character_slug": "jamie",
+          "changed_fields": {
+            "damage": ["800", "900"]
+          },
+          "impact_level": "value_changed"
+        }
+      ]
+    },
+    {
+      "slug": "ryu",
+      "character_name": "Ryu",
+      "total_changes": 2,
+      "changed_moves": [
+        {
+          "web_id": "400",
+          "move_name": "波動拳（弱）",
+          "character_slug": "ryu",
+          "changed_fields": {
+            "damage": ["700", "600"]
+          },
+          "impact_level": "value_changed"
+        },
+        {
+          "web_id": "201",
+          "move_name": "大足払い（6HK）",
+          "character_slug": "ryu",
+          "changed_fields": {
+            "block_frame": ["-8", "-6"]
+          },
+          "impact_level": "value_changed"
+        }
+      ]
+    },
+    {
+      "slug": "ken",
+      "character_name": "Ken",
+      "total_changes": 1,
+      "changed_moves": [
+        {
+          "web_id": "450",
+          "move_name": "竜巻旋風脚（強）",
+          "character_slug": "ken",
+          "changed_fields": {
+            "block_frame": ["-6", "-4"]
+          },
+          "impact_level": "value_changed"
+        }
+      ]
+    },
+    {
+      "slug": "chunli",
+      "character_name": "Chun-Li",
+      "total_changes": 2,
+      "changed_moves": [
+        {
+          "web_id": "501",
+          "move_name": "百烈脚（最終段）",
+          "character_slug": "chunli",
+          "changed_fields": {
+            "hit_frame": ["-2", "0"]
+          },
+          "impact_level": "value_changed"
+        },
+        {
+          "web_id": "502",
+          "move_name": "鳳翼扇（弱）",
+          "character_slug": "chunli",
+          "changed_fields": {
+            "cancel": ["SPECIAL_MOVE", "SPECIAL_MOVE, SA_CANCEL"]
+          },
+          "impact_level": "property_changed"
+        }
+      ]
+    },
+    {
+      "slug": "guile",
+      "character_name": "Guile",
+      "total_changes": 1,
+      "changed_moves": [
+        {
+          "web_id": "600",
+          "move_name": "ソニックブーム（弱）",
+          "character_slug": "guile",
+          "changed_fields": {
+            "startup_frame": ["14", "13"]
+          },
+          "impact_level": "value_changed"
+        }
+      ]
+    }
+  ]
+}

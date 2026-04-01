@@ -207,6 +207,25 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - Tailwindで動的クラス（`bg-${color}-500` 等）はパージされる。色を動的に変えたい場合はインライン `style` で指定すること
 - Next.js Server Component で `fs` を使うと静的ビルド時にデータを読み込み、`○`（Static）ページとして生成される
 
+### タスク#11: パッチノート表示機能（2026-04-01）
+`data/patches/` からパッチdiffを読み込み、キャラクターページに変更点を表示する機能を実装した。
+
+**変更内容:**
+1. `data/patches/_meta.json` — サンプルパッチエントリ（v1→v2）を追加。スクレイパー実行後は自動更新される
+2. `data/patches/v1_to_v2.json` — サンプルパッチdiff（jamie/ryu/ken/chunli/guile の変更例）
+3. `app/src/components/PatchNotes.tsx` — Server Component。`_meta.json` から最新パッチを特定し、キャラのdiffを表示
+4. `app/src/app/frames/[slug]/page.tsx` — キャラクター名の下に `<PatchNotes slug={slug} />` を追加
+
+**設計のポイント:**
+- PatchNotes は Server Component として `fs.readFileSync` でサーバーサイド読み込み。静的ビルド（SSG）に対応
+- パッチデータが存在しない、またはキャラに変更がない場合は `null` を返してUIに影響を与えない
+- `impact_level` により表示色を分岐: 数値変更=黄色、プロパティ変更=青、追加=緑、削除=赤
+- パッチファイルは `_meta.json` の `patches` 配列の末尾を「最新」として採用
+
+**注意点:**
+- `data/patches/` のdiffファイル名は `v{old}_to_v{new}.json` 形式（`save_diff()` が自動生成）
+- スクレイパーが実際のパッチを処理すると `_meta.json` と差分ファイルが自動更新される
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -215,3 +234,5 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - テストを追加する際: `knowledge.ts` の内部ヘルパー（`detectOpponent` 等）はエクスポート非公開なので、`buildKnowledgeContext` 経由でブラックボックステストとして検証すること
 - サーバーサイド履歴は `app/.data/history/{uuid}.json` に保存。`.data/` は `.gitignore` 済み
 - Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある
+- `PatchNotes` コンポーネントは `app/src/components/PatchNotes.tsx`。パッチデータなし時は `null` 返却で安全（追加のキャラページはそのまま使える）
+- `data/patches/_meta.json` の `patches` 配列末尾が最新パッチ。スクレイパー（`patch_diff.save_diff()`）が自動追記する

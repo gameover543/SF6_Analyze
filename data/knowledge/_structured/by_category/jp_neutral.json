@@ -1701,5 +1701,37 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "643e48767d8f",
+    "category": "neutral",
+    "topic": "有利フレーム時の選択肢",
+    "content": "有利フレームを取った際には、歩き投げ、ストリボーグ、ラッシュ中足の後の小足小P、歩き投げなどを織り交ぜることで、相手の暴れや後ろ歩きを潰し、読み合いの幅を広げることができる。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "有利フレーム時",
+    "source_video_id": "rKyKVNzFIro",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】これができれば \"アル\" も夢じゃない！もはや上級者クラスになった如月れんに本格的コーチングをするどぐら",
+    "source_timestamp": "13:49",
+    "source_quote": "歩き投げとストリボーグでいいのよ。後ろ歩きも潰すし暴れも潰す。これからはラッシュ中足の後、小足小Pと歩き投げを交えていく。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:02:02.161027",
+    "knowledge_type": "technique",
+    "target_rank": "GRANDMASTER",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

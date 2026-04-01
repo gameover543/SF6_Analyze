@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-04-01T21:15:10.021523",
+  "last_updated": "2026-04-02T07:07:33.076833",
   "videos": [
     {
       "video_id": "-TcI1Y2Gdlg",
@@ -16214,6 +16214,66 @@
       "tokens_used": 0,
       "processing_time_seconds": 399.087317943573,
       "processed_at": "2026-04-01T21:15:09.840901",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "FCsE3qhW7fg",
+      "url": "https://www.youtube.com/watch?v=FCsE3qhW7fg",
+      "title": "空澄セナさんにコーチング！まずは使用デバイスやモチベを上げるための重要事項から決めていくマゴ【ストリートファイター6】",
+      "channel_name": "マゴ /MAGO",
+      "status": "completed",
+      "credibility_score": 0.761,
+      "relevance_score": 1.0,
+      "entries_extracted": 10,
+      "tokens_used": 0,
+      "processing_time_seconds": 117.36824917793274,
+      "processed_at": "2026-04-02T06:53:49.327487",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "RJ9AcQpP2ug",
+      "url": "https://www.youtube.com/watch?v=RJ9AcQpP2ug",
+      "title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+      "channel_name": "マゴ /MAGO",
+      "status": "completed",
+      "credibility_score": 0.754,
+      "relevance_score": 1.0,
+      "entries_extracted": 27,
+      "tokens_used": 0,
+      "processing_time_seconds": 235.58907103538513,
+      "processed_at": "2026-04-02T06:57:44.922703",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "rKyKVNzFIro",
+      "url": "https://www.youtube.com/watch?v=rKyKVNzFIro",
+      "title": "【スト６】これができれば \"アル\" も夢じゃない！もはや上級者クラスになった如月れんに本格的コーチングをするどぐら",
+      "channel_name": "どぐら 生駒デビル",
+      "status": "completed",
+      "credibility_score": 0.714,
+      "relevance_score": 1.0,
+      "entries_extracted": 12,
+      "tokens_used": 0,
+      "processing_time_seconds": 257.3247928619385,
+      "processed_at": "2026-04-02T07:02:02.252151",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "37ScTEgjxq0",
+      "url": "https://www.youtube.com/watch?v=37ScTEgjxq0",
+      "title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+      "channel_name": "なるおのひとりでできるもん",
+      "status": "completed",
+      "credibility_score": 0.685,
+      "relevance_score": 0.7,
+      "entries_extracted": 7,
+      "tokens_used": 0,
+      "processing_time_seconds": 330.6205770969391,
+      "processed_at": "2026-04-02T07:07:32.892190",
       "skip_reason": null,
       "error": null
     }

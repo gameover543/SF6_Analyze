@@ -1,5 +1,39 @@
 [
   {
+    "id": "90992843482c",
+    "category": "general",
+    "topic": "通常技のフレーム",
+    "content": "通常技をガードさせた際、キャラによってはガードさせた側が早く動ける（+フレーム）。これはルーク以外のキャラ全てに存在する有利フレームの技。テリーの立ち大Kもその一つ。",
+    "characters": [
+      "terry",
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "通常技ガード時",
+    "source_video_id": "RJ9AcQpP2ug",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+    "source_timestamp": "22:26",
+    "source_quote": "全キャラに1個ぐらいだけプラスフレームがあるんだけど テリーだったらこれ これの場合は動けない。これはもう冷静にガードするしかないね。その後の しゃがみ中Pは そう。しゃがみ中Kを俺は強く言う。そりゃもう。 はい",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T06:57:44.804571",
+    "knowledge_type": "technique",
+    "target_rank": "Master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "9f0dc6256e5e",
     "category": "general",
     "topic": "リリー戦の読み合いのコツ",
@@ -994,6 +1028,40 @@
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "90992843482c",
+    "category": "general",
+    "topic": "通常技のフレーム",
+    "content": "通常技をガードさせた際、キャラによってはガードさせた側が早く動ける（+フレーム）。これはルーク以外のキャラ全てに存在する有利フレームの技。テリーの立ち大Kもその一つ。",
+    "characters": [
+      "terry",
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "通常技ガード時",
+    "source_video_id": "RJ9AcQpP2ug",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+    "source_timestamp": "22:26",
+    "source_quote": "全キャラに1個ぐらいだけプラスフレームがあるんだけど テリーだったらこれ これの場合は動けない。これはもう冷静にガードするしかないね。その後の しゃがみ中Pは そう。しゃがみ中Kを俺は強く言う。そりゃもう。 はい",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T06:57:44.804571",
+    "knowledge_type": "technique",
+    "target_rank": "Master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "108",
+      "109"
+    ],
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""

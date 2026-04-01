@@ -7314,6 +7314,35 @@
     "last_validated_version": ""
   },
   {
+    "id": "1af50e97ce84",
+    "category": "neutral",
+    "topic": "ローリングの駆け引き",
+    "content": "ブランカのローリング（大ローリング）を相手に見せて警戒させることで、相手の行動を制限し、時間稼ぎをすることができる。",
+    "characters": [
+      "blanka"
+    ],
+    "matchup": null,
+    "situation": "立ち回り",
+    "source_video_id": "RJ9AcQpP2ug",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+    "source_timestamp": "00:08",
+    "source_quote": "大ローリングありますよって警戒させるとすごい時間使えるんで",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T06:57:44.804571",
+    "knowledge_type": "technique",
+    "target_rank": "Master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "1327ce2e3a37",
     "category": "matchup",
     "topic": "本田の近距離頭突き対策",

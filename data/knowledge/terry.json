@@ -32988,9 +32988,76 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "90992843482c",
+      "category": "general",
+      "topic": "通常技のフレーム",
+      "content": "通常技をガードさせた際、キャラによってはガードさせた側が早く動ける（+フレーム）。これはルーク以外のキャラ全てに存在する有利フレームの技。テリーの立ち大Kもその一つ。",
+      "characters": [
+        "terry",
+        "blanka"
+      ],
+      "matchup": null,
+      "situation": "通常技ガード時",
+      "source_video_id": "RJ9AcQpP2ug",
+      "source_channel": "マゴ /MAGO",
+      "source_video_title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+      "source_timestamp": "22:26",
+      "source_quote": "全キャラに1個ぐらいだけプラスフレームがあるんだけど テリーだったらこれ これの場合は動けない。これはもう冷静にガードするしかないね。その後の しゃがみ中Pは そう。しゃがみ中Kを俺は強く言う。そりゃもう。 はい",
+      "confidence": 1.0,
+      "channel_trust": 0.8,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-02T06:57:44.804571",
+      "knowledge_type": "technique",
+      "target_rank": "Master",
+      "coaching_context": "",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "105",
+        "108",
+        "109"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
+    },
+    {
+      "id": "bd270e418d1a",
+      "category": "combo",
+      "topic": "TerryのSA2繋ぎコンボ",
+      "content": "テリーのコンボでSA2に繋ぐ場合、しゃがみ中Pからの始動ではSA2が繋がらない。立ち中Pからの始動で弱バーンナックル、強P、SA2と繋ぐのが正しいルート。",
+      "characters": [
+        "terry"
+      ],
+      "matchup": null,
+      "situation": "SA2を組み込んだコンボを狙う場合",
+      "source_video_id": "37ScTEgjxq0",
+      "source_channel": "なるおのひとりでできるもん",
+      "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+      "source_timestamp": "03:26",
+      "source_quote": "「ここから立ち中Pにしてください」って教えてもらったんだけど「しゃがみ中Pじゃダメです」",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-02T07:07:32.779344",
+      "knowledge_type": "technique",
+      "target_rank": "",
+      "coaching_context": "",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "102",
+        "108",
+        "401"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-04-01T18:21:24.855760",
-  "source_video_count": 43,
+  "last_updated": "2026-04-02T07:07:32.869865",
+  "source_video_count": 45,
   "last_validated_version": ""
 }

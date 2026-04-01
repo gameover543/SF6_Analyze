@@ -1897,6 +1897,75 @@
     "last_validated_version": ""
   },
   {
+    "id": "2a06aaed9817",
+    "category": "combo",
+    "topic": "Sagatのコンボ始動",
+    "content": "A.K.I.に対するコンボで、ラッシュ中Pがカウンターヒットした場合、+9Fとなるため、発生8Fの引き大Pが繋がる。この後に中足、SA3と続けると良い。",
+    "characters": [
+      "sagat",
+      "aki"
+    ],
+    "matchup": "aki",
+    "situation": "ラッシュ中Pがカウンターヒットした場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "01:16",
+    "source_quote": "ちゃんと引き大Pなんだよ。これ8フレなんだけど。カウンター確認で。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "403",
+      "406",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b3b81a55eb5",
+    "category": "combo",
+    "topic": "Sagatのダメージ重視コンボ",
+    "content": "A.K.I.に対して、ラッシュ中Pカウンターから引き大Pに繋いだ後、中タイガーアッパーカットにすることでダメージを伸ばすことができる。弱タイガーアッパーカットが約3800ダメージなのに対し、中タイガーアッパーカットは約4000ダメージ。",
+    "characters": [
+      "sagat",
+      "aki"
+    ],
+    "matchup": "aki",
+    "situation": "コンボ中のダメージを最大化したい場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "02:18",
+    "source_quote": "これ中アパカ(始動)だとダメージ高いのよ。4000なんぼぐらい減るんだっけな。弱だと3800ぐらいなんだけど確か。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "305",
+      "306",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "74776ce57d1b",
     "category": "matchup",
     "topic": "大足の確反",
@@ -2982,6 +3051,75 @@
     "video_upload_date": "",
     "referenced_moves": [
       "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2a06aaed9817",
+    "category": "combo",
+    "topic": "Sagatのコンボ始動",
+    "content": "A.K.I.に対するコンボで、ラッシュ中Pがカウンターヒットした場合、+9Fとなるため、発生8Fの引き大Pが繋がる。この後に中足、SA3と続けると良い。",
+    "characters": [
+      "sagat",
+      "aki"
+    ],
+    "matchup": "aki",
+    "situation": "ラッシュ中Pがカウンターヒットした場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "01:16",
+    "source_quote": "ちゃんと引き大Pなんだよ。これ8フレなんだけど。カウンター確認で。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "403",
+      "406",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "5b3b81a55eb5",
+    "category": "combo",
+    "topic": "Sagatのダメージ重視コンボ",
+    "content": "A.K.I.に対して、ラッシュ中Pカウンターから引き大Pに繋いだ後、中タイガーアッパーカットにすることでダメージを伸ばすことができる。弱タイガーアッパーカットが約3800ダメージなのに対し、中タイガーアッパーカットは約4000ダメージ。",
+    "characters": [
+      "sagat",
+      "aki"
+    ],
+    "matchup": "aki",
+    "situation": "コンボ中のダメージを最大化したい場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "02:18",
+    "source_quote": "これ中アパカ(始動)だとダメージ高いのよ。4000なんぼぐらい減るんだっけな。弱だと3800ぐらいなんだけど確か。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "305",
+      "306",
+      "None"
     ],
     "staleness_status": "current",
     "staleness_reason": "",

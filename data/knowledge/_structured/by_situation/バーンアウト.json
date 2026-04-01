@@ -2242,5 +2242,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "23b9dbc79e8b",
+    "category": "general",
+    "topic": "課題解決: ドライブゲージ管理と起き攻め",
+    "content": "ドライブゲージを失っても、無闇にパリィせず、ゲージが溜まったら起き攻めをする。投げを積極的に狙いゲージを回復し、相手にプレッシャーを与える。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "バーンアウト中の行動",
+    "source_video_id": "RJ9AcQpP2ug",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "緊張でランクが回せないわいわいに辛口コーチング！上達するための取り組み方を教えるマゴ【ストリートファイター6】",
+    "source_timestamp": "12:09",
+    "source_quote": "結構バーンアウト多くなっちゃってんだよね それはなんでかっていうと あまり待ててないっていうこととパリィ使っちゃってる ドライブゲージを回復させようと思ってパリィをやってるかもしれないんだけど 結局取れてないしパリィやった後って これね6秒間ぐらい回復しないんだ そう 自動回復が始まらないから だからそこら辺が噛み合ってバーンアウトしてしまうって状況多いから とりあえず無闇にパリィしないとかがあれば 割と バーンアウトすることは減るかもね 了解です で 無くなった時にちゃんと待つ",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T06:57:44.804571",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "Master",
+    "coaching_context": "生徒がバーンアウト中にパリィを多用してしまっている状況に対して、ドライブゲージの回復と起き攻めの重要性をアドバイスしている。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

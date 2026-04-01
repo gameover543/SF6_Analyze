@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-01T21:15:11.364231",
-  "total_entries": 10258,
-  "matchup_indexes": 276,
+  "generated_at": "2026-04-02T07:07:34.447272",
+  "total_entries": 10314,
+  "matchup_indexes": 278,
   "category_indexes": 180,
   "situation_indexes": 9,
   "matchup_pairs": [
@@ -312,9 +312,11 @@
     "ryu_vs_rashid",
     "ryu_vs_ryu",
     "ryu_vs_zangief",
+    "sagat_vs_aki",
     "sagat_vs_honda",
     "sagat_vs_luke",
     "sagat_vs_marisa",
+    "sagat_vs_mbison",
     "sagat_vs_rashid",
     "sagat_vs_ryu",
     "sagat_vs_terry",

@@ -5749,6 +5749,37 @@
     "last_validated_version": ""
   },
   {
+    "id": "9336fac41422",
+    "category": "matchup",
+    "topic": "JPの大Kガード後の攻め",
+    "content": "JPの大Kをガードさせた後の攻めは強力であり、多くのJP使いが困る状況である。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": "大Kガード後",
+    "source_video_id": "rKyKVNzFIro",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】これができれば \"アル\" も夢じゃない！もはや上級者クラスになった如月れんに本格的コーチングをするどぐら",
+    "source_timestamp": "14:58",
+    "source_quote": "多分結構JP使いが困ってそうなのが大Kガードさせ後なんよな。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:02:02.161027",
+    "knowledge_type": "technique",
+    "target_rank": "GRANDMASTER",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "8d9d463e069b",
     "category": "matchup",
     "topic": "マリーザの起き攻めでの攻防",

@@ -3060,5 +3060,79 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "1e52698a8229",
+    "category": "combo",
+    "topic": "Sagatの6454ダメージコンボ",
+    "content": "ベガに対する中央気味始動で6454ダメージを出すコンボルートは、ステハイ > 引き大P > キャンセルドライブラッシュ大K > 中タイガーショット > ドライブラッシュ大K > キャンセルドライブラッシュ大K > 大ニー（タイガーニー） > 中タイガーアッパーカット > SA3。",
+    "characters": [
+      "sagat",
+      "mbison"
+    ],
+    "matchup": "mbison",
+    "situation": "中央気味で大ダメージを狙う場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "13:48",
+    "source_quote": "ステハイ > 引き大P > CDR大K > 中ショット > DR大K > CDR大K > 大ニー > 中アパカ > SA3",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "306",
+      "402",
+      "406",
+      "609",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1e52698a8229",
+    "category": "combo",
+    "topic": "Sagatの6454ダメージコンボ",
+    "content": "ベガに対する中央気味始動で6454ダメージを出すコンボルートは、ステハイ > 引き大P > キャンセルドライブラッシュ大K > 中タイガーショット > ドライブラッシュ大K > キャンセルドライブラッシュ大K > 大ニー（タイガーニー） > 中タイガーアッパーカット > SA3。",
+    "characters": [
+      "sagat",
+      "mbison"
+    ],
+    "matchup": "mbison",
+    "situation": "中央気味で大ダメージを狙う場合",
+    "source_video_id": "37ScTEgjxq0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] A listener asked me about Sagat's combos, so I checked them out using a replay...",
+    "source_timestamp": "13:48",
+    "source_quote": "ステハイ > 引き大P > CDR大K > 中ショット > DR大K > CDR大K > 大ニー > 中アパカ > SA3",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:07:32.779344",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "105",
+      "306",
+      "402",
+      "406",
+      "609",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

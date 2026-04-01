@@ -4122,6 +4122,37 @@
     "last_validated_version": ""
   },
   {
+    "id": "e561aadd962d",
+    "category": "combo",
+    "topic": "JPの簡単かつ強力な連携",
+    "content": "ODトルバランからのSA2（ラヴーシュカ）、またはラッシュ中PからのODトルバランは確定連携として強力に機能するため、躊躇せずに使うべき。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "rKyKVNzFIro",
+    "source_channel": "どぐら 生駒デビル",
+    "source_video_title": "【スト６】これができれば \"アル\" も夢じゃない！もはや上級者クラスになった如月れんに本格的コーチングをするどぐら",
+    "source_timestamp": "11:10",
+    "source_quote": "じゃあ何から発動すんねんっていう話なんやけどもう1番簡単なのはお決まりのこれっす（屈中KからODトルバラン、SA2のコンボ）。ラッシュ大PからODトルバランは連ガ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-02T07:02:02.161027",
+    "knowledge_type": "technique",
+    "target_rank": "GRANDMASTER",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "e8cb8ff037bf",
     "category": "combo",
     "topic": "空中拾い大P→ODヴィーハト後の連携",

@@ -54,7 +54,7 @@
       "neutral": 63,
       "oki": 37,
       "combo": 94,
-      "general": 61
+      "general": 71
     },
     "ken": {
       "neutral": 73,
@@ -67,8 +67,8 @@
     "blanka": {
       "defense": 23,
       "matchup": 19,
-      "general": 12,
-      "neutral": 24,
+      "general": 19,
+      "neutral": 26,
       "combo": 89,
       "oki": 38
     },
@@ -113,12 +113,12 @@
       "combo": 72
     },
     "jp": {
-      "neutral": 54,
-      "combo": 127,
+      "neutral": 55,
+      "combo": 128,
       "defense": 37,
       "oki": 54,
-      "matchup": 33,
-      "general": 26
+      "matchup": 34,
+      "general": 35
     },
     "zangief": {
       "defense": 31,
@@ -156,7 +156,7 @@
       "defense": 48,
       "matchup": 35,
       "neutral": 50,
-      "combo": 135,
+      "combo": 137,
       "oki": 71,
       "general": 39
     },
@@ -171,7 +171,7 @@
     "gouki": {
       "neutral": 33,
       "combo": 136,
-      "general": 18,
+      "general": 20,
       "defense": 37,
       "oki": 68,
       "matchup": 15
@@ -181,16 +181,16 @@
       "defense": 16,
       "neutral": 39,
       "oki": 48,
-      "combo": 96,
+      "combo": 97,
       "general": 23
     },
     "terry": {
       "neutral": 117,
       "defense": 438,
-      "combo": 160,
+      "combo": 161,
       "oki": 98,
       "matchup": 192,
-      "general": 31
+      "general": 32
     },
     "mai": {
       "defense": 24,
@@ -217,7 +217,7 @@
       "oki": 68
     },
     "sagat": {
-      "combo": 155,
+      "combo": 158,
       "oki": 29,
       "defense": 23,
       "neutral": 41,
@@ -233,8 +233,8 @@
       "neutral": 62
     }
   },
-  "total_entries": 10022,
-  "total_videos": 563,
+  "total_entries": 10063,
+  "total_videos": 567,
   "gap_queries": [],
-  "last_updated": "2026-04-01T21:15:10.020503"
+  "last_updated": "2026-04-02T07:07:33.075927"
 }

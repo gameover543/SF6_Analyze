@@ -107,7 +107,32 @@
 - `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
 - `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
 
+### タスク#5: API通信のエラーハンドリング強化（2026-04-01）
+`app/src/hooks/useChatMessages.ts` に `fetchWithRetry` と `getErrorMessage` 関数を追加し、リトライ・タイムアウト・ユーザーフレンドリーなエラーメッセージを実装した。
+
+**変更内容:**
+1. `fetchWithRetry(url, options, maxRetries=2, timeoutMs=45000)` — `AbortController` でタイムアウト管理。5xxエラー・ネットワークエラーを指数バックオフ（1秒→2秒）でリトライ
+2. `getErrorMessage(err, status?)` — エラー種別ごとにメッセージを分岐:
+   - `AbortError`: タイムアウトメッセージ（AIが混雑）
+   - `TypeError`: ネットワーク接続確認を促すメッセージ
+   - 5xx: サーバーエラーメッセージ
+   - その他: 汎用メッセージ
+3. `data.error` 表示を `エラー: xxx` から `⚠️ xxx` に変更
+4. 4xx レスポンスはリトライせずエラーメッセージを即表示
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
 - サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
+- `fetchWithRetry` はサーバーサイドでは使わないこと（`AbortController` はブラウザAPIだが Node.js でも動くため問題はないが、APIルートは直接 `llm.chat()` を呼ぶ設計のまま）

@@ -3,6 +3,59 @@ import { useState, useEffect } from "react";
 import type { UserProfile } from "@/types/profile";
 import { saveChatHistory } from "@/lib/profile-storage";
 
+/** タイムアウト付きfetchを指数バックオフでリトライする */
+async function fetchWithRetry(
+  url: string,
+  options: RequestInit,
+  maxRetries: number = 2,
+  timeoutMs: number = 45000
+): Promise<Response> {
+  let lastError: unknown;
+
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
+    try {
+      const res = await fetch(url, { ...options, signal: controller.signal });
+      clearTimeout(timeoutId);
+
+      // 5xx サーバーエラーはリトライ対象
+      if (res.status >= 500 && attempt < maxRetries) {
+        await new Promise((r) => setTimeout(r, Math.pow(2, attempt) * 1000));
+        continue;
+      }
+
+      return res;
+    } catch (err) {
+      clearTimeout(timeoutId);
+      lastError = err;
+
+      // タイムアウト・ネットワークエラーはリトライ対象
+      if (attempt < maxRetries) {
+        await new Promise((r) => setTimeout(r, Math.pow(2, attempt) * 1000));
+        continue;
+      }
+    }
+  }
+
+  throw lastError;
+}
+
+/** エラーオブジェクトからユーザー向けメッセージを生成する */
+function getErrorMessage(err: unknown, status?: number): string {
+  if (err instanceof DOMException && err.name === "AbortError") {
+    return "応答がタイムアウトしました。AIが混雑しているようです。しばらく待ってから再度お試しください。";
+  }
+  if (err instanceof TypeError) {
+    return "ネットワークに接続できませんでした。インターネット接続を確認してください。";
+  }
+  if (status !== undefined && status >= 500) {
+    return "サーバーで問題が発生しました。しばらく待ってから再度お試しください。";
+  }
+  return "通信エラーが発生しました。もう一度お試しください。";
+}
+
 export interface Message {
   role: "user" | "assistant";
   content: string;
@@ -74,7 +127,7 @@ export function useChatMessages({
     setIsLoading(true);
 
     try {
-      const res = await fetch("/api/chat", {
+      const res = await fetchWithRetry("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -86,12 +139,21 @@ export function useChatMessages({
         }),
       });
 
+      // HTTPレベルのエラー（4xx等）
+      if (!res.ok && res.status < 500) {
+        setMessages([
+          ...newMessages,
+          { role: "assistant", content: getErrorMessage(null, res.status) },
+        ]);
+        return;
+      }
+
       const data = await res.json();
 
       if (data.error) {
         setMessages([
           ...newMessages,
-          { role: "assistant", content: `エラー: ${data.error}` },
+          { role: "assistant", content: `⚠️ ${data.error}` },
         ]);
       } else {
         // カウンセリングモード：プロフィールJSONの抽出を試みる
@@ -113,12 +175,12 @@ export function useChatMessages({
           { role: "assistant", content: data.reply },
         ]);
       }
-    } catch {
+    } catch (err) {
       setMessages([
         ...newMessages,
         {
           role: "assistant",
-          content: "通信エラーが発生しました。もう一度お試しください。",
+          content: getErrorMessage(err),
         },
       ]);
     } finally {

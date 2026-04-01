@@ -159,7 +159,7 @@
       "priority": "medium",
       "subject": "Vercelデプロイ対応（履歴ストレージ移行）",
       "description": "タスク#7で実装したサーバーサイド履歴はfs（.data/history/）ベース。Vercelのサーバーレス環境ではファイルシステムが永続化されないため、Vercel BlobまたはUpstash Redisに移行する。api/history/route.tsのfs操作部分を抽象化し、環境変数でストレージバックエンドを切替可能にする。",
-      "status": "pending",
+      "status": "done",
       "category": "インフラ"
     },
     {

@@ -468,13 +468,44 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `CHAR_JP` は `app/src/lib/characters.ts` に一元管理。新キャラ追加時はここを更新するだけでよい
 - `ehonda`（フレームデータslug）と `honda`（ナレッジデータslug）の両方が `CHAR_JP` に登録されている。どちらのslugでも日本語名を解決できる
 
+### タスク#20: Vercelデプロイ対応（履歴ストレージ移行）（2026-04-01）
+`app/src/app/api/history/route.ts` を Vercel Blob / fs デュアルバックエンド対応に書き換えた。
+
+**変更内容:**
+1. `app/package.json` — `@vercel/blob` を dependencies に追加
+2. `app/src/app/api/history/route.ts` — `BLOB_READ_WRITE_TOKEN` 環境変数の有無でバックエンドを自動切替:
+   - 本番（Vercel）: `BLOB_READ_WRITE_TOKEN` あり → Vercel Blob（`put`/`list`/`del`）を使用
+   - ローカル開発: `BLOB_READ_WRITE_TOKEN` なし → fs（`.data/history/`）を使用
+3. `app/.env.local.example` — `BLOB_READ_WRITE_TOKEN` の説明コメントを追加
+
+**Vercel Blob の使い方:**
+- 保存: `put("sf6-history/{sessionId}.json", content, { access:"public", addRandomSuffix:false })`
+- 取得: `list({ prefix: "sf6-history/{sessionId}.json" })` → `blobs[0].url` を fetch
+- 削除: `list` で URL を特定 → `del(url)`
+
+**設計のポイント:**
+- `USE_BLOB = !!process.env.BLOB_READ_WRITE_TOKEN` でバックエンドを1行で切替
+- ローカル開発は変更なし（fsバックエンドが自動選択される）
+- Vercelダッシュボードで Blob ストアを作成し、`BLOB_READ_WRITE_TOKEN` を環境変数に設定するだけで有効化
+
+**Vercelデプロイ手順（メモ）:**
+1. Vercelダッシュボード → Storage → Create → Blob
+2. プロジェクトにリンクし `BLOB_READ_WRITE_TOKEN` が自動設定されることを確認
+3. デプロイすれば自動的に Blob バックエンドに切り替わる
+
+## 累積した知見・注意点
+
+- `CHAR_JP` は `app/src/lib/characters.ts` に一元管理。新キャラ追加時はここを更新するだけでよい
+- `ehonda`（フレームデータslug）と `honda`（ナレッジデータslug）の両方が `CHAR_JP` に登録されている
+- `api/history/route.ts` のストレージバックエンド切替は `USE_BLOB` フラグ1つで管理。Vercel環境では `BLOB_READ_WRITE_TOKEN` を設定するだけ
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
 - サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
 - テストを追加する際: `detectOpponent` はタスク#18以降 export 済みなので直接テスト可能。`buildKnowledgeContext` 経由のブラックボックステストも引き続き有効
-- サーバーサイド履歴は `app/.data/history/{uuid}.json` に保存。`.data/` は `.gitignore` 済み
-- Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある
+- サーバーサイド履歴: ローカルは `app/.data/history/{uuid}.json`、Vercelは Blob（`sf6-history/{uuid}.json`）を自動選択
+- Vercel Blob ストアはダッシュボードで手動作成が必要。`BLOB_READ_WRITE_TOKEN` を設定すれば本番環境で自動有効化される
 - `PatchNotes` コンポーネントは `app/src/components/PatchNotes.tsx`。パッチデータなし時は `null` 返却で安全
 - `data/patches/_meta.json` の `patches` 配列末尾が最新パッチ。スクレイパー（`patch_diff.save_diff()`）が自動追記する
 - モバイル対応パターン: テキストの短縮は `<span className="sm:hidden">短縮</span><span className="hidden sm:inline">フル</span>` で実装

@@ -125,10 +125,10 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
   }
 
   return (
-    <div className="mb-8 rounded-lg border border-yellow-800/50 bg-yellow-950/20 p-5">
+    <div className="mb-8 rounded-lg border border-yellow-600/30 bg-yellow-500/5 p-5">
       {/* ヘッダー */}
       <div className="mb-4 flex items-center justify-between">
-        <h2 className="text-base font-semibold text-yellow-300">
+        <h2 className="text-base font-semibold text-theme-accent-yellow">
           前回パッチからの変更点
         </h2>
         <span className="text-xs text-theme-subtle">
@@ -145,7 +145,7 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
           >
             {/* 技名 + impactラベル */}
             <div className="mb-2 flex items-center gap-2">
-              <span className="font-medium text-white text-sm">
+              <span className="font-medium text-theme-text text-sm">
                 {move.move_name}
               </span>
               <span

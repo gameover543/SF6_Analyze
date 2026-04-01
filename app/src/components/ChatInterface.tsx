@@ -158,7 +158,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
               <span className="text-xs font-medium text-purple-400 bg-purple-400/10 px-2 py-0.5 rounded">
                 マッチアップ分析
               </span>
-              <span className="text-xs text-gray-300 truncate">
+              <span className="text-xs text-theme-muted truncate">
                 {charName(profile?.mainCharacter || "")} vs {charName(opponentChar)}
               </span>
             </>
@@ -223,7 +223,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
       {/* 確認ダイアログ */}
       {showConfirm && (
         <div className="px-4 py-3 bg-theme-panel border-b border-theme-border flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
-          <span className="text-sm text-gray-300 flex-1">
+          <span className="text-sm text-theme-muted flex-1">
             {showConfirm === "reset-chat"
               ? "会話履歴をクリアしますか？（プロフィールは維持されます）"
               : "プロフィールをリセットして、ヒアリングからやり直しますか？"}
@@ -241,7 +241,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             </button>
             <button
               onClick={() => setShowConfirm(null)}
-              className="text-xs text-gray-500 hover:text-white px-3 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              className="text-xs text-theme-subtle hover:text-theme-text px-3 py-1.5 rounded-lg hover:bg-theme-raised transition"
             >
               キャンセル
             </button>
@@ -280,7 +280,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
                   {isSummaryLoading ? (
                     <p className="text-xs text-theme-muted animate-pulse">要約を生成中...</p>
                   ) : (
-                    <div className="text-sm text-gray-300 space-y-1 [&_h2]:text-xs [&_h2]:font-semibold [&_h2]:text-blue-300 [&_h2]:mt-2 [&_h2]:mb-1 [&_ul]:pl-4 [&_li]:list-disc [&_li]:text-xs [&_li]:text-gray-300 [&_li]:leading-relaxed">
+                    <div className="text-sm text-theme-muted space-y-1 [&_h2]:text-xs [&_h2]:font-semibold [&_h2]:text-theme-accent-blue [&_h2]:mt-2 [&_h2]:mb-1 [&_ul]:pl-4 [&_li]:list-disc [&_li]:text-xs [&_li]:text-theme-muted [&_li]:leading-relaxed">
                       <ReactMarkdown remarkPlugins={[remarkGfm]}>
                         {sessionSummary ?? ""}
                       </ReactMarkdown>

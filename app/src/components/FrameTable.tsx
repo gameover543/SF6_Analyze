@@ -92,7 +92,7 @@ function MoveCard({
     <div className="border border-theme-border rounded-lg p-3 hover:bg-theme-panel/50">
       {/* 技名 + コマンド */}
       <div className="mb-2">
-        <div className="text-white font-medium text-sm">{move.skill}</div>
+        <div className="text-theme-text font-medium text-sm">{move.skill}</div>
         {cmd && (
           <div className="text-theme-muted font-mono text-xs mt-0.5">{cmd}</div>
         )}
@@ -124,7 +124,7 @@ function MoveCard({
         </div>
         <div className="text-center">
           <div className="text-theme-subtle">ダメージ</div>
-          <div className="text-white font-medium">{move.damage || "-"}</div>
+          <div className="text-theme-text font-medium">{move.damage || "-"}</div>
         </div>
       </div>
     </div>
@@ -554,8 +554,8 @@ function MoveTable({
             key={`${move.web_id}-${i}`}
             className="border-b border-theme-border/50 hover:bg-theme-panel/50"
           >
-            <td className="py-2 px-2 text-white">{move.skill}</td>
-            <td className="py-2 px-2 text-gray-300 font-mono text-xs">
+            <td className="py-2 px-2 text-theme-text">{move.skill}</td>
+            <td className="py-2 px-2 text-theme-muted font-mono text-xs">
               {controlType === "classic" ? move.command : move.command_modern}
             </td>
             <td className="py-2 px-2 text-center text-yellow-300">

@@ -132,21 +132,21 @@ export default function MessageList({
                   // 段落
                   p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
                   // 太字・斜体
-                  strong: ({ children }) => <strong className="font-semibold text-white">{children}</strong>,
-                  em: ({ children }) => <em className="italic text-gray-300">{children}</em>,
+                  strong: ({ children }) => <strong className="font-semibold text-theme-text">{children}</strong>,
+                  em: ({ children }) => <em className="italic text-theme-muted">{children}</em>,
                   // リスト
                   ul: ({ children }) => <ul className="list-disc list-inside mb-2 space-y-0.5 pl-1">{children}</ul>,
                   ol: ({ children }) => <ol className="list-decimal list-inside mb-2 space-y-0.5 pl-1">{children}</ol>,
-                  li: ({ children }) => <li className="text-gray-100">{children}</li>,
+                  li: ({ children }) => <li className="text-theme-text">{children}</li>,
                   // インラインコード（コマンド表記用）
                   code: ({ children, className }) => {
                     const isBlock = className?.includes("language-");
                     return isBlock ? (
-                      <code className="block bg-gray-900 text-green-400 text-xs rounded px-3 py-2 my-2 overflow-x-auto font-mono whitespace-pre">
+                      <code className="block bg-theme-panel text-theme-accent-code text-xs rounded px-3 py-2 my-2 overflow-x-auto font-mono whitespace-pre">
                         {children}
                       </code>
                     ) : (
-                      <code className="bg-gray-900 text-green-400 text-xs rounded px-1.5 py-0.5 font-mono">
+                      <code className="bg-theme-panel text-theme-accent-code text-xs rounded px-1.5 py-0.5 font-mono">
                         {children}
                       </code>
                     );
@@ -159,16 +159,16 @@ export default function MessageList({
                       <table className="min-w-full text-xs border-collapse">{children}</table>
                     </div>
                   ),
-                  thead: ({ children }) => <thead className="bg-gray-700">{children}</thead>,
+                  thead: ({ children }) => <thead className="bg-theme-raised">{children}</thead>,
                   tbody: ({ children }) => <tbody>{children}</tbody>,
-                  tr: ({ children }) => <tr className="border-b border-gray-700">{children}</tr>,
-                  th: ({ children }) => <th className="px-3 py-1.5 text-left font-semibold text-gray-200 whitespace-nowrap">{children}</th>,
-                  td: ({ children }) => <td className="px-3 py-1.5 text-gray-300">{children}</td>,
+                  tr: ({ children }) => <tr className="border-b border-theme-border">{children}</tr>,
+                  th: ({ children }) => <th className="px-3 py-1.5 text-left font-semibold text-theme-text whitespace-nowrap">{children}</th>,
+                  td: ({ children }) => <td className="px-3 py-1.5 text-theme-muted">{children}</td>,
                   // 水平線
-                  hr: () => <hr className="border-gray-600 my-2" />,
+                  hr: () => <hr className="border-theme-border my-2" />,
                   // 引用
                   blockquote: ({ children }) => (
-                    <blockquote className="border-l-2 border-gray-500 pl-3 my-2 text-gray-400 italic">
+                    <blockquote className="border-l-2 border-theme-border pl-3 my-2 text-theme-subtle italic">
                       {children}
                     </blockquote>
                   ),

@@ -149,37 +149,37 @@ export default function KnowledgeHighlight({
   if (!data) return null;
 
   return (
-    <div className="mb-8 rounded-lg border border-blue-800/50 bg-blue-950/20 p-5">
+    <div className="mb-8 rounded-lg border border-blue-600/30 bg-blue-500/5 p-5">
       {/* ヘッダー */}
       <div className="mb-4 flex items-center justify-between">
-        <h2 className="text-base font-semibold text-blue-300">
+        <h2 className="text-base font-semibold text-theme-accent-blue">
           AIコーチング ナレッジ
         </h2>
-        <span className="text-xs text-gray-500">
+        <span className="text-xs text-theme-subtle">
           動画 {data.sourceVideoCount} 本 ／ {data.totalEntries} 件のナレッジ
         </span>
       </div>
 
       {/* ダイジェスト概要 */}
       {data.digestIntro && (
-        <p className="mb-4 text-sm text-gray-300 leading-relaxed">
+        <p className="mb-4 text-sm text-theme-muted leading-relaxed">
           {data.digestIntro}
         </p>
       )}
 
       {/* トップカテゴリ */}
       <div className="mb-4">
-        <p className="text-xs text-gray-500 mb-2">人気トピック（上位3件）</p>
+        <p className="text-xs text-theme-subtle mb-2">人気トピック（上位3件）</p>
         <div className="flex flex-wrap gap-2">
           {data.topCategories.map(({ category, count }) => (
             <span
               key={category}
-              className="inline-flex items-center gap-1.5 rounded-full border border-blue-700/40 bg-blue-900/30 px-3 py-1 text-xs"
+              className="inline-flex items-center gap-1.5 rounded-full border border-blue-600/30 bg-blue-500/10 px-3 py-1 text-xs"
             >
-              <span className="text-blue-300">
+              <span className="text-theme-accent-blue">
                 {CATEGORY_LABELS[category] ?? category}
               </span>
-              <span className="text-gray-500">{count}件</span>
+              <span className="text-theme-subtle">{count}件</span>
             </span>
           ))}
         </div>

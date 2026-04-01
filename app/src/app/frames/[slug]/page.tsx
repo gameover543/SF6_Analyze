@@ -30,7 +30,7 @@ export default async function CharacterFramePage({ params }: PageProps) {
           フレームデータ
         </Link>
         <span>/</span>
-        <span className="text-white">{charInfo.name}</span>
+        <span className="text-theme-text">{charInfo.name}</span>
       </div>
 
       <h1 className="text-2xl font-bold mb-6">{charInfo.name}</h1>

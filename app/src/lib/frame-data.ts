@@ -101,11 +101,14 @@ export const CHARACTER_LIST: CharacterInfo[] = [
   { name: "Alex", slug: "alex" },
 ];
 
-/** キャラクターのフレームデータを取得 */
+/** キャラクターのフレームデータを取得（空技名のゴミデータを除外） */
 export function getCharacterFrameData(slug: string): CharacterFrameData {
   const data = FRAME_DATA_MAP[slug];
   if (!data) throw new Error(`キャラクター "${slug}" のデータが見つかりません`);
-  return data;
+  return {
+    ...data,
+    moves: data.moves.filter((m) => m.skill && m.skill.trim() !== ""),
+  };
 }
 
 /** 操作タイプに応じて使用可能な技のみフィルタする */

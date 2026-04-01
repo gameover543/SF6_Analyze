@@ -12,6 +12,10 @@
   --color-theme-text:    var(--theme-text-base);
   --color-theme-muted:   var(--theme-text-muted);
   --color-theme-subtle:  var(--theme-text-subtle);
+  --color-theme-accent-blue:   var(--theme-accent-blue);
+  --color-theme-accent-yellow: var(--theme-accent-yellow);
+  --color-theme-accent-green:  var(--theme-accent-green);
+  --color-theme-accent-code:   var(--theme-accent-code);
 }
 
 /* =============================
@@ -51,4 +55,24 @@
   --theme-text-base:  #ffffff;
   --theme-text-muted: #e5e5e5;
   --theme-text-subtle: #a3a3a3;
+}
+
+/* アクセントカラー: テーマ別で見やすい色に切り替え */
+:root {
+  --theme-accent-blue:   #93c5fd;  /* blue-300 */
+  --theme-accent-yellow: #fcd34d;  /* yellow-300 */
+  --theme-accent-green:  #34d399;  /* green-400 */
+  --theme-accent-code:   #4ade80;  /* green-400 */
+}
+[data-theme="light"] {
+  --theme-accent-blue:   #2563eb;  /* blue-600 */
+  --theme-accent-yellow: #ca8a04;  /* yellow-600 */
+  --theme-accent-green:  #16a34a;  /* green-600 */
+  --theme-accent-code:   #15803d;  /* green-700 */
+}
+[data-theme="high-contrast"] {
+  --theme-accent-blue:   #60a5fa;  /* blue-400 */
+  --theme-accent-yellow: #facc15;  /* yellow-400 */
+  --theme-accent-green:  #4ade80;  /* green-400 */
+  --theme-accent-code:   #4ade80;  /* green-400 */
 }

@@ -556,3 +556,26 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `/api/summary` はPOSTエンドポイント。`messages: ChatMessage[]` を受け取り `{ summary: string }` を返す（エラー時は `{ error: string }`）
 - 要約バナーは `sessionSummary`（string | null）と `isSummaryLoading`（boolean）の2状態で管理。どちらかtrueの場合にバナーを表示
 - `llm.streamChat()` はサーバーサイドで全収集してJSONを返すパターンが確立した（要約のような1ショット用途に使える）
+- `KnowledgeHighlight` は `app/src/components/KnowledgeHighlight.tsx`。ナレッジなし時は `null` 返却。`frames/[slug]/page.tsx` の `PatchNotes` の下・`FrameTable` の上に配置済み
+- フレームデータslug `ehonda` はナレッジslug `honda` に `FRAME_TO_KNOWLEDGE_SLUG` で変換。他のキャラはslugが一致するため変換不要
+- `data/knowledge/_digests/_manifest.json` に `digests` オブジェクト（キャラslug → `{ file, chars }`）。ダイジェストファイル名は `manifest.digests[slug].file` で確認できる
+
+### タスク#23: キャラ別おすすめナレッジ表示（2026-04-02）
+`app/src/components/KnowledgeHighlight.tsx` を新規作成し、`frames/[slug]` ページに組み込んだ。
+
+**実装内容:**
+1. `KnowledgeHighlight` Server Component — `data/knowledge/{slug}.json` からナレッジエントリを読み込み、カテゴリ別集計（上位3件）・ダイジェスト概要・動画数・総エントリ数を表示
+2. `extractDigestIntro()` — ダイジェストMDファイルから最初の本文行（150文字以内）を抽出
+3. `FRAME_TO_KNOWLEDGE_SLUG` マップ — `ehonda → honda` の変換（フレームデータslugとナレッジslugの差異を吸収）
+4. コーチングへの導線ボタン（`/coach?char={slug}`）を配置
+5. `frames/[slug]/page.tsx` に `<KnowledgeHighlight slug={slug} charName={charInfo.name} />` を追加
+
+**設計のポイント:**
+- ナレッジデータが存在しないキャラは `null` 返却でUIに影響なし（静的ビルドも全30キャラ正常）
+- `fs.readFileSync` を使う Server Component のため静的ビルド（SSG `●`）対応
+- `CATEGORY_LABELS` で英語カテゴリ名を日本語表示に変換
+
+### タスク#24 失敗 (2026-04-02 00:08:31)
+- exit code: 1
+- ログ: /Users/yasuwo/Project/SF6/scripts/logs/task_24_20260402_000826.log
+- 次回リトライ時の参考にすること

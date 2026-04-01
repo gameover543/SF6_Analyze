@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getCharacterFrameData, CHARACTER_LIST } from "@/lib/frame-data";
 import FrameTable from "@/components/FrameTable";
 import PatchNotes from "@/components/PatchNotes";
+import KnowledgeHighlight from "@/components/KnowledgeHighlight";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -36,6 +37,9 @@ export default async function CharacterFramePage({ params }: PageProps) {
 
       {/* パッチノート: 最新パッチでの変更点を表示 */}
       <PatchNotes slug={slug} />
+
+      {/* ナレッジハイライト: コーチング機能への導線 */}
+      <KnowledgeHighlight slug={slug} charName={charInfo.name} />
 
       <FrameTable moves={data.moves} characterName={charInfo.name} />
     </div>

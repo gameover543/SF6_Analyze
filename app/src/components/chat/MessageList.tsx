@@ -6,11 +6,13 @@ import type { UserProfile } from "@/types/profile";
 interface MessageListProps {
   messages: Message[];
   isLoading: boolean;
-  mode: "counseling" | "coaching";
+  mode: "counseling" | "coaching" | "matchup";
   profile: UserProfile | null;
   charName: (slug: string) => string;
   /** 例文・クイックスタートボタン押下時に入力欄へテキストをセットするコールバック */
   onExampleClick: (text: string) => void;
+  /** マッチアップモード時の対戦相手キャラslug */
+  opponentChar?: string | null;
 }
 
 /** メッセージ一覧・空状態・ローディング表示を担当するコンポーネント */
@@ -21,6 +23,7 @@ export default function MessageList({
   profile,
   charName,
   onExampleClick,
+  opponentChar,
 }: MessageListProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -47,6 +50,31 @@ export default function MessageList({
               >
                 コーチングを始める
               </button>
+            </>
+          ) : mode === "matchup" && opponentChar ? (
+            <>
+              <p className="text-lg mb-1 text-purple-300">マッチアップ分析モード</p>
+              <p className="text-sm text-gray-400 mb-4">
+                {charName(profile?.mainCharacter || "")} vs {charName(opponentChar)}
+              </p>
+              <p className="text-xs text-gray-600 mb-6">
+                このマッチアップに特化したアドバイスを提供します。
+              </p>
+              <div className="mt-2 flex flex-col gap-2 items-center">
+                {[
+                  `${charName(opponentChar)}に勝つための基本的な立ち回りは？`,
+                  `${charName(opponentChar)}の強い技への対処法は？`,
+                  `${charName(opponentChar)}戦で意識すべきポイントは？`,
+                ].map((example) => (
+                  <button
+                    key={example}
+                    onClick={() => onExampleClick(example)}
+                    className="text-xs text-gray-500 hover:text-white px-3 py-1.5 border border-gray-800 rounded-lg hover:border-gray-600 transition"
+                  >
+                    {example}
+                  </button>
+                ))}
+              </div>
             </>
           ) : (
             <>

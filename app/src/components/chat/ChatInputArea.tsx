@@ -3,7 +3,7 @@
 interface ChatInputAreaProps {
   input: string;
   isLoading: boolean;
-  mode: "counseling" | "coaching";
+  mode: "counseling" | "coaching" | "matchup";
   selectedChars: string[];
   charName: (slug: string) => string;
   onInputChange: (value: string) => void;
@@ -25,7 +25,7 @@ export default function ChatInputArea({
   return (
     <div className="border-t border-gray-800 p-4">
       {/* モバイル: 選択キャラ表示 */}
-      {selectedChars.length > 0 && mode === "coaching" && (
+      {selectedChars.length > 0 && (mode === "coaching" || mode === "matchup") && (
         <div className="flex gap-2 mb-2 sm:hidden">
           {selectedChars.map((slug) => (
             <span
@@ -52,6 +52,8 @@ export default function ChatInputArea({
           placeholder={
             mode === "counseling"
               ? "コーチに話しかけてください..."
+              : mode === "matchup"
+              ? "このマッチアップについて質問..."
               : "質問を入力..."
           }
           className="flex-1 px-4 py-3 rounded-xl bg-gray-900 border border-gray-700 text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"

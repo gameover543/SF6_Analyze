@@ -17,11 +17,13 @@ import type { Message } from "./useChatMessages";
  */
 export function useSessionState(characters: CharacterInfo[]) {
   const [profile, setProfileInternal] = useState<UserProfile | null>(null);
-  const [mode, setMode] = useState<"counseling" | "coaching">("coaching");
+  const [mode, setMode] = useState<"counseling" | "coaching" | "matchup">("coaching");
   const [initialized, setInitialized] = useState(false);
   const [initialHistory, setInitialHistory] = useState<Message[]>([]);
   const [selectedChars, setSelectedChars] = useState<string[]>([]);
   const [charSearch, setCharSearch] = useState("");
+  /** マッチアップモード時の対戦相手キャラslug */
+  const [opponentChar, setOpponentChar] = useState<string | null>(null);
 
   // 初期化：LocalStorageからプロフィールと履歴を読み込む
   useEffect(() => {
@@ -73,6 +75,19 @@ export function useSessionState(characters: CharacterInfo[]) {
     setProfileInternal(null);
     setMode("counseling");
     setSelectedChars([]);
+    setOpponentChar(null);
+  };
+
+  /** マッチアップモードへ移行（対戦相手を指定） */
+  const enterMatchupMode = (opponent: string) => {
+    setOpponentChar(opponent);
+    setMode("matchup");
+  };
+
+  /** マッチアップモードを終了してコーチングモードへ戻す */
+  const exitMatchupMode = () => {
+    setOpponentChar(null);
+    setMode("coaching");
   };
 
   return {
@@ -88,5 +103,8 @@ export function useSessionState(characters: CharacterInfo[]) {
     toggleChar,
     applyProfile,
     resetProfile,
+    opponentChar,
+    enterMatchupMode,
+    exitMatchupMode,
   };
 }

@@ -6,7 +6,7 @@ interface ChatSidebarProps {
   isOpen: boolean;
   onClose: () => void;
   profile: UserProfile | null;
-  mode: "counseling" | "coaching";
+  mode: "counseling" | "coaching" | "matchup";
   selectedChars: string[];
   filteredChars: CharacterInfo[];
   charSearch: string;
@@ -14,9 +14,12 @@ interface ChatSidebarProps {
   onToggleChar: (slug: string) => void;
   onShowConfirm: (type: "reset-chat" | "reset-profile") => void;
   charName: (slug: string) => string;
+  opponentChar: string | null;
+  onEnterMatchup: (opponent: string) => void;
+  onExitMatchup: () => void;
 }
 
-/** コーチングサイドバー：プロフィール表示とキャラ選択を担当 */
+/** コーチングサイドバー：プロフィール表示・キャラ選択・マッチアップ設定を担当 */
 export default function ChatSidebar({
   isOpen,
   onClose,
@@ -29,6 +32,9 @@ export default function ChatSidebar({
   onToggleChar,
   onShowConfirm,
   charName,
+  opponentChar,
+  onEnterMatchup,
+  onExitMatchup,
 }: ChatSidebarProps) {
   return (
     <>
@@ -104,7 +110,7 @@ export default function ChatSidebar({
               onChange={(e) => onCharSearchChange(e.target.value)}
               className="w-full px-2 py-1.5 mb-3 rounded bg-gray-900 border border-gray-700 text-xs text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
             />
-            <div className="flex flex-col gap-1 flex-1 overflow-y-auto">
+            <div className="flex flex-col gap-1 overflow-y-auto" style={{ maxHeight: "160px" }}>
               {filteredChars.map((char) => {
                 const isSelected = selectedChars.includes(char.slug);
                 const isMain = char.slug === profile?.mainCharacter;
@@ -126,12 +132,56 @@ export default function ChatSidebar({
                 );
               })}
             </div>
+
+            {/* マッチアップ分析セクション */}
+            <div className="mt-4 pt-3 border-t border-gray-800">
+              <h3 className="text-sm font-semibold text-gray-400 mb-2">
+                マッチアップ分析
+              </h3>
+              <p className="text-xs text-gray-600 mb-2">
+                対戦相手を選択してアドバイスを絞り込む
+              </p>
+              <div className="flex flex-col gap-1 overflow-y-auto" style={{ maxHeight: "160px" }}>
+                {filteredChars
+                  .filter((c) => c.slug !== profile?.mainCharacter)
+                  .map((char) => (
+                    <button
+                      key={char.slug}
+                      onClick={() => { onEnterMatchup(char.slug); onClose(); }}
+                      className="text-left px-2 py-1.5 rounded text-xs text-gray-400 hover:text-white hover:bg-purple-900/30 transition"
+                    >
+                      vs {char.name}
+                    </button>
+                  ))}
+              </div>
+            </div>
           </>
+        )}
+
+        {/* マッチアップモード時の表示 */}
+        {mode === "matchup" && opponentChar && (
+          <div className="flex flex-col gap-2">
+            <div className="p-3 rounded-lg bg-purple-900/20 border border-purple-700/30">
+              <div className="text-xs text-purple-400 mb-1">マッチアップ分析中</div>
+              <div className="text-sm font-medium text-white">
+                {charName(profile?.mainCharacter || "")} vs {charName(opponentChar)}
+              </div>
+              <div className="text-xs text-gray-500 mt-1">
+                このマッチアップに特化したアドバイスを提供します
+              </div>
+            </div>
+            <button
+              onClick={() => { onExitMatchup(); onClose(); }}
+              className="text-xs text-gray-500 hover:text-white text-left transition px-2 py-1.5 rounded hover:bg-gray-900"
+            >
+              ← 通常コーチングに戻る
+            </button>
+          </div>
         )}
 
         {/* サイドバー下部のアクション */}
         <div className="mt-4 pt-3 border-t border-gray-800 flex flex-col gap-2">
-          {mode === "coaching" && (
+          {(mode === "coaching" || mode === "matchup") && (
             <button
               onClick={() => { onShowConfirm("reset-chat"); onClose(); }}
               className="text-xs text-gray-500 hover:text-white text-left transition"

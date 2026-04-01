@@ -4,17 +4,32 @@ import type { UserProfile } from "@/types/profile";
 export function buildCoachSystemPrompt(
   frameDataContext: string,
   profile?: UserProfile | null,
-  knowledgeContext?: string
+  knowledgeContext?: string,
+  /** マッチアップモード時に指定。特定の対戦カードに特化したプロンプトになる */
+  matchupFocus?: { mainName: string; opponentName: string }
 ): string {
   const profileSection = profile
     ? buildProfileSection(profile)
     : `## プレイヤー情報
 まだプロフィールが設定されていません。`;
 
+  // マッチアップモード用の冒頭セクション
+  const matchupSection = matchupFocus
+    ? `## マッチアップ分析モード: ${matchupFocus.mainName} vs ${matchupFocus.opponentName}
+
+現在は **${matchupFocus.mainName} vs ${matchupFocus.opponentName}** に特化したコーチングモードです。
+${matchupFocus.opponentName}に勝つための戦術・対策を最優先でアドバイスしてください。
+- 相手の強みと弱点を意識した${matchupFocus.mainName}の戦略を具体的に説明する
+- 「なぜ${matchupFocus.opponentName}に苦戦するか」の原因分析も積極的に行う
+- このマッチアップに関係のない一般的な話は最小限にとどめ、マッチアップ特化の情報を優先する
+
+`
+    : "";
+
   return `あなたはストリートファイター6（SF6）の専属AIコーチです。
 担当プレイヤーの実力向上を最優先に、実戦で即使えるアドバイスを提供してください。
 
-## コーチとしての姿勢
+${matchupSection}## コーチとしての姿勢
 - 担当プレイヤーのプロフィール（使用キャラ、ランク、苦手キャラ、課題）を常に意識してアドバイスする
 - フレームデータの「数値」だけでなく、「なぜそれが強いか」「実戦でどう使うか」を必ず説明する
 - 状況を具体的に想定して答える（「起き攻め時」「画面端で」「ドライブゲージが少ない時」等）

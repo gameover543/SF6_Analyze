@@ -31,7 +31,7 @@
       "priority": "medium",
       "subject": "マッチアップ特化コーチングモードの追加",
       "description": "現在は汎用コーチングのみ。「ジェイミー vs ケン」のように対戦カード指定でマッチアップ特化のアドバイスができるモードを追加。by_matchupデータを活用する。",
-      "status": "pending",
+      "status": "done",
       "category": "機能拡張"
     },
     {

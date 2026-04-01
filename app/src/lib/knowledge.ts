@@ -460,3 +460,142 @@ export function buildKnowledgeContext(
 
   return lines.join("\n");
 }
+
+/**
+ * マッチアップ特化コーチング用のナレッジコンテキストを生成
+ *
+ * 通常のbuildKnowledgeContextと異なり、マッチアップデータを全件優先的に含め、
+ * 質問に応じてカテゴリナレッジを補完する構造にする。
+ */
+export function buildMatchupKnowledgeContext(
+  mainSlug: string,
+  opponentSlug: string,
+  recentMessages: string[] = []
+): string {
+  const lines: string[] = [];
+  const mainName = CHAR_JP[mainSlug] || mainSlug;
+  const opponentName = CHAR_JP[opponentSlug] || opponentSlug;
+
+  // === マッチアップデータ（全件） ===
+  const matchupEntries = loadMatchupIndex(mainSlug, opponentSlug);
+  const seenIds = new Set<string>(matchupEntries.map((e) => e.id));
+
+  if (matchupEntries.length > 0) {
+    lines.push(
+      `## ${mainName} vs ${opponentName} マッチアップナレッジ（${matchupEntries.length}件）\n`
+    );
+
+    const patchSummary = loadLatestPatchSummary();
+    if (patchSummary) {
+      lines.push(`### 最新パッチ変更点`);
+      lines.push(patchSummary);
+      lines.push(
+        `（⚠マーク付き知識はこの変更に関連。フレームデータを優先すること）`
+      );
+      lines.push("");
+    }
+
+    for (const entry of matchupEntries) {
+      let stalenessMark = "";
+      if (entry.staleness_status === "confirmed_stale") {
+        stalenessMark = " **[旧バージョン情報]**";
+      } else if (entry.staleness_status === "possibly_stale") {
+        stalenessMark = entry.staleness_reason
+          ? ` ⚠[パッチで変更の可能性: ${entry.staleness_reason}]`
+          : " ⚠[パッチで変更の可能性]";
+      }
+      lines.push(`- **[${entry.category}] ${entry.topic}**${stalenessMark}`);
+      lines.push(`  ${entry.content}`);
+      lines.push("");
+    }
+  } else {
+    lines.push(
+      `## ${mainName} vs ${opponentName} マッチアップナレッジ\n`
+    );
+    lines.push(
+      `（このマッチアップの専用ナレッジはまだ収録されていません）\n`
+    );
+  }
+
+  // === 質問に応じた補完ナレッジ（カテゴリ + キーワードフォールバック） ===
+  const latestQuestion =
+    recentMessages.length > 0
+      ? recentMessages[recentMessages.length - 1]
+      : "";
+
+  if (latestQuestion) {
+    const expandedQuery = expandQuery(latestQuestion);
+
+    // カテゴリ別ナレッジ補完
+    const category = detectCategory(latestQuestion);
+    if (category) {
+      const catEntries = loadCategoryIndex(mainSlug, category).filter(
+        (e) => !seenIds.has(e.id)
+      );
+      const scored = catEntries
+        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+        .filter((s) => s.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 3)
+        .map((s) => s.entry);
+
+      if (scored.length > 0) {
+        lines.push(`## ${mainName} の関連ナレッジ（${scored.length}件）\n`);
+        for (const entry of scored) {
+          lines.push(`- **[${entry.category}] ${entry.topic}**`);
+          lines.push(`  ${entry.content}`);
+          lines.push("");
+          seenIds.add(entry.id);
+        }
+      }
+    }
+
+    // キーワードフォールバック（合計5件未満の場合）
+    const totalSoFar = matchupEntries.length + (seenIds.size - matchupEntries.length);
+    if (totalSoFar < 5) {
+      const needed = 5 - totalSoFar;
+      const allEntries: KnowledgeEntry[] = [];
+      const data = readJsonSafe(
+        path.join(KNOWLEDGE_DIR, `${mainSlug}.json`)
+      ) as { entries: KnowledgeEntry[] } | null;
+      if (data?.entries) allEntries.push(...data.entries);
+
+      const fallback = allEntries
+        .filter((e) => !seenIds.has(e.id))
+        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+        .filter((s) => s.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, needed)
+        .map((s) => s.entry);
+
+      if (fallback.length > 0) {
+        lines.push(
+          `## ${mainName} の追加ナレッジ（${fallback.length}件）\n`
+        );
+        for (const entry of fallback) {
+          lines.push(`- **[${entry.category}] ${entry.topic}**`);
+          lines.push(`  ${entry.content}`);
+          lines.push("");
+        }
+      }
+    }
+  }
+
+  if (lines.length > 0) {
+    lines.push(`### 知識の使い方`);
+    lines.push(
+      `- このマッチアップに特化した視点でアドバイスすること`
+    );
+    lines.push(
+      `- ⚠マーク・[旧バージョン情報]付きの知識は数値を信用せず「パッチで変更された可能性がある」と留保をつけること`
+    );
+    lines.push(
+      `- フレームデータと矛盾する知識はフレームデータを優先すること`
+    );
+    lines.push(
+      `- 情報ソース（チャンネル名・動画名）はユーザーに表示しないこと`
+    );
+  }
+
+  return lines.join("\n");
+}

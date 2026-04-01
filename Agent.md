@@ -79,7 +79,35 @@
 - `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
 - `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
 
+### タスク#4: マッチアップ特化コーチングモードの追加（2026-04-01）
+サイドバーで対戦相手を選択すると "matchup" モードへ移行し、by_matchupデータを全件優先ロードするコーチングを提供する。
+
+**変更ファイル:**
+- `app/src/lib/knowledge.ts` — `buildMatchupKnowledgeContext(mainSlug, opponentSlug, recentMessages)` を追加。マッチアップデータ全件 → カテゴリ補完 → キーワードフォールバックの順で構成
+- `app/src/lib/prompts.ts` — `buildCoachSystemPrompt` に `matchupFocus?: { mainName, opponentName }` を追加。渡すとプロンプト冒頭にマッチアップ分析モードのセクションが挿入される
+- `app/src/app/api/chat/route.ts` — `mode === "matchup"` ブランチを追加。`opponentChar` を受け取りメインキャラ+対戦相手の両フレームデータを注入
+- `app/src/hooks/useSessionState.ts` — `mode` 型を `"counseling" | "coaching" | "matchup"` に拡張。`opponentChar` state・`enterMatchupMode()`・`exitMatchupMode()` を追加
+- `app/src/hooks/useChatMessages.ts` — `mode` 型と `opponentChar?` パラメータを追加。API bodyに `opponentChar` を含める
+- `app/src/components/chat/ChatSidebar.tsx` — コーチングモード時に「マッチアップ分析」セクションを追加（キャラ一覧から対戦相手を選択）。マッチアップモード時は対戦カード表示と「通常コーチングに戻る」ボタンを表示
+- `app/src/components/ChatInterface.tsx` — ツールバーにマッチアップモードバッジ（紫色）と「通常モードへ」ボタンを追加。`handleEnterMatchup`/`handleExitMatchup` で会話クリアも実施
+- `app/src/components/chat/MessageList.tsx` / `ChatInputArea.tsx` — mode型拡張・マッチアップモード用空状態UI・プレースホルダー対応
+
+**設計のポイント:**
+- マッチアップモードへの移行時に `clearMessages()` を呼び、コンテキストを新鮮な状態で開始
+- 既存の counseling/coaching フローは一切変更なし（後方互換）
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+
 ## 次のタスクへの申し送り
 
-- タスク#4（マッチアップ特化コーチングモード）: `by_matchup` データは `_structured/by_matchup/` に格納。`_manifest.json` の `matchup_pairs` で利用可能ペアを確認できる
-- タスク#4では現在の `mode` state（"counseling" | "coaching"）に "matchup" を追加する想定。`useSessionState` の `mode` 型を拡張することになる
+- タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
+- サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）

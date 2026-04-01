@@ -29,6 +29,9 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     toggleChar,
     applyProfile,
     resetProfile,
+    opponentChar,
+    enterMatchupMode,
+    exitMatchupMode,
   } = useSessionState(characters);
 
   const {
@@ -43,6 +46,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     selectedChars,
     profile,
     mode,
+    opponentChar,
     onProfileExtracted: applyProfile,
   });
 
@@ -72,6 +76,18 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     setSidebarOpen(false);
   };
 
+  // マッチアップモードへ移行（会話をクリアして新鮮なコンテキストで開始）
+  const handleEnterMatchup = (opponent: string) => {
+    enterMatchupMode(opponent);
+    clearMessages();
+  };
+
+  // マッチアップモードを終了してコーチングへ戻す
+  const handleExitMatchup = () => {
+    exitMatchupMode();
+    clearMessages();
+  };
+
   if (!initialized) return null;
 
   return (
@@ -95,6 +111,15 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             <span className="text-xs font-medium text-amber-400 bg-amber-400/10 px-2 py-0.5 rounded">
               ヒアリング中
             </span>
+          ) : mode === "matchup" && opponentChar ? (
+            <>
+              <span className="text-xs font-medium text-purple-400 bg-purple-400/10 px-2 py-0.5 rounded">
+                マッチアップ分析
+              </span>
+              <span className="text-xs text-gray-300 truncate">
+                {charName(profile?.mainCharacter || "")} vs {charName(opponentChar)}
+              </span>
+            </>
           ) : (
             <>
               {profile && (
@@ -120,8 +145,17 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
         </div>
 
         {/* アクションボタン */}
-        {mode === "coaching" && (
+        {(mode === "coaching" || mode === "matchup") && (
           <div className="flex items-center gap-1">
+            {mode === "matchup" && (
+              <button
+                onClick={handleExitMatchup}
+                className="text-xs text-purple-400 hover:text-white px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+                title="通常コーチングに戻る"
+              >
+                通常モードへ
+              </button>
+            )}
             <button
               onClick={() => setShowConfirm("reset-chat")}
               className="text-xs text-gray-500 hover:text-white px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
@@ -180,6 +214,9 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
           onToggleChar={toggleChar}
           onShowConfirm={setShowConfirm}
           charName={charName}
+          opponentChar={opponentChar}
+          onEnterMatchup={handleEnterMatchup}
+          onExitMatchup={handleExitMatchup}
         />
 
         {/* チャットエリア */}
@@ -191,6 +228,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             profile={profile}
             charName={charName}
             onExampleClick={setInput}
+            opponentChar={opponentChar}
           />
           <ChatInputArea
             input={input}

@@ -39,7 +39,9 @@ function cleanReplyForDisplay(reply: string): string {
 interface UseChatMessagesParams {
   selectedChars: string[];
   profile: UserProfile | null;
-  mode: "counseling" | "coaching";
+  mode: "counseling" | "coaching" | "matchup";
+  /** マッチアップモード時の対戦相手キャラslug */
+  opponentChar?: string | null;
   /** カウンセリング完了時にプロフィールが抽出されたコールバック */
   onProfileExtracted: (profile: UserProfile) => void;
 }
@@ -48,15 +50,16 @@ export function useChatMessages({
   selectedChars,
   profile,
   mode,
+  opponentChar,
   onProfileExtracted,
 }: UseChatMessagesParams) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
-  // コーチングモードではメッセージ変更のたびに履歴を保存
+  // コーチング・マッチアップモードではメッセージ変更のたびに履歴を保存
   useEffect(() => {
-    if (messages.length > 0 && mode === "coaching") {
+    if (messages.length > 0 && (mode === "coaching" || mode === "matchup")) {
       saveChatHistory(messages);
     }
   }, [messages, mode]);
@@ -79,6 +82,7 @@ export function useChatMessages({
           characterSlugs: selectedChars,
           profile,
           mode,
+          opponentChar: opponentChar || null,
         }),
       });
 

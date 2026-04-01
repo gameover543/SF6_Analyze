@@ -157,9 +157,41 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
 - Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
 
+### タスク#7: チャット履歴のサーバーサイド永続化（2026-04-01）
+ファイルベースのサーバーサイドストレージを追加し、LocalStorageとの二重保存方式を実装した。
+
+**変更内容:**
+1. `app/src/app/api/history/route.ts` — GET/POST エンドポイントを新規作成。`app/.data/history/{sessionId}.json` にファイル保存
+2. `app/src/lib/profile-storage.ts` — `getOrCreateSessionId()` / `getSessionId()` / `clearSessionId()` を追加。UUID を LocalStorage の `sf6coach_session_id` キーで管理
+3. `app/src/hooks/useSessionState.ts` — init を async 化。サーバーAPI → LocalStorage フォールバックの順で履歴を取得。`resetProfile()` で `clearSessionId()` も呼ぶ
+4. `app/src/hooks/useChatMessages.ts` — コーチング/マッチアップ時のメッセージ保存で LocalStorage + サーバーへ非同期 POST（fire-and-forget）
+5. `app/src/components/ChatInterface.tsx` — 「新しい会話」ボタンでサーバー側の履歴ファイルも削除（空配列をPOST）
+6. `app/.gitignore` — `.data/` を追加
+
+**設計のポイント:**
+- セッションIDはLocalStorageに保管。将来の認証導入時はユーザーIDに差し替えるだけで対応可能
+- LocalStorageは常にフォールバックとして維持するため、サーバーが落ちていても動作する
+- `app/.data/history/` はローカル実行前提。Vercel展開時は Blob/KV に差し替えが必要（`route.ts` の `fs` 操作部分のみ変更）
+- セッションIDのバリデーション（UUIDフォーマット正規表現）でパストラバーサル攻撃を防止
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+- Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
+- セッションIDは `profile-storage.ts` の `getOrCreateSessionId()` で取得。コンポーネント側で直接生成しないこと
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
 - サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
 - `fetchWithRetry` はサーバーサイドでは使わないこと（`AbortController` はブラウザAPIだが Node.js でも動くため問題はないが、APIルートは直接 `llm.chat()` を呼ぶ設計のまま）
 - テストを追加する際: `knowledge.ts` の内部ヘルパー（`detectOpponent` 等）はエクスポート非公開なので、`buildKnowledgeContext` 経由でブラックボックステストとして検証すること
+- サーバーサイド履歴は `app/.data/history/{uuid}.json` に保存。`.data/` は `.gitignore` 済み
+- Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある

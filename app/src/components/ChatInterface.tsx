@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import type { CharacterInfo } from "@/types/frame-data";
-import { clearChatHistory } from "@/lib/profile-storage";
+import { clearChatHistory, getSessionId } from "@/lib/profile-storage";
 import { useSessionState } from "@/hooks/useSessionState";
 import { useChatMessages } from "@/hooks/useChatMessages";
 import ChatSidebar from "@/components/chat/ChatSidebar";
@@ -66,6 +66,15 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
     clearChatHistory();
     clearMessages();
     setShowConfirm(null);
+    // サーバー側の履歴も削除（空配列をPOSTすることでファイルを削除）
+    const sessionId = getSessionId();
+    if (sessionId) {
+      fetch("/api/history", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sessionId, messages: [] }),
+      }).catch(() => {});
+    }
   };
 
   // プロフィールごと全リセット

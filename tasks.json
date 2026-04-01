@@ -55,7 +55,7 @@
       "priority": "medium",
       "subject": "チャット履歴のサーバーサイド永続化",
       "description": "現在LocalStorageのみで端末間共有不可。将来的なユーザー認証を見据え、サーバーサイドでの会話履歴保存を検討・実装する。",
-      "status": "pending",
+      "status": "done",
       "category": "機能拡張"
     },
     {

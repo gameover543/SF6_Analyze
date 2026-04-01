@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import type { UserProfile } from "@/types/profile";
-import { saveChatHistory } from "@/lib/profile-storage";
+import { saveChatHistory, getOrCreateSessionId } from "@/lib/profile-storage";
 
 /** タイムアウト付きfetchを指数バックオフでリトライする */
 async function fetchWithRetry(
@@ -113,7 +113,17 @@ export function useChatMessages({
   // コーチング・マッチアップモードではメッセージ変更のたびに履歴を保存
   useEffect(() => {
     if (messages.length > 0 && (mode === "coaching" || mode === "matchup")) {
+      // LocalStorageに即時保存（オフライン時のフォールバック）
       saveChatHistory(messages);
+      // サーバーにも非同期で同期（失敗しても無視）
+      const sessionId = getOrCreateSessionId();
+      fetch("/api/history", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sessionId, messages }),
+      }).catch(() => {
+        // サーバー保存失敗はサイレントに無視（LocalStorageが保険）
+      });
     }
   }, [messages, mode]);
 

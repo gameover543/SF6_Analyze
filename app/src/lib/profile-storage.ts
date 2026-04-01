@@ -2,6 +2,8 @@ import type { UserProfile } from "@/types/profile";
 
 const STORAGE_KEY = "sf6coach_profile";
 const HISTORY_KEY = "sf6coach_chat_history";
+/** セッションIDのLocalStorageキー（サーバー側履歴の識別に使用） */
+const SESSION_ID_KEY = "sf6coach_session_id";
 
 /** プロフィールを保存 */
 export function saveProfile(profile: UserProfile): void {
@@ -51,4 +53,28 @@ export function loadChatHistory(): Array<{
 /** チャット履歴をクリア */
 export function clearChatHistory(): void {
   localStorage.removeItem(HISTORY_KEY);
+}
+
+// ───────────────────────────────────────────────
+// セッションID（サーバーサイド履歴の識別キー）
+// ───────────────────────────────────────────────
+
+/** セッションIDを取得（なければUUIDを生成して保存） */
+export function getOrCreateSessionId(): string {
+  let id = localStorage.getItem(SESSION_ID_KEY);
+  if (!id) {
+    id = crypto.randomUUID();
+    localStorage.setItem(SESSION_ID_KEY, id);
+  }
+  return id;
+}
+
+/** セッションIDを取得（未設定ならnull） */
+export function getSessionId(): string | null {
+  return localStorage.getItem(SESSION_ID_KEY);
+}
+
+/** セッションIDをクリア（プロフィールリセット時） */
+export function clearSessionId(): void {
+  localStorage.removeItem(SESSION_ID_KEY);
 }

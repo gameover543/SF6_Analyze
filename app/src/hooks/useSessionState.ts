@@ -8,6 +8,8 @@ import {
   loadChatHistory,
   clearProfile,
   clearChatHistory,
+  getOrCreateSessionId,
+  clearSessionId,
 } from "@/lib/profile-storage";
 import type { Message } from "./useChatMessages";
 
@@ -25,21 +27,44 @@ export function useSessionState(characters: CharacterInfo[]) {
   /** マッチアップモード時の対戦相手キャラslug */
   const [opponentChar, setOpponentChar] = useState<string | null>(null);
 
-  // 初期化：LocalStorageからプロフィールと履歴を読み込む
+  // 初期化：プロフィールはLocalStorage、履歴はサーバーから取得（failureはLocalStorageにフォールバック）
   useEffect(() => {
-    const savedProfile = loadProfile();
-    if (savedProfile) {
-      setProfileInternal(savedProfile);
-      setMode("coaching");
-      setSelectedChars([savedProfile.mainCharacter]);
-      const savedHistory = loadChatHistory();
-      if (savedHistory.length > 0) {
-        setInitialHistory(savedHistory);
+    const init = async () => {
+      const savedProfile = loadProfile();
+      if (savedProfile) {
+        setProfileInternal(savedProfile);
+        setMode("coaching");
+        setSelectedChars([savedProfile.mainCharacter]);
+
+        // サーバーから履歴を取得して復元
+        try {
+          const sessionId = getOrCreateSessionId();
+          const res = await fetch(`/api/history?sessionId=${sessionId}`);
+          if (res.ok) {
+            const data = await res.json();
+            if (Array.isArray(data.messages) && data.messages.length > 0) {
+              setInitialHistory(data.messages);
+            } else {
+              // サーバーに履歴なし → LocalStorageにフォールバック
+              const local = loadChatHistory();
+              if (local.length > 0) setInitialHistory(local);
+            }
+          } else {
+            const local = loadChatHistory();
+            if (local.length > 0) setInitialHistory(local);
+          }
+        } catch {
+          // ネットワーク等のエラー → LocalStorageにフォールバック
+          const local = loadChatHistory();
+          if (local.length > 0) setInitialHistory(local);
+        }
+      } else {
+        setMode("counseling");
       }
-    } else {
-      setMode("counseling");
-    }
-    setInitialized(true);
+      setInitialized(true);
+    };
+
+    init();
   }, []);
 
   const filteredChars = charSearch
@@ -72,6 +97,8 @@ export function useSessionState(characters: CharacterInfo[]) {
   const resetProfile = () => {
     clearProfile();
     clearChatHistory();
+    // セッションIDもクリアして次回起動時に新規セッションとして扱う
+    clearSessionId();
     setProfileInternal(null);
     setMode("counseling");
     setSelectedChars([]);

@@ -247,8 +247,9 @@ function calcMaxEntries(digestTokens: number, questionLength: number): number {
 /**
  * ユーザーの質問からマッチアップ対象キャラを検出
  * mainSlug（メインキャラ）を除いて最初にマッチしたキャラを返す
+ * route.ts から通常モードでの対戦相手フレームデータ注入にも使用
  */
-function detectOpponent(text: string, mainSlug?: string): string | null {
+export function detectOpponent(text: string, mainSlug?: string): string | null {
   const lower = text.toLowerCase();
   for (const [slug, jp] of Object.entries(CHAR_JP)) {
     // メインキャラ自身はスキップ（「ジェイミーでケンに勝てない」でジェイミーを誤検出しない）

@@ -428,11 +428,31 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `llm.ts` の `chat()` メソッドは削除済み。`streamChat()` のみ使用すること
 - Markdownレンダリングは `react-markdown` + `remark-gfm`（テーブル対応）。assistantメッセージのみ適用。ユーザーメッセージはプレーンテキスト
 
+### タスク#18: 対戦相手のフレームデータもコーチに参照させる（通常モード）（2026-04-01）
+`knowledge.ts` の `detectOpponent` を export し、`route.ts` の通常コーチングモードで対戦相手を自動検出してフレームデータを追加注入するよう改修した。
+
+**変更内容:**
+1. `app/src/lib/knowledge.ts` — `detectOpponent` 関数を `export` に変更（既存のシグネチャ・動作は変更なし）
+2. `app/src/app/api/chat/route.ts` — 通常コーチングモードの `else` ブランチで:
+   - `latestQuestion` をループ外に移動（フレームデータビルドと対戦相手検出の両方で使用）
+   - `detectOpponent(latestQuestion, mainSlug)` で対戦相手を検出
+   - 検出された場合、`slugs.add(detectedOpponent)` でフレームデータ対象に追加
+
+**動作:**
+- 「ケンの昇竜って何フレ？」→ ケンが検出され、ケンのフレームデータがコンテキストに追加される
+- メインキャラ自身は除外されるため誤検出なし（既存の `detectOpponent` の設計を継承）
+- `slugs.slice(0, 3)` の上限あり（メインキャラ + 対戦相手で計2件が通常ケース）
+
+## 累積した知見・注意点
+
+- `detectOpponent` は `knowledge.ts` から `export` されており、`route.ts` から直接インポート可能
+- テストで `detectOpponent` を単体テストしたい場合は `@/lib/knowledge` から import できる（タスク#18以降）
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
 - サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
-- テストを追加する際: `knowledge.ts` の内部ヘルパー（`detectOpponent` 等）はエクスポート非公開なので、`buildKnowledgeContext` 経由でブラックボックステストとして検証すること
+- テストを追加する際: `detectOpponent` はタスク#18以降 export 済みなので直接テスト可能。`buildKnowledgeContext` 経由のブラックボックステストも引き続き有効
 - サーバーサイド履歴は `app/.data/history/{uuid}.json` に保存。`.data/` は `.gitignore` 済み
 - Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある
 - `PatchNotes` コンポーネントは `app/src/components/PatchNotes.tsx`。パッチデータなし時は `null` 返却で安全

@@ -6,7 +6,7 @@ import {
   buildCounselingPrompt,
   formatFrameDataForContext,
 } from "@/lib/prompts";
-import { buildKnowledgeContext, buildMatchupKnowledgeContext } from "@/lib/knowledge";
+import { buildKnowledgeContext, buildMatchupKnowledgeContext, detectOpponent } from "@/lib/knowledge";
 import type { UserProfile } from "@/types/profile";
 
 export async function POST(request: NextRequest) {
@@ -89,14 +89,23 @@ export async function POST(request: NextRequest) {
         slugs.add(profile.mainCharacter);
       }
 
+      // 最新のユーザー質問を取得（フレームデータ選択的注入 + 対戦相手検出に使用）
+      const latestQuestion = messages.filter((m: ChatMessage) => m.role === "user").pop()?.content || "";
+
+      // 質問に対戦相手キャラが含まれている場合は自動的にフレームデータを追加
+      // 例:「ケンの昇竜って何フレ？」→ ケンのフレームデータも注入する
+      const mainSlug = profile?.mainCharacter;
+      const detectedOpponent = latestQuestion ? detectOpponent(latestQuestion, mainSlug) : null;
+      if (detectedOpponent) {
+        slugs.add(detectedOpponent);
+      }
+
       let frameDataContext = "";
       for (const slug of Array.from(slugs).slice(0, 3)) {
         try {
           const data = getCharacterFrameData(slug);
           const controlType = profile?.controlType || "classic";
           const filteredMoves = filterMovesByControlType(data.moves, controlType);
-          // 最新のユーザー質問を渡してフレームデータの選択的注入
-          const latestQuestion = messages.filter((m: ChatMessage) => m.role === "user").pop()?.content || "";
           frameDataContext += formatFrameDataForContext(data.character_name, filteredMoves, latestQuestion);
           frameDataContext += "\n";
         } catch {

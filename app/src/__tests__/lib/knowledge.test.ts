@@ -144,6 +144,175 @@ describe("buildKnowledgeContext", () => {
   });
 });
 
+// --- ナレッジ検索精度評価テストセット ---
+//
+// 典型的な質問パターンに対して「期待される関連エントリが結果に含まれるか（再現率）」と
+// 「無関係なエントリが含まれないか（適合率）」を検証する。
+//
+// テストケース構成:
+//   - related: 質問と関連するエントリ（結果に含まれることを期待）
+//   - unrelated: 質問と無関係なエントリ（結果に含まれないことを期待）
+
+describe("ナレッジ検索精度評価テストセット", () => {
+  // === テスト1: 起き攻めクエリ ===
+  it("[起き攻め] 再現率: 関連エントリ3件が全て結果に含まれる", () => {
+    const r1 = makeEntry({ id: "oki-r1", category: "oki", topic: "起き攻め 重ね セットプレイ", situation: "起き攻め" });
+    const r2 = makeEntry({ id: "oki-r2", category: "oki", topic: "ダウン後 詐欺飛び 安飛び" });
+    const r3 = makeEntry({ id: "oki-r3", category: "oki", topic: "重ね タイミング 調整" });
+    // カテゴリインデックス（by_category/jamie_oki.json）に3件
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).includes("by_category/jamie_oki.json")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).includes("by_category/jamie_oki.json")) return JSON.stringify([r1, r2, r3]);
+      return "";
+    });
+    const result = buildKnowledgeContext(["jamie"], ["ジェイミーの起き攻め方法を教えてください"]);
+    // 再現率チェック: 関連エントリが全て含まれる
+    expect(result).toContain("起き攻め 重ね セットプレイ");
+    expect(result).toContain("ダウン後 詐欺飛び 安飛び");
+    expect(result).toContain("重ね タイミング 調整");
+  });
+
+  it("[起き攻め] 適合率: 非関連エントリ（コンボ）は含まれない", () => {
+    // 関連エントリ（起き攻め）でインデックスを埋める
+    const r1 = makeEntry({ id: "oki-r1", category: "oki", topic: "起き攻め 重ね セットプレイ" });
+    const r2 = makeEntry({ id: "oki-r2", category: "oki", topic: "詐欺飛び 安飛び 起き攻め" });
+    const r3 = makeEntry({ id: "oki-r3", category: "oki", topic: "ダウン後 有利フレーム 活用" });
+    // 非関連エントリ（コンボ）— フォールバックデータに混在
+    const irr1 = makeEntry({ id: "combo-irr1", category: "combo", topic: "基本コンボ レシピ" });
+    const irr2 = makeEntry({ id: "combo-irr2", category: "combo", topic: "高火力 始動技 コンボ" });
+
+    vi.mocked(fs.existsSync).mockImplementation((p) => {
+      const s = String(p);
+      return s.includes("by_category/jamie_oki.json") ||
+             (s.endsWith("jamie.json") && !s.includes("_structured") && !s.includes("_digests"));
+    });
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      const s = String(p);
+      if (s.includes("by_category/jamie_oki.json")) return JSON.stringify([r1, r2, r3]);
+      if (s.endsWith("jamie.json") && !s.includes("_structured") && !s.includes("_digests"))
+        return JSON.stringify({ entries: [r1, r2, r3, irr1, irr2] });
+      return "";
+    });
+    const result = buildKnowledgeContext(["jamie"], ["ジェイミーの起き攻め方法を教えてください"]);
+    // 適合率チェック: 関連エントリ3件でmaxEntries埋まるため非関連は含まれない
+    expect(result).not.toContain("基本コンボ レシピ");
+    expect(result).not.toContain("高火力 始動技 コンボ");
+  });
+
+  // === テスト2: コンボクエリ ===
+  it("[コンボ] カテゴリボーナス: インデックスなし時もカテゴリ一致エントリが優先される", () => {
+    // カテゴリ "combo" のエントリ（カテゴリ直接一致ボーナス +4）
+    const comboEntry = makeEntry({
+      id: "combo-c1",
+      category: "combo",
+      // トピックにコンボ系キーワードがなくても、カテゴリボーナスで上位に来ることを確認
+      topic: "入力 練習 方法",
+    });
+    // カテゴリ "oki" のエントリ（コンボ系キーワードを含む → ボーナスなしでのトピックスコア高め）
+    const okiEntry = makeEntry({
+      id: "oki-o1",
+      category: "oki",
+      topic: "コンボ 後 起き攻め 択", // "コンボ" を含む → トピックマッチ +3
+    });
+
+    // カテゴリインデックスなし。フォールバックのみ
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).endsWith("jamie.json") && !String(p).includes("_structured") && !String(p).includes("_digests")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).endsWith("jamie.json") && !String(p).includes("_structured") && !String(p).includes("_digests"))
+        return JSON.stringify({ entries: [comboEntry, okiEntry] });
+      return "";
+    });
+
+    const result = buildKnowledgeContext(["jamie"], ["コンボのレシピを教えてください"]);
+    // カテゴリボーナス (+4) により combo エントリが oki エントリより先に来る
+    // （oki エントリもスコアがあれば含まれるが、combo エントリが必ず含まれる）
+    expect(result).toContain("入力 練習 方法");
+  });
+
+  // === テスト3: 対策クエリ（マッチアップ検出） ===
+  it("[対策] マッチアップキーワードでケン対策エントリが取得できる", () => {
+    const matchupEntry = makeEntry({
+      id: "mu-k1",
+      category: "matchup",
+      topic: "ケン 対策 立ち回り",
+      matchup: "ケン",
+    });
+    // カテゴリインデックス（matchup）
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).includes("by_category/jamie_matchup.json")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).includes("by_category/jamie_matchup.json")) return JSON.stringify([matchupEntry]);
+      return "";
+    });
+    const result = buildKnowledgeContext(["jamie"], ["ケンが苦手なんですが対策を教えてください"]);
+    expect(result).toContain("ケン 対策 立ち回り");
+  });
+
+  // === テスト4: 類義語拡張テスト ===
+  it("[類義語] 「差し合い」→ 立ち回りカテゴリのエントリを取得できる", () => {
+    const neutralEntry = makeEntry({
+      id: "neu-n1",
+      category: "neutral",
+      topic: "立ち回り 中距離 牽制",
+    });
+    // "差し合い" が "立ち回り" の類義語として展開される → neutral カテゴリ検出
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).includes("by_category/jamie_neutral.json")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).includes("by_category/jamie_neutral.json")) return JSON.stringify([neutralEntry]);
+      return "";
+    });
+    // "差し合い" は直接 detectCategory では "neutral" を返さないが
+    // カテゴリキーワードに "差し合い" が含まれているため neutral が検出される
+    const result = buildKnowledgeContext(["jamie"], ["差し合いでどう戦えばいいですか"]);
+    expect(result).toContain("立ち回り 中距離 牽制");
+  });
+
+  // === テスト5: 防御クエリ ===
+  it("[防御] バーンアウト時の守り方クエリで防御エントリが取得できる", () => {
+    const defEntry = makeEntry({
+      id: "def-d1",
+      category: "defense",
+      topic: "バーンアウト 守り 切り返し",
+    });
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).includes("by_category/jamie_defense.json")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).includes("by_category/jamie_defense.json")) return JSON.stringify([defEntry]);
+      return "";
+    });
+    const result = buildKnowledgeContext(["jamie"], ["バーンアウトしてしまったときの守り方を教えてください"]);
+    expect(result).toContain("バーンアウト 守り 切り返し");
+  });
+
+  // === テスト6: OD類義語拡張テスト（新規SYNONYMS検証） ===
+  it("[類義語] 「OD」→ オーバードライブエントリが取得できる", () => {
+    const odEntry = makeEntry({
+      id: "od-o1",
+      category: "combo",
+      topic: "オーバードライブ 活用 コンボ始動",
+    });
+    vi.mocked(fs.existsSync).mockImplementation((p) =>
+      String(p).endsWith("jamie.json") && !String(p).includes("_structured") && !String(p).includes("_digests")
+    );
+    vi.mocked(fs.readFileSync).mockImplementation((p) => {
+      if (String(p).endsWith("jamie.json") && !String(p).includes("_structured") && !String(p).includes("_digests"))
+        return JSON.stringify({ entries: [odEntry] });
+      return "";
+    });
+    // "OD" は "オーバードライブ" の類義語として展開され、"オーバードライブ" トピックにマッチする
+    const result = buildKnowledgeContext(["jamie"], ["ODを使ったコンボを教えてください"]);
+    expect(result).toContain("オーバードライブ 活用 コンボ始動");
+  });
+});
+
 // --- buildMatchupKnowledgeContext ---
 
 describe("buildMatchupKnowledgeContext", () => {

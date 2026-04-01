@@ -61,19 +61,25 @@ const PATCHES_DIR = path.join(process.cwd(), "..", "data", "patches");
 
 const SYNONYMS: Record<string, string[]> = {
   // カテゴリの類義語
-  "起き攻め": ["セットプレイ", "重ね", "ダウン後", "有利フレーム", "詐欺飛び", "安飛び"],
-  "立ち回り": ["差し合い", "間合い", "牽制", "置き技", "地上戦", "中距離"],
-  "コンボ": ["繋がる", "レシピ", "火力", "ダメージ", "始動"],
-  "対策": ["対面", "苦手", "きつい", "勝てない", "マッチアップ"],
-  "防御": ["守り", "切り返し", "暴れ", "パリィ", "ガード", "バーンアウト"],
-  "対空": ["飛び", "ジャンプ", "落とす", "昇竜"],
+  "起き攻め": ["セットプレイ", "重ね", "ダウン後", "有利フレーム", "詐欺飛び", "安飛び", "起き上がり"],
+  "立ち回り": ["差し合い", "間合い", "牽制", "置き技", "地上戦", "中距離", "距離管理"],
+  "コンボ": ["繋がる", "レシピ", "火力", "ダメージ", "始動", "繋ぎ", "最大コンボ"],
+  "対策": ["対面", "苦手", "きつい", "勝てない", "マッチアップ", "どうする", "対処"],
+  "防御": ["守り", "切り返し", "暴れ", "パリィ", "ガード", "バーンアウト", "無敵", "割り込み"],
+  "対空": ["飛び", "ジャンプ", "落とす", "昇竜", "AA"],
+  "崩し": ["表裏", "投げ", "中段", "下段", "択"],
   // 状況の類義語
-  "画面端": ["端", "壁"],
-  "近距離": ["密着", "接近"],
+  "画面端": ["端", "壁", "コーナー"],
+  "近距離": ["密着", "接近", "至近距離"],
   // システムの類義語
   "ドライブラッシュ": ["ラッシュ", "DR"],
   "ドライブインパクト": ["インパクト", "DI"],
-  "確定反撃": ["確反"],
+  "確定反撃": ["確反", "確定"],
+  "オーバードライブ": ["OD", "EX技", "EX"],
+  "スーパーアーツ": ["SA", "超必", "クリティカルアーツ", "CA"],
+  "投げ": ["コマ投げ", "スクリュー", "グラップ"],
+  "中段": ["オーバーヘッド", "中段攻撃"],
+  "ドライブゲージ": ["ゲージ管理", "ゲージ消費"],
 };
 
 // キャラslug → 日本語名
@@ -312,9 +318,22 @@ function expandQuery(text: string): string {
 
 // --- スコアリング ---
 
-function scoreEntry(entry: KnowledgeEntry, expandedQuery: string): number {
+/**
+ * ナレッジエントリとクエリの関連スコアを計算する
+ * @param entry スコアリング対象のエントリ
+ * @param expandedQuery 類義語拡張済みのクエリ文字列
+ * @param detectedCategory クエリから検出したカテゴリ（マッチ時に+4ボーナス）
+ */
+function scoreEntry(
+  entry: KnowledgeEntry,
+  expandedQuery: string,
+  detectedCategory?: string | null
+): number {
   let score = 0;
   const q = expandedQuery.toLowerCase();
+
+  // カテゴリ直接一致ボーナス（質問の意図と合致するエントリを優先）
+  if (detectedCategory && entry.category === detectedCategory) score += 4;
 
   // トピック一致
   const topicWords = entry.topic.split(/[\s、。]+/).filter((w) => w.length >= 2);
@@ -322,9 +341,9 @@ function scoreEntry(entry: KnowledgeEntry, expandedQuery: string): number {
     if (q.includes(w.toLowerCase())) score += 3;
   }
 
-  // content内のキーワード一致
-  const contentWords = entry.content.substring(0, 100).split(/[\s、。]+/).filter((w) => w.length >= 3);
-  for (const w of contentWords.slice(0, 10)) {
+  // content内のキーワード一致（200文字・15ワードに拡張）
+  const contentWords = entry.content.substring(0, 200).split(/[\s、。]+/).filter((w) => w.length >= 3);
+  for (const w of contentWords.slice(0, 15)) {
     if (q.includes(w.toLowerCase())) score += 1;
   }
 
@@ -387,6 +406,9 @@ export function buildKnowledgeContext(
   // ダイジェスト消費後のトークン残量と質問の複雑さからエントリ上限を決定
   const maxEntries = calcMaxEntries(digestTokens, latestQuestion.length);
 
+  // スコアリングで使うカテゴリを事前検出（層3フォールバックでも使用）
+  const detectedCategory = latestQuestion ? detectCategory(latestQuestion) : null;
+
   let indexEntries: KnowledgeEntry[] = [];
 
   if (latestQuestion) {
@@ -398,9 +420,8 @@ export function buildKnowledgeContext(
     }
 
     // カテゴリ検出
-    const category = detectCategory(latestQuestion);
-    if (category && mainSlug) {
-      const catEntries = loadCategoryIndex(mainSlug, category);
+    if (detectedCategory && mainSlug) {
+      const catEntries = loadCategoryIndex(mainSlug, detectedCategory);
       indexEntries.push(...catEntries);
     }
 
@@ -428,7 +449,7 @@ export function buildKnowledgeContext(
   const expandedQuery = latestQuestion ? expandQuery(latestQuestion) : "";
   if (indexEntries.length > 0 && expandedQuery) {
     indexEntries = indexEntries
-      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery, detectedCategory) }))
       .sort((a, b) => b.score - a.score)
       .slice(0, maxEntries)
       .map((s) => s.entry);
@@ -452,7 +473,7 @@ export function buildKnowledgeContext(
 
     fallbackEntries = allEntries
       .filter((e) => !seenIds.has(e.id))
-      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+      .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery, detectedCategory) }))
       .filter((s) => s.score > 0)
       .sort((a, b) => b.score - a.score)
       .slice(0, needed)
@@ -617,7 +638,7 @@ export function buildMatchupKnowledgeContext(
         (e) => !seenIds.has(e.id)
       );
       const scored = catEntries
-        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery, category) }))
         .filter((s) => s.score > 0)
         .sort((a, b) => b.score - a.score)
         .slice(0, 3)
@@ -644,9 +665,10 @@ export function buildMatchupKnowledgeContext(
       ) as { entries: KnowledgeEntry[] } | null;
       if (data?.entries) allEntries.push(...data.entries);
 
+      const matchupDetectedCategory = detectCategory(latestQuestion);
       const fallback = allEntries
         .filter((e) => !seenIds.has(e.id))
-        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery) }))
+        .map((e) => ({ entry: e, score: scoreEntry(e, expandedQuery, matchupDetectedCategory) }))
         .filter((s) => s.score > 0)
         .sort((a, b) => b.score - a.score)
         .slice(0, needed)

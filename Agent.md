@@ -391,3 +391,60 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `ab_benchmark.py` のバリアント追加方法: `VARIANTS` 辞書に `VariantConfig` を追加するだけ。既存テスト結果とJSONで比較できる
 - ベンチマーク結果は `scraper/logs/ab_benchmark_results.json`（gitignore対象外なので注意）。大量実行時は `--output` で別ファイルに保存すること
 - `--skip-eval` オプションで評価なし（応答生成のみ）に切り替え可能。APIコスト節約や応答プレビュー確認に使う
+
+### タスク#17: 会話のMarkdownレンダリング強化（2026-04-01）
+`MessageList.tsx` に `react-markdown` + `remark-gfm` を導入し、AIの応答をMarkdown→HTMLとしてリッチ表示するよう改修した。
+
+**変更内容:**
+- `app/package.json` — `react-markdown`・`remark-gfm` を dependencies に追加
+- `app/src/components/chat/MessageList.tsx` — assistantメッセージのみ `<ReactMarkdown>` でレンダリング（ユーザーメッセージは従来通りプレーンテキスト）
+- カスタム `components` マップで全要素にTailwindクラスを適用:
+  - `h1`/`h2`/`h3`: 見出しスタイル
+  - `strong`/`em`: 太字・斜体
+  - `ul`/`ol`/`li`: リスト
+  - `code`/`pre`: インラインコード（`bg-gray-900 text-green-400`）・コードブロック
+  - `table`/`thead`/`tbody`/`tr`/`th`/`td`: テーブル（`overflow-x-auto` でスクロール対応）
+  - `blockquote`/`hr`: 引用・水平線
+
+**設計のポイント:**
+- ユーザーメッセージは `whitespace-pre-wrap` のプレーンテキストのまま（Markdownは解釈しない）
+- assistantメッセージのみ `<ReactMarkdown>` でレンダリング。条件分岐でロールを判定
+- テーブルは `overflow-x-auto` ラッパーでモバイル対応済み
+- コードブロック判定: `className?.includes("language-")` でインラインコードとブロックコードを区別
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+- Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
+- セッションIDは `profile-storage.ts` の `getOrCreateSessionId()` で取得。コンポーネント側で直接生成しないこと
+- ナレッジのトークン予算: `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`
+- `llm.ts` の `chat()` メソッドは削除済み。`streamChat()` のみ使用すること
+- Markdownレンダリングは `react-markdown` + `remark-gfm`（テーブル対応）。assistantメッセージのみ適用。ユーザーメッセージはプレーンテキスト
+
+## 次のタスクへの申し送り
+
+- タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
+- サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
+- テストを追加する際: `knowledge.ts` の内部ヘルパー（`detectOpponent` 等）はエクスポート非公開なので、`buildKnowledgeContext` 経由でブラックボックステストとして検証すること
+- サーバーサイド履歴は `app/.data/history/{uuid}.json` に保存。`.data/` は `.gitignore` 済み
+- Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある
+- `PatchNotes` コンポーネントは `app/src/components/PatchNotes.tsx`。パッチデータなし時は `null` 返却で安全
+- `data/patches/_meta.json` の `patches` 配列末尾が最新パッチ。スクレイパー（`patch_diff.save_diff()`）が自動追記する
+- モバイル対応パターン: テキストの短縮は `<span className="sm:hidden">短縮</span><span className="hidden sm:inline">フル</span>` で実装
+- `FrameTable.tsx` のタイプフィルターは横スクロール方式（折り返しなし）。ボタンに `shrink-0` を忘れずつけること
+- SSEバッファ処理の定石: `buffer += decode(value, { stream: true })` → `split("\n")` → `buffer = lines.pop() || ""`（末尾の不完全行をバッファに残す）
+- カウンセリングモードのプロフィールJSON抽出は全文受信後に実施。ストリーミング中間でJSONブロックが分割される可能性があるため
+- ナレッジトークン予算の定数は `knowledge.ts` の `DIGEST_MAX_TOKENS=1200`, `KNOWLEDGE_TOKEN_BUDGET=3500`, `AVG_ENTRY_TOKENS=150`
+- `_digests/` の再生成はプロジェクトルートから `python -m video_knowledge.digest_generator` で実行。約17分かかる（29キャラ × API呼び出し + 3秒スリープ）
+- `scoreEntry()` の第3引数 `detectedCategory` はオプショナル。省略すると旧動作と同じ（カテゴリボーナスなし）
+- `ab_benchmark.py` のバリアント追加方法: `VARIANTS` 辞書に `VariantConfig` を追加するだけ
+- ベンチマーク結果は `scraper/logs/ab_benchmark_results.json`。大量実行時は `--output` で別ファイルに保存すること
+- `react-markdown` の `components` プロップで各要素のレンダリングをカスタマイズ可能。Tailwindクラスを直接適用する方式（グローバルCSS不要）
+- インラインコードとコードブロックの区別: `code` コンポーネントの `className` が `language-*` を含むかどうかで判定すること

@@ -135,7 +135,7 @@
       "priority": "medium",
       "subject": "会話のMarkdownレンダリング強化",
       "description": "コーチの応答にはフレームデータの表形式やコンボレシピのリスト、強調テキスト等が含まれるが、現在はプレーンテキストとして表示。react-markdownまたは同等のライブラリを導入し、AIの応答をMarkdown→HTMLとしてリッチに表示する。テーブル、コードブロック（コマンド表記用）、太字、リスト等に対応する。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     },
     {

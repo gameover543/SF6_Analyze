@@ -1,0 +1,22 @@
+タスク#20が完了しました。
+
+## 実施内容
+
+**変更ファイル:**
+- `app/src/app/api/history/route.ts` — Vercel Blob / fs デュアルバックエンド対応
+- `app/package.json` + `package-lock.json` — `@vercel/blob` 追加
+- `app/.env.local.example` — `BLOB_READ_WRITE_TOKEN` の説明を追記
+
+**仕組み:**
+```
+BLOB_READ_WRITE_TOKEN 未設定（ローカル）
+→ fs バックエンド（.data/history/）← 従来通り動作
+
+BLOB_READ_WRITE_TOKEN 設定済み（Vercel本番）
+→ Vercel Blob バックエンド（sf6-history/{uuid}.json）
+```
+
+**Vercelデプロイ時の手順（残タスク）:**
+1. Vercelダッシュボード → Storage → Blob ストアを作成
+2. プロジェクトにリンク（`BLOB_READ_WRITE_TOKEN` が自動設定される）
+3. デプロイするだけ — コード変更不要で切り替わります

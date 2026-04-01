@@ -1,0 +1,10 @@
+タスク#23 完了です。
+
+**実施内容:**
+- `KnowledgeHighlight.tsx` を新規作成（Server Component）
+  - ナレッジデータから人気カテゴリ上位3件・ダイジェスト概要・動画数を表示
+  - `ehonda → honda` のslug変換対応
+  - ナレッジなし時は非表示（既存UIに影響なし）
+  - 「コーチに聞く」ボタンでコーチング機能への導線
+- `frames/[slug]/page.tsx` に組み込み（PatchNotes の下・FrameTable の上）
+- ビルド確認: 全30キャラ静的生成成功

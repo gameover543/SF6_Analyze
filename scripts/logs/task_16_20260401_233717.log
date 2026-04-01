@@ -1,0 +1,33 @@
+タスク#16 完了しました。
+
+## 実装内容
+
+`scraper/ab_benchmark.py` を新規作成しました。
+
+### 主な機能
+
+**5つのベンチマーク質問セット (`BENCHMARK_CASES`)**
+- ナレッジ活用テスト（ジェイミー: 酔いレベル）
+- フレーム引用テスト（ケン: 確反始動）
+- システム知識テスト（春麗: ドライブゲージ管理）
+- 対戦知識テスト（豪鬼: ガイル戦）
+- モダン操作テスト（リュウ: 初心者コンボ）
+
+**5つのバリアント (`VARIANTS`)**
+
+| バリアント | 内容 |
+|---|---|
+| `baseline` | 現行設定（ダイジェスト+エントリ8件+フレーム15技） |
+| `no_knowledge` | ナレッジなし（フレームデータのみ） |
+| `no_digest` | ダイジェストなし（エントリのみ） |
+| `more_entries` | ナレッジエントリ増加（最大15件） |
+| `strict_prompt` | 厳格プロンプト（フレーム引用を義務付け） |
+
+**LLM-as-a-Judge評価**: Gemini 2.5 Flashがジャッジ役として各応答を正確性・実用性・フレーム引用の3軸（1-5点）で採点し、バリアント比較表を出力します。
+
+### 実行方法
+```bash
+cd scraper && python ab_benchmark.py                          # 全バリアント×全ケース
+cd scraper && python ab_benchmark.py --variants baseline,no_knowledge
+cd scraper && python ab_benchmark.py --skip-eval             # 応答のみ（評価なし）
+```

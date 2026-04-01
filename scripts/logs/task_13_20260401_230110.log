@@ -1,0 +1,23 @@
+タスク#13完了です。
+
+---
+
+## 実施内容まとめ
+
+**`app/src/lib/knowledge.ts`** に以下を追加・変更しました:
+
+### 新規追加（3関数 + 定数）
+| 定数/関数 | 役割 |
+|---|---|
+| `DIGEST_MAX_TOKENS = 1200` | ダイジェストのトークン上限 |
+| `KNOWLEDGE_TOKEN_BUDGET = 3500` | ナレッジ全体の予算 |
+| `AVG_ENTRY_TOKENS = 150` | エントリ1件の平均 |
+| `estimateTokens(text)` | 日本語/ASCII混在テキストのトークン数推定 |
+| `truncateDigest(digest, maxTokens)` | 行単位でダイジェストを圧縮 |
+| `calcMaxEntries(digestTokens, questionLength)` | 残余予算×質問の複雑さからエントリ上限を決定（2〜8件） |
+
+### 変更点
+- `buildKnowledgeContext()` — ダイジェストを `truncateDigest` で圧縮し、ハードコード5件固定 → 動的 `maxEntries` 件に変更
+- `buildMatchupKnowledgeContext()` — マッチアップエントリに上限追加（最大12件）
+
+**効果**: ダイジェストの実際のサイズ（7〜10KB ≈ 3,500〜5,000トークン）を約70%削減。短い質問では3件、複雑な質問では最大7件と、コンテキストを無駄なく活用できます。

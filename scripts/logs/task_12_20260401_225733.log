@@ -1,0 +1,11 @@
+タスク#12「ストリーミング応答の実装」完了しました。
+
+## 実装内容
+
+| ファイル | 変更 |
+|---|---|
+| `app/src/lib/llm.ts` | `streamChat()` メソッド追加（AsyncGenerator）。Gemini は `sendMessageStream()` でトークン逐次 yield |
+| `app/src/app/api/chat/route.ts` | `ReadableStream` + SSE形式（`data: {"chunk":"..."}` / `data: [DONE]`）で返却 |
+| `app/src/hooks/useChatMessages.ts` | `fetch` + `ReadableStreamReader` でSSE受信。空のassistantメッセージを事前追加し、チャンクが届くたびにリアルタイム更新 |
+
+これにより、長い回答でも最初のトークンから文字が流れ始め、体感の待ち時間が大幅に短縮されます。カウンセリングモードのプロフィールJSON抽出は全文受信後に処理するため、既存機能も維持されています。

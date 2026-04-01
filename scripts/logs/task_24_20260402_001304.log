@@ -1,0 +1,21 @@
+タスク#24 完了です。
+
+## 実装内容
+
+**テーマ切替機能**をCSS変数 + Tailwind v4で実装しました。
+
+### 変更ポイント
+
+| ファイル | 内容 |
+|--------|------|
+| `globals.css` | CSS変数3テーマ定義 + `@theme inline`でカスタムTailwindカラーとして登録 |
+| `ThemeProvider.tsx` (新規) | LocalStorage保存・`html[data-theme]`切替・ヘッダー埋め込みボタン |
+| `layout.tsx` | ThemeProvider組み込み、固定`dark`クラスを削除 |
+| 全12コンポーネント | `bg-gray-*`/`text-gray-*`を`bg-theme-*`/`text-theme-*`に移行 |
+
+### 3テーマ
+- **ダーク**（デフォルト）: 従来通りの `gray-950` 系
+- **ライト**: 白背景・グレーボーダー
+- **ハイコントラスト**: 真黒背景・白ボーダー（対戦中の視認性重視）
+
+ヘッダー右端のボタン（☀→◑→●）でループ切替。設定はLocalStorageに永続保存されます。

@@ -1,0 +1,19 @@
+タスク#19 完了しました。
+
+**実施内容:**
+
+- `app/src/lib/characters.ts` を新規作成し、`CHAR_JP` を一元定義
+- 以下4ファイルのローカル定義を削除してimportに差し替え:
+  - `knowledge.ts` — `CHAR_JP`
+  - `prompts.ts` — `charNames`
+  - `api/chat/route.ts` — `charNames`
+  - `admin/coverage/page.tsx` — `CHAR_NAME`
+
+**統合時に解消した不整合:**
+| 項目 | 修正前 | 修正後 |
+|------|--------|--------|
+| 本田のslug | `ehonda`/`honda` が混在 | 両方ともキー登録、どちらでも解決可能 |
+| aki の名前 | `"アキ"` vs `"A.K.I."` | `"A.K.I."` に統一 |
+| cviper の名前 | `"バイパー"` vs `"C.ヴァイパー"` | `"C.ヴァイパー"` に統一 |
+
+今後のキャラ追加は `characters.ts` の1箇所を編集するだけで全箇所に反映されます。

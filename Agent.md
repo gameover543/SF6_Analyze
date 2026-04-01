@@ -187,6 +187,26 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
 - セッションIDは `profile-storage.ts` の `getOrCreateSessionId()` で取得。コンポーネント側で直接生成しないこと
 
+### タスク#10: ナレッジカバレッジダッシュボード（2026-04-01）
+`app/src/app/admin/coverage/page.tsx` を新規作成し、`/admin/coverage` でカバレッジを可視化。
+
+**実装内容:**
+- `_coverage.json` から総件数・動画数・キャラ別カテゴリカウントを表示
+- `_index.json` の `credibility_score` を10バケットに集計してヒストグラム表示
+- キャラ別テーブル（合計降順）＋インラインバー
+- Next.js Server Component として `fs.readFileSync` でサーバーサイド読み込み → 静的ページ（`○`）としてビルド
+- `layout.tsx` のナビに「カバレッジ」リンクを追加（`text-xs text-gray-600` で控えめ表示）
+
+**注意点:**
+- `_coverage.json` のキャラslugは `honda`（`ehonda` ではない）。`CHAR_NAME` マップで対応
+- `CATEGORY_COLORS` は Tailwind クラスではなくインライン `backgroundColor` を使用（動的クラスはパージされるため）
+
+## 累積した知見・注意点（タスク#10追記）
+
+- `_coverage.json` のキャラslugは `honda`（frame-dataは `ehonda`）。カバレッジ系ページでは `honda` を使うこと
+- Tailwindで動的クラス（`bg-${color}-500` 等）はパージされる。色を動的に変えたい場合はインライン `style` で指定すること
+- Next.js Server Component で `fs` を使うと静的ビルド時にデータを読み込み、`○`（Static）ページとして生成される
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること

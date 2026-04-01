@@ -79,7 +79,7 @@
       "priority": "low",
       "subject": "ナレッジカバレッジダッシュボード",
       "description": "管理者向けに、キャラ別ナレッジ件数・カテゴリ分布・信頼度分布・最終更新日をWeb上で可視化するページを追加。_coverage.jsonのデータを活用。",
-      "status": "pending",
+      "status": "done",
       "category": "管理機能"
     },
     {

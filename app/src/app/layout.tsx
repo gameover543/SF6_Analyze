@@ -49,6 +49,12 @@ export default function RootLayout({
               >
                 AIコーチ
               </Link>
+              <Link
+                href="/admin/coverage"
+                className="text-gray-600 hover:text-gray-400 transition text-xs"
+              >
+                カバレッジ
+              </Link>
             </div>
           </nav>
         </header>

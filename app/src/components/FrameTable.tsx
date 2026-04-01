@@ -245,10 +245,10 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
       {/* コントロール */}
       <div className="flex flex-wrap items-center gap-3 mb-4">
         {/* Classic/Modern切替 */}
-        <div className="flex rounded-lg border border-gray-700 overflow-hidden">
+        <div className="flex rounded-lg border border-gray-700 overflow-hidden shrink-0">
           <button
             onClick={() => setControlType("classic")}
-            className={`px-4 py-2 text-sm font-medium transition ${
+            className={`px-3 sm:px-4 py-2 text-sm font-medium transition ${
               controlType === "classic"
                 ? "bg-blue-600 text-white"
                 : "bg-gray-900 text-gray-400 hover:text-white"
@@ -258,7 +258,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           </button>
           <button
             onClick={() => setControlType("modern")}
-            className={`px-4 py-2 text-sm font-medium transition ${
+            className={`px-3 sm:px-4 py-2 text-sm font-medium transition ${
               controlType === "modern"
                 ? "bg-green-600 text-white"
                 : "bg-gray-900 text-gray-400 hover:text-white"
@@ -268,52 +268,57 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           </button>
         </div>
 
-        {/* 検索 */}
+        {/* 検索: モバイルでは幅いっぱいに展開 */}
         <input
           type="text"
           placeholder="技名・コマンドで検索..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="flex-1 min-w-[160px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
+          className="flex-1 min-w-[120px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
         />
 
-        <span className="text-xs text-gray-500">{sorted.length}技</span>
+        <span className="text-xs text-gray-500 shrink-0">{sorted.length}技</span>
       </div>
 
       {/* 技タイプフィルターボタン */}
-      <div className="flex flex-wrap gap-2 mb-6">
-        {/* 「すべて」ボタン */}
-        <button
-          onClick={() => setTypeFilter(null)}
-          className={`px-3 py-1 rounded-full text-xs font-medium transition border ${
-            typeFilter === null
-              ? "bg-gray-200 text-gray-900 border-gray-200"
-              : "bg-transparent text-gray-400 border-gray-700 hover:border-gray-500 hover:text-white"
-          }`}
-        >
-          すべて
-        </button>
-        {availableTypes.map((t) => (
+      <div className="mb-6">
+        {/* タイプフィルター: 横スクロールで表示（モバイルで折り返しを避ける） */}
+        <div className="flex gap-2 overflow-x-auto scrollbar-none pb-1">
+          {/* 「すべて」ボタン */}
           <button
-            key={t}
-            onClick={() => setTypeFilter(typeFilter === t ? null : t)}
-            className={`px-3 py-1 rounded-full text-xs font-medium transition border ${
-              typeFilter === t
-                ? "bg-blue-600 text-white border-blue-600"
+            onClick={() => setTypeFilter(null)}
+            className={`shrink-0 px-3 py-1 rounded-full text-xs font-medium transition border ${
+              typeFilter === null
+                ? "bg-gray-200 text-gray-900 border-gray-200"
                 : "bg-transparent text-gray-400 border-gray-700 hover:border-gray-500 hover:text-white"
             }`}
           >
-            {TYPE_LABELS[t] || t}
+            すべて
           </button>
-        ))}
-        {/* ソート中の場合はリセットボタンを表示 */}
+          {availableTypes.map((t) => (
+            <button
+              key={t}
+              onClick={() => setTypeFilter(typeFilter === t ? null : t)}
+              className={`shrink-0 px-3 py-1 rounded-full text-xs font-medium transition border ${
+                typeFilter === t
+                  ? "bg-blue-600 text-white border-blue-600"
+                  : "bg-transparent text-gray-400 border-gray-700 hover:border-gray-500 hover:text-white"
+              }`}
+            >
+              {TYPE_LABELS[t] || t}
+            </button>
+          ))}
+        </div>
+        {/* ソート中の場合はリセットボタンを別行に表示 */}
         {sortCol !== null && (
-          <button
-            onClick={() => setSortCol(null)}
-            className="ml-auto px-3 py-1 rounded-full text-xs font-medium text-gray-400 border border-gray-700 hover:border-gray-500 hover:text-white transition"
-          >
-            ソートをリセット
-          </button>
+          <div className="mt-2">
+            <button
+              onClick={() => setSortCol(null)}
+              className="px-3 py-1 rounded-full text-xs font-medium text-gray-400 border border-gray-700 hover:border-gray-500 hover:text-white transition"
+            >
+              ソートをリセット
+            </button>
+          </div>
         )}
       </div>
 

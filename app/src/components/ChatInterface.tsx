@@ -153,31 +153,35 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
           )}
         </div>
 
-        {/* アクションボタン */}
+        {/* アクションボタン: スマホでは「…」メニュー代わりにアイコンのみ表示 */}
         {(mode === "coaching" || mode === "matchup") && (
-          <div className="flex items-center gap-1">
+          <div className="flex items-center gap-0.5 sm:gap-1 shrink-0">
             {mode === "matchup" && (
               <button
                 onClick={handleExitMatchup}
-                className="text-xs text-purple-400 hover:text-white px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+                className="text-xs text-purple-400 hover:text-white px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
                 title="通常コーチングに戻る"
               >
-                通常モードへ
+                {/* スマホ: 短縮表示 */}
+                <span className="sm:hidden">戻る</span>
+                <span className="hidden sm:inline">通常モードへ</span>
               </button>
             )}
             <button
               onClick={() => setShowConfirm("reset-chat")}
-              className="text-xs text-gray-500 hover:text-white px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              className="text-xs text-gray-500 hover:text-white px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
               title="新しい会話を始める"
             >
-              新しい会話
+              <span className="sm:hidden">新規</span>
+              <span className="hidden sm:inline">新しい会話</span>
             </button>
             <button
               onClick={() => setShowConfirm("reset-profile")}
-              className="text-xs text-gray-500 hover:text-orange-400 px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              className="text-xs text-gray-500 hover:text-orange-400 px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
               title="プロフィールを変更する"
             >
-              プロフィール変更
+              <span className="sm:hidden">設定</span>
+              <span className="hidden sm:inline">プロフィール変更</span>
             </button>
           </div>
         )}
@@ -185,28 +189,30 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
 
       {/* 確認ダイアログ */}
       {showConfirm && (
-        <div className="px-4 py-3 bg-gray-900 border-b border-gray-800 flex items-center gap-3">
+        <div className="px-4 py-3 bg-gray-900 border-b border-gray-800 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
           <span className="text-sm text-gray-300 flex-1">
             {showConfirm === "reset-chat"
               ? "会話履歴をクリアしますか？（プロフィールは維持されます）"
               : "プロフィールをリセットして、ヒアリングからやり直しますか？"}
           </span>
-          <button
-            onClick={showConfirm === "reset-chat" ? handleNewChat : handleResetProfile}
-            className={`text-xs font-medium px-3 py-1.5 rounded-lg transition ${
-              showConfirm === "reset-chat"
-                ? "bg-blue-600 hover:bg-blue-500 text-white"
-                : "bg-orange-600 hover:bg-orange-500 text-white"
-            }`}
-          >
-            {showConfirm === "reset-chat" ? "クリア" : "リセット"}
-          </button>
-          <button
-            onClick={() => setShowConfirm(null)}
-            className="text-xs text-gray-500 hover:text-white px-3 py-1.5 rounded-lg hover:bg-gray-800 transition"
-          >
-            キャンセル
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={showConfirm === "reset-chat" ? handleNewChat : handleResetProfile}
+              className={`text-xs font-medium px-3 py-1.5 rounded-lg transition ${
+                showConfirm === "reset-chat"
+                  ? "bg-blue-600 hover:bg-blue-500 text-white"
+                  : "bg-orange-600 hover:bg-orange-500 text-white"
+              }`}
+            >
+              {showConfirm === "reset-chat" ? "クリア" : "リセット"}
+            </button>
+            <button
+              onClick={() => setShowConfirm(null)}
+              className="text-xs text-gray-500 hover:text-white px-3 py-1.5 rounded-lg hover:bg-gray-800 transition"
+            >
+              キャンセル
+            </button>
+          </div>
         </div>
       )}
 

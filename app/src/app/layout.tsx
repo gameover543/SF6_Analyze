@@ -32,26 +32,27 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-gray-950 text-gray-100">
         {/* ヘッダー */}
         <header className="border-b border-gray-800 bg-gray-950/80 backdrop-blur-sm sticky top-0 z-50">
-          <nav className="max-w-7xl mx-auto px-4 h-14 flex items-center gap-8">
-            <Link href="/" className="text-lg font-bold text-white">
+          <nav className="max-w-7xl mx-auto px-4 h-14 flex items-center gap-4 sm:gap-8">
+            <Link href="/" className="text-base sm:text-lg font-bold text-white shrink-0">
               SF6 Coach
             </Link>
-            <div className="flex gap-6 text-sm">
+            {/* ナビリンク: 小画面でも横スクロールして表示 */}
+            <div className="flex gap-4 sm:gap-6 text-sm overflow-x-auto scrollbar-none">
               <Link
                 href="/frames"
-                className="text-gray-400 hover:text-white transition"
+                className="text-gray-400 hover:text-white transition shrink-0"
               >
                 フレームデータ
               </Link>
               <Link
                 href="/coach"
-                className="text-gray-400 hover:text-white transition"
+                className="text-gray-400 hover:text-white transition shrink-0"
               >
                 AIコーチ
               </Link>
               <Link
                 href="/admin/coverage"
-                className="text-gray-600 hover:text-gray-400 transition text-xs"
+                className="text-gray-600 hover:text-gray-400 transition text-xs shrink-0 hidden sm:inline"
               >
                 カバレッジ
               </Link>

@@ -245,6 +245,20 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - フレーム値（block_frame等）は `"~5"`, `"0"`, `"+3"` など文字列。`parseInt` は `+` プレフィックスも正しく数値化する
 - ソート時のグループ解除は UX上自然。フラット表示に切り替えてから「ソートをリセット」でグループ表示に戻る設計
 
+### タスク#9: レスポンシブデザイン・モバイル対応（2026-04-01）
+モバイル表示の最適化を実施。FrameTable.tsxのMoveCard（スマホ用カード表示）は実装済みだったため、周辺UIの改善に集中した。
+
+**変更内容:**
+1. `app/src/app/layout.tsx` — ヘッダーナビをスマホでもオーバーフローしないよう調整。「カバレッジ」リンクは`hidden sm:inline`でスマホ非表示。ナビ全体を`overflow-x-auto scrollbar-none`でスクロール可能に
+2. `app/src/components/ChatInterface.tsx` — ツールバーのアクションボタン（通常モードへ・新しい会話・プロフィール変更）をスマホでは短縮テキストに（`sm:hidden`/`hidden sm:inline`で切替）。確認ダイアログを`flex-col sm:flex-row`で縦積みに対応
+3. `app/src/components/chat/MessageList.tsx` — 空状態の`mt-20`を`mt-8 sm:mt-20`に変更してスマホで余白過多を解消
+4. `app/src/components/FrameTable.tsx` — タイプフィルターボタンを`flex-wrap`→横スクロール（`overflow-x-auto scrollbar-none`）に変更。ソートリセットボタンを別行に分離してレイアウト崩れを防止。コントロール行のボタンに`shrink-0`を追加
+
+**既存のモバイル対応（変更なし）:**
+- `FrameTable.tsx` の `MoveCard` コンポーネント（`md:hidden`）は実装済み
+- `ChatSidebar.tsx` のドロワー＋オーバーレイは実装済み
+- `ChatInputArea.tsx` のキャラ表示は実装済み
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -255,3 +269,5 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - Vercel 等のサーバーレス環境に展開する場合、`app/src/app/api/history/route.ts` の `fs` 操作を Vercel Blob や Upstash KV に差し替える必要がある
 - `PatchNotes` コンポーネントは `app/src/components/PatchNotes.tsx`。パッチデータなし時は `null` 返却で安全（追加のキャラページはそのまま使える）
 - `data/patches/_meta.json` の `patches` 配列末尾が最新パッチ。スクレイパー（`patch_diff.save_diff()`）が自動追記する
+- モバイル対応パターン: テキストの短縮は `<span className="sm:hidden">短縮</span><span className="hidden sm:inline">フル</span>` で実装。横スクロール要素は `overflow-x-auto scrollbar-none` で。折り返し方向切替は `flex-col sm:flex-row`
+- `FrameTable.tsx` のタイプフィルターは横スクロール方式（折り返しなし）。ボタンに `shrink-0` を忘れずつけること

@@ -71,7 +71,7 @@
       "priority": "low",
       "subject": "レスポンシブデザイン・モバイル対応",
       "description": "対戦中にスマホで確認するユースケースを想定し、モバイルでの操作性を最適化。特にフレームデータテーブルとチャットUIのモバイル表示を改善する。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     },
     {

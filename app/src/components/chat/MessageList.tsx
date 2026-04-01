@@ -37,7 +37,7 @@ export default function MessageList({
   return (
     <div className="flex-1 overflow-y-auto p-4 space-y-4">
       {messages.length === 0 && (
-        <div className="text-center text-gray-500 mt-8 sm:mt-20">
+        <div className="text-center text-theme-muted mt-8 sm:mt-20">
           {mode === "counseling" ? (
             <>
               <p className="text-lg mb-2">はじめまして</p>
@@ -56,10 +56,10 @@ export default function MessageList({
           ) : mode === "matchup" && opponentChar ? (
             <>
               <p className="text-lg mb-1 text-purple-300">マッチアップ分析モード</p>
-              <p className="text-sm text-gray-400 mb-4">
+              <p className="text-sm text-theme-muted mb-4">
                 {charName(profile?.mainCharacter || "")} vs {charName(opponentChar)}
               </p>
-              <p className="text-xs text-gray-600 mb-6">
+              <p className="text-xs text-theme-subtle mb-6">
                 このマッチアップに特化したアドバイスを提供します。
               </p>
               <div className="mt-2 flex flex-col gap-2 items-center">
@@ -71,7 +71,7 @@ export default function MessageList({
                   <button
                     key={example}
                     onClick={() => onExampleClick(example)}
-                    className="text-xs text-gray-500 hover:text-white px-3 py-1.5 border border-gray-800 rounded-lg hover:border-gray-600 transition"
+                    className="text-xs text-theme-subtle hover:text-theme-text px-3 py-1.5 border border-theme-border rounded-lg hover:border-theme-raised transition"
                   >
                     {example}
                   </button>
@@ -95,7 +95,7 @@ export default function MessageList({
                   <button
                     key={example}
                     onClick={() => onExampleClick(example)}
-                    className="text-xs text-gray-500 hover:text-white px-3 py-1.5 border border-gray-800 rounded-lg hover:border-gray-600 transition"
+                    className="text-xs text-theme-subtle hover:text-theme-text px-3 py-1.5 border border-theme-border rounded-lg hover:border-theme-raised transition"
                   >
                     {example}
                   </button>
@@ -115,7 +115,7 @@ export default function MessageList({
             className={`max-w-[85%] px-4 py-3 rounded-2xl text-sm leading-relaxed ${
               msg.role === "user"
                 ? "bg-blue-600 text-white whitespace-pre-wrap"
-                : "bg-gray-800 text-gray-100 markdown-body"
+                : "bg-theme-raised text-theme-text markdown-body"
             }`}
           >
             {msg.role === "user" ? (
@@ -183,7 +183,7 @@ export default function MessageList({
 
       {isLoading && (
         <div className="flex justify-start">
-          <div className="bg-gray-800 px-4 py-3 rounded-2xl text-sm text-gray-400">
+          <div className="bg-theme-raised px-4 py-3 rounded-2xl text-sm text-theme-muted">
             考え中...
           </div>
         </div>

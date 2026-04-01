@@ -25,7 +25,7 @@ export default async function CharacterFramePage({ params }: PageProps) {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       {/* パンくず */}
-      <div className="flex items-center gap-2 text-sm text-gray-500 mb-6">
+      <div className="flex items-center gap-2 text-sm text-theme-subtle mb-6">
         <Link href="/frames" className="hover:text-white transition">
           フレームデータ
         </Link>

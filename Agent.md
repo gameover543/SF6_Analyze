@@ -575,7 +575,40 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `fs.readFileSync` を使う Server Component のため静的ビルド（SSG `●`）対応
 - `CATEGORY_LABELS` で英語カテゴリ名を日本語表示に変換
 
-### タスク#24 失敗 (2026-04-02 00:08:31)
-- exit code: 1
-- ログ: /Users/yasuwo/Project/SF6/scripts/logs/task_24_20260402_000826.log
-- 次回リトライ時の参考にすること
+### タスク#24: ダークモード/テーマ切替（2026-04-02）
+CSS変数とTailwind v4の`@theme inline`を組み合わせてテーマ機能を実装した。
+
+**変更内容:**
+1. `app/src/app/globals.css` — CSS変数を定義し、`@theme inline`でカスタムTailwindカラーを追加:
+   - ダーク（デフォルト）/ライト/ハイコントラストの3テーマをCSS変数で管理
+   - `--color-theme-page/panel/raised/border/text/muted/subtle` の7変数
+2. `app/src/components/ThemeProvider.tsx` — 新規作成。LocalStorageから読み込み・保存し、`html[data-theme]`を切り替える。ヘッダーに埋め込む切替ボタンを提供（☀/◑/●アイコン）。SSRハイドレーション対策でmounted後のみ表示
+3. `app/src/app/layout.tsx` — ThemeProviderを組み込み。`html`の固定`dark`クラスを削除し、ボディ色を`bg-theme-page text-theme-text`に変更。ヘッダーナビに切替ボタンを追加
+4. 全12コンポーネント — `bg-gray-950/900/800`、`text-gray-100/400/500/600`、`border-gray-800`等をCSS変数クラスに置換
+
+**テーマ切替マッピング（旧→新）:**
+- `bg-gray-950` → `bg-theme-page`
+- `bg-gray-900` → `bg-theme-panel`
+- `bg-gray-800` → `bg-theme-raised`
+- `border-gray-800` → `border-theme-border`
+- `text-gray-100` → `text-theme-text`
+- `text-gray-400` → `text-theme-muted`
+- `text-gray-500/600` → `text-theme-subtle`
+
+**設計のポイント:**
+- Tailwind v4の`@theme inline`はCSS変数を静的解決せずCSSに出力するため、ランタイムのCSS変数値変更が自動反映される
+- テーマ名は`theme-`プレフィックスで既存のTailwindクラス（`text-base`等）との競合を回避
+- AIメッセージバブル内のMarkdownコード表示（`bg-gray-900`）は固定のままにしてある（コードはダーク背景が標準的なため）
+
+## 累積した知見・注意点
+
+- テーマCSS変数は `globals.css` の`:root`（ダーク）・`[data-theme="light"]`・`[data-theme="high-contrast"]`で定義
+- 新コンポーネントを追加する際は `bg-gray-*` / `text-gray-*` の代わりに `bg-theme-*` / `text-theme-*` クラスを使うこと
+- `ThemeProvider.tsx` から `Theme` 型をimportできる（`"dark" | "light" | "high-contrast"`）
+- `html[data-theme]` 属性でテーマが管理される。`data-theme` なし = ダーク（デフォルト）
+
+## 次のタスクへの申し送り
+
+- `bg-gray-950/900/800` 等のハードコードクラスは既存コンポーネントでは`bg-theme-*`に移行済みだが、新規コンポーネントを作る際は必ず`bg-theme-*`クラスを使うこと
+- AIメッセージのMarkdown内（コードブロック: `bg-gray-900 text-green-400`、テーブルヘッダー: `bg-gray-700`）は固定のまま残している。ライトモードでAIバブル（bg-theme-raised=gray-100）内に暗いコードブロックが浮かぶデザインは意図的
+- ThemeProviderのmounted判定はSSR時のハイドレーション不一致防止のため。削除しないこと

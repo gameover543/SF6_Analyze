@@ -125,7 +125,7 @@ export default function CoveragePage() {
       {/* ページヘッダー */}
       <div className="mb-8">
         <h1 className="text-2xl font-bold mb-1">ナレッジカバレッジ</h1>
-        <p className="text-sm text-gray-400">最終更新: {lastUpdated}</p>
+        <p className="text-sm text-theme-muted">最終更新: {lastUpdated}</p>
       </div>
 
       {/* サマリーカード */}
@@ -143,7 +143,7 @@ export default function CoveragePage() {
         <h2 className="text-lg font-semibold mb-4">カテゴリ別合計</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
           {CATEGORIES.map((cat) => (
-            <div key={cat} className="bg-gray-900 rounded-lg p-4">
+            <div key={cat} className="bg-theme-panel rounded-lg p-4">
               <div className="flex justify-between items-center mb-2">
                 <span className="text-sm text-gray-300">{CATEGORY_LABELS[cat]}</span>
                 <span className="font-mono font-bold">{categoryTotals[cat].toLocaleString()}</span>
@@ -165,7 +165,7 @@ export default function CoveragePage() {
       {/* 動画信頼度分布 */}
       <section className="mb-10">
         <h2 className="text-lg font-semibold mb-4">動画信頼度分布</h2>
-        <div className="bg-gray-900 rounded-lg p-5">
+        <div className="bg-theme-panel rounded-lg p-5">
           {/* バーチャート */}
           <div className="flex items-end gap-1" style={{ height: "120px" }}>
             {credBuckets.map((bucket) => (
@@ -188,12 +188,12 @@ export default function CoveragePage() {
           {/* X軸ラベル */}
           <div className="flex gap-1 mt-1">
             {credBuckets.map((bucket) => (
-              <div key={bucket.range} className="flex-1 text-center text-xs text-gray-500">
+              <div key={bucket.range} className="flex-1 text-center text-xs text-theme-subtle">
                 {bucket.range}
               </div>
             ))}
           </div>
-          <p className="text-xs text-gray-500 mt-3 text-right">
+          <p className="text-xs text-theme-subtle mt-3 text-right">
             信頼度スコア（0.0〜1.0） / 完了動画: {completedVideos.length} 本
           </p>
         </div>
@@ -205,7 +205,7 @@ export default function CoveragePage() {
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
-              <tr className="border-b border-gray-800 text-gray-400">
+              <tr className="border-b border-theme-border text-theme-muted">
                 <th className="text-left py-2 px-3 font-medium">キャラ</th>
                 {CATEGORIES.map((cat) => (
                   <th key={cat} className="text-right py-2 px-2 font-medium whitespace-nowrap">
@@ -220,7 +220,7 @@ export default function CoveragePage() {
               {charStats.map((char) => (
                 <tr
                   key={char.slug}
-                  className="border-b border-gray-800/50 hover:bg-gray-900/50 transition-colors"
+                  className="border-b border-theme-border/50 hover:bg-theme-panel/50 transition-colors"
                 >
                   <td className="py-2 px-3 font-medium whitespace-nowrap">{char.name}</td>
                   {CATEGORIES.map((cat) => (
@@ -259,8 +259,8 @@ export default function CoveragePage() {
 
 function StatCard({ label, value }: { label: string; value: string }) {
   return (
-    <div className="bg-gray-900 rounded-lg p-4">
-      <p className="text-sm text-gray-400 mb-1">{label}</p>
+    <div className="bg-theme-panel rounded-lg p-4">
+      <p className="text-sm text-theme-muted mb-1">{label}</p>
       <p className="text-2xl font-bold font-mono">{value}</p>
     </div>
   );

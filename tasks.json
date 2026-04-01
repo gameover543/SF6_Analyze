@@ -191,7 +191,7 @@
       "priority": "low",
       "subject": "ダークモード/テーマ切替",
       "description": "現在はダーク固定（bg-gray-950系）。対戦中の視認性を考慮したハイコントラストモードや、好みに応じたライトモード切替を実装する。CSS変数でテーマを管理し、LocalStorageに保存。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     },
     {

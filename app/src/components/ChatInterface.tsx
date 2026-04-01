@@ -135,11 +135,11 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
   return (
     <div className="flex flex-col h-[calc(100vh-3.5rem)]">
       {/* ツールバー */}
-      <div className="flex items-center gap-2 px-4 py-2 border-b border-gray-800 bg-gray-950/80">
+      <div className="flex items-center gap-2 px-4 py-2 border-b border-theme-border bg-theme-page/80">
         {/* モバイル: サイドバー開閉 */}
         <button
           onClick={() => setSidebarOpen(!sidebarOpen)}
-          className="md:hidden p-1.5 rounded-lg text-gray-400 hover:text-white hover:bg-gray-800 transition"
+          className="md:hidden p-1.5 rounded-lg text-theme-muted hover:text-theme-text hover:bg-theme-raised transition"
           aria-label="メニュー"
         >
           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -165,7 +165,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
           ) : (
             <>
               {profile && (
-                <span className="text-xs text-gray-400 truncate">
+                <span className="text-xs text-theme-muted truncate">
                   {charName(profile.mainCharacter)} / {profile.rank}
                   {profile.masterRating ? ` (MR${profile.masterRating})` : ""}
                 </span>
@@ -192,7 +192,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             {mode === "matchup" && (
               <button
                 onClick={handleExitMatchup}
-                className="text-xs text-purple-400 hover:text-white px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+                className="text-xs text-purple-400 hover:text-theme-text px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-theme-raised transition"
                 title="通常コーチングに戻る"
               >
                 {/* スマホ: 短縮表示 */}
@@ -202,7 +202,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             )}
             <button
               onClick={() => setShowConfirm("reset-chat")}
-              className="text-xs text-gray-500 hover:text-white px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              className="text-xs text-theme-subtle hover:text-theme-text px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-theme-raised transition"
               title="新しい会話を始める"
             >
               <span className="sm:hidden">新規</span>
@@ -210,7 +210,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
             </button>
             <button
               onClick={() => setShowConfirm("reset-profile")}
-              className="text-xs text-gray-500 hover:text-orange-400 px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-gray-800 transition"
+              className="text-xs text-theme-subtle hover:text-orange-400 px-2 sm:px-2.5 py-1.5 rounded-lg hover:bg-theme-raised transition"
               title="プロフィールを変更する"
             >
               <span className="sm:hidden">設定</span>
@@ -222,7 +222,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
 
       {/* 確認ダイアログ */}
       {showConfirm && (
-        <div className="px-4 py-3 bg-gray-900 border-b border-gray-800 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
+        <div className="px-4 py-3 bg-theme-panel border-b border-theme-border flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
           <span className="text-sm text-gray-300 flex-1">
             {showConfirm === "reset-chat"
               ? "会話履歴をクリアしますか？（プロフィールは維持されます）"
@@ -278,7 +278,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
                     📋 前回セッションのまとめ
                   </p>
                   {isSummaryLoading ? (
-                    <p className="text-xs text-gray-400 animate-pulse">要約を生成中...</p>
+                    <p className="text-xs text-theme-muted animate-pulse">要約を生成中...</p>
                   ) : (
                     <div className="text-sm text-gray-300 space-y-1 [&_h2]:text-xs [&_h2]:font-semibold [&_h2]:text-blue-300 [&_h2]:mt-2 [&_h2]:mb-1 [&_ul]:pl-4 [&_li]:list-disc [&_li]:text-xs [&_li]:text-gray-300 [&_li]:leading-relaxed">
                       <ReactMarkdown remarkPlugins={[remarkGfm]}>
@@ -290,7 +290,7 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
                 {!isSummaryLoading && (
                   <button
                     onClick={() => setSessionSummary(null)}
-                    className="shrink-0 text-gray-600 hover:text-gray-300 transition text-xs px-1.5 py-0.5 rounded hover:bg-gray-800"
+                    className="shrink-0 text-theme-subtle hover:text-theme-muted transition text-xs px-1.5 py-0.5 rounded hover:bg-theme-raised"
                     aria-label="要約を閉じる"
                   >
                     ✕

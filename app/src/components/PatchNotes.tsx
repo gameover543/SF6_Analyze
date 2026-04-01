@@ -131,7 +131,7 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
         <h2 className="text-base font-semibold text-yellow-300">
           前回パッチからの変更点
         </h2>
-        <span className="text-xs text-gray-500">
+        <span className="text-xs text-theme-subtle">
           v{patch.old_version} → v{patch.new_version}
         </span>
       </div>
@@ -141,7 +141,7 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
         {charDiff.changed_moves.map((move) => (
           <div
             key={move.web_id}
-            className="rounded border border-gray-800 bg-gray-900/60 p-3"
+            className="rounded border border-theme-border bg-theme-panel/60 p-3"
           >
             {/* 技名 + impactラベル */}
             <div className="mb-2 flex items-center gap-2">
@@ -162,11 +162,11 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
                   {Object.entries(move.changed_fields).map(
                     ([field, [oldVal, newVal]]) => (
                       <div key={field} className="flex items-center gap-1 text-xs">
-                        <span className="text-gray-500">
+                        <span className="text-theme-subtle">
                           {FIELD_NAMES[field] ?? field}:
                         </span>
                         <span className="text-red-400">{oldVal}</span>
-                        <span className="text-gray-600">→</span>
+                        <span className="text-theme-subtle">→</span>
                         <span className="text-green-400">{newVal}</span>
                       </div>
                     )
@@ -176,10 +176,10 @@ export default function PatchNotes({ slug }: PatchNotesProps) {
 
             {/* 追加・削除の場合はシンプルなメッセージ */}
             {move.impact_level === "added" && (
-              <span className="text-xs text-gray-400">新技として追加</span>
+              <span className="text-xs text-theme-muted">新技として追加</span>
             )}
             {move.impact_level === "removed" && (
-              <span className="text-xs text-gray-400">このパッチで削除</span>
+              <span className="text-xs text-theme-muted">このパッチで削除</span>
             )}
           </div>
         ))}

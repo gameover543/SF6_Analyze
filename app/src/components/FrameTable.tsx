@@ -6,7 +6,7 @@ import type { MoveFrameData, ControlType } from "@/types/frame-data";
 /** フレーム値の色クラスを返す */
 function frameColor(value: string): string {
   const num = parseInt(value, 10);
-  if (isNaN(num)) return "text-gray-400";
+  if (isNaN(num)) return "text-theme-muted";
   if (num > 0) return "text-blue-400";
   if (num < 0) return "text-red-400";
   return "text-yellow-400";
@@ -15,7 +15,7 @@ function frameColor(value: string): string {
 /** フレーム値のバッジ背景色 */
 function frameBg(value: string): string {
   const num = parseInt(value, 10);
-  if (isNaN(num)) return "bg-gray-800";
+  if (isNaN(num)) return "bg-theme-raised";
   if (num > 0) return "bg-blue-900/50";
   if (num < 0) return "bg-red-900/50";
   return "bg-yellow-900/50";
@@ -89,25 +89,25 @@ function MoveCard({
   const cmd = controlType === "classic" ? move.command : move.command_modern;
 
   return (
-    <div className="border border-gray-800 rounded-lg p-3 hover:bg-gray-900/50">
+    <div className="border border-theme-border rounded-lg p-3 hover:bg-theme-panel/50">
       {/* 技名 + コマンド */}
       <div className="mb-2">
         <div className="text-white font-medium text-sm">{move.skill}</div>
         {cmd && (
-          <div className="text-gray-400 font-mono text-xs mt-0.5">{cmd}</div>
+          <div className="text-theme-muted font-mono text-xs mt-0.5">{cmd}</div>
         )}
       </div>
 
       {/* フレームデータ（グリッド） */}
       <div className="grid grid-cols-4 gap-1.5 text-xs">
         <div className="text-center">
-          <div className="text-gray-500">発生</div>
+          <div className="text-theme-subtle">発生</div>
           <div className="text-yellow-300 font-medium">
             {move.startup_frame || "-"}
           </div>
         </div>
         <div className="text-center">
-          <div className="text-gray-500">ガード</div>
+          <div className="text-theme-subtle">ガード</div>
           <div
             className={`font-medium rounded px-1 ${frameBg(move.block_frame)} ${frameColor(move.block_frame)}`}
           >
@@ -115,7 +115,7 @@ function MoveCard({
           </div>
         </div>
         <div className="text-center">
-          <div className="text-gray-500">ヒット</div>
+          <div className="text-theme-subtle">ヒット</div>
           <div
             className={`font-medium rounded px-1 ${frameBg(move.hit_frame)} ${frameColor(move.hit_frame)}`}
           >
@@ -123,7 +123,7 @@ function MoveCard({
           </div>
         </div>
         <div className="text-center">
-          <div className="text-gray-500">ダメージ</div>
+          <div className="text-theme-subtle">ダメージ</div>
           <div className="text-white font-medium">{move.damage || "-"}</div>
         </div>
       </div>
@@ -151,7 +151,7 @@ function SortableTh({
   return (
     <th
       className={`py-2 px-2 font-medium cursor-pointer select-none hover:text-white transition ${
-        isActive ? "text-blue-400" : "text-gray-500"
+        isActive ? "text-blue-400" : "text-theme-subtle"
       } ${className}`}
       onClick={() => onSort(col)}
     >
@@ -249,13 +249,13 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
       {/* コントロール */}
       <div className="flex flex-wrap items-center gap-3 mb-4">
         {/* Classic/Modern切替 */}
-        <div className="flex rounded-lg border border-gray-700 overflow-hidden shrink-0">
+        <div className="flex rounded-lg border border-theme-border overflow-hidden shrink-0">
           <button
             onClick={() => setControlType("classic")}
             className={`px-3 sm:px-4 py-2 text-sm font-medium transition ${
               controlType === "classic"
                 ? "bg-blue-600 text-white"
-                : "bg-gray-900 text-gray-400 hover:text-white"
+                : "bg-theme-panel text-theme-muted hover:text-theme-text"
             }`}
           >
             Classic
@@ -265,7 +265,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
             className={`px-3 sm:px-4 py-2 text-sm font-medium transition ${
               controlType === "modern"
                 ? "bg-green-600 text-white"
-                : "bg-gray-900 text-gray-400 hover:text-white"
+                : "bg-theme-panel text-theme-muted hover:text-theme-text"
             }`}
           >
             Modern
@@ -278,10 +278,10 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           placeholder="技名・コマンド・技タイプで検索..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="flex-1 min-w-[120px] px-3 py-2 rounded-lg bg-gray-900 border border-gray-700 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
+          className="flex-1 min-w-[120px] px-3 py-2 rounded-lg bg-theme-panel border border-theme-border text-sm text-theme-text placeholder-theme-subtle focus:outline-none focus:border-blue-500"
         />
 
-        <span className="text-xs text-gray-500 shrink-0">{sorted.length}技</span>
+        <span className="text-xs text-theme-subtle shrink-0">{sorted.length}技</span>
       </div>
 
       {/* 技タイプフィルターボタン */}
@@ -294,7 +294,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
             className={`shrink-0 px-3 py-1 rounded-full text-xs font-medium transition border ${
               typeFilter === null
                 ? "bg-gray-200 text-gray-900 border-gray-200"
-                : "bg-transparent text-gray-400 border-gray-700 hover:border-gray-500 hover:text-white"
+                : "bg-transparent text-theme-muted border-theme-border hover:border-theme-raised hover:text-theme-text"
             }`}
           >
             すべて
@@ -306,7 +306,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
               className={`shrink-0 px-3 py-1 rounded-full text-xs font-medium transition border ${
                 typeFilter === t
                   ? "bg-blue-600 text-white border-blue-600"
-                  : "bg-transparent text-gray-400 border-gray-700 hover:border-gray-500 hover:text-white"
+                  : "bg-transparent text-theme-muted border-theme-border hover:border-theme-raised hover:text-theme-text"
               }`}
             >
               {TYPE_LABELS[t] || t}
@@ -318,7 +318,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           <div className="mt-2">
             <button
               onClick={() => setSortCol(null)}
-              className="px-3 py-1 rounded-full text-xs font-medium text-gray-400 border border-gray-700 hover:border-gray-500 hover:text-white transition"
+              className="px-3 py-1 rounded-full text-xs font-medium text-theme-muted border border-theme-border hover:border-theme-raised hover:text-theme-text transition"
             >
               ソートをリセット
             </button>
@@ -344,7 +344,7 @@ export default function FrameTable({ moves, characterName }: FrameTableProps) {
           })
         : /* フラット表示（タイプフィルター or ソート有効時） */
           sorted.length === 0 ? (
-            <p className="text-gray-500 text-sm py-8 text-center">
+            <p className="text-theme-subtle text-sm py-8 text-center">
               該当する技が見つかりませんでした
             </p>
           ) : (
@@ -382,7 +382,7 @@ function TypeSection({
     <div className="mb-6">
       <button
         onClick={() => setExpanded((v) => !v)}
-        className="flex items-center gap-2 mb-2 text-base font-semibold text-gray-300 hover:text-white transition"
+        className="flex items-center gap-2 mb-2 text-base font-semibold text-theme-text hover:text-theme-text transition"
       >
         <span
           className={`text-xs transition-transform ${expanded ? "rotate-90" : ""}`}
@@ -390,7 +390,7 @@ function TypeSection({
           ▶
         </span>
         {TYPE_LABELS[type] || type}
-        <span className="text-sm font-normal text-gray-500">
+        <span className="text-sm font-normal text-theme-subtle">
           ({typeMoves.length})
         </span>
       </button>
@@ -482,7 +482,7 @@ function MoveTable({
   return (
     <table className="w-full text-sm border-collapse">
       <thead>
-        <tr className="border-b border-gray-800 text-left">
+        <tr className="border-b border-theme-border text-left">
           <SortableTh
             label="技名"
             col="skill"
@@ -491,7 +491,7 @@ function MoveTable({
             onSort={onSort}
           />
           {/* コマンドはソート対象外 */}
-          <th className="py-2 px-2 font-medium text-gray-500">コマンド</th>
+          <th className="py-2 px-2 font-medium text-theme-subtle">コマンド</th>
           <SortableTh
             label="発生"
             col="startup_frame"
@@ -540,10 +540,10 @@ function MoveTable({
             onSort={onSort}
             className="text-center"
           />
-          <th className="py-2 px-2 font-medium text-gray-500 text-center">
+          <th className="py-2 px-2 font-medium text-theme-subtle text-center">
             属性
           </th>
-          <th className="py-2 px-2 font-medium text-gray-500 text-center">
+          <th className="py-2 px-2 font-medium text-theme-subtle text-center">
             C
           </th>
         </tr>
@@ -552,7 +552,7 @@ function MoveTable({
         {moves.map((move, i) => (
           <tr
             key={`${move.web_id}-${i}`}
-            className="border-b border-gray-800/50 hover:bg-gray-900/50"
+            className="border-b border-theme-border/50 hover:bg-theme-panel/50"
           >
             <td className="py-2 px-2 text-white">{move.skill}</td>
             <td className="py-2 px-2 text-gray-300 font-mono text-xs">
@@ -561,10 +561,10 @@ function MoveTable({
             <td className="py-2 px-2 text-center text-yellow-300">
               {move.startup_frame}
             </td>
-            <td className="py-2 px-2 text-center text-gray-400">
+            <td className="py-2 px-2 text-center text-theme-muted">
               {move.active_frame}
             </td>
-            <td className="py-2 px-2 text-center text-gray-400">
+            <td className="py-2 px-2 text-center text-theme-muted">
               {move.recovery_frame}
             </td>
             {/* ガード/ヒットフレームは有利/不利で色分け */}
@@ -579,10 +579,10 @@ function MoveTable({
               {move.hit_frame}
             </td>
             <td className="py-2 px-2 text-center">{move.damage}</td>
-            <td className="py-2 px-2 text-center text-gray-400">
+            <td className="py-2 px-2 text-center text-theme-muted">
               {move.attribute}
             </td>
-            <td className="py-2 px-2 text-center text-gray-400">
+            <td className="py-2 px-2 text-center text-theme-muted">
               {move.web_cancel}
             </td>
           </tr>

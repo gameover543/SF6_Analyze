@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
+import ThemeProvider from "@/components/ThemeProvider";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -27,36 +28,38 @@ export default function RootLayout({
   return (
     <html
       lang="ja"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-gray-950 text-gray-100">
+      <body className="min-h-full flex flex-col bg-theme-page text-theme-text">
         {/* ヘッダー */}
-        <header className="border-b border-gray-800 bg-gray-950/80 backdrop-blur-sm sticky top-0 z-50">
+        <header className="border-b border-theme-border bg-theme-page/80 backdrop-blur-sm sticky top-0 z-50">
           <nav className="max-w-7xl mx-auto px-4 h-14 flex items-center gap-4 sm:gap-8">
-            <Link href="/" className="text-base sm:text-lg font-bold text-white shrink-0">
+            <Link href="/" className="text-base sm:text-lg font-bold text-theme-text shrink-0">
               SF6 Coach
             </Link>
             {/* ナビリンク: 小画面でも横スクロールして表示 */}
-            <div className="flex gap-4 sm:gap-6 text-sm overflow-x-auto scrollbar-none">
+            <div className="flex gap-4 sm:gap-6 text-sm overflow-x-auto scrollbar-none flex-1">
               <Link
                 href="/frames"
-                className="text-gray-400 hover:text-white transition shrink-0"
+                className="text-theme-muted hover:text-theme-text transition shrink-0"
               >
                 フレームデータ
               </Link>
               <Link
                 href="/coach"
-                className="text-gray-400 hover:text-white transition shrink-0"
+                className="text-theme-muted hover:text-theme-text transition shrink-0"
               >
                 AIコーチ
               </Link>
               <Link
                 href="/admin/coverage"
-                className="text-gray-600 hover:text-gray-400 transition text-xs shrink-0 hidden sm:inline"
+                className="text-theme-subtle hover:text-theme-muted transition text-xs shrink-0 hidden sm:inline"
               >
                 カバレッジ
               </Link>
             </div>
+            {/* テーマ切替ボタン */}
+            <ThemeProvider />
           </nav>
         </header>
 

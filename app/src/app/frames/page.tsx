@@ -11,7 +11,7 @@ export default function FramesPage() {
           <Link
             key={char.slug}
             href={`/frames/${char.slug}`}
-            className="flex items-center justify-center p-3 rounded-lg border border-gray-800 hover:border-blue-500/50 hover:bg-gray-900/50 transition text-sm font-medium text-center"
+            className="flex items-center justify-center p-3 rounded-lg border border-theme-border hover:border-blue-500/50 hover:bg-theme-panel/50 transition text-sm font-medium text-center"
           >
             {char.name}
           </Link>

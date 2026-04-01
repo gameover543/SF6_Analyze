@@ -49,7 +49,7 @@ export default function ChatSidebar({
       <div
         className={`
           fixed md:relative z-40 top-0 left-0 h-full w-64
-          border-r border-gray-800 bg-gray-950 p-4 overflow-y-auto
+          border-r border-theme-border bg-theme-page p-4 overflow-y-auto
           flex flex-col transition-transform duration-200
           md:translate-x-0 md:w-56
           ${isOpen ? "translate-x-0" : "-translate-x-full"}
@@ -58,7 +58,7 @@ export default function ChatSidebar({
         {/* モバイル: 閉じるボタン */}
         <button
           onClick={onClose}
-          className="md:hidden absolute top-3 right-3 p-1 text-gray-500 hover:text-white"
+          className="md:hidden absolute top-3 right-3 p-1 text-theme-subtle hover:text-theme-text"
           aria-label="閉じる"
         >
           <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -68,17 +68,17 @@ export default function ChatSidebar({
 
         {/* プロフィールカード */}
         {profile && (
-          <div className="mb-4 p-3 rounded-lg bg-gray-900 border border-gray-800">
-            <div className="text-xs text-gray-500 mb-1">担当プレイヤー</div>
-            <div className="text-sm font-medium text-white">
+          <div className="mb-4 p-3 rounded-lg bg-theme-panel border border-theme-border">
+            <div className="text-xs text-theme-subtle mb-1">担当プレイヤー</div>
+            <div className="text-sm font-medium text-theme-text">
               {charName(profile.mainCharacter)}
             </div>
-            <div className="text-xs text-gray-400">
+            <div className="text-xs text-theme-muted">
               {profile.controlType} / {profile.rank}
               {profile.masterRating ? ` (MR${profile.masterRating})` : ""}
             </div>
             {profile.weakAgainst.length > 0 && (
-              <div className="mt-1.5 text-xs text-gray-500">
+              <div className="mt-1.5 text-xs text-theme-subtle">
                 苦手: {profile.weakAgainst.map(charName).join(", ")}
               </div>
             )}
@@ -100,7 +100,7 @@ export default function ChatSidebar({
         {/* キャラ選択（コーチングモード時のみ） */}
         {mode === "coaching" && (
           <>
-            <h3 className="text-sm font-semibold text-gray-400 mb-3">
+            <h3 className="text-sm font-semibold text-theme-muted mb-3">
               参照キャラ（最大3）
             </h3>
             <input
@@ -108,7 +108,7 @@ export default function ChatSidebar({
               placeholder="キャラ検索..."
               value={charSearch}
               onChange={(e) => onCharSearchChange(e.target.value)}
-              className="w-full px-2 py-1.5 mb-3 rounded bg-gray-900 border border-gray-700 text-xs text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
+              className="w-full px-2 py-1.5 mb-3 rounded bg-theme-panel border border-theme-border text-xs text-theme-text placeholder-theme-subtle focus:outline-none focus:border-blue-500"
             />
             <div className="flex flex-col gap-1 overflow-y-auto" style={{ maxHeight: "160px" }}>
               {filteredChars.map((char) => {
@@ -121,12 +121,12 @@ export default function ChatSidebar({
                     className={`text-left px-2 py-1.5 rounded text-xs transition ${
                       isSelected
                         ? "bg-blue-600/20 text-blue-400 border border-blue-500/30"
-                        : "text-gray-400 hover:text-white hover:bg-gray-900"
+                        : "text-theme-muted hover:text-theme-text hover:bg-theme-panel"
                     }`}
                   >
                     {char.name}
                     {isMain && (
-                      <span className="ml-1 text-gray-600">MAIN</span>
+                      <span className="ml-1 text-theme-subtle">MAIN</span>
                     )}
                   </button>
                 );
@@ -134,11 +134,11 @@ export default function ChatSidebar({
             </div>
 
             {/* マッチアップ分析セクション */}
-            <div className="mt-4 pt-3 border-t border-gray-800">
-              <h3 className="text-sm font-semibold text-gray-400 mb-2">
+            <div className="mt-4 pt-3 border-t border-theme-border">
+              <h3 className="text-sm font-semibold text-theme-muted mb-2">
                 マッチアップ分析
               </h3>
-              <p className="text-xs text-gray-600 mb-2">
+              <p className="text-xs text-theme-subtle mb-2">
                 対戦相手を選択してアドバイスを絞り込む
               </p>
               <div className="flex flex-col gap-1 overflow-y-auto" style={{ maxHeight: "160px" }}>
@@ -148,7 +148,7 @@ export default function ChatSidebar({
                     <button
                       key={char.slug}
                       onClick={() => { onEnterMatchup(char.slug); onClose(); }}
-                      className="text-left px-2 py-1.5 rounded text-xs text-gray-400 hover:text-white hover:bg-purple-900/30 transition"
+                      className="text-left px-2 py-1.5 rounded text-xs text-theme-muted hover:text-theme-text hover:bg-purple-900/30 transition"
                     >
                       vs {char.name}
                     </button>
@@ -172,7 +172,7 @@ export default function ChatSidebar({
             </div>
             <button
               onClick={() => { onExitMatchup(); onClose(); }}
-              className="text-xs text-gray-500 hover:text-white text-left transition px-2 py-1.5 rounded hover:bg-gray-900"
+              className="text-xs text-theme-subtle hover:text-theme-text text-left transition px-2 py-1.5 rounded hover:bg-theme-panel"
             >
               ← 通常コーチングに戻る
             </button>
@@ -180,18 +180,18 @@ export default function ChatSidebar({
         )}
 
         {/* サイドバー下部のアクション */}
-        <div className="mt-4 pt-3 border-t border-gray-800 flex flex-col gap-2">
+        <div className="mt-4 pt-3 border-t border-theme-border flex flex-col gap-2">
           {(mode === "coaching" || mode === "matchup") && (
             <button
               onClick={() => { onShowConfirm("reset-chat"); onClose(); }}
-              className="text-xs text-gray-500 hover:text-white text-left transition"
+              className="text-xs text-theme-subtle hover:text-theme-text text-left transition"
             >
               新しい会話を始める
             </button>
           )}
           <button
             onClick={() => { onShowConfirm("reset-profile"); onClose(); }}
-            className="text-xs text-gray-600 hover:text-orange-400 text-left transition"
+            className="text-xs text-theme-subtle hover:text-orange-400 text-left transition"
           >
             プロフィール変更
           </button>

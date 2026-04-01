@@ -23,7 +23,7 @@ export default function ChatInputArea({
   onOpenSidebar,
 }: ChatInputAreaProps) {
   return (
-    <div className="border-t border-gray-800 p-4">
+    <div className="border-t border-theme-border p-4">
       {/* モバイル: 選択キャラ表示 */}
       {selectedChars.length > 0 && (mode === "coaching" || mode === "matchup") && (
         <div className="flex gap-2 mb-2 sm:hidden">
@@ -37,7 +37,7 @@ export default function ChatInputArea({
           ))}
           <button
             onClick={onOpenSidebar}
-            className="text-xs text-gray-600 hover:text-gray-400"
+            className="text-xs text-theme-subtle hover:text-theme-muted"
           >
             変更
           </button>
@@ -56,7 +56,7 @@ export default function ChatInputArea({
               ? "このマッチアップについて質問..."
               : "質問を入力..."
           }
-          className="flex-1 px-4 py-3 rounded-xl bg-gray-900 border border-gray-700 text-white placeholder-gray-500 focus:outline-none focus:border-blue-500"
+          className="flex-1 px-4 py-3 rounded-xl bg-theme-panel border border-theme-border text-theme-text placeholder-theme-subtle focus:outline-none focus:border-blue-500"
           disabled={isLoading}
         />
         <button

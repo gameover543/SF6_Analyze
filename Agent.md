@@ -259,6 +259,19 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - `ChatSidebar.tsx` のドロワー＋オーバーレイは実装済み
 - `ChatInputArea.tsx` のキャラ表示は実装済み
 
+### タスク#12: ストリーミング応答の実装（2026-04-01）
+`llm.ts` に `streamChat` メソッド追加、`route.ts` でSSEストリーム返却、`useChatMessages.ts` でSSE受信＋リアルタイム表示を実装した。
+
+**変更内容:**
+1. `app/src/lib/llm.ts` — `streamChat(systemPrompt, messages): AsyncGenerator<string>` を追加。Gemini は `sendMessageStream()` でトークン逐次 yield。OpenAI は SSE 読み込みで同様に実装（将来用）。既存の `chat()` メソッドは削除し `streamChat` に一本化
+2. `app/src/app/api/chat/route.ts` — `llm.chat()` を `llm.streamChat()` に変更し `ReadableStream` + `TextEncoder` で SSE 返却。フォーマット: `data: {"chunk":"..."}` / `data: [DONE]` / `data: {"error":"..."}`
+3. `app/src/hooks/useChatMessages.ts` — `fetchWithRetry` を削除（ストリーミングとの相性不良）。`fetch` + `AbortController`（45秒タイムアウト）で接続し、`ReadableStreamReader` でSSEを逐次読み込み。空のassistantメッセージを事前追加してリアルタイム更新。カウンセリングモードは全文受信後にプロフィール抽出
+
+**設計のポイント:**
+- SSEバッファ処理: `buffer += decode(value)` → `split("\n")` → 末尾の不完全行を次回バッファに残す
+- カウンセリングモードのプロフィール抽出は全文受信後に実施（ストリーム中にJSON境界をまたぐため）
+- エラーが発生した場合も `data: {"error":"..."}` 形式で通知（接続前エラーは通常の `getErrorMessage` で処理）
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -271,3 +284,6 @@ Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
 - `data/patches/_meta.json` の `patches` 配列末尾が最新パッチ。スクレイパー（`patch_diff.save_diff()`）が自動追記する
 - モバイル対応パターン: テキストの短縮は `<span className="sm:hidden">短縮</span><span className="hidden sm:inline">フル</span>` で実装。横スクロール要素は `overflow-x-auto scrollbar-none` で。折り返し方向切替は `flex-col sm:flex-row`
 - `FrameTable.tsx` のタイプフィルターは横スクロール方式（折り返しなし）。ボタンに `shrink-0` を忘れずつけること
+- `llm.ts` の `chat()` メソッドは削除済み。`streamChat()` のみ使用すること
+- SSEバッファ処理の定石: `buffer += decode(value, { stream: true })` → `split("\n")` → `buffer = lines.pop() || ""`（末尾の不完全行をバッファに残す）
+- カウンセリングモードのプロフィールJSON抽出は全文受信後に実施。ストリーミング中間でJSONブロックが分割される可能性があるため

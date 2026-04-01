@@ -18,24 +18,27 @@ class LLMClient {
     this.provider = (process.env.LLM_PROVIDER as LLMProvider) || "gemini";
   }
 
-  async chat(
+  /** ストリーミング応答：トークンを順次 yield する */
+  async *streamChat(
     systemPrompt: string,
     messages: ChatMessage[]
-  ): Promise<string> {
+  ): AsyncGenerator<string> {
     switch (this.provider) {
       case "gemini":
-        return this.chatGemini(systemPrompt, messages);
+        yield* this.streamChatGemini(systemPrompt, messages);
+        break;
       case "openai":
-        return this.chatOpenAI(systemPrompt, messages);
+        yield* this.streamChatOpenAI(systemPrompt, messages);
+        break;
       default:
         throw new Error(`未対応のLLMプロバイダー: ${this.provider}`);
     }
   }
 
-  private async chatGemini(
+  private async *streamChatGemini(
     systemPrompt: string,
     messages: ChatMessage[]
-  ): Promise<string> {
+  ): AsyncGenerator<string> {
     const apiKey = process.env.GOOGLE_API_KEY;
     if (!apiKey) throw new Error("GOOGLE_API_KEYが設定されていません");
 
@@ -53,15 +56,19 @@ class LLMClient {
 
     const chat = model.startChat({ history });
     const lastMessage = messages[messages.length - 1];
-    const result = await chat.sendMessage(lastMessage.content);
+    // ストリーミングAPIで逐次取得
+    const result = await chat.sendMessageStream(lastMessage.content);
 
-    return result.response.text();
+    for await (const chunk of result.stream) {
+      const text = chunk.text();
+      if (text) yield text;
+    }
   }
 
-  private async chatOpenAI(
+  private async *streamChatOpenAI(
     systemPrompt: string,
     messages: ChatMessage[]
-  ): Promise<string> {
+  ): AsyncGenerator<string> {
     // サービス化時に実装
     // OpenAI SDKをインストール後、GPT-4o-miniを使用
     const apiKey = process.env.OPENAI_API_KEY;
@@ -75,6 +82,7 @@ class LLMClient {
       },
       body: JSON.stringify({
         model: process.env.OPENAI_MODEL || "gpt-4o-mini",
+        stream: true,
         messages: [
           { role: "system", content: systemPrompt },
           ...messages,
@@ -82,8 +90,31 @@ class LLMClient {
       }),
     });
 
-    const data = await response.json();
-    return data.choices[0].message.content;
+    if (!response.body) throw new Error("ストリームを取得できませんでした");
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = "";
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+
+      buffer += decoder.decode(value, { stream: true });
+      const lines = buffer.split("\n");
+      buffer = lines.pop() || "";
+
+      for (const line of lines) {
+        if (!line.startsWith("data: ")) continue;
+        const data = line.slice(6).trim();
+        if (data === "[DONE]") return;
+        try {
+          const parsed = JSON.parse(data);
+          const content = parsed.choices?.[0]?.delta?.content;
+          if (content) yield content;
+        } catch { /* JSONパースエラーは無視 */ }
+      }
+    }
   }
 }
 

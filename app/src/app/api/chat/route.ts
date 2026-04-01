@@ -117,9 +117,34 @@ export async function POST(request: NextRequest) {
       systemPrompt = buildCoachSystemPrompt(frameDataContext, profile, knowledgeContext);
     }
 
-    const reply = await llm.chat(systemPrompt, messages);
+    // SSE（Server-Sent Events）でトークンを逐次送信
+    const encoder = new TextEncoder();
+    const stream = new ReadableStream({
+      async start(controller) {
+        try {
+          for await (const chunk of llm.streamChat(systemPrompt, messages)) {
+            // SSE形式: "data: <JSON>\n\n"
+            const line = `data: ${JSON.stringify({ chunk })}\n\n`;
+            controller.enqueue(encoder.encode(line));
+          }
+          controller.enqueue(encoder.encode("data: [DONE]\n\n"));
+        } catch (err) {
+          console.error("Streaming error:", err);
+          const errLine = `data: ${JSON.stringify({ error: "AIの応答中にエラーが発生しました" })}\n\n`;
+          controller.enqueue(encoder.encode(errLine));
+        } finally {
+          controller.close();
+        }
+      },
+    });
 
-    return NextResponse.json({ reply });
+    return new Response(stream, {
+      headers: {
+        "Content-Type": "text/event-stream",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+      },
+    });
   } catch (error) {
     console.error("Chat API error:", error);
     return NextResponse.json(

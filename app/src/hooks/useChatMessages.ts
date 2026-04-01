@@ -3,45 +3,6 @@ import { useState, useEffect } from "react";
 import type { UserProfile } from "@/types/profile";
 import { saveChatHistory, getOrCreateSessionId } from "@/lib/profile-storage";
 
-/** タイムアウト付きfetchを指数バックオフでリトライする */
-async function fetchWithRetry(
-  url: string,
-  options: RequestInit,
-  maxRetries: number = 2,
-  timeoutMs: number = 45000
-): Promise<Response> {
-  let lastError: unknown;
-
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
-
-    try {
-      const res = await fetch(url, { ...options, signal: controller.signal });
-      clearTimeout(timeoutId);
-
-      // 5xx サーバーエラーはリトライ対象
-      if (res.status >= 500 && attempt < maxRetries) {
-        await new Promise((r) => setTimeout(r, Math.pow(2, attempt) * 1000));
-        continue;
-      }
-
-      return res;
-    } catch (err) {
-      clearTimeout(timeoutId);
-      lastError = err;
-
-      // タイムアウト・ネットワークエラーはリトライ対象
-      if (attempt < maxRetries) {
-        await new Promise((r) => setTimeout(r, Math.pow(2, attempt) * 1000));
-        continue;
-      }
-    }
-  }
-
-  throw lastError;
-}
-
 /** エラーオブジェクトからユーザー向けメッセージを生成する */
 function getErrorMessage(err: unknown, status?: number): string {
   if (err instanceof DOMException && err.name === "AbortError") {
@@ -136,21 +97,40 @@ export function useChatMessages({
     setInput("");
     setIsLoading(true);
 
-    try {
-      const res = await fetchWithRetry("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          messages: newMessages,
-          characterSlugs: selectedChars,
-          profile,
-          mode,
-          opponentChar: opponentChar || null,
-        }),
-      });
+    // ストリーミング受信中に蓄積するテキスト
+    let streamedContent = "";
 
-      // HTTPレベルのエラー（4xx等）
-      if (!res.ok && res.status < 500) {
+    try {
+      // 接続タイムアウト（初回レスポンスまで45秒）
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 45000);
+
+      let res: Response;
+      try {
+        res = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            messages: newMessages,
+            characterSlugs: selectedChars,
+            profile,
+            mode,
+            opponentChar: opponentChar || null,
+          }),
+          signal: controller.signal,
+        });
+        clearTimeout(timeoutId);
+      } catch (err) {
+        clearTimeout(timeoutId);
+        setMessages([
+          ...newMessages,
+          { role: "assistant", content: getErrorMessage(err) },
+        ]);
+        return;
+      }
+
+      // HTTPエラー（4xx / 5xx）はストリーム開始前に検出
+      if (!res.ok || !res.body) {
         setMessages([
           ...newMessages,
           { role: "assistant", content: getErrorMessage(null, res.status) },
@@ -158,40 +138,61 @@ export function useChatMessages({
         return;
       }
 
-      const data = await res.json();
+      // 空のassistantメッセージを追加してストリーミング開始を示す
+      setMessages([...newMessages, { role: "assistant", content: "" }]);
 
-      if (data.error) {
-        setMessages([
-          ...newMessages,
-          { role: "assistant", content: `⚠️ ${data.error}` },
-        ]);
-      } else {
-        // カウンセリングモード：プロフィールJSONの抽出を試みる
-        if (mode === "counseling") {
-          const extractedProfile = extractProfileFromReply(data.reply);
-          if (extractedProfile) {
-            onProfileExtracted(extractedProfile);
-            const cleanReply = cleanReplyForDisplay(data.reply);
-            setMessages([
-              ...newMessages,
-              { role: "assistant", content: cleanReply },
-            ]);
-            return;
-          }
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      // 複数チャンクにまたがるSSE行に対応するバッファ
+      let buffer = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split("\n");
+        // 末尾の不完全な行はバッファに残す
+        buffer = lines.pop() || "";
+
+        for (const line of lines) {
+          if (!line.startsWith("data: ")) continue;
+          const data = line.slice(6).trim();
+          if (data === "[DONE]") continue;
+
+          try {
+            const parsed = JSON.parse(data);
+            if (parsed.error) {
+              setMessages([
+                ...newMessages,
+                { role: "assistant", content: `⚠️ ${parsed.error}` },
+              ]);
+              return;
+            }
+            if (parsed.chunk) {
+              streamedContent += parsed.chunk;
+              setMessages([
+                ...newMessages,
+                { role: "assistant", content: streamedContent },
+              ]);
+            }
+          } catch { /* JSONパースエラーは無視 */ }
         }
+      }
 
-        setMessages([
-          ...newMessages,
-          { role: "assistant", content: data.reply },
-        ]);
+      // カウンセリングモード：全文受信後にプロフィールJSONを抽出
+      if (mode === "counseling" && streamedContent) {
+        const extractedProfile = extractProfileFromReply(streamedContent);
+        if (extractedProfile) {
+          onProfileExtracted(extractedProfile);
+          const cleanReply = cleanReplyForDisplay(streamedContent);
+          setMessages([...newMessages, { role: "assistant", content: cleanReply }]);
+        }
       }
     } catch (err) {
       setMessages([
         ...newMessages,
-        {
-          role: "assistant",
-          content: getErrorMessage(err),
-        },
+        { role: "assistant", content: getErrorMessage(err) },
       ]);
     } finally {
       setIsLoading(false);

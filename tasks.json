@@ -95,7 +95,7 @@
       "priority": "high",
       "subject": "ストリーミング応答の実装",
       "description": "現在のchat APIはLLMの応答完了を待ってからレスポンスを返すため、長い回答ほど体感の待ち時間が長い。Gemini APIのstreamGenerateContentを使い、SSE(Server-Sent Events)でトークンを逐次送信するストリーミング対応を実装する。llm.tsにstreamChatメソッド追加、route.tsでReadableStreamを返す、フロント側でfetch+ReadableStreamReaderで受信しリアルタイム表示する。",
-      "status": "pending",
+      "status": "done",
       "category": "コア機能"
     },
     {
@@ -199,7 +199,7 @@
       "priority": "low",
       "subject": "未コミットのナレッジ更新をコミット",
       "description": "data/knowledge/配下に446ファイル・270,934行の未コミット変更がある（8,406→10,022件、452→563動画、223→276マッチアップ）。_structured/by_category, by_matchup、各キャラJSON、_index.json、_coverage.json等。適切なコミットメッセージで一括コミットする。",
-      "status": "pending",
+      "status": "done",
       "category": "管理"
     }
   ]

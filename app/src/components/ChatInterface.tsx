@@ -1,6 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import type { CharacterInfo } from "@/types/frame-data";
 import { clearChatHistory, getSessionId } from "@/lib/profile-storage";
 import { useSessionState } from "@/hooks/useSessionState";
@@ -16,6 +18,10 @@ interface ChatInterfaceProps {
 export default function ChatInterface({ characters }: ChatInterfaceProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [showConfirm, setShowConfirm] = useState<"reset-chat" | "reset-profile" | null>(null);
+  /** 前回セッションの要約テキスト（null=非表示） */
+  const [sessionSummary, setSessionSummary] = useState<string | null>(null);
+  /** 要約生成中フラグ */
+  const [isSummaryLoading, setIsSummaryLoading] = useState(false);
 
   const {
     profile,
@@ -63,9 +69,15 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
 
   // 会話だけクリア（プロフィール維持）
   const handleNewChat = () => {
+    // 要約生成のために現在のメッセージをコピーしておく
+    const prevMessages = [...messages];
+
     clearChatHistory();
     clearMessages();
     setShowConfirm(null);
+    // 前回の要約バナーをいったん非表示にする
+    setSessionSummary(null);
+
     // サーバー側の履歴も削除（空配列をPOSTすることでファイルを削除）
     const sessionId = getSessionId();
     if (sessionId) {
@@ -74,6 +86,27 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ sessionId, messages: [] }),
       }).catch(() => {});
+    }
+
+    // コーチング/マッチアップモードでユーザー発言が2回以上あれば要約を生成する
+    const userTurns = prevMessages.filter((m) => m.role === "user").length;
+    if ((mode === "coaching" || mode === "matchup") && userTurns >= 2) {
+      setIsSummaryLoading(true);
+      fetch("/api/summary", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ messages: prevMessages }),
+      })
+        .then((res) => res.json())
+        .then((data) => {
+          if (data.summary) {
+            setSessionSummary(data.summary);
+          }
+        })
+        .catch(() => {
+          // 要約生成に失敗してもサイレントに無視（メイン機能に影響させない）
+        })
+        .finally(() => setIsSummaryLoading(false));
     }
   };
 
@@ -236,6 +269,36 @@ export default function ChatInterface({ characters }: ChatInterfaceProps) {
 
         {/* チャットエリア */}
         <div className="flex-1 flex flex-col min-w-0">
+          {/* 前回セッションの要約バナー */}
+          {(isSummaryLoading || sessionSummary !== null) && (
+            <div className="shrink-0 border-b border-blue-900/50 bg-blue-950/30 px-4 py-3">
+              <div className="flex items-start justify-between gap-3">
+                <div className="flex-1 min-w-0">
+                  <p className="text-xs font-semibold text-blue-400 mb-2">
+                    📋 前回セッションのまとめ
+                  </p>
+                  {isSummaryLoading ? (
+                    <p className="text-xs text-gray-400 animate-pulse">要約を生成中...</p>
+                  ) : (
+                    <div className="text-sm text-gray-300 space-y-1 [&_h2]:text-xs [&_h2]:font-semibold [&_h2]:text-blue-300 [&_h2]:mt-2 [&_h2]:mb-1 [&_ul]:pl-4 [&_li]:list-disc [&_li]:text-xs [&_li]:text-gray-300 [&_li]:leading-relaxed">
+                      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                        {sessionSummary ?? ""}
+                      </ReactMarkdown>
+                    </div>
+                  )}
+                </div>
+                {!isSummaryLoading && (
+                  <button
+                    onClick={() => setSessionSummary(null)}
+                    className="shrink-0 text-gray-600 hover:text-gray-300 transition text-xs px-1.5 py-0.5 rounded hover:bg-gray-800"
+                    aria-label="要約を閉じる"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
+            </div>
+          )}
           <MessageList
             messages={messages}
             isLoading={isLoading}

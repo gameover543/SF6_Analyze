@@ -537,6 +537,22 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - 不足していた `move_type` 検索を追加することで要件を完全に満たした
 - 検索中もグループ表示は維持される（`isGrouped = sortCol === null && typeFilter === null` の条件に `search` が含まれないため）。検索結果が各タイプセクションに分散表示される動作は仕様通り
 
+### タスク#22: コーチングセッションの要約生成（2026-04-02）
+「新しい会話」ボタン確認後、直前のコーチング会話をLLMで要約し、チャットエリア上部にバナーとして表示する機能を実装した。
+
+**変更内容:**
+1. `app/src/app/api/summary/route.ts` — 新規作成。`messages` を受け取り、LLMで要約を生成してJSONで返すPOSTエンドポイント。`llm.streamChat()` を内部で全収集してから返す設計
+2. `app/src/components/ChatInterface.tsx` — `sessionSummary`・`isSummaryLoading` 状態を追加。`handleNewChat()` でユーザー発言2回以上かつコーチング/マッチアップモード時に `/api/summary` を非同期呼び出し。チャットエリア上部に要約バナーをレンダリング（`react-markdown` + `remark-gfm` 使用）
+
+**設計のポイント:**
+- 要約生成はfire-and-forget。失敗してもサイレントに無視しメイン機能に影響させない
+- 「新しい会話」確認後に即座にメッセージをクリアし、バナーは非同期で追加表示される（UXをブロックしない）
+- 要約バナーは ✕ ボタンで手動で閉じられる。新しい「新しい会話」クリック時も自動クリア
+- カウンセリングモード（プロフィール未設定）では要約を生成しない（ヒアリング会話は要約対象外）
+
 ## 次のタスクへの申し送り
 
 - `FrameTable.tsx` の検索は skill・command・command_modern・move_type日本語ラベルの4軸。検索中はグループ表示を維持（フラット切替なし）
+- `/api/summary` はPOSTエンドポイント。`messages: ChatMessage[]` を受け取り `{ summary: string }` を返す（エラー時は `{ error: string }`）
+- 要約バナーは `sessionSummary`（string | null）と `isSummaryLoading`（boolean）の2状態で管理。どちらかtrueの場合にバナーを表示
+- `llm.streamChat()` はサーバーサイドで全収集してJSONを返すパターンが確立した（要約のような1ショット用途に使える）

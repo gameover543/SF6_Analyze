@@ -18,6 +18,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:39:17.882544",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -46,11 +49,43 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:39:17.882544",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
       "108"
     ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "efefefd1a52c",
+    "category": "combo",
+    "topic": "JPのSA3弾抜け",
+    "content": "相手が波動拳などの弾を撃ってきた際、JPはSA3で弾抜けして反撃することができる。特に、相手がBO状態で削りリーサルを狙うケンに対して、波動拳を見てSA3で返すことができれば逆転リーサルが可能。",
+    "characters": [
+      "jp"
+    ],
+    "matchup": "ken",
+    "situation": "相手の波動拳に対して、BO削りリーサルを狙われる状況",
+    "source_video_id": "mjUy2mFdG0w",
+    "source_channel": "りゅうせい",
+    "source_video_title": "伸び悩むJP使いにガチコーチングしてみた【スト６】",
+    "source_timestamp": "10:41",
+    "source_quote": "一応JPのSA3だと弾抜け出来るんで。ここで見といた方がいいのが、BOしてるJPを削りリーサルしようとするケンに対して波動拳だけ見といて波動を見たらSA3で返すっていうのが出来たら",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T10:09:27.653367",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""

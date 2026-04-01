@@ -18,6 +18,9 @@
     "channel_trust": 1.0,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-29T20:43:23.641148",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -48,6 +51,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T14:22:45.244119",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [

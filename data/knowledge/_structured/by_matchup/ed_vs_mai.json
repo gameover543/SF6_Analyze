@@ -1,0 +1,66 @@
+[
+  {
+    "id": "3c5097e4784f",
+    "category": "matchup",
+    "topic": "舞SA1とフリッカー重ねの読み合い",
+    "content": "新キャラの舞に対して露骨なサイコフリッカー重ねは危険。舞のSA1は発生6F、エドのフリッカーもタメ状態から離して出すのは6Fであるため、暗転を見てからフリッカーを出そうとすると発生フレームが噛み合い相打ちになる。さらに通常の技はSAに強度で負けるため、エドが被弾してしまうリスクがある。これを知っていれば早めに離して重ねる手もあるが、ジャストパリィのリスクも伴うため、読み合いとなる。ルークのSA1に対しても同様の読み合いが発生する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "mai",
+    "situation": "舞に対してフリッカーで起き攻めをする場合",
+    "source_video_id": "ZxUzHYoFaaY",
+    "source_channel": "Maoh",
+    "source_video_title": "【スト6】エド 最新攻略 新しい入れ替えコンボやスタンコンボや起き攻めなどを解説",
+    "source_timestamp": "05:33",
+    "source_quote": "新キャラの舞に対して露骨なフリッカー重ねは危険です。舞のSA1は発生6F。エドのフリッカーもタメ状態から離して出すのは6F。なので暗転見てから離してフリッカーを出そうとすると発生フレームが噛み合います。通常技はSAに強度負けするのでエドが被弾してしまいます。分かっていれば早めに離して重ねる手もありますがジャスパリスクもあるので読み合いになります。ルークのSA1も同様の読み合いが発生します。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T13:41:49.489130",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bbf031a3fa73",
+    "category": "matchup",
+    "topic": "舞の飛び道具（花蝶扇）対策",
+    "content": "舞の飛び道具である花蝶扇に対して、エドのオーバードライブサイコフリッカーは飛び道具無敵があるため、相手の攻撃をすり抜けて反撃に繋げることができます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "mai",
+    "situation": "舞が花蝶扇を放った際",
+    "source_video_id": "fpAvNz44pEk",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位エド！確反ドリームコンボがマジで痛すぎるｗｗｗ「Sahara:エド(Ed)」【スト6】",
+    "source_timestamp": "02:16",
+    "source_quote": "どっこい！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T14:35:33.598506",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

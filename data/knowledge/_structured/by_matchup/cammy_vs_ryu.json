@@ -18,6 +18,9 @@
     "channel_trust": 0.3,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T05:18:55.773000",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -49,10 +52,44 @@
     "channel_trust": 0.3,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T05:18:55.773000",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
       "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "38f24200dbab",
+    "category": "neutral",
+    "topic": "中足が負ける相手の行動",
+    "content": "中足は、判定が強い特定の技に対しては打ち負ける。例えば、リュウの立ち大Pのような判定の強い技には中足が負けることが多い。相手の技の相性を理解し、状況に応じて置き技として適切な技を選択することが重要。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "ryu",
+    "situation": "差し合い",
+    "source_video_id": "HTYM_UlWlGM",
+    "source_channel": "SmashlogTV - SF6",
+    "source_video_title": "【辛口コーチング】「〇〇が見えてない」プラチナ帯で多すぎる負け方・勝てない人の特徴を徹底解説 // プラチナ：キャミィ【スト6 / Street Fighter 6】",
+    "source_timestamp": "22:06",
+    "source_quote": "分かりやすく言うと、中足が負ける技。上にちょっと判定が強い技には勝てない。基本的には負ける。リュウの立ち大Pなら置き技として勝てる。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T07:33:50.627002",
+    "knowledge_type": "technique",
+    "target_rank": "プラチナ",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
     ],
     "staleness_status": "current",
     "staleness_reason": "",

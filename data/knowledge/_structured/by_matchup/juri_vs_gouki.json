@@ -1,0 +1,66 @@
+[
+  {
+    "id": "7efe3fb16e77",
+    "category": "combo",
+    "topic": "ジュリの空対空コンボ",
+    "content": "ジュリの空対空から繋がるコンボ例として、ジャンプ大K始動のSA2(疾空閃)を使ったコンボが存在する。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "gouki",
+    "situation": "ジュリが豪鬼に空対空を成功させた時",
+    "source_video_id": "i4JLqvQgA5E",
+    "source_channel": "スト6初心者応援チャンネル",
+    "source_video_title": "[Street Fighter 6] Complete Guide to Gouki | A Must-See for Those Who Are Not Good at Fighting! C...",
+    "source_timestamp": "06:18",
+    "source_quote": "ちなみに当チャンネルの顔のジュリちゃんなら、こんなコンボもあります（あまり実用性のない魅せコンです笑）",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T11:21:01.478987",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "317"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cf4ee81ab7c1",
+    "category": "matchup",
+    "topic": "弾キャラ（豪鬼）対策",
+    "content": "弾をたくさん撃ってくる豪鬼のようなキャラに対しては、ゆっくり歩きガードで距離を詰め、相手の波動拳が届くリスクのある距離まで近づく。ジャンプ大Kが届く距離まで来たら、飛ぶかドライブインパクトを撃つ。ジャンプ攻撃が当たったら、痛いコンボを決める。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "gouki",
+    "situation": "弾キャラ（豪鬼）との対戦",
+    "source_video_id": "VJ2tt51Jaqc",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】MR1000コーチング企画第1弾！Cジュリコーチング編",
+    "source_timestamp": "09:03",
+    "source_quote": "で、そういう人にはちょっとねゆっくり歩きガードするしかない最初は。で、飛びが届く距離。ジャンプ大Kが届く距離。そうそうそうそう。この距離まで行けば一旦ゴールで。要は相手の波動拳がリスクあるじゃないですか。だからとにかく飛びが届く距離に行く。ゆっくり歩いて。で、その距離まで行ったら相手の波動拳撃ってきそうなタイミングで飛ぶかインパクト撃つ。で、ジャンプ攻撃当てた後はちゃんと痛いコンボを決めるっていうね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T08:14:10.035065",
+    "knowledge_type": "technique",
+    "target_rank": "Master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

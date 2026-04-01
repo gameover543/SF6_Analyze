@@ -1,0 +1,65 @@
+[
+  {
+    "id": "c26853bd9662",
+    "category": "matchup",
+    "topic": "豪鬼の飛び道具（豪波動拳、斬空波動拳）対策",
+    "content": "豪鬼の豪波動拳に対してはオーバードライブサイコフリッカーで、斬空波動拳に対してはサイコスナッチャーで飛び道具を抜けつつ反撃が可能です。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "gouki",
+    "situation": "豪鬼が波動拳や斬空波動拳で牽制してきた際",
+    "source_video_id": "fpAvNz44pEk",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位エド！確反ドリームコンボがマジで痛すぎるｗｗｗ「Sahara:エド(Ed)」【スト6】",
+    "source_timestamp": "04:32",
+    "source_quote": "うけろ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T14:35:33.598506",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ced54cd96e89",
+    "category": "matchup",
+    "topic": "豪鬼の昇龍拳対策",
+    "content": "豪鬼の豪昇龍拳をガードした後、エドのサイコフリッカーやオーバードライブサイコフリッカーでパニッシュカウンターを取って反撃することができます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "gouki",
+    "situation": "豪鬼の豪昇龍拳をガードした後",
+    "source_video_id": "fpAvNz44pEk",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位エド！確反ドリームコンボがマジで痛すぎるｗｗｗ「Sahara:エド(Ed)」【スト6】",
+    "source_timestamp": "04:56",
+    "source_quote": "邪魔だ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T14:35:33.598506",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

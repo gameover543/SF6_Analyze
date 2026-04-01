@@ -1,68 +1,68 @@
 {
   "matrix": {
     "ryu": {
-      "neutral": 40,
-      "defense": 74,
-      "general": 27,
-      "matchup": 53,
-      "oki": 57,
-      "combo": 155
+      "neutral": 55,
+      "defense": 81,
+      "general": 110,
+      "matchup": 54,
+      "oki": 64,
+      "combo": 163
     },
     "luke": {
-      "combo": 111,
-      "oki": 51,
-      "defense": 64,
-      "general": 36,
-      "matchup": 31,
-      "neutral": 43
+      "combo": 122,
+      "oki": 54,
+      "defense": 81,
+      "general": 103,
+      "matchup": 45,
+      "neutral": 72
     },
     "jamie": {
-      "general": 51,
-      "neutral": 51,
-      "defense": 20,
-      "combo": 77,
-      "oki": 44,
-      "matchup": 34
+      "general": 110,
+      "neutral": 56,
+      "defense": 31,
+      "combo": 88,
+      "oki": 51,
+      "matchup": 40
     },
     "chunli": {
-      "defense": 56,
-      "matchup": 25,
-      "combo": 69,
-      "neutral": 35,
-      "oki": 52,
-      "general": 10
+      "defense": 75,
+      "matchup": 27,
+      "combo": 145,
+      "neutral": 66,
+      "oki": 55,
+      "general": 44
     },
     "guile": {
-      "defense": 25,
-      "matchup": 18,
-      "neutral": 26,
-      "general": 14,
-      "combo": 59,
-      "oki": 14
+      "defense": 43,
+      "matchup": 36,
+      "neutral": 51,
+      "general": 81,
+      "combo": 76,
+      "oki": 20
     },
     "kimberly": {
-      "defense": 47,
-      "neutral": 33,
-      "matchup": 20,
-      "general": 15,
-      "oki": 48,
-      "combo": 78
+      "defense": 50,
+      "neutral": 45,
+      "matchup": 28,
+      "general": 17,
+      "oki": 51,
+      "combo": 87
     },
     "juri": {
-      "matchup": 148,
-      "defense": 87,
-      "neutral": 41,
-      "oki": 28,
-      "combo": 70,
-      "general": 25
+      "matchup": 155,
+      "defense": 126,
+      "neutral": 63,
+      "oki": 37,
+      "combo": 94,
+      "general": 61
     },
     "ken": {
-      "neutral": 45,
-      "defense": 63,
-      "general": 19,
-      "oki": 37,
-      "combo": 55,
-      "matchup": 79
+      "neutral": 73,
+      "defense": 76,
+      "general": 49,
+      "oki": 50,
+      "combo": 95,
+      "matchup": 100
     },
     "blanka": {
       "defense": 23,
@@ -73,171 +73,168 @@
       "oki": 38
     },
     "dhalsim": {
-      "defense": 18,
-      "matchup": 27,
-      "general": 14,
-      "neutral": 39,
-      "combo": 66,
+      "defense": 19,
+      "matchup": 31,
+      "general": 21,
+      "neutral": 42,
+      "combo": 68,
       "oki": 10
     },
     "honda": {
-      "defense": 33,
-      "matchup": 13,
+      "defense": 34,
+      "matchup": 15,
       "neutral": 41,
-      "general": 29,
+      "general": 39,
       "oki": 34,
-      "combo": 83
+      "combo": 84
     },
     "deejay": {
-      "general": 7,
-      "neutral": 41,
+      "general": 8,
+      "neutral": 44,
       "combo": 211,
-      "matchup": 36,
-      "defense": 34,
+      "matchup": 37,
+      "defense": 36,
       "oki": 25
     },
     "manon": {
-      "neutral": 36,
-      "defense": 43,
-      "matchup": 38,
-      "general": 11,
-      "combo": 84,
-      "oki": 113
+      "neutral": 44,
+      "defense": 58,
+      "matchup": 44,
+      "general": 28,
+      "combo": 96,
+      "oki": 119
     },
     "marisa": {
-      "matchup": 50,
-      "neutral": 42,
-      "defense": 38,
+      "matchup": 51,
+      "neutral": 43,
+      "defense": 44,
       "oki": 34,
-      "general": 15,
+      "general": 23,
       "combo": 72
     },
     "jp": {
-      "neutral": 41,
-      "combo": 124,
-      "defense": 33,
+      "neutral": 54,
+      "combo": 127,
+      "defense": 37,
       "oki": 54,
-      "matchup": 32,
-      "general": 12
+      "matchup": 33,
+      "general": 26
     },
     "zangief": {
       "defense": 31,
-      "matchup": 29,
-      "general": 16,
+      "matchup": 31,
+      "general": 17,
       "neutral": 55,
       "combo": 50,
       "oki": 32
     },
     "lily": {
-      "defense": 70,
-      "matchup": 22,
-      "neutral": 15,
-      "general": 11,
+      "defense": 73,
+      "matchup": 24,
+      "neutral": 16,
+      "general": 15,
       "combo": 51,
       "oki": 15
     },
     "cammy": {
-      "defense": 58,
-      "matchup": 41,
-      "neutral": 40,
-      "oki": 39,
-      "general": 16,
-      "combo": 101
+      "defense": 78,
+      "matchup": 47,
+      "neutral": 59,
+      "oki": 41,
+      "general": 64,
+      "combo": 106
     },
     "rashid": {
       "combo": 122,
-      "defense": 33,
-      "neutral": 29,
+      "defense": 37,
+      "neutral": 37,
       "oki": 60,
-      "matchup": 22,
-      "general": 22
+      "matchup": 23,
+      "general": 27
     },
     "aki": {
-      "defense": 42,
-      "matchup": 34,
-      "neutral": 33,
-      "combo": 101,
-      "oki": 44,
-      "general": 15
+      "defense": 48,
+      "matchup": 35,
+      "neutral": 50,
+      "combo": 135,
+      "oki": 71,
+      "general": 39
     },
     "ed": {
-      "defense": 37,
-      "matchup": 37,
-      "neutral": 57,
-      "oki": 27,
-      "general": 31,
-      "combo": 56
+      "defense": 39,
+      "matchup": 49,
+      "neutral": 59,
+      "oki": 40,
+      "general": 42,
+      "combo": 60
     },
     "gouki": {
-      "neutral": 26,
-      "combo": 132,
-      "general": 10,
+      "neutral": 33,
+      "combo": 136,
+      "general": 18,
       "defense": 37,
       "oki": 68,
-      "matchup": 13
+      "matchup": 15
     },
     "mbison": {
       "matchup": 16,
-      "defense": 13,
-      "neutral": 25,
-      "oki": 44,
-      "combo": 90,
-      "general": 2
+      "defense": 16,
+      "neutral": 39,
+      "oki": 48,
+      "combo": 96,
+      "general": 23
     },
     "terry": {
-      "neutral": 110,
-      "defense": 426,
+      "neutral": 117,
+      "defense": 438,
       "combo": 160,
       "oki": 98,
-      "matchup": 190,
-      "general": 11
+      "matchup": 192,
+      "general": 31
     },
     "mai": {
-      "defense": 17,
+      "defense": 24,
       "matchup": 25,
-      "combo": 124,
-      "general": 13,
-      "oki": 35,
-      "neutral": 18
+      "combo": 126,
+      "general": 28,
+      "oki": 38,
+      "neutral": 25
     },
     "elena": {
-      "neutral": 26,
-      "combo": 29,
-      "oki": 13,
-      "defense": 30,
-      "matchup": 9,
-      "general": 8
+      "neutral": 27,
+      "combo": 33,
+      "oki": 15,
+      "defense": 34,
+      "matchup": 11,
+      "general": 9
     },
     "cviper": {
-      "defense": 38,
+      "defense": 39,
       "matchup": 7,
-      "combo": 130,
-      "neutral": 40,
-      "general": 26,
-      "oki": 58
+      "combo": 132,
+      "neutral": 41,
+      "general": 30,
+      "oki": 68
     },
     "sagat": {
       "combo": 155,
       "oki": 29,
       "defense": 23,
-      "neutral": 39,
+      "neutral": 41,
       "matchup": 11,
-      "general": 10
+      "general": 11
     },
     "alex": {
       "defense": 30,
-      "matchup": 29,
+      "matchup": 33,
       "general": 11,
       "combo": 163,
       "oki": 35,
       "neutral": 62
     }
   },
-  "total_entries": 8406,
-  "total_videos": 452,
-  "gap_queries": [
-    "SF6 ベガ 攻略 解説",
-    "SF6 ベガ 攻略 攻略"
-  ],
-  "last_updated": "2026-04-01T06:00:36.116601"
+  "total_entries": 10022,
+  "total_videos": 563,
+  "gap_queries": [],
+  "last_updated": "2026-04-01T21:15:10.020503"
 }

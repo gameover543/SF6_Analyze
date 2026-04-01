@@ -1,0 +1,97 @@
+[
+  {
+    "id": "8ebcdfa3ad8b",
+    "category": "combo",
+    "topic": "ベガのEXサイコクラッシャーガード後の反撃",
+    "content": "ベガのEXサイコクラッシャーアタックをガードした後、しゃがみ中K、中K、疾駆け（強K版）から追撃（パンチ版）でコンボを繋げることができる。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのEXサイコクラッシャーアタックガード後",
+    "source_video_id": "lDoZojDduGY",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位キンバリー！新環境コンボが美しすぎるｗｗｗ「tako956402:キンバリー(Kimberly)」【スト6】",
+    "source_timestamp": "04:18",
+    "source_quote": "ベガのEXサイコクラッシャーをガード後、しゃがみ中K > 中K > 疾駆け (K) > 追撃 (P)でコンボ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T21:08:30.714372",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "56891e909369",
+    "category": "combo",
+    "topic": "ベガのEXダブルニープレスガード後の反撃",
+    "content": "ベガのEXダブルニープレスをガードした後、しゃがみ中K、中K、疾駆け（強K版）から追撃（パンチ版）でコンボを繋げることができる。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのEXダブルニープレスガード後",
+    "source_video_id": "lDoZojDduGY",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位キンバリー！新環境コンボが美しすぎるｗｗｗ「tako956402:キンバリー(Kimberly)」【スト6】",
+    "source_timestamp": "04:32",
+    "source_quote": "ベガのEXダブルニープレスをガード後、しゃがみ中K > 中K > 疾駆け (K) > 追撃 (P)でコンボ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T21:08:30.714372",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f70ed2ba7ec8",
+    "category": "combo",
+    "topic": "ベガのサイコクラッシャーガード後のSA3コンボ",
+    "content": "ベガのサイコクラッシャーアタックをガードした後、立ち強PからSA3と繋げることで高ダメージのコンボになる。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "mbison",
+    "situation": "ベガのサイコクラッシャーアタックガード後",
+    "source_video_id": "lDoZojDduGY",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位キンバリー！新環境コンボが美しすぎるｗｗｗ「tako956402:キンバリー(Kimberly)」【スト6】",
+    "source_timestamp": "04:47",
+    "source_quote": "ベガのサイコクラッシャーをガード後、立ち強P > SA3でコンボ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T21:08:30.714372",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "accfd2551c28",
+    "category": "matchup",
+    "topic": "キンバリーのしゃがみ強K対策",
+    "content": "キンバリーのしゃがみ強Kをガードしたら、ルークのしゃがみ強Kが確定するので、ボタンを押して確定反撃を取ること。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの地上技",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "11:05",
+    "source_quote": "最後にキンバリー戦で気になった点があるので少しだけ。キンバリーのしゃがみ強Kはガードしたらルークのしゃがみ強Kが確定するからボタンを押すようにしよう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "technique",
+    "target_rank": "Diamond",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "202"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "07f40f20233b",
+    "category": "matchup",
+    "topic": "キンバリーの飛翔脚対策",
+    "content": "キンバリーの前に飛んでくる飛翔脚は、派生を出さなければキンバリーが大幅に不利な状況になる。この有利フレームを活用して、投げや打撃でこちらのターンにし、攻めに転じる。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーの飛翔脚",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "11:19",
+    "source_quote": "キンバリーの前に飛んでくる飛翔脚。これは派生を出さなかったらキンバリーがかなり不利なもの。投げや打撃でこちらのターンにしよう！！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "technique",
+    "target_rank": "Diamond",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "6af8c0c26cfe",
+    "category": "matchup",
+    "topic": "ダルシムvsキャミィ",
+    "content": "キャミィ戦では、相手の飛び込みや突進に対して強PやODヨガブラストで対空することが有効です。特にキャミィの突進にはODヨガブラストが確定する場面もあるので、しっかりと対処しましょう。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィの飛び込みや突進時",
+    "source_video_id": "1FNTvMJ2hp8",
+    "source_channel": "ストーム久保",
+    "source_video_title": "ダルシムに追加されたハイリスクハイリターン対空の苦しみにハマるストーム久保【スト6】",
+    "source_timestamp": "08:38",
+    "source_quote": "ヨガランス！ヨガランス！よいしょ。対空！対空！んもー無理だって！あれで無理なら無理じゃない？なんで確定じゃないんだよ？！なんだそのガバガバ判定は助けてくれ～！",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T10:14:44.343938",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "201",
+      "322"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "472366530023",
+    "category": "matchup",
+    "topic": "ダルシムvsキャミィのSA3対空",
+    "content": "キャミィがアローなどの飛び込み技を打ってきた場合、ダルシムのSA3対空は非常に強力で、ダメージも大きいので積極的に狙いましょう。「二度とアロー打つんじゃねぇぞ」という気持ちで確実にヒットさせましょう。",
+    "characters": [
+      "dhalsim"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィがアローなどの飛び込み技を打ってきた時",
+    "source_video_id": "1FNTvMJ2hp8",
+    "source_channel": "ストーム久保",
+    "source_video_title": "ダルシムに追加されたハイリスクハイリターン対空の苦しみにハマるストーム久保【スト6】",
+    "source_timestamp": "09:39",
+    "source_quote": "二度とアロー打つんじゃねぇぞ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T10:14:44.343938",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -19,6 +19,9 @@
     "channel_trust": 1.0,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T01:05:30.148497",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -26,6 +29,131 @@
       "110",
       "313",
       "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1dad2d58d036",
+    "category": "matchup",
+    "topic": "キャミィ戦での対空と地上戦の課題",
+    "content": "キャミィ戦では、対空がしゃがみ強Pのみに偏っており、めくり攻撃に対応できていない。また、しゃがみ強P対空がキャミィのストライクで潰されることが多いため、ライジングアッパー対空の練習か、別の対策が必要。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "cammy",
+    "situation": "対空、キャミィのストライク",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "01:44",
+    "source_quote": "対空がしゃがみ強Pのみでめくり攻撃を食らって負けてる。キャミィ戦はライジングアッパーが出せないから近付かれ放題。しゃがみ強Pをストライクで踏まれてそのまま負けることが多い。対空がしゃがみ強Pのみでめくり攻撃を食らって負けてる。キャミィ戦はライジングアッパーが出せないから近付かれ放題。しゃがみ強Pをストライクで踏まれて、そのま負けることが多い。対空で相打ちになってたり、ストライクに一方的に負けてたり、めくり飛びに一方的にやられてるシーンが結構あった。ストライクに関しては、ライジングアッパーがないとかなり厳しいと思う。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "Diamond",
+    "coaching_context": "キャミィ戦のプレイ動画から、特に問題となっている対空と地上でのストライク対応についてコーチが分析。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "13043ab1809f",
+    "category": "defense",
+    "topic": "キャミィのめくり飛び対策",
+    "content": "キャミィのめくり飛びに対しては、ガードまたはパリィで対処することが基本。めくり気味の攻撃はルークのしゃがみ強Pで落とせる場合が多い。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "cammy",
+    "situation": "めくり飛び",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "03:33",
+    "source_quote": "めくり飛びに関しては、ガードをするかパリィをしよう。めくり気味の攻撃もかなりしゃがみ強Pで落とせる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "technique",
+    "target_rank": "Diamond",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "111",
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f3142e7cf49b",
+    "category": "defense",
+    "topic": "キャミィのストライク対策",
+    "content": "キャミィのストライクに対する効果的な対空対策として、ストライクの着地を狙った手前落としを練習する。ストライクを高い位置でガードした場合、ルークのしゃがみ弱Pで確定反撃が可能だが、これは難しい。めくり攻撃の被弾率を減らすためにもストライクの手前落としは有効。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "cammy",
+    "situation": "キャミィのストライク",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "03:25",
+    "source_quote": "キャミィのストライクに関しては対空出来なくても対処法があるから、それは後ほど！ストライクを手前落とし。ストライクの着地を狩るもの。ストライクを高めでガードしにいく。ストライクはルークの腰より高い位置でガードするとルークのしゃがみ弱Pで確定が取れるけど、これは難しい。ライジングアッパー対空か、ストライク手前落としの練習をしたい。ストライク手前落としが出来るため、めくり攻撃を食らう率も減るからおすすめ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "technique",
+    "target_rank": "Diamond",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "107"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "85ee18e9a810",
+    "category": "defense",
+    "topic": "ルークの弾へのアクセルスピンナックル対策",
+    "content": "相手がルークの弾を嫌がって強アクセルスピンナックルで触りに来る場合、ドライブインパクトが有効。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "cammy",
+    "situation": "弾に対する突進技",
+    "source_video_id": "wrhga7Xx5WE",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】今勝ちやすい選択肢を紹介！ダイヤ帯ルークの敗因を分析！ダイヤ1ルーク使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "04:38",
+    "source_quote": "他にはルークの弾を嫌がって強アクセルスピンナックルで触りに来る。それに対してはドライブインパクトが有効。全てガードしてたからインパクトボタンに指を添えたい。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:56:35.187225",
+    "knowledge_type": "technique",
+    "target_rank": "Diamond",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "602"
     ],
     "staleness_status": "current",
     "staleness_reason": "",
@@ -51,6 +179,9 @@
     "channel_trust": 1.0,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T01:05:30.148497",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [

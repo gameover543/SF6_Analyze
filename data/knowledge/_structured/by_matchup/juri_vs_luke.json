@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8d1891e79149",
+    "category": "oki",
+    "topic": "起き上がり最速投げの練習",
+    "content": "ダミー設定でダウンリバーサルとガードリバーサルを「しゃがみ弱パンチ」に設定し、ONにする。この状態でドライブッシュ中P（DR中P）からの投げや、前ステ投げ（DR投げ）を練習する。相手のしゃがみ弱Pに投げが潰されないタイミングで投げを出すことを目指す。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め、ガードを固めた相手への崩し",
+    "source_video_id": "EixHm5relyg",
+    "source_channel": "ハイタニ TV",
+    "source_video_title": "【ハイタニ×天鬼ぷるる】天鬼ぷるるに教える！勝率爆上がり間違いなしのトレモ方法とは？【スト6】【SF6】【ストリートファイター6】【REJECTコーチング企画】",
+    "source_timestamp": "00:00",
+    "source_quote": "そうこれ！これなんですけど…これちゃんとやったら投げれるんですよ、絶対に。これ出来るようになるともう…マジで勝ちまくりです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T16:15:00.625481",
+    "knowledge_type": "technique",
+    "target_rank": "null",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "112"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "017153e724a6",
+    "category": "general",
+    "topic": "トレモ設定による課題可視化",
+    "content": "プレイヤーが直面する「投げが潰される」という状況を再現するため、トレーニングモードでダミーの反撃設定を具体的に指示（ダウンリバーサル、ガードリバーサルをしゃがみ弱パンチに設定）。これにより、プレイヤーは自身の投げのタイミングが正確かどうかを明確に認識し、反復練習で改善できる。",
+    "characters": [
+      "juri"
+    ],
+    "matchup": "luke",
+    "situation": "投げが潰される状況への対処",
+    "source_video_id": "EixHm5relyg",
+    "source_channel": "ハイタニ TV",
+    "source_video_title": "【ハイタニ×天鬼ぷるる】天鬼ぷるるに教える！勝率爆上がり間違いなしのトレモ方法とは？【スト6】【SF6】【ストリートファイター6】【REJECTコーチング企画】",
+    "source_timestamp": "01:49",
+    "source_quote": "ぴるるさんって色んな攻め方をやってるんですけど…結構相手のしゃがみ弱…一番発生の早い技に割り込まれちゃってる。例えばドライブッシュ中ってやった後にぷるるさん投げに行ってるじゃないですか？これってちゃんとタイミングよく投げに行ったら相手攻撃出せないんですよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T16:15:00.625481",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "ゴールド",
+    "coaching_context": "ドライブッシュ投げや前ステ投げが相手の暴れで潰されることの対策。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

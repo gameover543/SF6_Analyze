@@ -1,0 +1,62 @@
+[
+  {
+    "id": "535391d017be",
+    "category": "neutral",
+    "topic": "波動拳ガード後のラシードの立ち回り",
+    "content": "ラシードのしゃがみ中Pが波動拳をガードした場合、ガード後は五分だが、歩いて相手に近づくとパニッシュカウンターをもらう危険がある。むしろ後ろに下がることで相手の攻撃を空振りさせ、有利な展開に持ち込める可能性がある。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "ryu",
+    "situation": "波動拳ガード後、しゃがみ中Pがガードされた場合",
+    "source_video_id": "5Zphxp_VFo8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just pressing different buttons can make all the difference!! MR1300 Ryu's Replay Coaching #47 [P...",
+    "source_timestamp": "03:45",
+    "source_quote": "これ、しゃがみ中Pガードされた時、歩くと危ないっす。歩くと、こうなるのよ。むしろ引いてください、これ。ワンチャンいいこと起こるっす。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T09:34:44.303563",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "108"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "324dea309ea8",
+    "category": "neutral",
+    "topic": "ラシードの弾抜け",
+    "content": "波動拳に対してOD版ワールウィンドショットで弾抜けしてコンボに繋げる。大Pで割り込む選択肢もある。",
+    "characters": [
+      "rashid"
+    ],
+    "matchup": "ryu",
+    "situation": "相手の波動拳に対して",
+    "source_video_id": "5Zphxp_VFo8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "Just pressing different buttons can make all the difference!! MR1300 Ryu's Replay Coaching #47 [P...",
+    "source_timestamp": "00:33",
+    "source_quote": "波動拳、OD版ワールウィンドショット",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T09:34:44.303563",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -24,6 +24,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -63,6 +66,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -102,6 +108,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -141,6 +150,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -180,6 +192,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -219,6 +234,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -229,6 +247,35 @@
       "310",
       "607"
     ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ed7d85889d6d",
+    "category": "matchup",
+    "topic": "ジュリの風破斬（空中突進技）対策",
+    "content": "ジュリの空中突進技である風破斬に対して、エドのサイコスナッチャーは優れた対空技として機能し、パニッシュカウンターを奪うことができます。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "juri",
+    "situation": "ジュリが空中から風破斬で攻めてきた際",
+    "source_video_id": "fpAvNz44pEk",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位エド！確反ドリームコンボがマジで痛すぎるｗｗｗ「Sahara:エド(Ed)」【スト6】",
+    "source_timestamp": "03:10",
+    "source_quote": "邪魔だ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T14:35:33.598506",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
@@ -258,6 +305,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T11:49:56.359905",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "7bb56d37df92",
+    "category": "matchup",
+    "topic": "対ジェイミー戦での酒レベル",
+    "content": "ジェイミーがODアフロを振っていると酒レベルが下がる。酒レベルが低いジェイミーに対しては攻め込みやすい。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "jamie",
+    "situation": "対ジェイミー戦",
+    "source_video_id": "Nx3RQ7nGayk",
+    "source_channel": "よしなま【土星切り抜き局】",
+    "source_video_title": "じゃじいコーチングで「置き技」を学び成長するよしなま【スト6コーチング】【2024/12/30】",
+    "source_timestamp": "18:20",
+    "source_quote": "ジェイミーはODアフロ振ってると酒レベル下がるんすよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T13:32:35.530212",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "4c6a2409f1a4",
+    "category": "matchup",
+    "topic": "対ジェイミー戦でのODアフロ対策",
+    "content": "ジェイミーのODアフロに対しては、垂直ジャンプで回避し、追撃を狙うのが有効。酒投げにも垂直ジャンプが有効。",
+    "characters": [
+      "luke"
+    ],
+    "matchup": "jamie",
+    "situation": "ODアフロ",
+    "source_video_id": "Nx3RQ7nGayk",
+    "source_channel": "よしなま【土星切り抜き局】",
+    "source_video_title": "じゃじいコーチングで「置き技」を学び成長するよしなま【スト6コーチング】【2024/12/30】",
+    "source_timestamp": "17:00",
+    "source_quote": "ODアフロに垂直ジャンプしてほしいっすね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T13:32:35.530212",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

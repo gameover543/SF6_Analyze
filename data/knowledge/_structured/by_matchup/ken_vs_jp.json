@@ -18,6 +18,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T10:52:53.395700",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -48,6 +51,9 @@
     "channel_trust": 0.8,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T10:52:53.395700",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
@@ -76,12 +82,47 @@
     "channel_trust": 0.3,
     "frame_data_conflicts": [],
     "extracted_at": "2026-03-30T14:59:59.537859",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [
       "303",
       "307",
       "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "e36ef1906184",
+    "category": "matchup",
+    "topic": "JP対策",
+    "content": "JP戦では、ワープを伴う設置型必殺技（トルバランなど）に対しては、設置が消えたタイミングでラッシュ大Pで突っ込んでいくと勝ちやすい。リュウ撃対策でOD昇龍拳を使うと良いが、JPの読み合いに付き合って飛び道具をパニッシュカウンターで取られてしまうと苦しいので注意。垂直ジャンプで設置を避け、ラッシュで接近するのも有効。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": "jp",
+    "situation": "立ち回り",
+    "source_video_id": "Z4zTKIq7pa4",
+    "source_channel": "ぺぺっち～",
+    "source_video_title": "【スト6】スト6から始めた初心者モダンケンでMR1700達成！簡単コンボ+立ち回りすべて教えます『ストリートファイター6』",
+    "source_timestamp": "19:43",
+    "source_quote": "JP戦は、JPのね、あの、ワープホールを出すタイミングにラッシュ大Pってやると、ま、アシスト強っすね。マジで当たります。今とかね。で、これが消えま、これが消えたらラッシュで突っ込むっていうやると、相当、あの、勝ちやすいと。本当に。ま、私なんかね、ちょっと間に合ってない方は見返してほしいんですけど、このワープホールを出すタイミングにラッシュ大Pってやると、ま、アシスト強っすね。マジで当たります。今とかね。で、これが消えま、これが消えたらラッシュで突っ込むっていうやると、相当、あの、勝ちやすいと。本当に。ま、私なんかね、ちょっと間に合ってない方は見返してほしいんですけど、このワープホールを出すタイミングにラッシュ大Pってやると、マジで当たる。今とかね。で、これが消えま、これが消えたらラッシュで突っ込むっていうやると、相当、あの、勝ちやすいと。本当に。ま、私なんかね、ちょっと間に合ってない方は見返してほしいんですけど、このワープホールを出すタイミングにラッシュ大Pってやると、マジで当たる。今とかね。で、これが消えま、これが消えたらラッシュで突っ込むっていうやると、相当、あの、勝ちやすいと。本当に。ま、私なんかね、ちょっと間に合ってない方は見返してほしいんですけど、このワープホールを出すタイミングにラッシュ大Pってやると、マジで当たる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T11:54:44.163026",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "307",
+      "607"
     ],
     "staleness_status": "current",
     "staleness_reason": "",

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ab104dc954e1",
+    "category": "neutral",
+    "topic": "OD無影脚の活用",
+    "content": "リーチの長い相手キャラ（エドなど）に対しては、OD無影脚で差し合いを無視して攻めることができる。相手は技を振りにくくなり、中足や酔疾歩が当てやすくなる。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ed",
+    "situation": "相手のリーチが長い時",
+    "source_video_id": "-TcI1Y2Gdlg",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "【スト6】2年ぶりにじっくり解説！なるおのジェイミー立ち回り＆コンボ講座【なるお・ストリートファイター6】",
+    "source_timestamp": "12:28",
+    "source_quote": "ベタ足の地上戦はリーチ的に難しい事が多いから無影蹴とか弱酔疾歩で補おうってことー？そういう事だよガスイん君。中足全然当てられないと思ってたからなるほど！そう！基本的に中足とか立ち中Kだけで勝負しようって無理なんだよね。だってあっちの方が足長いんだもん。そりゃ無理じゃん。中足当てらんねーってなるじゃんそりゃ。あっちの方が長いから。近づくまでの間に、どんだけ色んな長い技をかいくぐって…。OD無影蹴があることによって、これ当てやすいしこれも当てやすい。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-28T14:10:32.825562",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": "2"
+  },
+  {
+    "id": "39d5af782615",
+    "category": "general",
+    "topic": "対戦相手のキャラクター特性と戦略",
+    "content": "対戦相手が人間離れしたキャラクター（エドやJP）の場合、動きが読みにくいなどの理由で対応が難しいことを考慮し、キャラクター変更も視野に入れる。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ed",
+    "situation": "対戦相手が新キャラ（エド）の場合",
+    "source_video_id": "9nAZ3zWAK6w",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Tips on SA Gauge Management! Nakaashi-san's Shihaku Cup Coaching [Naruo Street...",
+    "source_timestamp": "01:34",
+    "source_quote": "なあ、エドじゃない方がちょっといいんで、ちょっと…すいません。まあ…まあまあまあ…まあエドじゃねえしな。あのー…序盤の印象大事だと思ってるんで。いやいや別に大丈夫大丈夫Wあのー…気にしないっていいWちなみ誰がとりあえず得意とかあんの？まあルークとか結構多いからね。あ、やっぱあの人間っぽいキャラは行けます。はいはいはい。リュウとかケンとか…ルークとか…ああ、やりやすいよね。あっ…ちょっとあのー…ちょっと人間…W",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T07:59:35.551142",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "master",
+    "coaching_context": "エド戦に敗北後、コーチングされる側のプレイヤーがキャラクター変更を申し出た場面。新キャラエドはデータが少ないため対策が立てられていないという意図と推測される。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ff944bbdb950",
+    "category": "general",
+    "topic": "試合における精神的な切り替え",
+    "content": "短期決戦（2先）において1ラウンドを落とした場合でも、精神的に切り替えて次ラウンドに集中することの重要性。まだ「2先だから」と強がる姿勢も、メンタル維持の一環。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ed",
+    "situation": "2先で1ラウンドを落とした直後",
+    "source_video_id": "9nAZ3zWAK6w",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Tips on SA Gauge Management! Nakaashi-san's Shihaku Cup Coaching [Naruo Street...",
+    "source_timestamp": "02:26",
+    "source_quote": "まあ、2先だからこのゲームね。まあまあそうっすね。2先だから。別に。1回くらいは別に上げ…そうっすね。1回くらいは別に上げ…そうっすね。ちょっと…すいませんW",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T07:59:35.551142",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "master",
+    "coaching_context": "エドとの対戦で、OD技で大ダメージを受け、SA3でKO負けした直後。コーチングされる側のプレイヤーが「まあ2先だから」と強がってみせる場面。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

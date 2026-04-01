@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2bb1549e6a30",
+    "category": "combo",
+    "topic": "弱Kパニッシュカウンターからのコンボ",
+    "content": "A.K.I.で、弱Kがパニッシュカウンターした場合、続けて中P、そして強毒蛇絡(236HP)を繋げます。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "mbison",
+    "situation": "弱Kパニッシュカウンター",
+    "source_video_id": "NXu5hPyW7Hw",
+    "source_channel": "メノ(Meno)",
+    "source_video_title": "【202603ver】ストリートファイター6 A.K.I 基本 コンボ【 STREET FIGHTER 6 A.K.I BASIC COMBOS 】",
+    "source_timestamp": "01:40",
+    "source_quote": "LKpc > MP > 236HP 【1426】",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T03:04:01.632371",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "104",
+      "201"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2012fee83264",
+    "category": "matchup",
+    "topic": "ベガ（M. Bison）の空中攻撃対策",
+    "content": "ベガ（M. Bison）の空中攻撃に対しては、対空で狩ることができます。対空で落とすことで相手にプレッシャーをかけ、対策していることを示しましょう。",
+    "characters": [
+      "aki"
+    ],
+    "matchup": "mbison",
+    "situation": "対空",
+    "source_video_id": "U5eQQnncLTY",
+    "source_channel": "【モダン人間】ペインポソ",
+    "source_video_title": "【ハイマスターまでこれでいい！】モダンAKIのコンボ・起き攻め・中パンラッシュ・対空について【スト６、SF6】",
+    "source_timestamp": "06:36",
+    "source_quote": "ひとくちキャラ対策 ベガのこれ狩れます！対策してマス感を出して圧をかけよう！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T13:06:33.605768",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

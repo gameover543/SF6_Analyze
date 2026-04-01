@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8a6ec5aa8d77",
+    "category": "matchup",
+    "topic": "ダルシムのヨガテレポート対策",
+    "content": "ダルシムのヨガテレポート着地に対して、しゃがみ中K、中K、疾駆け（強K版）から追撃（パンチ版）、OD影すくい、SA3と繋げるコンボが有効。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガテレポート着地時",
+    "source_video_id": "lDoZojDduGY",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位キンバリー！新環境コンボが美しすぎるｗｗｗ「tako956402:キンバリー(Kimberly)」【スト6】",
+    "source_timestamp": "00:16",
+    "source_quote": "ダルシムのヨガテレポート着地に対して、しゃがみ中K > 中K > 疾駆け (K) > 追撃 (P) > EX影すくい > SA3でコンボしている。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T21:08:30.714372",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "306",
+      "312",
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "fe69bbbbef96",
+    "category": "matchup",
+    "topic": "ダルシムのヨガテレポート対策（SA2締め）",
+    "content": "ダルシムのヨガテレポート着地に対して、OD疾駆け（強K版）から追撃（パンチ版）、ドライブラッシュ、中K、OD疾駆け（強K版）から追撃（パンチ版）、SA2と繋げるコンボが有効。",
+    "characters": [
+      "kimberly"
+    ],
+    "matchup": "dhalsim",
+    "situation": "ダルシムがヨガテレポート着地時",
+    "source_video_id": "lDoZojDduGY",
+    "source_channel": "SF6-MODERN",
+    "source_video_title": "【SF6】世界1位キンバリー！新環境コンボが美しすぎるｗｗｗ「tako956402:キンバリー(Kimberly)」【スト6】",
+    "source_timestamp": "01:13",
+    "source_quote": "ダルシムのヨガテレポート着地にOD疾駆け(K) > 追撃(P) > DR > 中K > OD疾駆け(K) > 追撃(P) > SA2。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T21:08:30.714372",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "307"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

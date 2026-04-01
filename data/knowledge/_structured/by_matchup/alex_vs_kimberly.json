@@ -1,0 +1,128 @@
+[
+  {
+    "id": "a227433b2bdb",
+    "category": "matchup",
+    "topic": "キンバリーのジャンプ攻撃対策",
+    "content": "アレックスは、キンバリーのジャンプ攻撃に対してSA2（エリアルドライブ）でカウンターを狙いましょう。キンバリーの空中軌道を予測し、強力な対空技で迎撃することが重要です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがジャンプ攻撃をしてきた時",
+    "source_video_id": "POLTgxNTBrg",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶ✨アレックス戦立ち回り LEGEND Kimberly's Matchup Strategy Against Alex〚Pipokun〛〚みすとめーる〛",
+    "source_timestamp": "00:10",
+    "source_quote": "そりゃ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T15:00:49.873722",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "401"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1ae35fb5c3b0",
+    "category": "matchup",
+    "topic": "キンバリーのパリィ対策",
+    "content": "アレックスは、キンバリーのパリィ（ドライブパリィ）に対して投げを積極的に使いましょう。ガードを固めてパリィしているキンバリーには有効な崩し手段となります。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがパリィを多用している時",
+    "source_video_id": "POLTgxNTBrg",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶ✨アレックス戦立ち回り LEGEND Kimberly's Matchup Strategy Against Alex〚Pipokun〛〚みすとめーる〛",
+    "source_timestamp": "00:29",
+    "source_quote": "はっ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T15:00:49.873722",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "60efe1b89af5",
+    "category": "matchup",
+    "topic": "キンバリーのOD技へのパニッシュカウンター",
+    "content": "アレックスは、キンバリーのOD技に対して、しゃがみ中Kや立ち強Pでパニッシュカウンターを狙いましょう。キンバリーのOD技はガード時に大きな隙を生むことが多いため、反撃を確実に入れましょう。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーがOD技を使ってきた時",
+    "source_video_id": "POLTgxNTBrg",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶ✨アレックス戦立ち回り LEGEND Kimberly's Matchup Strategy Against Alex〚Pipokun〛〚みすとめーる〛",
+    "source_timestamp": "00:31",
+    "source_quote": "うりゃ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T15:00:49.873722",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "111"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "99f9dc671014",
+    "category": "matchup",
+    "topic": "キンバリーのOD技からのSA3",
+    "content": "アレックスは、キンバリーのOD技をパニッシュカウンターからSA3（メテオインパクト）で大ダメージを狙いましょう。OD技後の隙を最大限に活かし、試合を決定づけるチャンスを逃さないことが重要です。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": "kimberly",
+    "situation": "キンバリーのOD技をパニッシュカウンターした時",
+    "source_video_id": "POLTgxNTBrg",
+    "source_channel": "SF6キャラ対策リプレイコレクション",
+    "source_video_title": "【SF6】🔥Legendキンバリーから学ぶ✨アレックス戦立ち回り LEGEND Kimberly's Matchup Strategy Against Alex〚Pipokun〛〚みすとめーる〛",
+    "source_timestamp": "00:50",
+    "source_quote": "うりゃ！",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T15:00:49.873722",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "403",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

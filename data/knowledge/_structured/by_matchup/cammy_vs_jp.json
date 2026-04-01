@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ec7ea0ba5562",
+    "category": "general",
+    "topic": "プレイヤーの長所を認識する",
+    "content": "プレイヤーがJPのジャンプ攻撃に対してODストライクで正確に反応していることに対し、「反応はもう十分早い」「いい角度のストライク」と具体的な行動を挙げて評価し、長所を認識させる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "jp",
+    "situation": "JPのジャンプ攻撃に対してODストライクで返している場面",
+    "source_video_id": "-Y3qhGu02SM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "〇〇したら絶対にココまでやって！取りこぼしを無くせばめっちゃ勝てます。  MR1300キャミィのリプレイコーチング#14",
+    "source_timestamp": "01:53",
+    "source_quote": "いや反応はもう十分早い。いや、これもいい角度のストライクだな",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T08:03:35.783764",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "Master",
+    "coaching_context": "プレイヤーは地上戦やODストライクの使い方が分からないと相談しているが、一部のプレイは高いレベルである。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "0c8c4762918f",
+    "category": "defense",
+    "topic": "ODストライクでの対空潰し",
+    "content": "JPの通常技対空に対して、キャミィのODストライクは非常に有効である。相手が飛び上がってすぐに出す通常のジャンプ攻撃をODストライクで潰すことで、相手の対空を機能させず、攻めの起点を作ることができる。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "jp",
+    "situation": "JPが対空を狙っている場面",
+    "source_video_id": "-Y3qhGu02SM",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "〇〇したら絶対にココまでやって！取りこぼしを無くせばめっちゃ勝てます。  MR1300キャミィのリプレイコーチング#14",
+    "source_timestamp": "16:52",
+    "source_quote": "こういうJPみたいな通常技対空で飛び落とすキャラって、普通に飛んだらこんな感じで。これもね、上の方からこんな感じで飛ぶとこうやって送らせて。飛び上がってすぐ撃つんじゃなくて、飛んで…飛んで通常技とか押しそうなタイミングあたりでストライクをすると、こうやって昇龍拳じゃない対空はね、これでかなり潰せます。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T08:03:35.783764",
+    "knowledge_type": "technique",
+    "target_rank": "Master",
+    "coaching_context": "JPのような通常技対空が強力なキャラクターに対する対処法。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "69aa41a87ba3",
+    "category": "matchup",
+    "topic": "ガイル戦のDrive Gauge管理",
+    "content": "ガイル戦では1ラウンド目からキャンセルラッシュをあまりしない方が良い。ガイルの強みはDrive Gaugeに干渉するソニックブーム。Drive Gaugeを6本から5本に減らすのは価値が低いが、3本から2本、2本から1本に減らすのは非常に価値が高い。2.9本を維持させられるだけで火力が激減する。JPも似ている。",
+    "characters": [
+      "guile",
+      "jp"
+    ],
+    "matchup": "guile",
+    "situation": "ガイル戦、Drive Gaugeの状況",
+    "source_video_id": "j4EaSESk2KU",
+    "source_channel": "ふ〜ど Fuudo",
+    "source_video_title": "【スト6】トータルでプラスの価値を考える？攻めを強要する受けの戦法とは？【ふ～ど/如月れん/V最協】【ストリートファイター6 SF6 スト6】",
+    "source_timestamp": "05:25",
+    "source_quote": "ガイル戦は実は1ラウンド目からキャンセルラッシュあまり打たない方がいいとか。ガイルの強さってDゲージに干渉するソニックブームがすごい強みなんですよ。Dゲージ6本から5本にするのって価値が低いんですよね。まずソニックブーム打つ度にリスクが発生するのに6本から5本になる価値が低いから。だけど3本から2本とか2本から1本にする価値ってめちゃくちゃ高いんすよ。だからガイル使いよくやるのがひぐちとかもそうなんすけどまず下がらないでこのラッシュ打たせて投げ食らってそっからソニックモードに入るみたいな。そうするとDゲージの価値がもう超高いんすよ。3本…2.9維持させられるだけで途端に火力がめちゃくちゃ出なくなるんで。JPもそっち寄りなんすよね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T09:26:08.720526",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "69aa41a87ba3",
+    "category": "matchup",
+    "topic": "ガイル戦のDrive Gauge管理",
+    "content": "ガイル戦では1ラウンド目からキャンセルラッシュをあまりしない方が良い。ガイルの強みはDrive Gaugeに干渉するソニックブーム。Drive Gaugeを6本から5本に減らすのは価値が低いが、3本から2本、2本から1本に減らすのは非常に価値が高い。2.9本を維持させられるだけで火力が激減する。JPも似ている。",
+    "characters": [
+      "guile",
+      "jp"
+    ],
+    "matchup": "guile",
+    "situation": "ガイル戦、Drive Gaugeの状況",
+    "source_video_id": "j4EaSESk2KU",
+    "source_channel": "ふ〜ど Fuudo",
+    "source_video_title": "【スト6】トータルでプラスの価値を考える？攻めを強要する受けの戦法とは？【ふ～ど/如月れん/V最協】【ストリートファイター6 SF6 スト6】",
+    "source_timestamp": "05:25",
+    "source_quote": "ガイル戦は実は1ラウンド目からキャンセルラッシュあまり打たない方がいいとか。ガイルの強さってDゲージに干渉するソニックブームがすごい強みなんですよ。Dゲージ6本から5本にするのって価値が低いんですよね。まずソニックブーム打つ度にリスクが発生するのに6本から5本になる価値が低いから。だけど3本から2本とか2本から1本にする価値ってめちゃくちゃ高いんすよ。だからガイル使いよくやるのがひぐちとかもそうなんすけどまず下がらないでこのラッシュ打たせて投げ食らってそっからソニックモードに入るみたいな。そうするとDゲージの価値がもう超高いんすよ。3本…2.9維持させられるだけで途端に火力がめちゃくちゃ出なくなるんで。JPもそっち寄りなんすよね。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T09:26:08.720526",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

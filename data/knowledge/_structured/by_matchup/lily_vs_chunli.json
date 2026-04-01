@@ -1,0 +1,99 @@
+[
+  {
+    "id": "7469140354c8",
+    "category": "matchup",
+    "topic": "リリー vs 春麗の立ち弱K",
+    "content": "リリーの立ち弱Kは、春麗に対してノーマルヒットで繋がる特性があります。これは立ち回りで有利を取れる要素となります。",
+    "characters": [
+      "lily",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "立ち弱Kヒット時",
+    "source_video_id": "F1D8Xw1VSAk",
+    "source_channel": "ハイタニ TV",
+    "source_video_title": "【スト6】プロも知らない新発見が！？コーチングのはずがいつの間にか春麗研究会になっていた【ハイタニ もけ】【ストリートファイター6 SF6】",
+    "source_timestamp": "08:18",
+    "source_quote": "あれ！？今繋がってませんでした？え？今ノーマルで繋がってませんでした？ほんとでプラ1？え！？マジか。ええ！？マジか。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T16:10:21.891634",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "169fd0d07412",
+    "category": "matchup",
+    "topic": "春麗の構え攻撃に対する対策",
+    "content": "リリーにおいて、春麗の構え大Pをジャストパリィすると、ODコンドルスパイアから弱コンドルスパイア、メキシカンタイフーンに繋ぐことで2800ダメージを奪える。この状況ではコンボ補正が切れ、春麗側は動けないため、高ダメージを確定させることができる。",
+    "characters": [
+      "lily"
+    ],
+    "matchup": "chunli",
+    "situation": "相手の春麗が構え大Pを出す時",
+    "source_video_id": "WwmcTU_nTMk",
+    "source_channel": "小路KOG",
+    "source_video_title": "You'll want to try it out yourself after seeing it! This is an amazing combo that even KOG didn't...",
+    "source_timestamp": "04:05",
+    "source_quote": "春麗の構え攻撃をジャスパしたらカウンターの投げコマ投げ確定になるネタ広まってほしくなかった 補正切れるやつだったっけ？ ジャスパされたとき これ春麗側は何もできないって話かな？ 動けないからって言う話 これ多分やらないとあかんよな",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-31T05:24:28.954445",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "304",
+      "607",
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7469140354c8",
+    "category": "matchup",
+    "topic": "リリー vs 春麗の立ち弱K",
+    "content": "リリーの立ち弱Kは、春麗に対してノーマルヒットで繋がる特性があります。これは立ち回りで有利を取れる要素となります。",
+    "characters": [
+      "lily",
+      "chunli"
+    ],
+    "matchup": "chunli",
+    "situation": "立ち弱Kヒット時",
+    "source_video_id": "F1D8Xw1VSAk",
+    "source_channel": "ハイタニ TV",
+    "source_video_title": "【スト6】プロも知らない新発見が！？コーチングのはずがいつの間にか春麗研究会になっていた【ハイタニ もけ】【ストリートファイター6 SF6】",
+    "source_timestamp": "08:18",
+    "source_quote": "あれ！？今繋がってませんでした？え？今ノーマルで繋がってませんでした？ほんとでプラ1？え！？マジか。ええ！？マジか。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T16:10:21.891634",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

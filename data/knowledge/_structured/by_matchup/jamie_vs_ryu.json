@@ -1,0 +1,100 @@
+[
+  {
+    "id": "681e578ecfe7",
+    "category": "matchup",
+    "topic": "vs弾キャラの立ち回り",
+    "content": "ジェイミーが弾キャラ（例：リュウ）と対戦する場合、弾抜け（弾を避けられる行動）を見せることで、相手に弾を撃つのを躊躇させることができる。相手が弾を撃ってこない状況であれば、歩いて近づき、密着からの投げや打撃で揺さぶりをかける。OD波動拳で弾抜けを狙ってくる場合でも、相手に2ゲージを消費させられれば有利。弾を撃てない相手に対しては、歩いて距離を詰めることで主導権を握りやすい。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ryu",
+    "situation": "vs弾キャラ",
+    "source_video_id": "2iY7cFZ7kL0",
+    "source_channel": "なるおのひとりでできるもん",
+    "source_video_title": "[Street Fighter 6] Actually, this is all I think about! A lesson on how to read your opponent's m...",
+    "source_timestamp": "16:13",
+    "source_quote": "こういう動きしてる時ってリュウ目線何（狙い）だと思います？何狙ってると思う？これ。そう、たまぬけでしょ？するとリュウ目線で言うと「弾撃てねえなあ」ってなるじゃん。普段だったらこれバカうぜえじゃん。こうやってさ、弾まれるでしょ。だけどこれをみせると…あ、弾抜け狙ってる。弾危ねえか。ってなると歩けるわけよ。歩いて近づいてなんちゃらカーチャラができるよってっていうのが一応対の択かな。これやると相手はさ、弾を撃てないんだから。ってことはこのスペース分はちょっと歩けるよね。みたいな。俺たまにさ、「うわ撃つのかよ…」とかって言うじゃん。それもこれ。ってなって、2ゲージ吐かせたから。このムーブをしただけで2ゲージ吐かせるのは得じゃない？何もしてないし、何もやってないんだけど（？）相手が圧を感じて、「弾抜け釣ろOD波動だ」ってやったらそれは別にいいじゃん。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-29T22:43:21.668324",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "634089d8e80e",
+    "category": "general",
+    "topic": "火力の高いコンボ習得",
+    "content": "まずはこのコンボ（C)強K→前ステ→しゃがみ強P→OD酔疾歩→天晴脚）をできるようにしましょう。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ryu",
+    "situation": "コンボ火力を上げたい時",
+    "source_video_id": "xrHH9GBU2hI",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "ザンギに壊されたリスナージェイミーをコーチングするうりょ【スト6】【うりょ】",
+    "source_timestamp": "08:12",
+    "source_quote": "まずはこのコンボをできるようにしましょう！C)強K→前ステ→しゃがみ強P→OD酔疾歩→天晴脚",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T19:29:12.332298",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "PLATINUM",
+    "coaching_context": "低火力コンボの改善策として、よりダメージの高い特定コンボの習得を優先事項として提示。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "200",
+      "332"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8800463f3a6f",
+    "category": "combo",
+    "topic": "ジェイミーの主要コンボ",
+    "content": "【画面中央】強K→前ステップ→しゃがみ強P→酔疾歩→魔身。\n【画面端】強K→前ステップ→しゃがみ強P→OD酔疾歩→天晴脚。",
+    "characters": [
+      "jamie"
+    ],
+    "matchup": "ryu",
+    "situation": "コンボダメージを伸ばしたい時",
+    "source_video_id": "xrHH9GBU2hI",
+    "source_channel": "CAG_うりょ",
+    "source_video_title": "ザンギに壊されたリスナージェイミーをコーチングするうりょ【スト6】【うりょ】",
+    "source_timestamp": "08:12",
+    "source_quote": "まずはこのコンボをできるようにしましょう！C)強K→前ステ→しゃがみ強P→酔疾歩→魔身。相手が画面端の場合はOD酔疾歩から天晴脚。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T19:29:12.332298",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "200",
+      "300",
+      "332"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "4f168cd168ec",
+    "category": "neutral",
+    "topic": "「ドレイクファング」の活用",
+    "content": "相手がバーンアウトしている時や密着している時は「ドレイクファング（前強K）」が非常に強力。当たった場合は追撃し、ガードされた場合はおとなしくガードに移行する。DRIVEゲージの回復にも繋がる。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "mai",
+    "situation": "密着時、または相手がバーンアウト時",
+    "source_video_id": "l1CZBm_tQ0U",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【Mガイル講座】ヒット確認不要の攻め方！画面中央での攻め継続に悩んでいるアキ・ローゼンタールに村長ひぐちが解説！【V最】【最強道場決定戦】【コーチング】【スト6 SF6】",
+    "source_timestamp": "07:30",
+    "source_quote": "あとですね、近い時は...ああ、攻め危ねたらコレ。「ドレイクファング」も使えると良いです。出しどころが意外と分かんなくて。じゃあバーンアウトした時の相手にやりましょう、これ。当たったら？もう1回おかわりしましょうそしたら。おとなしくガードで良いと思いますよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:19:36.037644",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "f0f9bcf974de",
+    "category": "general",
+    "topic": "実践的な練習環境設定",
+    "content": "プレイヤーが「ドレイクファング」の出しどころに迷っている時、コーチは「バーンアウトした時の相手にやりましょう」と、特定の有利な状況で練習するよう促す。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "mai",
+    "situation": "新たな技の習得",
+    "source_video_id": "l1CZBm_tQ0U",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【Mガイル講座】ヒット確認不要の攻め方！画面中央での攻め継続に悩んでいるアキ・ローゼンタールに村長ひぐちが解説！【V最】【最強道場決定戦】【コーチング】【スト6 SF6】",
+    "source_timestamp": "07:42",
+    "source_quote": "出しどころが意外と分かんなくて。じゃあバーンアウトした時の相手にやりましょう、これ。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:19:36.037644",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "",
+    "coaching_context": "難しい技の習得には、まずは成功しやすい状況で練習し、自信をつけさせる。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "7f99a9d85d11",
+    "category": "general",
+    "topic": "強力な技の積極的な採用",
+    "content": "「ドレイクファング」が非常に強力であると説明し、「もうこれは入れ込んでいいぐらいですね」と、積極的に試合で使うべきであることを推奨する。",
+    "characters": [
+      "guile"
+    ],
+    "matchup": "mai",
+    "situation": null,
+    "source_video_id": "l1CZBm_tQ0U",
+    "source_channel": "ひぐちゃんねる",
+    "source_video_title": "【Mガイル講座】ヒット確認不要の攻め方！画面中央での攻め継続に悩んでいるアキ・ローゼンタールに村長ひぐちが解説！【V最】【最強道場決定戦】【コーチング】【スト6 SF6】",
+    "source_timestamp": "08:40",
+    "source_quote": "これ、マジ強いっす。『不遜パンチ』超強いんでね。もうこれは入れ込んでいいぐらいですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T12:19:36.037644",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "",
+    "coaching_context": "プレイヤーが強力な武器をレパートリーに加え、勝率を上げることを目的とする。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "210"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

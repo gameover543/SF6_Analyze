@@ -1,0 +1,66 @@
+[
+  {
+    "id": "5760217c951e",
+    "category": "combo",
+    "topic": "SA3での大ダメージコンボ",
+    "content": "SAゲージが3本溜まったら、見てからSA3を盾に戦うのがおすすめ。キャミィのSA3は発生が早く、攻撃範囲も広いため、相手の技の空振りや弾撃ちに対してもしっかりお仕置きができる。モダンでのワンボタンSA3発動はダメージが8割に抑えられるが、それでも相手の体力3割は削れる。相手の体力リードが大きく不利な状況でも、SA3を上手く使えば逆転のチャンスがある。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "luke",
+    "situation": "SAゲージが3本溜まった時",
+    "source_video_id": "aw7hnpj4-t0",
+    "source_channel": "ふみたんゲーム部",
+    "source_video_title": "【スト６初心者向け】モダンキャミィ解説！おすすめ簡単コンボや対空！戦い方",
+    "source_timestamp": "14:08",
+    "source_quote": "SAゲージが3本溜まったら、見てからSA3を盾に戦うのがおすすめ。キャミィのSA3は発生が早く攻撃範囲も広いので、相手の技の空振りや弾撃ちに対してしっかりお仕置きができる。ワンボタンでの発動はダメージが8割に抑えられるけど、それでも相手の体力3割は削れる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-03-30T05:18:55.773000",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "None"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a419abf0630",
+    "category": "matchup",
+    "topic": "ルーク対策",
+    "content": "ルークの連携（立ち弱P→立ち中P→立ち強P→強フラッシュナックル）やサンドブラストに対しては、ODスパイクが有効な対策となる。これらを積極的に使ってくる相手には、ODスパイクで確実に対処する。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": "luke",
+    "situation": null,
+    "source_video_id": "5QkO9IX9194",
+    "source_channel": "Yoshi",
+    "source_video_title": "【スト6甘やかしコーチング】ゴールド・プラチナ帯が悩む疑問に答える！練習方法・対策も解説！プラチナ1モダンキャミィ使いコーチング#ストリートファイター6#攻略",
+    "source_timestamp": "15:53",
+    "source_quote": "ルーク: 立弱P→立中P→立強P→強フラッシュナックル対策、立強P→サンドブラスト対策。どちらもODスパイクで全て対応できる。これで押してくる人がいるからしっかりお仕置きしたい",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-01T10:47:07.577249",
+    "knowledge_type": "technique",
+    "target_rank": "プラチナ1",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

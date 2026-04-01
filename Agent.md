@@ -131,8 +131,35 @@
 - `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
 - `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
 
+### タスク#6: テストスイートの整備（2026-04-01）
+Vitest を導入し、Webアプリ側の単体テストを 25件追加した。
+
+**追加ファイル:**
+- `app/vitest.config.ts` — `@` エイリアスを `src/` に解決、Node.js 環境で実行
+- `app/src/__tests__/lib/frame-data.test.ts` — `getCharacterFrameData`・`filterMovesByControlType`・`categorizeMoves`・`getFrameAdvantageColor` の純粋関数テスト（12件）
+- `app/src/__tests__/lib/knowledge.test.ts` — `fs` モジュールをモックして `buildKnowledgeContext`・`buildMatchupKnowledgeContext` を検証（9件）
+- `app/src/__tests__/api/characters.test.ts` — `next/server` を軽量モックし、GET /api/characters と GET /api/characters/[slug] を検証（4件）
+
+**設計のポイント:**
+- `knowledge.ts` は `fs` を直接使うため `vi.mock("fs")` でモック化。`existsSync`/`readFileSync` を `vi.fn()` に差し替えることでテスト内でファイルの有無・内容を制御
+- `next/server` の `NextResponse.json()` はテスト用に `{ _data, _status }` を返す軽量モックに置き換え
+- `npm test` スクリプトを `package.json` に追加（`vitest run`）
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+- `Message` 型は `app/src/hooks/useChatMessages.ts` から import すること（`@/hooks/useChatMessages`）
+- `mode` 型は現在 `"counseling" | "coaching" | "matchup"` の3種類。新コンポーネントを作る場合は全3種を考慮すること
+- Vitest テストは `app/` 配下で `npm test` を実行。`vitest.config.ts` の `@` エイリアスは `src/` を指す
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
 - サイドバーの `max-height` は `style={{ maxHeight: "160px" }}` でインライン指定している（Tailwindの任意値は利用できない環境のため）
 - `fetchWithRetry` はサーバーサイドでは使わないこと（`AbortController` はブラウザAPIだが Node.js でも動くため問題はないが、APIルートは直接 `llm.chat()` を呼ぶ設計のまま）
+- テストを追加する際: `knowledge.ts` の内部ヘルパー（`detectOpponent` 等）はエクスポート非公開なので、`buildKnowledgeContext` 経由でブラックボックステストとして検証すること

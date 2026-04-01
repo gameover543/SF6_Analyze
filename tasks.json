@@ -47,7 +47,7 @@
       "priority": "medium",
       "subject": "テストスイートの整備",
       "description": "現在test_personas.py（AIコーチ品質テスト）のみ。Webアプリ側のテスト（Vitest/Jest）が皆無。APIルート、ナレッジ検索ロジック、フレームデータ読込の単体テストを追加する。",
-      "status": "pending",
+      "status": "done",
       "category": "品質・保守性"
     },
     {

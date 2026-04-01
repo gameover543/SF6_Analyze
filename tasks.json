@@ -15,7 +15,7 @@
       "priority": "high",
       "subject": "パッチ追跡インフラの有効化",
       "description": "patch_diff.pyとrevalidator.pyは実装済みだが、data/patches/ディレクトリが未作成で実際には動作していない。パッチ適用後にフレームデータ差分を生成→ナレッジの陳腐化判定を自動実行するフローを完成させる。",
-      "status": "pending",
+      "status": "done",
       "category": "コア機能"
     },
     {

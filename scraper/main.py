@@ -108,8 +108,7 @@ async def run_scraper(force: bool = False, targets: list[str] | None = None):
                 new_snapshot = snapshot_frame_data(config.output_dir)
                 diff = compute_diff(old_snapshot, new_snapshot)
                 if diff:
-                    patches_dir = config.data_dir / "patches"
-                    save_diff(diff, patches_dir)
+                    save_diff(diff, config.patches_dir)
                     logger.info(f"パッチdiff保存完了。ナレッジ再バリデーションを実行...")
                     # 再バリデーション自動実行
                     try:

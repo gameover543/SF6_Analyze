@@ -35,6 +35,25 @@
 - `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
 - `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
 
+### タスク#2: パッチ追跡インフラの有効化（2026-04-01）
+`data/patches/` ディレクトリと初期 `_meta.json` を作成し、`ScraperConfig` に `patches_dir` フィールドを追加した。
+
+**変更内容:**
+1. `scraper/config.py` に `patches_dir: Path = data_dir / "patches"` を追加し、`__post_init__` で自動作成するよう設定
+2. `scraper/main.py` のハードコード `config.data_dir / "patches"` を `config.patches_dir` に統一
+3. `data/patches/_meta.json` を初期状態（空のパッチリスト）で作成
+
+**フロー確認:** `scraper/main.py --force` → `patch_diff.compute_diff()` → `patch_diff.save_diff()` → `revalidator.revalidate_knowledge()` の全連携が有効化された。
+
+## 累積した知見・注意点
+
+- `_structured/by_matchup/` のファイル名は **収録したナレッジの視点キャラ側** が先頭になる
+  - `ken_vs_jamie.json` は「ケン使いがジェイミーと対戦した際のナレッジ」を収録
+  - ジェイミー使いが「ケン対策」を聞いた時は、`jamie_vs_ken.json`（存在しない場合が多い）でも`ken_vs_jamie.json`でも有用な情報が得られる
+- `CHAR_JP` の反復順序はオブジェクト挿入順。`detectOpponent` はメインキャラをスキップしないと誤検出しやすい
+- `_structured/_manifest.json` に `matchup_pairs` リストがある（利用可能なマッチアップファイルを事前確認できる）
+- `ScraperConfig` の `__post_init__` で作成されるディレクトリ: `session_dir`, `output_dir`, `patches_dir`, `log_dir`
+
 ## 次のタスクへの申し送り
 
-- タスク#2（パッチ追跡インフラ）は `data/patches/` ディレクトリが未作成。`knowledge.ts` の `loadLatestPatchSummary()` はディレクトリ不在時に `null` を返すよう安全に実装済みなので、パッチ機能を有効化しても既存機能は壊れない。
+- タスク#3（ChatInterface分割）: `app/src/components/ChatInterface.tsx` が535行。分割前に必ず全体を読んで依存関係を把握すること。

@@ -17,6 +17,7 @@ class ScraperConfig:
     data_dir: Path = root_dir / "data"
     session_dir: Path = data_dir / "session"
     output_dir: Path = data_dir / "frame_data"
+    patches_dir: Path = data_dir / "patches"
     storage_state_path: Path = session_dir / "storage_state.json"
     cookie_backup_path: Path = session_dir / "cookies_backup.json"
     db_path: Path = data_dir / "metadata.db"
@@ -40,4 +41,5 @@ class ScraperConfig:
         # 必要なディレクトリの作成
         self.session_dir.mkdir(parents=True, exist_ok=True)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.patches_dir.mkdir(parents=True, exist_ok=True)
         self.log_dir.mkdir(parents=True, exist_ok=True)

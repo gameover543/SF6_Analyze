@@ -63,7 +63,7 @@
       "priority": "low",
       "subject": "フレームデータUIの強化",
       "description": "FrameTable.tsxの改善: フィルタリング（技タイプ別）、ソート機能、有利/不利フレームの色分け、モダン/クラシック表示切替、技の検索機能を追加する。",
-      "status": "pending",
+      "status": "done",
       "category": "UX向上"
     },
     {

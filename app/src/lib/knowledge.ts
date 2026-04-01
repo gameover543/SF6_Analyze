@@ -9,6 +9,7 @@
 
 import fs from "fs";
 import path from "path";
+import { CHAR_JP } from "@/lib/characters";
 
 // --- 型定義 ---
 
@@ -82,17 +83,6 @@ const SYNONYMS: Record<string, string[]> = {
   "ドライブゲージ": ["ゲージ管理", "ゲージ消費"],
 };
 
-// キャラslug → 日本語名
-const CHAR_JP: Record<string, string> = {
-  ryu: "リュウ", luke: "ルーク", jamie: "ジェイミー", chunli: "春麗",
-  guile: "ガイル", kimberly: "キンバリー", juri: "ジュリ", ken: "ケン",
-  blanka: "ブランカ", dhalsim: "ダルシム", honda: "本田", deejay: "ディージェイ",
-  manon: "マノン", marisa: "マリーザ", jp: "JP", zangief: "ザンギエフ",
-  lily: "リリー", cammy: "キャミィ", rashid: "ラシード", aki: "アキ",
-  ed: "エド", gouki: "豪鬼", mbison: "ベガ", terry: "テリー",
-  mai: "舞", elena: "エレナ", cviper: "バイパー", sagat: "サガット",
-  alex: "アレックス",
-};
 
 // --- データローダー ---
 

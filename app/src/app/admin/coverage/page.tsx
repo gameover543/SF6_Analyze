@@ -9,6 +9,7 @@
 
 import fs from "fs";
 import path from "path";
+import { CHAR_JP } from "@/lib/characters";
 
 // --- 型定義 ---
 
@@ -64,17 +65,6 @@ const CATEGORY_COLORS: Record<Category, string> = {
   general: "#6b7280",  // gray
 };
 
-// slug → 日本語名（_coverage.json は "honda" を使うため "ehonda" は含まない）
-const CHAR_NAME: Record<string, string> = {
-  ryu: "リュウ", luke: "ルーク", jamie: "ジェイミー", chunli: "春麗",
-  guile: "ガイル", kimberly: "キンバリー", juri: "ジュリ", ken: "ケン",
-  blanka: "ブランカ", dhalsim: "ダルシム", honda: "本田", deejay: "ディージェイ",
-  manon: "マノン", marisa: "マリーザ", jp: "JP", zangief: "ザンギエフ",
-  lily: "リリー", cammy: "キャミィ", rashid: "ラシード", aki: "アキ",
-  ed: "エド", gouki: "豪鬼", mbison: "ベガ", terry: "テリー",
-  mai: "舞", elena: "エレナ", cviper: "バイパー", sagat: "サガット",
-  alex: "アレックス",
-};
 
 // --- ページコンポーネント ---
 
@@ -92,7 +82,7 @@ export default function CoveragePage() {
   const charStats = Object.entries(coverage.matrix)
     .map(([slug, cats]) => {
       const total = Object.values(cats).reduce((a, b) => a + b, 0);
-      return { slug, name: CHAR_NAME[slug] ?? slug, cats, total };
+      return { slug, name: CHAR_JP[slug] ?? slug, cats, total };
     })
     .sort((a, b) => b.total - a.total);
 

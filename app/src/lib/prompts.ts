@@ -1,4 +1,5 @@
 import type { UserProfile } from "@/types/profile";
+import { CHAR_JP } from "@/lib/characters";
 
 /** AIコーチのシステムプロンプトを生成する */
 export function buildCoachSystemPrompt(
@@ -163,20 +164,9 @@ ryu, luke, jamie, chunli, guile, kimberly, juri, ken, blanka, dhalsim, ehonda, d
 
 /** プロフィール情報をプロンプト用テキストに変換 */
 function buildProfileSection(profile: UserProfile): string {
-  const charNames: Record<string, string> = {
-    ryu: "リュウ", luke: "ルーク", jamie: "ジェイミー", chunli: "春麗",
-    guile: "ガイル", kimberly: "キンバリー", juri: "ジュリ", ken: "ケン",
-    blanka: "ブランカ", dhalsim: "ダルシム", ehonda: "本田", deejay: "ディージェイ",
-    manon: "マノン", marisa: "マリーザ", jp: "JP", zangief: "ザンギエフ",
-    lily: "リリー", cammy: "キャミィ", rashid: "ラシード", aki: "A.K.I.",
-    ed: "エド", gouki: "豪鬼", mbison: "ベガ", terry: "テリー",
-    mai: "舞", elena: "エレナ", cviper: "C.ヴァイパー", sagat: "サガット",
-    alex: "アレックス",
-  };
-
-  const mainName = charNames[profile.mainCharacter] || profile.mainCharacter;
-  const subNames = profile.subCharacters.map(s => charNames[s] || s);
-  const weakNames = profile.weakAgainst.map(s => charNames[s] || s);
+  const mainName = CHAR_JP[profile.mainCharacter] || profile.mainCharacter;
+  const subNames = profile.subCharacters.map(s => CHAR_JP[s] || s);
+  const weakNames = profile.weakAgainst.map(s => CHAR_JP[s] || s);
 
   let text = `## 担当プレイヤーのプロフィール
 - メインキャラ: ${mainName}（${profile.controlType}操作）

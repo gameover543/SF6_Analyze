@@ -151,7 +151,7 @@
       "priority": "medium",
       "subject": "charNames定数の一元管理",
       "description": "キャラslug→日本語名マップ（charNames/CHAR_JP）がknowledge.ts、prompts.ts、route.ts、ChatInterface.tsx等の複数ファイルに散在し、honda/ehonda問題等の不整合リスクがある。共通の定数ファイル（例: lib/characters.ts）に統合し、全箇所からimportする。",
-      "status": "pending",
+      "status": "done",
       "category": "品質・保守性"
     },
     {

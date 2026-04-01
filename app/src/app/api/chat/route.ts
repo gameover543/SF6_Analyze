@@ -8,6 +8,7 @@ import {
 } from "@/lib/prompts";
 import { buildKnowledgeContext, buildMatchupKnowledgeContext, detectOpponent } from "@/lib/knowledge";
 import type { UserProfile } from "@/types/profile";
+import { CHAR_JP } from "@/lib/characters";
 
 export async function POST(request: NextRequest) {
   try {
@@ -60,18 +61,8 @@ export async function POST(request: NextRequest) {
       const knowledgeContext = buildMatchupKnowledgeContext(mainSlug, opponentChar, recentMessages);
 
       // キャラ名（日本語）を解決してプロンプトに渡す
-      const charNames: Record<string, string> = {
-        ryu: "リュウ", luke: "ルーク", jamie: "ジェイミー", chunli: "春麗",
-        guile: "ガイル", kimberly: "キンバリー", juri: "ジュリ", ken: "ケン",
-        blanka: "ブランカ", dhalsim: "ダルシム", honda: "本田", deejay: "ディージェイ",
-        manon: "マノン", marisa: "マリーザ", jp: "JP", zangief: "ザンギエフ",
-        lily: "リリー", cammy: "キャミィ", rashid: "ラシード", aki: "A.K.I.",
-        ed: "エド", gouki: "豪鬼", mbison: "ベガ", terry: "テリー",
-        mai: "舞", elena: "エレナ", cviper: "C.ヴァイパー", sagat: "サガット",
-        alex: "アレックス",
-      };
-      const mainName = charNames[mainSlug] || mainSlug;
-      const opponentName = charNames[opponentChar] || opponentChar;
+      const mainName = CHAR_JP[mainSlug] || mainSlug;
+      const opponentName = CHAR_JP[opponentChar] || opponentChar;
 
       systemPrompt = buildCoachSystemPrompt(
         frameDataContext,

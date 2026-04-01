@@ -448,6 +448,26 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - `detectOpponent` は `knowledge.ts` から `export` されており、`route.ts` から直接インポート可能
 - テストで `detectOpponent` を単体テストしたい場合は `@/lib/knowledge` から import できる（タスク#18以降）
 
+### タスク#19: charNames定数の一元管理（2026-04-01）
+`app/src/lib/characters.ts` を新規作成し、キャラslug→日本語名マップを一元化した。
+
+**変更内容:**
+1. `app/src/lib/characters.ts` — `CHAR_JP` を `export` で定義。`ehonda` と `honda` の両方を含む（フレームデータは ehonda、ナレッジデータは honda を使うため）
+2. `app/src/lib/knowledge.ts` — ローカル定義の `CHAR_JP` を削除し、`characters.ts` から import
+3. `app/src/lib/prompts.ts` — ローカルの `charNames` 定義を削除し、`CHAR_JP` を import
+4. `app/src/app/api/chat/route.ts` — ローカルの `charNames` 定義を削除し、`CHAR_JP` を import
+5. `app/src/app/admin/coverage/page.tsx` — ローカルの `CHAR_NAME` 定義を削除し、`CHAR_JP` を import
+
+**統合後のキャラ名（代表的な変更点）:**
+- `aki`: "アキ" / "A.K.I." → **"A.K.I."** に統一（SF6の正式名称）
+- `cviper`: "バイパー" / "C.ヴァイパー" → **"C.ヴァイパー"** に統一
+- `ehonda`/`honda`: 両slugとも **"本田"** に解決（二重登録で対応）
+
+## 累積した知見・注意点
+
+- `CHAR_JP` は `app/src/lib/characters.ts` に一元管理。新キャラ追加時はここを更新するだけでよい
+- `ehonda`（フレームデータslug）と `honda`（ナレッジデータslug）の両方が `CHAR_JP` に登録されている。どちらのslugでも日本語名を解決できる
+
 ## 次のタスクへの申し送り
 
 - タスク#5以降: `useSessionState` の `mode` は3種類になった。新たなUIコンポーネントを追加する際は全モードに対応すること
@@ -468,3 +488,5 @@ cd scraper && python ab_benchmark.py --skip-eval            # 応答生成のみ
 - ベンチマーク結果は `scraper/logs/ab_benchmark_results.json`。大量実行時は `--output` で別ファイルに保存すること
 - `react-markdown` の `components` プロップで各要素のレンダリングをカスタマイズ可能。Tailwindクラスを直接適用する方式（グローバルCSS不要）
 - インラインコードとコードブロックの区別: `code` コンポーネントの `className` が `language-*` を含むかどうかで判定すること
+- キャラslug→日本語名は `@/lib/characters` の `CHAR_JP` を import すること。ローカル定義を追加しないこと（タスク#19以降）
+- 新キャラ追加時は `app/src/lib/characters.ts` の `CHAR_JP` のみ更新すれば全箇所に反映される

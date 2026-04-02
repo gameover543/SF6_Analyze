@@ -8,6 +8,7 @@ import { CHAR_JP } from "@/lib/characters";
 import { MEMO_TAG_LABELS } from "@/types/memo";
 import type { MemoTag, QuickAdviceEntry } from "@/types/memo";
 import MemoSheet from "./MemoSheet";
+import AiFeedback from "@/components/AiFeedback";
 
 /** 相対時間 */
 function timeAgo(iso: string): string {
@@ -119,14 +120,17 @@ export default function QuickAdvice({ onSaveToMemo, recentOpponents }: QuickAdvi
               </ReactMarkdown>
             )}
           </div>
-          {/* メモに保存ボタン（ストリーミング完了後のみ） */}
+          {/* アクション行（ストリーミング完了後のみ） */}
           {!isStreaming && currentMeta && (
-            <button
-              onClick={() => handleSaveToMemo(currentMeta, currentAnswer)}
-              className="mt-3 px-3 py-1.5 rounded-lg text-xs font-medium bg-emerald-600/20 text-emerald-400 border border-emerald-500/30 hover:bg-emerald-600/30 transition"
-            >
-              📝 メモに保存
-            </button>
+            <div className="mt-3 flex items-center gap-3 flex-wrap">
+              <button
+                onClick={() => handleSaveToMemo(currentMeta, currentAnswer)}
+                className="px-3 py-1.5 rounded-lg text-xs font-medium bg-emerald-600/20 text-emerald-400 border border-emerald-500/30 hover:bg-emerald-600/30 transition"
+              >
+                📝 メモに保存
+              </button>
+              <AiFeedback question={currentQuestion} answer={currentAnswer} />
+            </div>
           )}
         </div>
       )}

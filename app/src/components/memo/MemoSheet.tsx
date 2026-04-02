@@ -29,6 +29,7 @@ export default function MemoSheet({
   recentOpponents = [],
 }: MemoSheetProps) {
   const [selectedChar, setSelectedChar] = useState<string>("");
+  const [charSearch, setCharSearch] = useState("");
   const [body, setBody] = useState("");
   const [tags, setTags] = useState<MemoTag[]>([]);
   const [result, setResult] = useState<"win" | "lose" | undefined>();
@@ -38,10 +39,14 @@ export default function MemoSheet({
   useEffect(() => {
     if (isOpen) {
       setSelectedChar(presetCharacter || "");
+      setCharSearch("");
       setBody("");
       setTags([]);
       setResult(undefined);
-      setTimeout(() => textareaRef.current?.focus(), 100);
+      // キャラ未選択ならテキストエリアではなく自然にキャラ選択へ誘導
+      if (presetCharacter) {
+        setTimeout(() => textareaRef.current?.focus(), 100);
+      }
     }
   }, [isOpen, presetCharacter]);
 
@@ -64,12 +69,23 @@ export default function MemoSheet({
 
   if (!isOpen) return null;
 
-  // キャラリスト: 最近の対戦相手を先頭に
-  const recentSet = new Set(recentOpponents);
-  const sortedChars = [
-    ...CHARACTER_LIST.filter((c) => recentSet.has(c.slug)),
-    ...CHARACTER_LIST.filter((c) => !recentSet.has(c.slug)),
-  ];
+  // キャラ検索フィルタ（slug・英名・日本語名で検索）
+  const searchLower = charSearch.toLowerCase();
+  const filteredChars = charSearch
+    ? CHARACTER_LIST.filter((c) => {
+        const jp = CHAR_JP[c.slug] || "";
+        return (
+          c.slug.includes(searchLower) ||
+          c.name.toLowerCase().includes(searchLower) ||
+          jp.includes(charSearch)
+        );
+      })
+    : [];
+
+  // 最近の対戦相手（検索していない時に表示）
+  const recentChars = CHARACTER_LIST.filter((c) =>
+    recentOpponents.includes(c.slug)
+  );
 
   return (
     <>
@@ -93,23 +109,70 @@ export default function MemoSheet({
         </div>
 
         <div className="p-4 space-y-4">
-          {/* キャラ選択 */}
+          {/* キャラ選択: 検索 + 最近の対戦相手 */}
           <div>
-            <p className="text-xs text-theme-subtle mb-2">対戦相手</p>
-            <div className="flex gap-1.5 overflow-x-auto scrollbar-none pb-1">
-              {sortedChars.map((c) => (
-                <button
-                  key={c.slug}
-                  onClick={() => setSelectedChar(c.slug)}
-                  className={`shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition border ${
-                    selectedChar === c.slug
-                      ? "bg-emerald-600 text-white border-emerald-600"
-                      : "bg-transparent text-theme-muted border-theme-border hover:border-theme-raised hover:text-theme-text"
-                  }`}
-                >
-                  {CHAR_JP[c.slug] || c.name}
-                </button>
-              ))}
+            <p className="text-xs text-theme-subtle mb-2">
+              対戦相手
+              {selectedChar && (
+                <span className="ml-2 text-emerald-400 font-medium">
+                  {CHAR_JP[selectedChar] || selectedChar}
+                </span>
+              )}
+            </p>
+
+            {/* 検索ボックス */}
+            <input
+              type="text"
+              value={charSearch}
+              onChange={(e) => setCharSearch(e.target.value)}
+              placeholder="キャラ名で検索..."
+              className="w-full px-3 py-2 rounded-lg bg-theme-panel border border-theme-border text-sm text-theme-text placeholder-theme-subtle focus:outline-none focus:border-emerald-500 mb-2"
+            />
+
+            {/* 検索結果 or 最近の対戦相手 */}
+            <div className="flex flex-wrap gap-1.5">
+              {charSearch ? (
+                // 検索結果
+                filteredChars.length > 0 ? (
+                  filteredChars.map((c) => (
+                    <button
+                      key={c.slug}
+                      onClick={() => { setSelectedChar(c.slug); setCharSearch(""); }}
+                      className={`px-3 py-1.5 rounded-full text-xs font-medium transition border ${
+                        selectedChar === c.slug
+                          ? "bg-emerald-600 text-white border-emerald-600"
+                          : "bg-transparent text-theme-muted border-theme-border hover:border-theme-raised hover:text-theme-text"
+                      }`}
+                    >
+                      {CHAR_JP[c.slug] || c.name}
+                    </button>
+                  ))
+                ) : (
+                  <p className="text-xs text-theme-subtle py-1">該当なし</p>
+                )
+              ) : (
+                // 最近の対戦相手
+                <>
+                  {recentChars.length > 0 && (
+                    <>
+                      <p className="w-full text-xs text-theme-subtle mb-0.5">最近の対戦相手</p>
+                      {recentChars.map((c) => (
+                        <button
+                          key={c.slug}
+                          onClick={() => setSelectedChar(c.slug)}
+                          className={`px-3 py-1.5 rounded-full text-xs font-medium transition border ${
+                            selectedChar === c.slug
+                              ? "bg-emerald-600 text-white border-emerald-600"
+                              : "bg-transparent text-theme-muted border-theme-border hover:border-theme-raised hover:text-theme-text"
+                          }`}
+                        >
+                          {CHAR_JP[c.slug] || c.name}
+                        </button>
+                      ))}
+                    </>
+                  )}
+                </>
+              )}
             </div>
           </div>
 

@@ -30,5 +30,15 @@ cd "${PROJECT_DIR}/scraper"
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') ナレッジ収集パイプライン完了" | tee -a "${LOG_FILE}"
 
+# 変更があれば自動コミット
+cd "${PROJECT_DIR}"
+if git diff --quiet data/knowledge/ 2>/dev/null; then
+  echo "$(date '+%Y-%m-%d %H:%M:%S') ナレッジに変更なし、コミットスキップ" | tee -a "${LOG_FILE}"
+else
+  git add data/knowledge/
+  git commit -m "ナレッジ自動更新: $(date '+%Y-%m-%d')" 2>&1 | tee -a "${LOG_FILE}"
+  echo "$(date '+%Y-%m-%d %H:%M:%S') 自動コミット完了" | tee -a "${LOG_FILE}"
+fi
+
 # 古いログを削除（30日以上前）
 find "${LOG_DIR}" -name "knowledge_*.log" -mtime +30 -delete 2>/dev/null || true

@@ -93,7 +93,12 @@ export function useQuickAdvice() {
       });
 
       if (!res.ok || !res.body) {
-        setCurrentAnswer("エラーが発生しました。もう一度お試しください。");
+        if (res.status === 429) {
+          const data = await res.json().catch(() => null);
+          setCurrentAnswer(data?.error || "本日のAI質問回数の上限に達しました。明日またご利用ください。");
+        } else {
+          setCurrentAnswer("エラーが発生しました。もう一度お試しください。");
+        }
         setIsStreaming(false);
         return;
       }

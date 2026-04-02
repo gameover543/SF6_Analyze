@@ -11,7 +11,40 @@ import { buildKnowledgeContext, buildMatchupKnowledgeContext, detectOpponent } f
 import type { UserProfile } from "@/types/profile";
 import { CHAR_JP } from "@/lib/characters";
 
+// --- レート制限（IP単位、1日20回まで） ---
+const DAILY_LIMIT = 20;
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+
+function checkRateLimit(ip: string): { allowed: boolean; remaining: number } {
+  const now = Date.now();
+  const entry = rateLimitMap.get(ip);
+
+  // 期限切れ or 新規 → リセット
+  if (!entry || now > entry.resetAt) {
+    const resetAt = now + 24 * 60 * 60 * 1000; // 24時間後
+    rateLimitMap.set(ip, { count: 1, resetAt });
+    return { allowed: true, remaining: DAILY_LIMIT - 1 };
+  }
+
+  if (entry.count >= DAILY_LIMIT) {
+    return { allowed: false, remaining: 0 };
+  }
+
+  entry.count++;
+  return { allowed: true, remaining: DAILY_LIMIT - entry.count };
+}
+
 export async function POST(request: NextRequest) {
+  // レート制限チェック
+  const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  const { allowed, remaining } = checkRateLimit(ip);
+  if (!allowed) {
+    return NextResponse.json(
+      { error: "本日のAI質問回数の上限（20回）に達しました。明日またご利用ください。" },
+      { status: 429, headers: { "X-RateLimit-Remaining": "0" } }
+    );
+  }
+
   try {
     const body = await request.json();
     const { messages, characterSlugs, profile, mode, opponentChar } = body as {

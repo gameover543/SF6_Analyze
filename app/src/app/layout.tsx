@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import HeaderNav from "@/components/HeaderNav";
 import MemoFab from "@/components/memo/MemoFab";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -38,6 +39,9 @@ export default function RootLayout({
 
         {/* メインコンテンツ */}
         <main className="flex-1">{children}</main>
+
+        {/* フッター（ディスクレーマー + リンク） */}
+        <Footer />
 
         {/* 全ページ常駐FAB（メモ追加ボタン） */}
         <MemoFab />

@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "cd app && npm run build",
+    "vercel-build": "cd app && node scripts/copy-data.js && npm run build"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-04-02T07:07:33.076833",
+  "last_updated": "2026-04-03T06:15:15.814876",
   "videos": [
     {
       "video_id": "-TcI1Y2Gdlg",
@@ -16274,6 +16274,51 @@
       "tokens_used": 0,
       "processing_time_seconds": 330.6205770969391,
       "processed_at": "2026-04-02T07:07:32.892190",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "PbyM0ArOxOY",
+      "url": "https://www.youtube.com/watch?v=PbyM0ArOxOY",
+      "title": "【スト6】CRカップにジェイミーがいないのでリスナーのプラチナジェイミーを突発コーチング【なるお・ストリートファイター6】",
+      "channel_name": "なるおのひとりでできるもん",
+      "status": "completed",
+      "credibility_score": 0.747,
+      "relevance_score": 1.0,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 941.6282570362091,
+      "processed_at": "2026-04-03T05:36:42.567790",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "3w-_GeIgl1I",
+      "url": "https://www.youtube.com/watch?v=3w-_GeIgl1I",
+      "title": "マスターに到達できる三種の神器を教えます！とにかく〇〇できるポイントを探してください。ダイヤ5ルークのリプレイコーチング#13",
+      "channel_name": "ぷげら pugera",
+      "status": "completed",
+      "credibility_score": 0.735,
+      "relevance_score": 1.0,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 1889.8994240760803,
+      "processed_at": "2026-04-03T06:08:12.486030",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "OvfMp4PODZ8",
+      "url": "https://www.youtube.com/watch?v=OvfMp4PODZ8",
+      "title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+      "channel_name": "ぷげら pugera",
+      "status": "completed",
+      "credibility_score": 0.722,
+      "relevance_score": 1.0,
+      "entries_extracted": 37,
+      "tokens_used": 0,
+      "processing_time_seconds": 423.3125009536743,
+      "processed_at": "2026-04-03T06:15:15.814781",
       "skip_reason": null,
       "error": null
     }

@@ -80,7 +80,9 @@ const IMPACT_COLOR: Record<MoveDiff["impact_level"], string> = {
 
 // --- データ読み込み ---
 
-const PATCHES_DIR = path.join(process.cwd(), "..", "data", "patches");
+const PATCHES_DIR = fs.existsSync(path.join(process.cwd(), "data", "patches"))
+  ? path.join(process.cwd(), "data", "patches")
+  : path.join(process.cwd(), "..", "data", "patches");
 
 function loadLatestCharacterDiff(slug: string): {
   charDiff: CharacterDiff | null;

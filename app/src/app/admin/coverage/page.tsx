@@ -42,7 +42,10 @@ interface IndexData {
 
 // --- 定数 ---
 
-const KNOWLEDGE_DIR = path.join(process.cwd(), "..", "data", "knowledge");
+// ローカル: ../data/ を参照、Vercel: ビルド前コピーされた data/ を参照
+const KNOWLEDGE_DIR = fs.existsSync(path.join(process.cwd(), "data", "knowledge"))
+  ? path.join(process.cwd(), "data", "knowledge")
+  : path.join(process.cwd(), "..", "data", "knowledge");
 
 const CATEGORIES = ["combo", "neutral", "oki", "defense", "matchup", "general"] as const;
 type Category = (typeof CATEGORIES)[number];

@@ -52,11 +52,17 @@ interface CharacterKnowledge {
 }
 
 // --- パス ---
+// ローカル: ../data/ を参照、Vercel: ビルド前コピーされた data/ を参照
+function resolveDataDir(subdir: string): string {
+  const local = path.join(process.cwd(), "data", subdir);
+  if (fs.existsSync(local)) return local;
+  return path.join(process.cwd(), "..", "data", subdir);
+}
 
-const KNOWLEDGE_DIR = path.join(process.cwd(), "..", "data", "knowledge");
+const KNOWLEDGE_DIR = resolveDataDir("knowledge");
 const STRUCTURED_DIR = path.join(KNOWLEDGE_DIR, "_structured");
 const DIGESTS_DIR = path.join(KNOWLEDGE_DIR, "_digests");
-const PATCHES_DIR = path.join(process.cwd(), "..", "data", "patches");
+const PATCHES_DIR = resolveDataDir("patches");
 
 // --- 類義語辞書（検索拡張用） ---
 

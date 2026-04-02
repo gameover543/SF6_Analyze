@@ -12,7 +12,9 @@ import Link from "next/link";
 
 // --- 定数 ---
 
-const KNOWLEDGE_DIR = path.join(process.cwd(), "..", "data", "knowledge");
+const KNOWLEDGE_DIR = fs.existsSync(path.join(process.cwd(), "data", "knowledge"))
+  ? path.join(process.cwd(), "data", "knowledge")
+  : path.join(process.cwd(), "..", "data", "knowledge");
 
 /** カテゴリ名の日本語ラベル */
 const CATEGORY_LABELS: Record<string, string> = {

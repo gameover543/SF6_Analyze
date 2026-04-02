@@ -148,51 +148,41 @@ export default function KnowledgeHighlight({
 }: KnowledgeHighlightProps) {
   const data = loadKnowledgeHighlight(slug);
 
-  if (!data) return null;
+  // ナレッジなし or ダイジェスト概要がないキャラは非表示
+  if (!data || !data.digestIntro) return null;
 
   return (
     <div className="mb-8 rounded-lg border border-blue-600/30 bg-blue-500/5 p-5">
       {/* ヘッダー */}
-      <div className="mb-4 flex items-center justify-between">
-        <h2 className="text-base font-semibold text-theme-accent-blue">
-          AIコーチング ナレッジ
-        </h2>
-        <span className="text-xs text-theme-subtle">
-          動画 {data.sourceVideoCount} 本 ／ {data.totalEntries} 件のナレッジ
-        </span>
-      </div>
+      <h2 className="text-base font-semibold text-theme-accent-blue mb-3">
+        {charName} について
+      </h2>
 
       {/* ダイジェスト概要 */}
-      {data.digestIntro && (
-        <p className="mb-4 text-sm text-theme-muted leading-relaxed">
-          {data.digestIntro}
-        </p>
-      )}
+      <p className="mb-4 text-sm text-theme-muted leading-relaxed">
+        {data.digestIntro}
+      </p>
 
       {/* トップカテゴリ */}
       <div className="mb-4">
-        <p className="text-xs text-theme-subtle mb-2">人気トピック（上位3件）</p>
         <div className="flex flex-wrap gap-2">
-          {data.topCategories.map(({ category, count }) => (
+          {data.topCategories.map(({ category }) => (
             <span
               key={category}
-              className="inline-flex items-center gap-1.5 rounded-full border border-blue-600/30 bg-blue-500/10 px-3 py-1 text-xs"
+              className="inline-flex items-center rounded-full border border-blue-600/30 bg-blue-500/10 px-3 py-1 text-xs text-theme-accent-blue"
             >
-              <span className="text-theme-accent-blue">
-                {CATEGORY_LABELS[category] ?? category}
-              </span>
-              <span className="text-theme-subtle">{count}件</span>
+              {CATEGORY_LABELS[category] ?? category}
             </span>
           ))}
         </div>
       </div>
 
-      {/* コーチングへの導線 */}
+      {/* AIに質問する導線 */}
       <Link
-        href={`/coach?char=${slug}`}
+        href={`/memos`}
         className="inline-flex items-center gap-1.5 rounded-md bg-blue-700 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-600"
       >
-        {charName} のコーチに聞く →
+        {charName} についてAIに質問する →
       </Link>
     </div>
   );

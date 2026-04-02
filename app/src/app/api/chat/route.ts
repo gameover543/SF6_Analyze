@@ -203,6 +203,7 @@ export async function POST(request: NextRequest) {
         "Content-Type": "text/event-stream",
         "Cache-Control": "no-cache",
         "Connection": "keep-alive",
+        "X-RateLimit-Remaining": String(remaining),
       },
     });
   } catch (error) {

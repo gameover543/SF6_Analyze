@@ -201,6 +201,190 @@
       "description": "data/knowledge/配下に446ファイル・270,934行の未コミット変更がある（8,406→10,022件、452→563動画、223→276マッチアップ）。_structured/by_category, by_matchup、各キャラJSON、_index.json、_coverage.json等。適切なコミットメッセージで一括コミットする。",
       "status": "done",
       "category": "管理"
+    },
+    {
+      "id": 26,
+      "priority": "high",
+      "subject": "SEO対応（OGP・動的メタデータ・sitemap）",
+      "description": "現在layoutにtitle/descriptionのみで、OGP・Twitter Card未設定、キャラ詳細ページに動的メタデータなし。①各ページにgenerateMetadata実装（特にframes/[slug]でキャラ名入りタイトル・説明文）、②og:image/twitter:card設定、③sitemap.xml自動生成（next-sitemap等）、④robots.txt追加、⑤canonical URL設定。検索流入とSNSシェア時の見栄えを大幅改善する。",
+      "status": "done",
+      "category": "SEO・集客"
+    },
+    {
+      "id": 27,
+      "priority": "high",
+      "subject": "エラーページの実装（error.tsx・not-found.tsx）",
+      "description": "error.tsxとnot-found.tsxが未実装のため、APIエラーや存在しないURLアクセス時にNext.jsデフォルトのエラー画面が表示される。①ルートレベルのerror.tsx（再試行ボタン付き）、②not-found.tsx（ホームへの導線付き404ページ）、③frames/[slug]のnotFound()呼び出しに対応するnot-found.tsx、④loading.tsx（Suspense用スケルトン画面）を実装する。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 28,
+      "priority": "high",
+      "subject": "OGP画像・favicon・アプリアイコンの整備",
+      "description": "public/にNext.jsテンプレートのSVGしかなく、favicon.ico・apple-touch-icon・OGP画像が未設定。①アプリロゴ/アイコンのデザインと設置（favicon.ico, apple-touch-icon.png, icon-192/512.png）、②デフォルトOGP画像の作成（1200x630px）、③キャラ別OGP画像の動的生成（next/og等）を実装。ブラウザタブやブックマーク、SNSシェア時のブランド認知を確立する。",
+      "status": "done",
+      "category": "ブランディング"
+    },
+    {
+      "id": 29,
+      "priority": "high",
+      "subject": "トップページのリデザイン（ランディングページ化）",
+      "description": "現在のトップページは「フレームデータ」「対戦メモ」への2カードリンクのみで、初見ユーザーにアプリの価値が伝わらない。①キャッチコピー・アプリ説明セクション、②主要機能の紹介（フレームデータ検索・AIアドバイス・対戦メモ）、③使い方ガイド（3ステップ等）、④キャラクター一覧へのクイックアクセス、⑤最近のパッチ情報を追加。新規ユーザーの定着率を高めるランディングページにする。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 30,
+      "priority": "high",
+      "subject": "ナビゲーションの改善（アクティブ表示・パンくず統一）",
+      "description": "HeaderNavで現在ページのハイライトがなく、パンくずナビも一部ページのみ。①usePathname()でアクティブリンクのスタイル変更、②全サブページにパンくずナビ追加、③モバイルでのナビゲーション改善（ハンバーガーメニュー検討）、④フッターにサイトマップ的リンク追加。ユーザーが常に現在地を把握でき、迷わないナビゲーションにする。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 31,
+      "priority": "high",
+      "subject": "PWA対応（manifest・Service Worker・オフラインキャッシュ）",
+      "description": "対戦中にスマホで確認するユースケースが主要だが、PWA未対応でホーム画面追加やオフライン利用ができない。①manifest.json作成（アプリ名・アイコン・テーマカラー・display: standalone）、②next-pwa等でService Worker導入、③フレームデータのオフラインキャッシュ（対戦中のネット不安定に対応）、④インストール促進バナーの表示。ネイティブアプリに近い体験を提供する。",
+      "status": "done",
+      "category": "インフラ"
+    },
+    {
+      "id": 32,
+      "priority": "medium",
+      "subject": "アクセシビリティ改善（WCAG AA準拠）",
+      "description": "aria属性が最小限で、キーボードナビゲーションやスクリーンリーダー対応が不十分。①ボトムシート（MemoSheet/SettingsSheet）にaria-expanded・フォーカストラップ追加、②aria-live領域でローディング/エラー状態を通知、③フォーカスリング（focus:outline-none削除→visible focus ring）、④ライトモードのmuted色コントラスト比改善（WCAG AA 4.5:1以上）、⑤role属性の明示。すべてのユーザーがアクセスできるアプリにする。",
+      "status": "done",
+      "category": "アクセシビリティ"
+    },
+    {
+      "id": 33,
+      "priority": "medium",
+      "subject": "ローディングUI・スケルトンスクリーンの統一実装",
+      "description": "ページ初期ロード時にコンテンツが一瞬空になり、ローディングスピナーやスケルトンがない。①フレームデータページ用スケルトン（テーブル形状のプレースホルダー）、②メモ一覧のスケルトン、③AI応答待ちのタイピングインジケーター改善（現在はテキストのみ）、④Suspense boundaryの適切な配置、⑤ページ遷移時のプログレスバー（NProgress等）。体感速度を向上させる。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 34,
+      "priority": "medium",
+      "subject": "空状態・ゼロデータ画面の充実",
+      "description": "メモ0件時のテキスト表示が簡素で、初見ユーザーに次のアクションが伝わりにくい。①メモ0件時にイラスト付きの案内＋明確なCTAボタン、②フレームデータ検索結果0件時の候補サジェスト、③AIアドバイス履歴0件時の使い方ガイド、④初回訪問時のオンボーディングツアー（設定促進）を追加。初見ユーザーの離脱を防ぐ。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 35,
+      "priority": "medium",
+      "subject": "トースト通知システムの導入",
+      "description": "メモ保存・削除・API失敗などの操作フィードバックが不十分で、ユーザーが操作結果を確認しづらい。①軽量なトースト/スナックバーコンポーネント実装、②メモ保存成功/失敗、③AIアドバイスのメモ保存完了、④設定変更の保存完了、⑤レート制限到達の通知、⑥ネットワークエラーの通知。操作の成功/失敗を常にフィードバックする。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 36,
+      "priority": "medium",
+      "subject": "キャラクター画像・アイコンの導入",
+      "description": "キャラ選択グリッドがテキストのみで視覚的に味気ない。①キャラクターアイコン/サムネイル画像の調達（公式素材 or ファンアート利用可否確認）、②Next.js Image最適化での表示、③キャラ選択グリッドにアイコン表示、④HeaderNavのメインキャラ表示にアイコン追加、⑤メモ一覧のキャラフィルタにアイコン追加。視覚的なリッチさとキャラ識別性を向上する。",
+      "status": "pending",
+      "category": "UX向上"
+    },
+    {
+      "id": 37,
+      "priority": "medium",
+      "subject": "テーマ切替UXの改善（OS設定連動・選択UI）",
+      "description": "テーマ切替がアイコンの循環クリックのみで、戻す場合は複数回クリックが必要。①prefers-color-schemeによるOS設定自動検出（初回訪問時）、②SettingsSheet内でのラジオボタン/セグメントコントロールによる明示的選択UI、③テーマプレビュー表示、④HeaderNavのテーマアイコンを現在テーマに応じて変更。直感的なテーマ切替を実現する。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 38,
+      "priority": "medium",
+      "subject": "フレームデータページのURL共有・ディープリンク対応",
+      "description": "フレームデータの検索・フィルタ状態がURLに反映されず、特定の検索結果を他のプレイヤーと共有できない。①検索キーワード・フィルタ・ソート条件をURLクエリパラメータに反映（?q=波動拳&type=special&sort=startup）、②URL直接アクセスで状態復元、③「共有」ボタンでURLコピー機能。攻略情報のSNS共有を促進する。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 39,
+      "priority": "medium",
+      "subject": "マイクロインタラクション・アニメーション強化",
+      "description": "UIの動きが少なく、操作感がフラット。①ページ遷移アニメーション（View Transitions API等）、②メモ追加/削除時のスライドイン/アウト、③ボタンクリック時のリップルエフェクト、④テーブルソート時の行並び替えアニメーション、⑤FABのパルスアニメーション（初回訪問時に存在をアピール）、⑥スクロール連動のフェードイン。操作の気持ちよさを向上する。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 40,
+      "priority": "medium",
+      "subject": "Googleアナリティクス・イベントトラッキング導入",
+      "description": "ユーザーの行動データが一切取れず、改善のためのデータドリブンな意思決定ができない。①Google Analytics 4（またはVercel Web Analytics）導入、②主要イベントのトラッキング（キャラ閲覧・AI質問・メモ作成・検索・テーマ切替）、③コンバージョン計測（初回メモ作成、AI質問利用）、④Vercel Speed Insightsの有効化。ユーザー行動に基づく継続改善の基盤を作る。",
+      "status": "done",
+      "category": "分析・運用"
+    },
+    {
+      "id": 41,
+      "priority": "medium",
+      "subject": "レート制限UIの改善（残回数表示・リセット案内）",
+      "description": "AI質問は1日20回制限だが、残回数がユーザーに表示されず、制限到達時の案内も不十分。①AI質問入力欄付近に残回数バッジ表示（例:「本日残り15回」）、②制限到達時のフレンドリーなメッセージ（リセット時刻の案内）、③制限接近時の警告（残5回で黄色表示等）。ユーザーの不満を軽減し、利用計画を立てやすくする。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 42,
+      "priority": "low",
+      "subject": "初回訪問オンボーディングフロー",
+      "description": "初めて訪れたユーザーがアプリの使い方を理解するためのガイドがない。①初回訪問検出（localStorageフラグ）、②メインキャラ・操作タイプ・ランク帯の初期設定ウィザード、③主要機能のステップバイステップツアー（フレームデータの見方・メモの使い方・AI質問の仕方）、④スキップオプション付き。新規ユーザーの定着率を高める。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 43,
+      "priority": "low",
+      "subject": "メモの統計・振り返りダッシュボード",
+      "description": "メモが蓄積されても、傾向を振り返る機能がない。①キャラ別勝敗数グラフ、②頻出タグ分析（苦手な場面の可視化）、③メモ作成頻度の推移、④AIアドバイス利用回数。自分の成長や課題を客観的に把握でき、上達へのモチベーションを高める。",
+      "status": "done",
+      "category": "機能拡張"
+    },
+    {
+      "id": 44,
+      "priority": "low",
+      "subject": "キーボードショートカット対応",
+      "description": "PC利用時に全操作がマウスクリック前提で、パワーユーザーの操作効率が低い。①Cmd/Ctrl+K でグローバル検索、②Escでボトムシート閉じ、③Cmd/Ctrl+N で新規メモ、④矢印キーでテーブル行移動、⑤ショートカット一覧ヘルプ（?キー）。ゲーマー層はキーボード操作に慣れているため、効率的な操作体験を提供する。",
+      "status": "done",
+      "category": "UX向上"
+    },
+    {
+      "id": 45,
+      "priority": "low",
+      "subject": "シェア機能（SNS共有・クリップボード）",
+      "description": "フレームデータやAIアドバイスの内容を他のプレイヤーと共有する手段がない。①フレームデータ個別技の共有ボタン（Twitter/X投稿テンプレート）、②AIアドバイスのコピー/共有ボタン、③メモの共有リンク生成、④Web Share API対応（モバイル）。ユーザー間の口コミ拡散を促進する。",
+      "status": "done",
+      "category": "集客・成長"
+    },
+    {
+      "id": 46,
+      "priority": "low",
+      "subject": "public/配下の不要ファイル整理",
+      "description": "Next.jsテンプレート由来のSVGファイル（file.svg, vercel.svg, next.svg, globe.svg, window.svg）がpublic/に残っている。使用していないファイルを削除し、本番リリースにふさわしいクリーンな状態にする。",
+      "status": "done",
+      "category": "品質・保守性"
+    },
+    {
+      "id": 47,
+      "priority": "low",
+      "subject": "パフォーマンス最適化（Code Splitting・Lazy Loading）",
+      "description": "react-markdownやremark-gfm等のMarkdownライブラリがクライアントバンドルに含まれ、初期ロードが重い可能性がある。①react-markdownのdynamic import化、②FrameTable（593行）のコード分割、③画像がある場合のnext/image活用、④バンドルサイズ分析（@next/bundle-analyzer）と最適化。Core Web Vitalsスコアを改善する。",
+      "status": "done",
+      "category": "パフォーマンス"
+    },
+    {
+      "id": 48,
+      "priority": "low",
+      "subject": "フィードバック・問い合わせ機能",
+      "description": "ユーザーからのフィードバックを受け取る手段がない。①フッターまたは設定内にフィードバックフォーム（Google Form連携 or 簡易メール送信）、②バグ報告テンプレート、③機能リクエストの受付。ユーザーの声を収集し、継続改善につなげる。",
+      "status": "done",
+      "category": "運用"
     }
   ]
 }

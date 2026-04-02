@@ -1,5 +1,12 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { CHARACTER_LIST } from "@/lib/frame-data";
+
+export const metadata: Metadata = {
+  title: "フレームデータ一覧",
+  description:
+    "ストリートファイター6の全29キャラのフレームデータ一覧。キャラを選んで発生・硬直差・ダメージを検索。",
+};
 
 export default function FramesPage() {
   return (

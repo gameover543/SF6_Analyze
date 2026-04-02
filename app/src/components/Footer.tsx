@@ -17,14 +17,26 @@ export default function Footer() {
           AI生成情報の正確性は保証されません。フレームデータはゲームアップデートにより変動する場合があります。
         </p>
 
-        {/* リンク */}
-        <div className="flex items-center justify-center gap-4 pt-1">
+        {/* サイトリンク */}
+        <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pt-1">
+          <Link href="/frames" className="hover:text-theme-text transition">
+            フレームデータ
+          </Link>
+          <span className="text-theme-subtle">|</span>
+          <Link href="/memos" className="hover:text-theme-text transition">
+            メモ
+          </Link>
+          <span className="text-theme-subtle">|</span>
           <Link href="/terms" className="hover:text-theme-text transition">
             利用規約
           </Link>
           <span className="text-theme-subtle">|</span>
           <Link href="/privacy" className="hover:text-theme-text transition">
             プライバシーポリシー
+          </Link>
+          <span className="text-theme-subtle">|</span>
+          <Link href="/feedback" className="hover:text-theme-text transition">
+            フィードバック
           </Link>
         </div>
       </div>

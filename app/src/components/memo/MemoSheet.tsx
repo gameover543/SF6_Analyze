@@ -49,12 +49,21 @@ export default function MemoSheet({
       setBody(presetBody || "");
       setTags(presetTags || []);
       setResult(undefined);
-      // キャラ未選択ならテキストエリアではなく自然にキャラ選択へ誘導
       if (presetCharacter) {
         setTimeout(() => textareaRef.current?.focus(), 100);
       }
     }
   }, [isOpen, presetCharacter, presetBody, presetTags]);
+
+  // Escキーでシートを閉じる
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    };
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, [isOpen, onClose]);
 
   const toggleTag = (tag: MemoTag) => {
     setTags((prev) =>

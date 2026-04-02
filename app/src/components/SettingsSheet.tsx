@@ -6,6 +6,7 @@ import { CHARACTER_LIST } from "@/lib/frame-data";
 import { CHAR_JP } from "@/lib/characters";
 import { loadProfile, saveProfile } from "@/lib/profile-storage";
 import type { UserProfile } from "@/types/profile";
+import type { Theme } from "@/components/ThemeProvider";
 
 const RANKS = ["ルーキー", "アイアン", "ブロンズ", "シルバー", "ゴールド", "プラチナ", "ダイヤ", "マスター"];
 
@@ -22,11 +23,28 @@ function toKatakana(s: string): string {
   );
 }
 
+const THEME_OPTIONS: { value: Theme; label: string; description: string }[] = [
+  { value: "dark", label: "ダーク", description: "デフォルト" },
+  { value: "light", label: "ライト", description: "明るい画面" },
+  { value: "high-contrast", label: "ハイコントラスト", description: "対戦中の視認性重視" },
+];
+
 export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsSheetProps) {
   const [mainChar, setMainChar] = useState("");
   const [controlType, setControlType] = useState<"classic" | "modern">("classic");
   const [rank, setRank] = useState("マスター");
   const [charSearch, setCharSearch] = useState("");
+  const [currentTheme, setCurrentTheme] = useState<Theme>("dark");
+
+  // Escキーでシートを閉じる
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    };
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, [isOpen, onClose]);
 
   // 既存プロフィールから初期値をロード
   useEffect(() => {
@@ -38,6 +56,9 @@ export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsShee
         setRank(p.rank || "マスター");
       }
       setCharSearch("");
+      // 現在のテーマを取得
+      const stored = localStorage.getItem("sf6coach_theme") as Theme | null;
+      setCurrentTheme(stored || "dark");
     }
   }, [isOpen]);
 
@@ -75,8 +96,8 @@ export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsShee
 
   return createPortal(
     <>
-      <div className="fixed inset-0 bg-black/50 z-[60]" onClick={onClose} />
-      <div className="fixed bottom-0 left-0 right-0 z-[60] bg-theme-page border-t border-theme-border rounded-t-2xl max-h-[70vh] overflow-y-auto animate-slide-up md:left-auto md:top-0 md:bottom-0 md:w-[360px] md:rounded-t-none md:rounded-l-2xl md:max-h-full">
+      <div className="fixed inset-0 bg-black/50 z-[60]" onClick={onClose} aria-hidden="true" />
+      <div role="dialog" aria-label="設定" className="fixed bottom-0 left-0 right-0 z-[60] bg-theme-page border-t border-theme-border rounded-t-2xl max-h-[70vh] overflow-y-auto animate-slide-up md:left-auto md:top-0 md:bottom-0 md:w-[360px] md:rounded-t-none md:rounded-l-2xl md:max-h-full">
         {/* ヘッダー */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-theme-border sticky top-0 bg-theme-page z-10">
           <h2 className="text-base font-semibold text-theme-text">設定</h2>
@@ -149,6 +170,31 @@ export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsShee
                   }`}
                 >
                   {r}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* テーマ */}
+          <div>
+            <p className="text-xs text-theme-subtle mb-2">テーマ</p>
+            <div className="flex gap-2">
+              {THEME_OPTIONS.map((opt) => (
+                <button
+                  key={opt.value}
+                  onClick={() => {
+                    setCurrentTheme(opt.value);
+                    // eslint-disable-next-line @typescript-eslint/no-require-imports -- dynamic import not needed for sync theme apply
+                    import("@/components/ThemeProvider").then(({ applyTheme: apply }) => apply(opt.value));
+                  }}
+                  className={`flex-1 px-2 py-2 rounded-lg text-xs font-medium transition border text-center ${
+                    currentTheme === opt.value
+                      ? "bg-blue-600 text-white border-blue-600"
+                      : "text-theme-muted border-theme-border hover:text-theme-text"
+                  }`}
+                >
+                  <span className="block">{opt.label}</span>
+                  <span className="block text-[10px] opacity-70 mt-0.5">{opt.description}</span>
                 </button>
               ))}
             </div>

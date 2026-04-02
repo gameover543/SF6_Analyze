@@ -58,6 +58,8 @@ export function useQuickAdvice() {
   const [currentMeta, setCurrentMeta] = useState<QuickAdviceEntry["meta"] | null>(null);
   const [isStreaming, setIsStreaming] = useState(false);
   const [history, setHistory] = useState<QuickAdviceEntry[]>([]);
+  /** AI質問の残回数（null=未取得） */
+  const [remaining, setRemaining] = useState<number | null>(null);
 
   // 履歴読み込み
   useEffect(() => {
@@ -92,8 +94,13 @@ export function useQuickAdvice() {
         }),
       });
 
+      // 残回数をヘッダーから取得
+      const remainHeader = res.headers.get("X-RateLimit-Remaining");
+      if (remainHeader !== null) setRemaining(parseInt(remainHeader, 10));
+
       if (!res.ok || !res.body) {
         if (res.status === 429) {
+          setRemaining(0);
           const data = await res.json().catch(() => null);
           setCurrentAnswer(data?.error || "本日のAI質問回数の上限に達しました。明日またご利用ください。");
         } else {
@@ -164,6 +171,7 @@ export function useQuickAdvice() {
     currentMeta,
     isStreaming,
     history,
+    remaining,
     askQuestion,
     clearHistory,
   };

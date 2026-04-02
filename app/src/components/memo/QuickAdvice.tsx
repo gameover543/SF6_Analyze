@@ -38,6 +38,7 @@ export default function QuickAdvice({ onSaveToMemo, recentOpponents }: QuickAdvi
     currentMeta,
     isStreaming,
     history,
+    remaining,
     askQuestion,
   } = useQuickAdvice();
 
@@ -68,6 +69,23 @@ export default function QuickAdvice({ onSaveToMemo, recentOpponents }: QuickAdvi
 
   return (
     <div className="mb-6">
+      {/* 残回数バッジ */}
+      {remaining !== null && (
+        <div className="flex items-center justify-end mb-1.5">
+          <span
+            className={`text-xs px-2 py-0.5 rounded-full ${
+              remaining === 0
+                ? "bg-red-500/10 text-red-400"
+                : remaining <= 5
+                  ? "bg-yellow-500/10 text-yellow-400"
+                  : "text-theme-subtle"
+            }`}
+          >
+            本日残り {remaining}回
+          </span>
+        </div>
+      )}
+
       {/* AI質問入力 */}
       <div className="flex gap-2 mb-3">
         <input

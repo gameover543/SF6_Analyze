@@ -4,6 +4,7 @@ import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 import { useMemos } from "@/hooks/useMemos";
 import MemoList from "@/components/memo/MemoList";
+import MemoStats from "@/components/memo/MemoStats";
 import QuickAdvice from "@/components/memo/QuickAdvice";
 
 function MemosContent() {
@@ -19,6 +20,9 @@ function MemosContent() {
 
       {/* AIクイックアドバイス */}
       <QuickAdvice onSaveToMemo={addMemo} recentOpponents={recentOpponents} />
+
+      {/* メモ統計（3件以上で表示） */}
+      <MemoStats memos={memos} />
 
       {/* メモ一覧 */}
       <MemoList

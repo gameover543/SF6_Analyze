@@ -8,12 +8,16 @@ export type Theme = "dark" | "light" | "high-contrast";
 const STORAGE_KEY = "sf6coach_theme";
 const DEFAULT_THEME: Theme = "dark";
 
-/** LocalStorageからテーマを読み込む（SSR対策でnullを返す可能性あり） */
+/** LocalStorageからテーマを読み込む（初回はOS設定を反映） */
 function loadTheme(): Theme {
   try {
     const stored = localStorage.getItem(STORAGE_KEY);
     if (stored === "dark" || stored === "light" || stored === "high-contrast") {
       return stored;
+    }
+    // 初回訪問時はOS設定に合わせる
+    if (typeof window !== "undefined" && window.matchMedia("(prefers-color-scheme: light)").matches) {
+      return "light";
     }
   } catch {
     // localStorage が使えない環境は無視
@@ -22,7 +26,7 @@ function loadTheme(): Theme {
 }
 
 /** テーマをhtmlのdata-theme属性とLocalStorageに保存 */
-function applyTheme(theme: Theme) {
+export function applyTheme(theme: Theme) {
   document.documentElement.setAttribute("data-theme", theme);
   try {
     localStorage.setItem(STORAGE_KEY, theme);

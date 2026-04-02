@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import type { MoveFrameData, ControlType } from "@/types/frame-data";
 
 /** フレーム値の色クラスを返す */
@@ -165,13 +166,36 @@ function SortableTh({
 }
 
 export default function FrameTable({ moves, characterName }: FrameTableProps) {
-  const [controlType, setControlType] = useState<ControlType>("classic");
-  const [search, setSearch] = useState("");
-  // 技タイプフィルター（null = 全タイプ表示）
-  const [typeFilter, setTypeFilter] = useState<string | null>(null);
-  // ソート状態
-  const [sortCol, setSortCol] = useState<SortColumn>(null);
-  const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
+
+  // URLパラメータから初期値を復元
+  const [controlType, setControlType] = useState<ControlType>(
+    (searchParams.get("ct") as ControlType) || "classic"
+  );
+  const [search, setSearch] = useState(searchParams.get("q") || "");
+  const [typeFilter, setTypeFilter] = useState<string | null>(
+    searchParams.get("type") || null
+  );
+  const [sortCol, setSortCol] = useState<SortColumn>(
+    (searchParams.get("sort") as SortColumn) || null
+  );
+  const [sortDir, setSortDir] = useState<"asc" | "desc">(
+    (searchParams.get("dir") as "asc" | "desc") || "asc"
+  );
+
+  // フィルタ/ソート変更時にURLパラメータを同期（ブラウザ履歴を汚さないようreplaceで）
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (search) params.set("q", search);
+    if (typeFilter) params.set("type", typeFilter);
+    if (controlType !== "classic") params.set("ct", controlType);
+    if (sortCol) { params.set("sort", sortCol); params.set("dir", sortDir); }
+    const qs = params.toString();
+    const newUrl = qs ? `${pathname}?${qs}` : pathname;
+    router.replace(newUrl, { scroll: false });
+  }, [search, typeFilter, controlType, sortCol, sortDir, pathname, router]);
 
   /** カラムヘッダークリック時のソート切替 */
   const handleSort = useCallback(

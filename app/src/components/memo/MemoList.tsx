@@ -58,14 +58,23 @@ export default function MemoList({
   return (
     <div>
       {/* 検索 */}
-      <div className="mb-4">
+      <div className="mb-4 relative">
         <input
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder="メモを検索..."
-          className="w-full px-3 py-2 rounded-lg bg-theme-panel border border-theme-border text-sm text-theme-text placeholder-theme-subtle focus:outline-none focus:border-emerald-500"
+          className="w-full px-3 py-2 pr-8 rounded-lg bg-theme-panel border border-theme-border text-sm text-theme-text placeholder-theme-subtle focus:outline-none focus:border-emerald-500"
         />
+        {search && (
+          <button
+            onClick={() => setSearch("")}
+            className="absolute right-2 top-1/2 -translate-y-1/2 text-theme-subtle hover:text-theme-text transition text-sm"
+            aria-label="検索をクリア"
+          >
+            ✕
+          </button>
+        )}
       </div>
 
       {/* キャラタブ */}
@@ -97,11 +106,33 @@ export default function MemoList({
 
       {/* メモカード一覧 */}
       {filtered.length === 0 ? (
-        <p className="text-center text-theme-subtle text-sm py-12">
-          {memos.length === 0
-            ? "まだメモがありません。右下の ＋ ボタンからメモを追加しましょう"
-            : "該当するメモがありません"}
-        </p>
+        <div className="text-center py-16">
+          {memos.length === 0 ? (
+            <>
+              <p className="text-3xl mb-3">📝</p>
+              <p className="text-theme-text font-medium mb-1">まだメモがありません</p>
+              <p className="text-theme-subtle text-sm mb-4">
+                対戦中の気づきをメモして、上達につなげましょう
+              </p>
+              <p className="text-theme-subtle text-xs">
+                右下の <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-emerald-600 text-white text-xs font-bold align-middle">+</span> ボタンからメモを追加
+              </p>
+            </>
+          ) : (
+            <>
+              <p className="text-2xl mb-2">🔍</p>
+              <p className="text-theme-subtle text-sm">該当するメモがありません</p>
+              {search && (
+                <button
+                  onClick={() => setSearch("")}
+                  className="mt-2 text-xs text-theme-accent-blue hover:underline"
+                >
+                  検索をクリア
+                </button>
+              )}
+            </>
+          )}
+        </div>
       ) : (
         <div className="space-y-2">
           {filtered.map((memo) => (
@@ -116,7 +147,7 @@ export default function MemoList({
 /** メモカード1件 */
 function MemoCard({ memo, onDelete }: { memo: Memo; onDelete: (id: string) => void }) {
   return (
-    <div className="rounded-lg border border-theme-border bg-theme-panel p-3">
+    <div className="rounded-lg border border-theme-border bg-theme-panel p-3 animate-slide-in">
       {/* ヘッダー行 */}
       <div className="flex items-center gap-2 mb-1.5">
         <span className="text-xs font-medium text-theme-text">

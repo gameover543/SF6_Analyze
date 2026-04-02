@@ -2,13 +2,21 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { loadProfile } from "@/lib/profile-storage";
 import { CHAR_JP } from "@/lib/characters";
 import ThemeProvider from "@/components/ThemeProvider";
 import SettingsSheet from "@/components/SettingsSheet";
 
+/** ナビリンクの定義 */
+const NAV_LINKS = [
+  { href: "/frames", label: "フレームデータ" },
+  { href: "/memos", label: "メモ" },
+] as const;
+
 /** ヘッダーナビゲーション（Client Component） */
 export default function HeaderNav() {
+  const pathname = usePathname();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [profileLabel, setProfileLabel] = useState<string | null>(null);
 
@@ -28,23 +36,30 @@ export default function HeaderNav() {
     refreshProfile();
   }, []);
 
+  /** 現在のパスがリンク先と一致するか（前方一致） */
+  const isActive = (href: string) => pathname === href || pathname.startsWith(href + "/");
+
   return (
     <>
       <nav className="max-w-7xl mx-auto px-4 h-14 flex items-center gap-4 sm:gap-8">
         <Link href="/" className="text-base sm:text-lg font-bold text-theme-text shrink-0">
           SF6 Coach
         </Link>
-        {/* ナビリンク */}
+        {/* ナビリンク（アクティブ表示付き） */}
         <div className="flex gap-4 sm:gap-6 text-sm overflow-x-auto scrollbar-none flex-1">
-          <Link href="/frames" className="text-theme-muted hover:text-theme-text transition shrink-0">
-            フレームデータ
-          </Link>
-          <Link href="/memos" className="text-theme-muted hover:text-theme-text transition shrink-0">
-            メモ
-          </Link>
-          <Link href="/admin/coverage" className="text-theme-subtle hover:text-theme-muted transition text-xs shrink-0 hidden sm:inline">
-            カバレッジ
-          </Link>
+          {NAV_LINKS.map(({ href, label }) => (
+            <Link
+              key={href}
+              href={href}
+              className={`shrink-0 transition ${
+                isActive(href)
+                  ? "text-theme-text font-medium"
+                  : "text-theme-muted hover:text-theme-text"
+              }`}
+            >
+              {label}
+            </Link>
+          ))}
         </div>
 
         {/* プロフィール表示 + 設定ボタン */}

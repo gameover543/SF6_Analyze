@@ -1,5 +1,8 @@
 {
   "private": true,
+  "dependencies": {
+    "next": "16.2.1"
+  },
   "scripts": {
     "build": "cd app && npm run build",
     "vercel-build": "cd app && node scripts/copy-data.js && npm run build"

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import { getCharacterFrameData, CHARACTER_LIST } from "@/lib/frame-data";
 import FrameTable from "@/components/FrameTable";
 import PatchNotes from "@/components/PatchNotes";
-import KnowledgeHighlight from "@/components/KnowledgeHighlight";
+// import KnowledgeHighlight from "@/components/KnowledgeHighlight";
 import MemoSummary from "@/components/memo/MemoSummary";
 import ShareButton from "@/components/ShareButton";
 
@@ -67,8 +67,8 @@ export default async function CharacterFramePage({ params }: PageProps) {
       {/* パッチノート: 最新パッチでの変更点を表示 */}
       <PatchNotes slug={slug} />
 
-      {/* ナレッジハイライト: コーチング機能への導線 */}
-      <KnowledgeHighlight slug={slug} charName={charInfo.name} />
+      {/* ナレッジハイライト: 品質が安定するまで非表示 */}
+      {/* <KnowledgeHighlight slug={slug} charName={charInfo.name} /> */}
 
       {/* 対戦メモ: このキャラとの直近メモを表示 */}
       <MemoSummary slug={slug} />

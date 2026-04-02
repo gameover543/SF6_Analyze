@@ -69,15 +69,23 @@ export default function MemoSheet({
 
   if (!isOpen) return null;
 
-  // キャラ検索フィルタ（slug・英名・日本語名で検索）
+  // ひらがな→カタカナ変換（「けん」→「ケン」で検索できるように）
+  const toKatakana = (s: string) =>
+    s.replace(/[\u3041-\u3096]/g, (ch) =>
+      String.fromCharCode(ch.charCodeAt(0) + 0x60)
+    );
+
+  // キャラ検索フィルタ（slug・英名・日本語名・ひらがな対応）
   const searchLower = charSearch.toLowerCase();
+  const searchKata = toKatakana(charSearch);
   const filteredChars = charSearch
     ? CHARACTER_LIST.filter((c) => {
         const jp = CHAR_JP[c.slug] || "";
         return (
           c.slug.includes(searchLower) ||
           c.name.toLowerCase().includes(searchLower) ||
-          jp.includes(charSearch)
+          jp.includes(charSearch) ||
+          jp.includes(searchKata)
         );
       })
     : [];

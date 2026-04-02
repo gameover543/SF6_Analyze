@@ -179,8 +179,9 @@ export default function KnowledgeHighlight({
 
   if (!data) return null;
 
-  // ダイジェスト概要があればそれを、なければフォールバック紹介文を使う
-  const intro = data.digestIntro || buildFallbackIntro(charName, data.fallbackCategories);
+  // ダイジェスト概要がなければ非表示
+  if (!data.digestIntro) return null;
+  const intro = data.digestIntro;
 
   return (
     <div className="mb-8 rounded-lg border border-blue-600/30 bg-blue-500/5 p-5">

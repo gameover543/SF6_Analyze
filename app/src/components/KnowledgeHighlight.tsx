@@ -101,11 +101,11 @@ function buildFallbackIntro(
   charName: string,
   topCategories: Array<{ category: string }>
 ): string {
-  if (topCategories.length === 0) return `${charName}のプロプレイヤーによる攻略ナレッジをAIが学習しています。`;
+  if (topCategories.length === 0) return `${charName}の攻略情報は準備中です。`;
   const catNames = topCategories
     .map(({ category }) => CATEGORY_LABELS[category] ?? category)
     .join("・");
-  return `${charName}は${catNames}に関するプロの攻略ナレッジが豊富なキャラクターです。`;
+  return `${charName}は${catNames}が注目されるキャラクターです。`;
 }
 
 interface KnowledgeHighlightData {

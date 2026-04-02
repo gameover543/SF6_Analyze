@@ -17,6 +17,10 @@ interface MemoSheetProps {
   }) => void;
   /** 事前選択するキャラslug（フレームページから開いた場合） */
   presetCharacter?: string | null;
+  /** 事前入力するメモ本文（Quick Adviceから） */
+  presetBody?: string | null;
+  /** 事前選択するタグ（Quick Adviceから） */
+  presetTags?: MemoTag[] | null;
   /** 最近の対戦相手（先頭に表示） */
   recentOpponents?: string[];
 }
@@ -26,6 +30,8 @@ export default function MemoSheet({
   onClose,
   onSave,
   presetCharacter,
+  presetBody,
+  presetTags,
   recentOpponents = [],
 }: MemoSheetProps) {
   const [selectedChar, setSelectedChar] = useState<string>("");
@@ -40,15 +46,15 @@ export default function MemoSheet({
     if (isOpen) {
       setSelectedChar(presetCharacter || "");
       setCharSearch("");
-      setBody("");
-      setTags([]);
+      setBody(presetBody || "");
+      setTags(presetTags || []);
       setResult(undefined);
       // キャラ未選択ならテキストエリアではなく自然にキャラ選択へ誘導
       if (presetCharacter) {
         setTimeout(() => textareaRef.current?.focus(), 100);
       }
     }
-  }, [isOpen, presetCharacter]);
+  }, [isOpen, presetCharacter, presetBody, presetTags]);
 
   const toggleTag = (tag: MemoTag) => {
     setTags((prev) =>

@@ -4,6 +4,7 @@ import { getCharacterFrameData, filterMovesByControlType } from "@/lib/frame-dat
 import {
   buildCoachSystemPrompt,
   buildCounselingPrompt,
+  buildQuickAdvicePrompt,
   formatFrameDataForContext,
 } from "@/lib/prompts";
 import { buildKnowledgeContext, buildMatchupKnowledgeContext, detectOpponent } from "@/lib/knowledge";
@@ -17,7 +18,7 @@ export async function POST(request: NextRequest) {
       messages: ChatMessage[];
       characterSlugs?: string[];
       profile?: UserProfile | null;
-      mode?: "counseling" | "coaching" | "matchup";
+      mode?: "counseling" | "coaching" | "matchup" | "quick";
       opponentChar?: string | null;
     };
 
@@ -70,6 +71,32 @@ export async function POST(request: NextRequest) {
         knowledgeContext,
         { mainName, opponentName }
       );
+    } else if (mode === "quick") {
+      // クイックアドバイスモード: 1問1答、短い応答
+      const latestQuestion = messages[messages.length - 1]?.content || "";
+      const mainSlugQ = profile?.mainCharacter;
+      const detectedOpponentQ = latestQuestion ? detectOpponent(latestQuestion, mainSlugQ) : null;
+      const controlTypeQ = profile?.controlType || "classic";
+
+      let frameDataContextQ = "";
+      if (mainSlugQ) {
+        try {
+          const data = getCharacterFrameData(mainSlugQ);
+          const filteredMoves = filterMovesByControlType(data.moves, controlTypeQ);
+          frameDataContextQ += formatFrameDataForContext(data.character_name, filteredMoves, latestQuestion);
+          frameDataContextQ += "\n";
+        } catch { /* スキップ */ }
+      }
+      if (detectedOpponentQ && detectedOpponentQ !== mainSlugQ) {
+        try {
+          const data = getCharacterFrameData(detectedOpponentQ);
+          const filteredMoves = filterMovesByControlType(data.moves, controlTypeQ);
+          frameDataContextQ += formatFrameDataForContext(data.character_name, filteredMoves, latestQuestion);
+          frameDataContextQ += "\n";
+        } catch { /* スキップ */ }
+      }
+
+      systemPrompt = buildQuickAdvicePrompt(frameDataContextQ, profile);
     } else {
       // コーチングモード（通常会話）
       // プロフィールのメインキャラ + 選択キャラのフレームデータを含める

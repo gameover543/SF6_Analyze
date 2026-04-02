@@ -304,3 +304,37 @@ export function formatFrameDataForContext(
 
   return lines.join("\n");
 }
+
+/** クイックアドバイス用のシステムプロンプト（1問1答、短い応答） */
+export function buildQuickAdvicePrompt(
+  frameDataContext: string,
+  profile?: UserProfile | null
+): string {
+  const profileLine = profile
+    ? `プレイヤー: ${CHAR_JP[profile.mainCharacter] || profile.mainCharacter}使い（${profile.controlType}）、${profile.rank}`
+    : "";
+
+  return `あなたはSF6のフレームデータに精通したアドバイザーです。
+質問に対して簡潔に3〜5行で回答してください。
+
+${profileLine}
+
+## ルール
+- フレームデータを参照して正確に回答する。技名と数値（発生F、硬直差）を必ず含める
+- フレームデータにない性能を断定しない。不確かなら「確認が必要」と明示
+- 冒頭に挨拶や前置きは不要。端的に回答する
+- ランク帯に応じた深さで回答する（マスターなら基礎説明不要）
+- 日本語で回答する
+
+## 参照フレームデータ
+${frameDataContext}
+
+## 重要：回答の最後に以下のJSON（システムが自動読み取り。ユーザーには非表示）を必ず出力すること
+
+\`\`\`json:advice_meta
+{"opponent":"質問に登場する対戦相手キャラのslugまたはnull","tags":["該当するタグを配列で"],"keyPoints":"回答の要点を1-2行に要約"}
+\`\`\`
+
+タグ候補: anti-air, punish, oki, neutral, combo, defense, drive, habit
+キャラslug例: ryu, ken, guile, jamie, chunli, gouki, mbison, juri 等`;
+}

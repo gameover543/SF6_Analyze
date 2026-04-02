@@ -39,3 +39,17 @@ export const MEMO_TAG_LABELS: Record<MemoTag, string> = {
 
 /** 全タグ一覧 */
 export const ALL_MEMO_TAGS: MemoTag[] = Object.keys(MEMO_TAG_LABELS) as MemoTag[];
+
+/** クイックアドバイスの1問1答ペア */
+export interface QuickAdviceEntry {
+  id: string;
+  question: string;
+  answer: string;
+  /** AIから抽出したメタデータ */
+  meta: {
+    opponent: string | null;
+    tags: MemoTag[];
+    keyPoints: string;
+  };
+  createdAt: string;
+}

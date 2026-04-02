@@ -1,18 +1,18 @@
 {
   "matrix": {
     "ryu": {
-      "neutral": 55,
-      "defense": 81,
-      "general": 110,
+      "neutral": 62,
+      "defense": 82,
+      "general": 136,
       "matchup": 54,
-      "oki": 64,
+      "oki": 67,
       "combo": 163
     },
     "luke": {
       "combo": 122,
-      "oki": 54,
+      "oki": 55,
       "defense": 81,
-      "general": 103,
+      "general": 104,
       "matchup": 45,
       "neutral": 72
     },
@@ -29,7 +29,7 @@
       "matchup": 27,
       "combo": 145,
       "neutral": 66,
-      "oki": 55,
+      "oki": 57,
       "general": 44
     },
     "guile": {
@@ -116,7 +116,7 @@
       "neutral": 55,
       "combo": 128,
       "defense": 37,
-      "oki": 54,
+      "oki": 56,
       "matchup": 34,
       "general": 35
     },
@@ -137,12 +137,12 @@
       "oki": 15
     },
     "cammy": {
-      "defense": 78,
+      "defense": 83,
       "matchup": 47,
-      "neutral": 59,
-      "oki": 41,
-      "general": 64,
-      "combo": 106
+      "neutral": 68,
+      "oki": 44,
+      "general": 66,
+      "combo": 114
     },
     "rashid": {
       "combo": 122,
@@ -233,8 +233,8 @@
       "neutral": 62
     }
   },
-  "total_entries": 10063,
-  "total_videos": 567,
+  "total_entries": 10133,
+  "total_videos": 570,
   "gap_queries": [],
-  "last_updated": "2026-04-02T07:07:33.075927"
+  "last_updated": "2026-04-03T06:33:57.087668"
 }

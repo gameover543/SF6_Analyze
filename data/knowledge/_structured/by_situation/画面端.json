@@ -2075,6 +2075,35 @@
     "last_validated_version": ""
   },
   {
+    "id": "386914ecafb6",
+    "category": "neutral",
+    "topic": "ジャンプ攻撃の選択",
+    "content": "画面端から飛ぶ際は、ジャンプ中攻撃ではなく、リターンが大きく当たらなければリスクの少ないジャンプ大攻撃でしっかりと飛び込むべきです。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "画面端からのジャンプ攻撃",
+    "source_video_id": "OvfMp4PODZ8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+    "source_timestamp": "03:45",
+    "source_quote": "とりあえずジャンプ大攻撃。画面端から飛ぶ時にしっかり大攻撃で飛べてるが、これはグッドです。…中攻撃だとちょっともったいないんで。当たってももったいないし、ガードされてももったいないんで、しっかりこれ大攻撃ならOKです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:15:15.735337",
+    "knowledge_type": "technique",
+    "target_rank": "ダイヤ4",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "45532b8cec17",
     "category": "matchup",
     "topic": "本田の遠距離頭突き対策",

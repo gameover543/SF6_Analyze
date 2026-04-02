@@ -2819,6 +2819,35 @@
     "last_validated_version": ""
   },
   {
+    "id": "3530ed87a2fc",
+    "category": "defense",
+    "topic": "昇竜拳の基本的な使い方",
+    "content": "昇竜拳がヒットしたらコンボに繋ぎ、ガードされた場合は投げや暴れ潰しで択をかけるのが基本的な立ち回りです。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "昇竜拳ヒット/ガード時",
+    "source_video_id": "OvfMp4PODZ8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+    "source_timestamp": "16:09",
+    "source_quote": "昇竜拳がヒットした場合はコンボに繋ぐ。ガードされた場合は、投げや暴れ潰しなどの択に移行する。っていうのが、ま基本的な立ち回りになるかなと思います。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:15:15.735337",
+    "knowledge_type": "technique",
+    "target_rank": "ダイヤ4",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "374f6af5c283",
     "category": "defense",
     "topic": "マリーザ有利フレーム後の行動",

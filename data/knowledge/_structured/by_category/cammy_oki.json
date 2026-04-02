@@ -35,6 +35,38 @@
     "last_validated_version": ""
   },
   {
+    "id": "43eea78aaaa3",
+    "category": "oki",
+    "topic": "投げに対する起き攻め対策（シミー）",
+    "content": "起き攻め時に相手が投げを仕掛けてきた場合の対策として、「相手の投げをスカして（後ろ歩きや垂直ジャンプで）殴る」というシミーがある。この「グラップ狩り」は、投げをスカすだけでなく、無敵技も自動的にガードできるため非常に強力な選択肢となる。これにより、自分の起き攻めパターンに幅が生まれ、無敵技ガードの成功率が向上する。",
+    "characters": [
+      "cammy",
+      "luke"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "D_m7LezST4k",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】相手の無敵技が怖い人へ【起き攻め】",
+    "source_timestamp": "03:47",
+    "source_quote": "投げから投げの柔道を仕掛けますってなった場合に、この投げの対の択って打撃じゃなくて相手のグラップをスカすことなのよね。それが択になってる。投げの対の択は相手の投げをスカして...で殴ること。やっぱり打撃重ねても相手に遅らせグラップされちゃったらどっちも凌がれちゃうから。投げかこのグラップ狩り。相手の投げを漏らさせるっていうのを択にすべきなのよ。でこのグラップ狩りというのは、ついでに無敵技も勝てるわけさ。無敵技も勝手にガードになるわけよ。だからこの後ろ歩きで投げを漏らさせるというのは、無敵技もケア出来るから強いの。これを自分の起き攻めの中のパーツとして持っておくのは超大事だね。で、キャラによっては垂直跳びで無敵技をスカせるキャラも居るから。垂直跳びとか前ジャンプとかで投げをスカせるキャラも居るから。場合によってはこういう垂直跳びで起き攻めをするというのも、相手のグラップにも勝てるし、無敵技にも勝てるし。だからこの後ろ歩きのグラップ狩りと垂直（跳び）のグラップ狩り。一部無敵技は垂直しても食らっちゃうんだけど、これを手札に混ぜると無敵ガードする率が勝手に上がるから。相手の無敵技に困っている人は後ろ歩きシミー（ニグラップ狩り）。後ろ歩きで相手の投げを漏らさせる、ついでに無敵技もガードしますっていうのを増やすと気持ち的にも楽だし安定すると思う。これは起き攻めだけの話じゃないね。例えばこういうラッシュ何ちゃらをガードさせた後とか、中K→ラッシュ→2弱Pをガードさせた後とかも。毎回投げと打撃をやってると相手の無敵技を食らっちゃうから、こういう場面でも…後ろ歩きシミーを混ぜると、無敵技はガード出来るし、グラップも狩れますっていうね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:22:46.195624",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "7165ea79631c",
     "category": "oki",
     "topic": "対キャミィ画面端起き攻め",
@@ -1369,6 +1401,99 @@
     "game_version": "2",
     "video_upload_date": "",
     "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "43eea78aaaa3",
+    "category": "oki",
+    "topic": "投げに対する起き攻め対策（シミー）",
+    "content": "起き攻め時に相手が投げを仕掛けてきた場合の対策として、「相手の投げをスカして（後ろ歩きや垂直ジャンプで）殴る」というシミーがある。この「グラップ狩り」は、投げをスカすだけでなく、無敵技も自動的にガードできるため非常に強力な選択肢となる。これにより、自分の起き攻めパターンに幅が生まれ、無敵技ガードの成功率が向上する。",
+    "characters": [
+      "cammy",
+      "luke"
+    ],
+    "matchup": "luke",
+    "situation": "起き攻め",
+    "source_video_id": "D_m7LezST4k",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】相手の無敵技が怖い人へ【起き攻め】",
+    "source_timestamp": "03:47",
+    "source_quote": "投げから投げの柔道を仕掛けますってなった場合に、この投げの対の択って打撃じゃなくて相手のグラップをスカすことなのよね。それが択になってる。投げの対の択は相手の投げをスカして...で殴ること。やっぱり打撃重ねても相手に遅らせグラップされちゃったらどっちも凌がれちゃうから。投げかこのグラップ狩り。相手の投げを漏らさせるっていうのを択にすべきなのよ。でこのグラップ狩りというのは、ついでに無敵技も勝てるわけさ。無敵技も勝手にガードになるわけよ。だからこの後ろ歩きで投げを漏らさせるというのは、無敵技もケア出来るから強いの。これを自分の起き攻めの中のパーツとして持っておくのは超大事だね。で、キャラによっては垂直跳びで無敵技をスカせるキャラも居るから。垂直跳びとか前ジャンプとかで投げをスカせるキャラも居るから。場合によってはこういう垂直跳びで起き攻めをするというのも、相手のグラップにも勝てるし、無敵技にも勝てるし。だからこの後ろ歩きのグラップ狩りと垂直（跳び）のグラップ狩り。一部無敵技は垂直しても食らっちゃうんだけど、これを手札に混ぜると無敵ガードする率が勝手に上がるから。相手の無敵技に困っている人は後ろ歩きシミー（ニグラップ狩り）。後ろ歩きで相手の投げを漏らさせる、ついでに無敵技もガードしますっていうのを増やすと気持ち的にも楽だし安定すると思う。これは起き攻めだけの話じゃないね。例えばこういうラッシュ何ちゃらをガードさせた後とか、中K→ラッシュ→2弱Pをガードさせた後とかも。毎回投げと打撃をやってると相手の無敵技を食らっちゃうから、こういう場面でも…後ろ歩きシミーを混ぜると、無敵技はガード出来るし、グラップも狩れますっていうね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:22:46.195624",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "84c38cb2fbea",
+    "category": "oki",
+    "topic": "画面端の投げ連携",
+    "content": "モダンキャミィは画面端での投げ連携が強力です。起き攻め時は、投げと弱アシストコンボの二択を仕掛けましょう。どちらを選ぶかは、相手の行動に合わせて判断しましょう。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "画面端での起き攻め",
+    "source_video_id": "3NPMiDfb2w0",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] A Modern Cammy Guide for People Who Really Don't Want to Think",
+    "source_timestamp": "02:21",
+    "source_quote": "キャミィは画面端で柔道があるのといっぱい投げよう。やることは2つ。投げ。弱アシスト連打。どっちをするかは気分で良いよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:33:56.857581",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d4df41eb33cf",
+    "category": "oki",
+    "topic": "おまけ：起き攻めとコンボ",
+    "content": "モダンキャミィの起き攻めでは、しゃがみ強Pをガードさせても有利フレームを取れるため強力です。中スパイラルアローでコンボを締めた後は、強アシストコンボをキャンセルして生ラッシュに繋ぐことで、さらに有利な状況を作り出し攻めを継続できます。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "起き攻め時、中スパイラルアロー締めの後",
+    "source_video_id": "3NPMiDfb2w0",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] A Modern Cammy Guide for People Who Really Don't Want to Think",
+    "source_timestamp": "04:24",
+    "source_quote": "3起き攻めで使うしゃがみ強Pはガードされても有利なのでつよいよ。中アロー締めめの起き攻め。強アシストコンボは生ラッシュでさらに運べる",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:33:56.857581",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "301"
+    ],
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""

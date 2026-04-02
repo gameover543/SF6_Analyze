@@ -3474,6 +3474,37 @@
     "last_validated_version": ""
   },
   {
+    "id": "a8115bd347a1",
+    "category": "defense",
+    "topic": "空中キャノンスパイクの対空",
+    "content": "初心者にはモダンキャミィの空中キャノンスパイクの使用がおすすめです。発生が早いため、モダン操作でも相手のジャンプ攻撃を対空で迎撃する際に非常に有効です。",
+    "characters": [
+      "cammy"
+    ],
+    "matchup": null,
+    "situation": "対空迎撃が難しいと感じる時",
+    "source_video_id": "3NPMiDfb2w0",
+    "source_channel": "でぃぃち",
+    "source_video_title": "[Re] A Modern Cammy Guide for People Who Really Don't Want to Think",
+    "source_timestamp": "01:33",
+    "source_quote": "最初は空中ストライクを使うのがおすすめ！！発生が早いので、モダンでも対空がかなり難しいよ",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:33:56.857581",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "3a257a7e0810",
     "category": "oki",
     "topic": "対空後の起き攻め（ドライブラッシュ強攻撃）",

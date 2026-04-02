@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-02T07:07:34.447272",
-  "total_entries": 10314,
-  "matchup_indexes": 278,
+  "generated_at": "2026-04-03T06:33:58.515922",
+  "total_entries": 10386,
+  "matchup_indexes": 279,
   "category_indexes": 180,
   "situation_indexes": 9,
   "matchup_pairs": [
@@ -144,6 +144,7 @@
     "jamie_vs_marisa",
     "jamie_vs_ryu",
     "jamie_vs_zangief",
+    "jp_vs_chunli",
     "jp_vs_deejay",
     "jp_vs_ed",
     "jp_vs_guile",

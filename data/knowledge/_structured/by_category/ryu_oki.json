@@ -2016,6 +2016,104 @@
     "last_validated_version": ""
   },
   {
+    "id": "3a5b83a3b3af",
+    "category": "oki",
+    "topic": "中足ラッシュからの攻め",
+    "content": "中足ラッシュからの密着は、昇竜拳などで割り込まれる可能性がありますが、暴れ潰しにはなります。ここからの攻めは読み合いが重要です。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "中足ラッシュ後の攻め",
+    "source_video_id": "OvfMp4PODZ8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+    "source_timestamp": "05:13",
+    "source_quote": "中足ラッシュからだと、この中パン、連ガじゃなくて昇竜で割り込まれちゃうんだけど、まぁ連ガじゃないから暴れ潰しにはなってます。コパンとかに対して勝てる。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:15:15.735337",
+    "knowledge_type": "technique",
+    "target_rank": "ダイヤ4",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "39181714507e",
+    "category": "oki",
+    "topic": "択の回数を増やすことの重要性",
+    "content": "ドライブゲージを使い、中足→ラッシュ立ち中パン（暴れ潰し）→シミー→コパン（暴れ潰し）→ラッシュからの択、といったように、読み合いの回数を増やすことが重要です。結果的に通らなくても、複数回択をかけることで相手にプレッシャーを与え、崩す可能性を高めます。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "密着時の攻め",
+    "source_video_id": "OvfMp4PODZ8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+    "source_timestamp": "05:48",
+    "source_quote": "この択の回数がすごく大事なんで。これすごい良いです。1回中足で、ま下段当たるかチャレンジしながら、ラッシュ、立ち中パンでまず1回暴れ潰しするし、で次シミー。ほらこの時点で暴れ潰し、シミーで2回択ってるでしょ。で、まここ通ってプラス取って、1回このコパンで暴れ潰ししながら3回目。これカウンターだったら下段中パン繋がるから3回目ね。で、ダメだったからラッシュでまた択。これで4回。結果通ってないけどこの回数を択ってるっていうのが大事なんです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:15:15.735337",
+    "knowledge_type": "technique",
+    "target_rank": "ダイヤ4",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a63d331d1725",
+    "category": "oki",
+    "topic": "密着からのコンボ",
+    "content": "しゃがみ中パンからのドライブラッシュは、コンボを狙う際に有効です。空振っても出ないが、相手にヒットした場合は追撃ができます。",
+    "characters": [
+      "ryu"
+    ],
+    "matchup": null,
+    "situation": "密着時のコンボ始動",
+    "source_video_id": "OvfMp4PODZ8",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "安くても投げで崩すのはとっても大事！投げて投げて投げまくれ！ダイヤ4リュウのリプレイコーチング#55【スト6/ぷげら】",
+    "source_timestamp": "15:49",
+    "source_quote": "中足じゃなくてしゃがみ中パンにこうやってラッシュをコンボする要領でこうやって打っておくと空振っても出ないけど、相手の体に当たった時、つまり相手が前に来ててこうやって当たった時だけ出てくれるっていう。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-03T06:15:15.735337",
+    "knowledge_type": "technique",
+    "target_rank": "ダイヤ4",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "102",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "19fcc45a55cb",
     "category": "oki",
     "topic": "投げ後やコンボ後のセットプレイ",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "last_updated": "2026-04-03T06:15:15.814876",
+  "last_updated": "2026-04-03T06:33:57.089331",
   "videos": [
     {
       "video_id": "-TcI1Y2Gdlg",
@@ -16319,6 +16319,66 @@
       "tokens_used": 0,
       "processing_time_seconds": 423.3125009536743,
       "processed_at": "2026-04-03T06:15:15.814781",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "D_m7LezST4k",
+      "url": "https://www.youtube.com/watch?v=D_m7LezST4k",
+      "title": "【スト6、SF6】相手の無敵技が怖い人へ【起き攻め】",
+      "channel_name": "ACQUA",
+      "status": "completed",
+      "credibility_score": 0.67,
+      "relevance_score": 1.0,
+      "entries_extracted": 10,
+      "tokens_used": 0,
+      "processing_time_seconds": 450.48842215538025,
+      "processed_at": "2026-04-03T06:22:46.308130",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "SRCUtSXQi48",
+      "url": "https://www.youtube.com/watch?v=SRCUtSXQi48",
+      "title": "【スト6】奈羅花さんコーチング実践編＆待望されていたかもしれないタイミングおじさんの言語化",
+      "channel_name": "マゴ /MAGO",
+      "status": "completed",
+      "credibility_score": 0.643,
+      "relevance_score": 0.9,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 187.3548460006714,
+      "processed_at": "2026-04-03T06:25:53.667955",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "Bmoj54hPa5s",
+      "url": "https://www.youtube.com/watch?v=Bmoj54hPa5s",
+      "title": "【講座】SFリーグやCRカップから格闘ゲームに触れたあなたへ！超基本的な部分から教えるどぐらの格ゲー講座 Part1",
+      "channel_name": "どぐら 生駒デビル",
+      "status": "completed",
+      "credibility_score": 0.635,
+      "relevance_score": 1.0,
+      "entries_extracted": 0,
+      "tokens_used": 0,
+      "processing_time_seconds": 201.26229190826416,
+      "processed_at": "2026-04-03T06:29:14.945864",
+      "skip_reason": null,
+      "error": null
+    },
+    {
+      "video_id": "3NPMiDfb2w0",
+      "url": "https://www.youtube.com/watch?v=3NPMiDfb2w0",
+      "title": "[Re] A Modern Cammy Guide for People Who Really Don't Want to Think",
+      "channel_name": "でぃぃち",
+      "status": "completed",
+      "credibility_score": 0.633,
+      "relevance_score": 1.0,
+      "entries_extracted": 25,
+      "tokens_used": 0,
+      "processing_time_seconds": 281.95569109916687,
+      "processed_at": "2026-04-03T06:33:56.916357",
       "skip_reason": null,
       "error": null
     }

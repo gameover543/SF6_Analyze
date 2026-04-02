@@ -4,8 +4,8 @@ export default function Home() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-20">
       <h1 className="text-4xl font-bold mb-4">SF6 Coach</h1>
-      <p className="text-xl text-gray-400 mb-12">
-        フレームデータ検索 × AIコーチングで上達をサポート
+      <p className="text-xl text-theme-muted mb-12">
+        フレームデータ検索 × AI付きメモ帳で対戦力を上げる
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -23,15 +23,15 @@ export default function Home() {
         </Link>
 
         <Link
-          href="/coach"
-          className="group block p-6 rounded-xl border border-theme-border hover:border-green-500/50 hover:bg-theme-panel/50 transition"
+          href="/memos"
+          className="group block p-6 rounded-xl border border-theme-border hover:border-emerald-500/50 hover:bg-theme-panel/50 transition"
         >
-          <h2 className="text-xl font-semibold mb-2 group-hover:text-green-400 transition">
-            AIコーチ
+          <h2 className="text-xl font-semibold mb-2 group-hover:text-emerald-400 transition">
+            対戦メモ
           </h2>
           <p className="text-theme-muted text-sm">
-            フレームデータに基づいたAIコーチに質問。
-            確反、対策、コンボ、立ち回りなど何でも聞ける。
+            対戦中にサクッとメモ。キャラ別に整理して見返せる。
+            AIに質問してフレームデータに基づくアドバイスも。
           </p>
         </Link>
       </div>

@@ -39,9 +39,6 @@ export default function HeaderNav() {
           <Link href="/frames" className="text-theme-muted hover:text-theme-text transition shrink-0">
             フレームデータ
           </Link>
-          <Link href="/coach" className="text-theme-muted hover:text-theme-text transition shrink-0">
-            AIコーチ
-          </Link>
           <Link href="/memos" className="text-theme-muted hover:text-theme-text transition shrink-0">
             メモ
           </Link>

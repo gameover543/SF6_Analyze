@@ -65,18 +65,30 @@ function getTopCategories(
     .map(([category, count]) => ({ category, count }));
 }
 
-/** ダイジェストファイルから最初のパラグラフ（概要文）を抽出 */
+/** AI前置き文パターン（概要として不適切な行を除外） */
+const BAD_INTRO_PATTERNS = [
+  /^あなたは/,
+  /攻略エキスパートとして/,
+  /コア知識を(以下に|まとめ)/,
+  /要約します/,
+  /分析しました/,
+  /として知られるキャラクター、(?!.*です)/,  // 別キャラ名を誤って言及
+];
+
+/** ダイジェストファイルからキャラ紹介文を抽出 */
 function extractDigestIntro(digestPath: string): string | null {
   try {
     const content = fs.readFileSync(digestPath, "utf-8");
-    // 最初の非空行かつマークダウン記法でない行を取得
     const lines = content.split("\n");
     for (const line of lines) {
       const trimmed = line.trim();
-      if (trimmed && !trimmed.startsWith("#") && !trimmed.startsWith("-") && !trimmed.startsWith("*")) {
-        // 長すぎる場合は切り詰める
-        return trimmed.length > 150 ? trimmed.slice(0, 150) + "…" : trimmed;
-      }
+      // Markdown記法行はスキップ
+      if (!trimmed || trimmed.startsWith("#") || trimmed.startsWith("-") || trimmed.startsWith("*")) continue;
+      // AI前置き文はスキップ
+      if (BAD_INTRO_PATTERNS.some((p) => p.test(trimmed))) continue;
+      // 短すぎる行はスキップ（実質的な説明でない）
+      if (trimmed.length < 30) continue;
+      return trimmed.length > 150 ? trimmed.slice(0, 150) + "…" : trimmed;
     }
     return null;
   } catch {
@@ -84,11 +96,24 @@ function extractDigestIntro(digestPath: string): string | null {
   }
 }
 
+/** ダイジェスト概要がないキャラ用のフォールバック紹介文を生成 */
+function buildFallbackIntro(
+  charName: string,
+  topCategories: Array<{ category: string }>
+): string {
+  if (topCategories.length === 0) return `${charName}のプロプレイヤーによる攻略ナレッジをAIが学習しています。`;
+  const catNames = topCategories
+    .map(({ category }) => CATEGORY_LABELS[category] ?? category)
+    .join("・");
+  return `${charName}は${catNames}に関するプロの攻略ナレッジが豊富なキャラクターです。`;
+}
+
 interface KnowledgeHighlightData {
   topCategories: Array<{ category: string; count: number }>;
   totalEntries: number;
   sourceVideoCount: number;
   digestIntro: string | null;
+  fallbackCategories: Array<{ category: string; count: number }>;
 }
 
 function loadKnowledgeHighlight(
@@ -124,11 +149,15 @@ function loadKnowledgeHighlight(
       }
     }
 
+    const topCategories = getTopCategories(data.entries);
+
     return {
-      topCategories: getTopCategories(data.entries),
+      topCategories,
       totalEntries: data.entries.length,
       sourceVideoCount: data.source_video_count ?? 0,
       digestIntro,
+      // フォールバック用にカテゴリ情報を渡す
+      fallbackCategories: topCategories,
     };
   } catch {
     return null;
@@ -148,8 +177,10 @@ export default function KnowledgeHighlight({
 }: KnowledgeHighlightProps) {
   const data = loadKnowledgeHighlight(slug);
 
-  // ナレッジなし or ダイジェスト概要がないキャラは非表示
-  if (!data || !data.digestIntro) return null;
+  if (!data) return null;
+
+  // ダイジェスト概要があればそれを、なければフォールバック紹介文を使う
+  const intro = data.digestIntro || buildFallbackIntro(charName, data.fallbackCategories);
 
   return (
     <div className="mb-8 rounded-lg border border-blue-600/30 bg-blue-500/5 p-5">
@@ -158,9 +189,9 @@ export default function KnowledgeHighlight({
         {charName} について
       </h2>
 
-      {/* ダイジェスト概要 */}
+      {/* キャラ紹介文 */}
       <p className="mb-4 text-sm text-theme-muted leading-relaxed">
-        {data.digestIntro}
+        {intro}
       </p>
 
       {/* トップカテゴリ */}

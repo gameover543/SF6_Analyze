@@ -79,6 +79,23 @@ function getSortValue(move: MoveFrameData, col: SortColumn): number | string {
   }
 }
 
+/** 備考表示（無敵属性等） */
+function MoveNotes({ notes }: { notes: string[] }) {
+  if (!notes || notes.length === 0) return null;
+  return (
+    <div className="flex flex-wrap gap-1 mt-1">
+      {notes.map((note, i) => (
+        <span
+          key={i}
+          className="text-[10px] px-1.5 py-0.5 rounded bg-yellow-500/10 text-yellow-400 border border-yellow-500/20"
+        >
+          {note}
+        </span>
+      ))}
+    </div>
+  );
+}
+
 /** スマホ用: 1技分のカード表示 */
 function MoveCard({
   move,
@@ -128,6 +145,9 @@ function MoveCard({
           <div className="text-theme-text font-medium">{move.damage || "-"}</div>
         </div>
       </div>
+
+      {/* 備考（無敵属性等） */}
+      <MoveNotes notes={move.note} />
     </div>
   );
 }
@@ -578,7 +598,10 @@ function MoveTable({
             key={`${move.web_id}-${i}`}
             className="border-b border-theme-border/50 hover:bg-theme-panel/50"
           >
-            <td className="py-2 px-2 text-theme-text">{move.skill}</td>
+            <td className="py-2 px-2">
+              <div className="text-theme-text">{move.skill}</div>
+              <MoveNotes notes={move.note} />
+            </td>
             <td className="py-2 px-2 text-theme-muted font-mono text-xs">
               {controlType === "classic" ? move.command : move.command_modern}
             </td>

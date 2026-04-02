@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import ThemeProvider from "@/components/ThemeProvider";
+import MemoFab from "@/components/memo/MemoFab";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -52,6 +53,12 @@ export default function RootLayout({
                 AIコーチ
               </Link>
               <Link
+                href="/memos"
+                className="text-theme-muted hover:text-theme-text transition shrink-0"
+              >
+                メモ
+              </Link>
+              <Link
                 href="/admin/coverage"
                 className="text-theme-subtle hover:text-theme-muted transition text-xs shrink-0 hidden sm:inline"
               >
@@ -65,6 +72,9 @@ export default function RootLayout({
 
         {/* メインコンテンツ */}
         <main className="flex-1">{children}</main>
+
+        {/* 全ページ常駐FAB（メモ追加ボタン） */}
+        <MemoFab />
       </body>
     </html>
   );

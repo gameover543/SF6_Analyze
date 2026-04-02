@@ -4,6 +4,7 @@ import { getCharacterFrameData, CHARACTER_LIST } from "@/lib/frame-data";
 import FrameTable from "@/components/FrameTable";
 import PatchNotes from "@/components/PatchNotes";
 import KnowledgeHighlight from "@/components/KnowledgeHighlight";
+import MemoSummary from "@/components/memo/MemoSummary";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -40,6 +41,9 @@ export default async function CharacterFramePage({ params }: PageProps) {
 
       {/* ナレッジハイライト: コーチング機能への導線 */}
       <KnowledgeHighlight slug={slug} charName={charInfo.name} />
+
+      {/* 対戦メモ: このキャラとの直近メモを表示 */}
+      <MemoSummary slug={slug} />
 
       <FrameTable moves={data.moves} characterName={charInfo.name} />
     </div>

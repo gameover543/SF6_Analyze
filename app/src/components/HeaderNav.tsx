@@ -62,19 +62,21 @@ export default function HeaderNav() {
           ))}
         </div>
 
-        {/* プロフィール表示 + 設定ボタン */}
-        <div className="flex items-center gap-1 shrink-0">
-          {profileLabel && (
-            <span className="text-xs text-theme-muted hidden sm:inline">{profileLabel}</span>
-          )}
+        {/* プロフィール + 設定ボタン */}
+        <div className="flex items-center gap-2 shrink-0">
+          <ThemeProvider />
           <button
             onClick={() => setSettingsOpen(true)}
-            className="text-theme-muted hover:text-theme-text transition text-sm px-2 py-1 rounded hover:bg-theme-raised"
+            className="flex items-center gap-1.5 text-sm px-2.5 py-1.5 rounded-lg border border-theme-border hover:bg-theme-raised transition"
             aria-label="設定"
           >
-            ⚙
+            <span className="text-theme-muted">⚙</span>
+            {profileLabel ? (
+              <span className="text-xs text-theme-text font-medium hidden sm:inline">{profileLabel}</span>
+            ) : (
+              <span className="text-xs text-theme-muted hidden sm:inline">設定</span>
+            )}
           </button>
-          <ThemeProvider />
         </div>
       </nav>
 

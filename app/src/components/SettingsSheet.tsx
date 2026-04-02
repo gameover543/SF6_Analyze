@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createPortal } from "react-dom";
 import { CHARACTER_LIST } from "@/lib/frame-data";
 import { CHAR_JP } from "@/lib/characters";
 import { loadProfile, saveProfile } from "@/lib/profile-storage";
@@ -72,10 +73,10 @@ export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsShee
       })
     : CHARACTER_LIST;
 
-  return (
+  return createPortal(
     <>
-      <div className="fixed inset-0 bg-black/50 z-50" onClick={onClose} />
-      <div className="fixed bottom-0 left-0 right-0 z-50 bg-theme-page border-t border-theme-border rounded-t-2xl max-h-[70vh] overflow-y-auto animate-slide-up md:left-auto md:top-0 md:bottom-0 md:w-[360px] md:rounded-t-none md:rounded-l-2xl md:max-h-full">
+      <div className="fixed inset-0 bg-black/50 z-[60]" onClick={onClose} />
+      <div className="fixed bottom-0 left-0 right-0 z-[60] bg-theme-page border-t border-theme-border rounded-t-2xl max-h-[70vh] overflow-y-auto animate-slide-up md:left-auto md:top-0 md:bottom-0 md:w-[360px] md:rounded-t-none md:rounded-l-2xl md:max-h-full">
         {/* ヘッダー */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-theme-border sticky top-0 bg-theme-page z-10">
           <h2 className="text-base font-semibold text-theme-text">設定</h2>
@@ -163,6 +164,7 @@ export default function SettingsSheet({ isOpen, onClose, onSaved }: SettingsShee
           </button>
         </div>
       </div>
-    </>
+    </>,
+    document.body
   );
 }

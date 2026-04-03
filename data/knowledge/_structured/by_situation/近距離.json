@@ -3814,6 +3814,35 @@
     "last_validated_version": ""
   },
   {
+    "id": "0068bc788afb",
+    "category": "neutral",
+    "topic": "近距離波動拳ヒット後の有利",
+    "content": "近距離で波動拳がヒットした場合、2フレームほど有利に動ける。この有利フレームを利用して攻めを展開する。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "juri",
+    "situation": "近距離での波動拳ヒット",
+    "source_video_id": "rsuQefQkML0",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「波動拳も通常技の延長なんだよ」波動拳を撃つ際の考え方を分かりやすく解説するカワノ【スト6】",
+    "source_timestamp": "06:32",
+    "source_quote": "考え方としては、俺は2Fぐらい有利に動けるなって感じ。ここらへんで。2Fぐらい有利に先にこっちが動けるなっていう認識。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:23:55.735902",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "4cc00ab22d1d",
     "category": "combo",
     "topic": "基本コンボ14：密着Drive Impactパニカン始動",

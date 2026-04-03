@@ -1868,6 +1868,38 @@
     "last_validated_version": ""
   },
   {
+    "id": "cfbe6d74fd04",
+    "category": "matchup",
+    "topic": "削りリーサルの判断",
+    "content": "相手の残り体力がわずかで、削りダメージでKOできる状況を把握する。SA3の削りダメージはキャラによって異なり、リュウのSA3は1050、豪鬼のSA3は1250削る。体力と削りダメージの関係を理解し、この削りリーサルを自分のものにすることで、勝ち確の状況を作り出せる。飛び道具持ちキャラ（例:リュウ）の場合、SA1の弾重ねで有利フレームを取り、攻め継続からのリーサルを狙うことで、弾無敵のないSA1キャラに対して安全に削りKOを狙える。",
+    "characters": [
+      "ryu",
+      "gouki"
+    ],
+    "matchup": null,
+    "situation": "相手の体力が少なく、削りダメージでKO可能な状況",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "12:41",
+    "source_quote": "削りのリーサル",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "8d9d463e069b",
     "category": "matchup",
     "topic": "マリーザの起き攻めでの攻防",
@@ -9677,6 +9709,38 @@
       "304",
       "309",
       "310",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "cfbe6d74fd04",
+    "category": "matchup",
+    "topic": "削りリーサルの判断",
+    "content": "相手の残り体力がわずかで、削りダメージでKOできる状況を把握する。SA3の削りダメージはキャラによって異なり、リュウのSA3は1050、豪鬼のSA3は1250削る。体力と削りダメージの関係を理解し、この削りリーサルを自分のものにすることで、勝ち確の状況を作り出せる。飛び道具持ちキャラ（例:リュウ）の場合、SA1の弾重ねで有利フレームを取り、攻め継続からのリーサルを狙うことで、弾無敵のないSA1キャラに対して安全に削りKOを狙える。",
+    "characters": [
+      "ryu",
+      "gouki"
+    ],
+    "matchup": null,
+    "situation": "相手の体力が少なく、削りダメージでKO可能な状況",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "12:41",
+    "source_quote": "削りのリーサル",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
       "607"
     ],
     "staleness_status": "current",

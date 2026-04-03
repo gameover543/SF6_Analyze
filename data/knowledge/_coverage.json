@@ -4,7 +4,7 @@
       "neutral": 62,
       "defense": 82,
       "general": 136,
-      "matchup": 54,
+      "matchup": 55,
       "oki": 67,
       "combo": 163
     },
@@ -50,8 +50,8 @@
     },
     "juri": {
       "matchup": 155,
-      "defense": 126,
-      "neutral": 63,
+      "defense": 128,
+      "neutral": 64,
       "oki": 37,
       "combo": 94,
       "general": 71
@@ -89,12 +89,12 @@
       "combo": 84
     },
     "deejay": {
-      "general": 8,
+      "general": 16,
       "neutral": 44,
-      "combo": 211,
+      "combo": 212,
       "matchup": 37,
       "defense": 36,
-      "oki": 25
+      "oki": 26
     },
     "manon": {
       "neutral": 44,
@@ -115,7 +115,7 @@
     "jp": {
       "neutral": 55,
       "combo": 128,
-      "defense": 37,
+      "defense": 38,
       "oki": 56,
       "matchup": 34,
       "general": 35
@@ -123,8 +123,8 @@
     "zangief": {
       "defense": 31,
       "matchup": 31,
-      "general": 17,
-      "neutral": 55,
+      "general": 18,
+      "neutral": 56,
       "combo": 50,
       "oki": 32
     },
@@ -153,7 +153,7 @@
       "general": 27
     },
     "aki": {
-      "defense": 48,
+      "defense": 49,
       "matchup": 35,
       "neutral": 50,
       "combo": 137,
@@ -163,18 +163,18 @@
     "ed": {
       "defense": 39,
       "matchup": 49,
-      "neutral": 59,
+      "neutral": 60,
       "oki": 40,
-      "general": 42,
-      "combo": 60
+      "general": 48,
+      "combo": 61
     },
     "gouki": {
-      "neutral": 33,
+      "neutral": 38,
       "combo": 136,
-      "general": 20,
-      "defense": 37,
+      "general": 31,
+      "defense": 41,
       "oki": 68,
-      "matchup": 15
+      "matchup": 18
     },
     "mbison": {
       "matchup": 16,
@@ -193,7 +193,7 @@
       "general": 32
     },
     "mai": {
-      "defense": 24,
+      "defense": 25,
       "matchup": 25,
       "combo": 126,
       "general": 28,
@@ -233,8 +233,8 @@
       "neutral": 62
     }
   },
-  "total_entries": 10133,
-  "total_videos": 570,
+  "total_entries": 10183,
+  "total_videos": 575,
   "gap_queries": [],
-  "last_updated": "2026-04-03T06:33:57.087668"
+  "last_updated": "2026-04-04T04:23:56.012160"
 }

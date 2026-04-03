@@ -61,5 +61,67 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "85328800a5d3",
+    "category": "general",
+    "topic": "プレイヤーの全体的な印象",
+    "content": "プレイヤーは基本的に良い位置で立ち回っており、バンアウトもせず、対空やパリィも試みている。全体的にプレイが綺麗で丁寧。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "gouki",
+    "situation": "general_gameplay",
+    "source_video_id": "WfbB8YpZ7Nc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "マスターまであと少し!!やろうとしてやり切れてない強行動をしっかり完走できれば絶対伸びます。ダイヤ3エドのリプレイコーチング#52【スト6】",
+    "source_timestamp": "01:08",
+    "source_quote": "なんか基本的に良い感じの位置で立ち回っているように見えるけどな。でもバンアウトもしてないし、まあ頑張って対空取ろうともしたし、まあたまにはパリーも出来る限りやってるし。なんか全体的に… 綺麗に見える。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:14:29.837142",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "diamond3",
+    "coaching_context": "リプレイ開始直後のプレイヤーの動きを見た上での評価。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "53c00b345fbc",
+    "category": "general",
+    "topic": "パワー不足とダメージ取りこぼし",
+    "content": "対豪鬼戦で悩んでいるというよりは、全体的に「パワー不足」が課題。強い連携や技（大Pラッシュコンボ、フリッカー引き寄せなど）を使おうとしているが良いところまで行けているのに、ダメージを出し切れていない場面が多い。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": "gouki",
+    "situation": "combo_execution",
+    "source_video_id": "WfbB8YpZ7Nc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "マスターまであと少し!!やろうとしてやり切れてない強行動をしっかり完走できれば絶対伸びます。ダイヤ3エドのリプレイコーチング#52【スト6】",
+    "source_timestamp": "03:07",
+    "source_quote": "豪鬼戦に悩んでるのかもしれないんだけど、豪鬼戦っていうより…惜しいところを良くしていけば…全体的に…パワー不足です。パワー出そうとしているんだけどやりきれてない感がある。大Pラッシュコンボ、フリッカー引き寄せを使ってるから良いところまで来てるんだけど惜しい。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:14:29.837142",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "diamond3",
+    "coaching_context": "プレイヤーの主訴（対豪鬼戦の苦手意識）に対する、根本的な課題の診断。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

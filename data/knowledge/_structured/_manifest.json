@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-03T06:33:58.515922",
-  "total_entries": 10386,
-  "matchup_indexes": 279,
+  "generated_at": "2026-04-04T04:23:57.321771",
+  "total_entries": 10445,
+  "matchup_indexes": 280,
   "category_indexes": 180,
   "situation_indexes": 9,
   "matchup_pairs": [
@@ -100,6 +100,7 @@
     "general_vs_juri",
     "general_vs_luke",
     "general_vs_zangief",
+    "gouki_vs_cammy",
     "gouki_vs_ed",
     "gouki_vs_gouki",
     "gouki_vs_honda",
@@ -109,6 +110,7 @@
     "gouki_vs_marisa",
     "gouki_vs_rashid",
     "gouki_vs_ryu",
+    "gouki_vs_zangief",
     "guile_vs_dhalsim",
     "guile_vs_guile",
     "guile_vs_honda",

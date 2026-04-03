@@ -845,5 +845,36 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "e4f87f3d1734",
+    "category": "oki",
+    "topic": "DJの起き攻めセットプレイ例",
+    "content": "DJは起き攻めセットプレイが豊富。例えば、+42Fなどの状況では詐欺飛びができ、前ステップから少し歩いて立ち弱Pを重ね、その後下がってシミーに移行するなどの連携が可能。しゃがみ大Pを振って直接シミーすることもできる。+5投げや持続の中Pなども強力な選択肢となる。相手のバックステップ投げに対しても対応できるセットプレイが存在する。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "起き攻め",
+    "source_video_id": "CMRlgVvcMaI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】難易度が高すぎるリプレイコーチングに悶絶する診療所主治医",
+    "source_timestamp": "06:20",
+    "source_quote": "例えばこれ+42だから詐欺飛びなんだけど。前ステしてちょっと歩いて立コパ重ねて下がってシミーみたいな。しゃがみ大とかだったら、まあそのまま直接シミーしたって良いよね。特にDJっていっぱいあるから。結構どっからでも+5投げとか。持続の中Pとかいけるから。投げをバクステされてもOKとか。そういうのがいっぱいあるから。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:18:54.786813",
+    "knowledge_type": "technique",
+    "target_rank": "Legend",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

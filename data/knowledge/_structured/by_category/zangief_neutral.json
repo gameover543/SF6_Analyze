@@ -1707,5 +1707,71 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "caef513f76b5",
+    "category": "neutral",
+    "topic": "波動拳のフレームと差し合い",
+    "content": "ザンギエフの立ち中Kの先端外側で豪鬼の波動拳を打つことで差し合いに勝てる。相手の立ち中Kが遅れて出た場合でも、波動拳が勝つ。",
+    "characters": [
+      "gouki",
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "差し合い",
+    "source_video_id": "rsuQefQkML0",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「波動拳も通常技の延長なんだよ」波動拳を撃つ際の考え方を分かりやすく解説するカワノ【スト6】",
+    "source_timestamp": "01:43",
+    "source_quote": "立ち回りでの振る、こういう前中Kとかこういう技の延長であって、そんな特別なものではない。…こういう時にここで弾を打てば、基本勝ってくれるんよね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:23:55.735902",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "caef513f76b5",
+    "category": "neutral",
+    "topic": "波動拳のフレームと差し合い",
+    "content": "ザンギエフの立ち中Kの先端外側で豪鬼の波動拳を打つことで差し合いに勝てる。相手の立ち中Kが遅れて出た場合でも、波動拳が勝つ。",
+    "characters": [
+      "gouki",
+      "zangief"
+    ],
+    "matchup": "zangief",
+    "situation": "差し合い",
+    "source_video_id": "rsuQefQkML0",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「波動拳も通常技の延長なんだよ」波動拳を撃つ際の考え方を分かりやすく解説するカワノ【スト6】",
+    "source_timestamp": "01:43",
+    "source_quote": "立ち回りでの振る、こういう前中Kとかこういう技の延長であって、そんな特別なものではない。…こういう時にここで弾を打てば、基本勝ってくれるんよね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:23:55.735902",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "103",
+      "104"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

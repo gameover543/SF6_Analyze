@@ -1821,5 +1821,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "789b404be7e2",
+    "category": "neutral",
+    "topic": "サイコシュートからの追撃",
+    "content": "サイコシュート（遅い弾）を撃った後、相手がガードしたり何かするのを確認しながら、しっかり走って追いかけるべき。走って追いかけることで相手の動きを見て、次の一手を考えやすくなる。追いかけないとせっかくのチャンスがもったいない。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "projectile_game",
+    "source_video_id": "WfbB8YpZ7Nc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "マスターまであと少し!!やろうとしてやり切れてない強行動をしっかり完走できれば絶対伸びます。ダイヤ3エドのリプレイコーチング#52【スト6】",
+    "source_timestamp": "08:15",
+    "source_quote": "強いて言えば…エド的なことを言うと…サイコシュート撃てたら…走っちゃっていいっすよ。サイコシュート撃てたら…そうしたらこうやって走ってる間に何か相手が何か下のこと見えるから…こんなとかも出来るかもしれないし…遅い弾を撃てたら結構走っちゃっていいです。逆に走って追いかけないと勿体ないかも。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:14:29.837142",
+    "knowledge_type": "technique",
+    "target_rank": "diamond3",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

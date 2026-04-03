@@ -143,5 +143,63 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "2790de7d7621",
+    "category": "combo",
+    "topic": "リーサル状況での小技ヒット確認",
+    "content": "相手の体力が少ないリーサル状況では、小技2回からのヒット確認でラッシュし、コンボを伸ばすことが重要。小技3回だとダメージが減少するため、可能な限り小技2回でヒット確認する。これにより、リーサルダメージを最大化できる。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "相手の体力が少ないリーサル状況",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "05:00",
+    "source_quote": "小技2回でヒット確認してラッシュして伸ばすみたいなのってこれね小技2回からの確認ってやっぱり結構難しくてついついねいつものコンボに行っちゃう人が多いんだよね。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "a8cdae828b47",
+    "category": "combo",
+    "topic": "コンボの締めにインパクトを使う判断",
+    "content": "コンボの締めにSAを使う代わりにインパクトを選ぶと、SAゲージを温存しつつ相手をバーンアウトさせられる。相手の体力が多い場面で特に有効で、大ダメージよりもバーンアウトさせて状況を有利にする選択が重要。これによりリーサルの幅が広がる。相手のSAゲージがない状況であれば、スタン確定のインパクトコンボを選ぶことで、SA温存とスタンからの追加ダメージを狙える。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "相手の体力が多く、SAゲージを温存したい時",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "11:01",
+    "source_quote": "コンボの締めにインパクトを選んだ方が良い場合があってそれはね相手をバーンアウトさせられる時",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

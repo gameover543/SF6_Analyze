@@ -12543,9 +12543,47 @@
       "staleness_status": "current",
       "staleness_reason": "",
       "last_validated_version": ""
+    },
+    {
+      "id": "eaa8ad247936",
+      "category": "defense",
+      "topic": "ジャストパリィの練習の重要性",
+      "content": "ジャストパリィはSF6において非常に重要で、様々な状況で問題を解決する可能性を秘めているため、全キャラで練習すべき。豪鬼の強波動（飛び道具）やA.K.I.のOD弾（飛び道具）に対するジャストパリィは、相手の攻めをいなす重要な防御手段。舞のOD花蝶扇などの飛び道具に対するジャストパリィは、相手の強力な飛び道具攻めを無効化し、自身の有利状況を作り出すことができる。JPのODトルバランのような設置系飛び道具に対してもジャストパリィで確定反撃を狙える。初心者や中級者には難しいかもしれないが、1回でも成功すれば勝率に大きく影響するため、できるところから積極的に練習することが推奨される。",
+      "characters": [
+        "gouki",
+        "aki",
+        "mai",
+        "jp",
+        "juri"
+      ],
+      "matchup": null,
+      "situation": "相手の飛び道具、設置技、突進技に対する防御",
+      "source_video_id": "CvovDMMrf50",
+      "source_channel": "ACQUA",
+      "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+      "source_timestamp": "20:44",
+      "source_quote": "10個目はもうジャスパです。このゲームはね色々な事がジャスパで解決する",
+      "confidence": 1.0,
+      "channel_trust": 1.0,
+      "frame_data_conflicts": [],
+      "extracted_at": "2026-04-04T04:10:20.316503",
+      "knowledge_type": "technique",
+      "target_rank": "",
+      "coaching_context": "",
+      "game_version": "2",
+      "video_upload_date": "",
+      "referenced_moves": [
+        "313",
+        "323",
+        "605",
+        "607"
+      ],
+      "staleness_status": "current",
+      "staleness_reason": "",
+      "last_validated_version": ""
     }
   ],
-  "last_updated": "2026-04-02T07:07:32.840669",
-  "source_video_count": 22,
+  "last_updated": "2026-04-04T04:10:20.408969",
+  "source_video_count": 23,
   "last_validated_version": ""
 }

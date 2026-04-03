@@ -3826,5 +3826,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "29c24d7d41f1",
+    "category": "general",
+    "topic": "ゲームへの向き合い方",
+    "content": "リスクを排除しようとしすぎると何もできなくなる。リスクを恐れず、自分がやりたいこと、楽しめることを優先してプレイすることで、上達に繋がりやすくなる。理屈で考えることも大事だが、実戦はパッションなので、好きな連携やコンボを重点的に練習し、実戦で試すことが大切。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "実戦時、練習時",
+    "source_video_id": "4RJ_hkxKgm8",
+    "source_channel": "マゴ /MAGO",
+    "source_video_title": "伸び悩む中級者にありがちな現象から抜け出す為のアドバイスをするマゴ【ストリートファイター6｜Mジュリ｜星鳳ともり】",
+    "source_timestamp": "13:58",
+    "source_quote": "そりゃ楽しんでやってないからですね。うーん。だからそこをなんか、その今回は理屈で考えるよりはそこを繰り返してやってみる方がいいのかもしれない。何か決めたい行動とかをって、決めてからゲームをする方が良いのかもしれないですね。えっ、じゃあマゴさん",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:07:14.668959",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

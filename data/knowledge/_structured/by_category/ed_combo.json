@@ -1911,5 +1911,38 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "8b7d269f57df",
+    "category": "combo",
+    "topic": "引き寄せからの暴れ潰しとコンボ選択",
+    "content": "引き寄せで+4F有利を取った後、相手が暴れてくる場合は、7F発生の立ち中Pで暴れ潰しを狙うとカウンターヒットする。カウンターヒットした場合は立ち中Pをもう一度繋ぐことができる。立ち大Pはインパクトで割り込まれない強力な連携。ヒットしたらフリッカーを仕込むだけでも倍近いダメージになる。ゲージがあるならODフリッカー、あるいはアシスト大Pを押し続けてヒット確認をするなど、単発で終わらせずにダメージを取り切ることを意識する。",
+    "characters": [
+      "ed"
+    ],
+    "matchup": null,
+    "situation": "offensive_pressure",
+    "source_video_id": "WfbB8YpZ7Nc",
+    "source_channel": "ぷげら pugera",
+    "source_video_title": "マスターまであと少し!!やろうとしてやり切れてない強行動をしっかり完走できれば絶対伸びます。ダイヤ3エドのリプレイコーチング#52【スト6】",
+    "source_timestamp": "05:38",
+    "source_quote": "じゃあどうするのって話なんですけど…この有利フレームを使って…いきなり暴れ潰しをする。7フレの立ち中パンチを打てば相手がボタンを押してたら立ち中P（暴れ潰し）がカウンターする。んでカウンターしてたらもう一回立ち中Pが繋がるから…こういう場面でパワーを出せば良くなると思います。この大Pからの連携だとインパクトで割り込まれることもないので強い。で、ゲージに余裕があるときはODフリッカーできるといいかな。あとはアシスト大とか…当たったの見てそのままアシスト大を押し続ける。てののができると、このコンボ完走してくれるから…大攻撃当たったかどうかの時に集中できるっていう点でやりやすいんで。このどれか…どれかをやる…単発で終わらない。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:14:29.837142",
+    "knowledge_type": "technique",
+    "target_rank": "diamond3",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "102",
+      "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

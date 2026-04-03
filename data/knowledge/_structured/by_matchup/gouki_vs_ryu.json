@@ -100,5 +100,68 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "055e55d9250f",
+    "category": "defense",
+    "topic": "相手の弾への対応",
+    "content": "相手が弾を撃ち続けてくる場合、それを打撃技で止めてリターンを取ることが重要。そうしないと一生弾を撃てなくなる。相手は弾を返されるまで撃ち続ける感覚でいるため、こちらも打撃で対応する必要がある。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "ryu",
+    "situation": "相手の弾への対応",
+    "source_video_id": "rsuQefQkML0",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「波動拳も通常技の延長なんだよ」波動拳を撃つ際の考え方を分かりやすく解説するカワノ【スト6】",
+    "source_timestamp": "08:31",
+    "source_quote": "向こうからしたら、返されるまで打つたるぞみたいな感覚やから。そこをしっかり打撃技とかで止めてリターン取らないと、一生弾撃ってないのが続くって感じかな。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:23:55.735902",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "606"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "dc1603486223",
+    "category": "defense",
+    "topic": "ジャストパリィのリターン",
+    "content": "ジャストパリィを決めると決めた側もドライブゲージのリターンが減るため、相手からすると波動拳が撃ちやすくなる。これは、ジャストパリィのリターンが少ないため。",
+    "characters": [
+      "gouki"
+    ],
+    "matchup": "ryu",
+    "situation": "弾へのジャストパリィ",
+    "source_video_id": "rsuQefQkML0",
+    "source_channel": "カワノKawano",
+    "source_video_title": "「波動拳も通常技の延長なんだよ」波動拳を撃つ際の考え方を分かりやすく解説するカワノ【スト6】",
+    "source_timestamp": "08:43",
+    "source_quote": "ジャストパリィって今回、あの決めた側もさ、リターンちょっと減ってるから。向こうからしたら、前より撃ちやすくなってんの。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:23:55.735902",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "605",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

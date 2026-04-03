@@ -31596,5 +31596,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "59781bb9970e",
+    "category": "defense",
+    "topic": "画面端での投げ抜け対策",
+    "content": "画面端での相手の投げに対して、遅らせグラップや無敵技だけでなく、バクステを混ぜる。バクステは相手の投げを回避し、反撃で大ダメージやスタンを狙えるため、相手に投げの選択肢にリスクを負わせる。キャンセルラッシュ後の小技・中攻撃からの投げ（しゃがみ中K→ラッシュ→しゃがみ弱P）もバクステで確定が取れる。強攻撃→キャンセルラッシュ→中攻撃からの投げはバクステで確定が取れない場合もあるが、小技ラッシュからの投げはバクステで確定が取れる。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "画面端での投げに対する防御",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "03:25",
+    "source_quote": "画面端はバクステっていうのを選ぶようになるとやっぱり相手はね、起き攻めがしにくくなるかなり。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

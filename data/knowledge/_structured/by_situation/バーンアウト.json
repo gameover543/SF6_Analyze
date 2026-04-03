@@ -2271,5 +2271,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "24524383b1fc",
+    "category": "defense",
+    "topic": "バーンアウト中のインパクトへの対処",
+    "content": "バーンアウト中に相手がインパクトを仕掛けてきた場合、投げられるインパクトと投げられないインパクトが存在する。立ち回りから直接出されるインパクトは基本投げられる。中攻撃キャンセルからのインパクトも基本投げられる。しかし、強攻撃キャンセルからのインパクトは投げられない。投げられるインパクトに対しては投げ、投げられないインパクトに対してはSA（スーパーアーツ）を打つのが理想的な使い分け。特に、方向キーを回してSAを出すことで投げボタンSAを出しやすくなる。投げボタンでSAを出すとSA3が暴発する可能性があるため注意が必要。",
+    "characters": [
+      "general"
+    ],
+    "matchup": null,
+    "situation": "バーンアウト中、相手のインパクトに対する防御",
+    "source_video_id": "CvovDMMrf50",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】中級者から上級者になるためのテクニック10選！",
+    "source_timestamp": "08:02",
+    "source_quote": "インパクトがめっちゃ先端とかの場合だけ投げる事が出来ない場合があるんだけど 基本生で撃ってくるインパクトは全部投げる事が出来ます。中攻撃からのインパクトも基本投げれる事が出来ます。強攻撃からのインパクトは投げる事が出来ないです。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:10:20.316503",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

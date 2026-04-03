@@ -7280,5 +7280,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "ff30c893d00a",
+    "category": "combo",
+    "topic": "モダンDJのODサマーソルト入力方法",
+    "content": "モダンDJのODサマーソルトは、コマンド入力ではなくワンボタン入力を使用することで大きなメリットがある。特にキャンセルラッシュから出す場合、しゃがみながら入力できるためタメを維持しやすく、その後の行動（出す/出さない）で読み合いができる。また、下段攻撃を食らいにくいという利点もある。クラシック操作のプレイヤーとの差を活かせるため、積極的にワンボタン入力を使用すべき。",
+    "characters": [
+      "deejay"
+    ],
+    "matchup": null,
+    "situation": "キャンセルラッシュからのODサマーソルト",
+    "source_video_id": "CMRlgVvcMaI",
+    "source_channel": "ACQUA",
+    "source_video_title": "【スト6、SF6】難易度が高すぎるリプレイコーチングに悶絶する診療所主治医",
+    "source_timestamp": "02:52",
+    "source_quote": "コマンド入力で出してんの？ODサマー。ワンボタンで出した方が良くない？キャンセルラッシュに打つ場合はしゃがみながら入力できるからワンボタンの方が良いです。これモダンとサマーコマンドの超メリットだから、これは絶対やった方が良いと思います。しかももう1個良い理由があって、下段を喰らわなっていいうのと、あと通常で入力しちゃった場合ってさ、連が作られたら溜めが消えちゃうじゃん。でもしゃがみながらアシストとSPでポチッとしとけばそのあとにも出せるんだ。キャンセルラッシュ連がからそのあとにも出す出さないの読み合いができるっていう。そこも強みだから。結構やっぱ使った方が良いなと思う。",
+    "confidence": 1.0,
+    "channel_trust": 1.0,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-04T04:18:54.786813",
+    "knowledge_type": "technique",
+    "target_rank": "Legend",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

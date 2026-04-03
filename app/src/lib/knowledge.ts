@@ -181,10 +181,10 @@ function estimateTokens(text: string): number {
   return Math.ceil(ascii / 4 + nonAscii * 1.5);
 }
 
-// ダイジェストのトークン上限（約1200トークン ≈ 日本語約800文字）
-const DIGEST_MAX_TOKENS = 1200;
+// ダイジェストのトークン上限（約5000トークン ≈ 日本語約3300文字、ほぼ全文）
+const DIGEST_MAX_TOKENS = 5000;
 // ナレッジコンテキスト全体のトークン予算
-const KNOWLEDGE_TOKEN_BUDGET = 3500;
+const KNOWLEDGE_TOKEN_BUDGET = 15000;
 // 1エントリあたりの平均推定トークン数
 const AVG_ENTRY_TOKENS = 150;
 
@@ -228,14 +228,14 @@ function calcMaxEntries(digestTokens: number, questionLength: number): number {
   // 質問の複雑さによる基準件数（長い質問ほど多くのコンテキストが有益）
   let baseEntries: number;
   if (questionLength < 30) {
-    baseEntries = 3;  // 短い質問: 少なめで十分
+    baseEntries = 8;   // 短い質問
   } else if (questionLength < 100) {
-    baseEntries = 5;  // 中程度
+    baseEntries = 12;  // 中程度
   } else {
-    baseEntries = 7;  // 長い/複雑な質問: 多めに注入
+    baseEntries = 15;  // 長い/複雑な質問: 多めに注入
   }
 
-  return Math.max(2, Math.min(8, Math.min(tokenBudgetMax, baseEntries)));
+  return Math.max(3, Math.min(20, Math.min(tokenBudgetMax, baseEntries)));
 }
 
 // --- クエリ分析 ---

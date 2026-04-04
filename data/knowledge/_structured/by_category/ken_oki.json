@@ -1534,5 +1534,67 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "e32a555e8dd9",
+    "category": "oki",
+    "topic": "アシスト中始動起き攻め（中央）",
+    "content": "アシスト中攻撃を3回ヒットさせて竜巻旋風脚で運んだ後、前ステップを2回行うことで+5Fの有利フレームを取れる。そこから投げを仕掛けるか、弱攻撃で持続当てをして+6Fを取った後にアシスト中攻撃に繋げて再読み合いを行う。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "画面中央付近の起き攻め",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "01:09",
+    "source_quote": "画面中央付近だったらふんじん竜巻で運ぶ。で起き攻めは前ステ2回でプラ5取れますので投げに行ったりとか、弱が持続で埋まりますのでそっからプラ6取ってアシスト中にまた繋げっていう感じでした。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "1209cbe04652",
+    "category": "oki",
+    "topic": "アシスト中始動起き攻め（画面端）",
+    "content": "画面端ではアシスト中攻撃2回からしゃがみ中竜巻旋風脚、OD昇龍拳に繋ぐ。その後アシスト中攻撃を空振りすることで+4Fの有利フレームを取れる。\n\nまた、入れ替えたい場合はアシスト中攻撃を4回ヒットさせて強昇龍拳に繋ぐ。その後前ステップで+6Fを取った後にアシスト強攻撃で暴れ潰しを仕掛ける。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "画面端の起き攻め",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "01:29",
+    "source_quote": "完全な画面端の時はアシスト中2回から中迅雷奥出せ強昇龍が繋がります。で、一応アシスト中空振りでプラス4フレーム取れます。で、入れ替えたい場合はアシスト中4回からの強昇龍ですね。この4種類を使い分けっていう感じでやってました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "306",
+      "307",
+      "310"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

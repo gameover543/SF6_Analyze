@@ -57,11 +57,11 @@
       "general": 71
     },
     "ken": {
-      "neutral": 73,
-      "defense": 76,
+      "neutral": 76,
+      "defense": 77,
       "general": 49,
-      "oki": 50,
-      "combo": 95,
+      "oki": 52,
+      "combo": 106,
       "matchup": 100
     },
     "blanka": {
@@ -193,10 +193,10 @@
       "general": 32
     },
     "mai": {
-      "defense": 25,
+      "defense": 35,
       "matchup": 25,
-      "combo": 126,
-      "general": 28,
+      "combo": 127,
+      "general": 30,
       "oki": 38,
       "neutral": 25
     },
@@ -227,14 +227,14 @@
     "alex": {
       "defense": 30,
       "matchup": 33,
-      "general": 11,
-      "combo": 163,
-      "oki": 35,
-      "neutral": 62
+      "general": 13,
+      "combo": 167,
+      "oki": 36,
+      "neutral": 64
     }
   },
-  "total_entries": 10183,
-  "total_videos": 575,
+  "total_entries": 10222,
+  "total_videos": 578,
   "gap_queries": [],
-  "last_updated": "2026-04-04T04:23:56.012160"
+  "last_updated": "2026-04-05T05:23:11.579661"
 }

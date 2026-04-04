@@ -5308,5 +5308,138 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "1b73e1b16b60",
+    "category": "combo",
+    "topic": "確認系コンボ",
+    "content": "ヒット確認から繋げる基本的なコンボは以下の通りです。\n*   **弱攻撃始動**: 2弱K / 5弱P > 2弱P > 2弱P > 強エアニー or ODエアニー。\n*   **立ち中K始動**: 4中K (ヒット確認) > 2弱P / 5弱P > 強エアニー or ODエアニー。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "ヒット確認時",
+    "source_video_id": "mS-bnxMm4p8",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【スト6】これ1本でOK！アレックスを「楽にマスター」へ上げる攻略ガイド｜コンボ・立ち回り・初心者＆モダン対応【SF6 楽マスシリーズ】",
+    "source_timestamp": "09:00",
+    "source_quote": "まず一番使うであろう確認系のコンボですね。基本コパン確認したらこれでOKです。立ち(4+)中Kヒットしていたらこれですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:23:11.347277",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "103"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "30c0f56ec823",
+    "category": "combo",
+    "topic": "入れ込み系コンボ",
+    "content": "アシストでも採用されている、入れ込みが強い連携です。\n*   **立ち弱K始動**: 5弱K > 弱アックス (弱フラッシュナックル) (>SA3)。ガードされても距離が離れるため反撃を受けにくいです。\n*   **しゃがみ中P始動**: 2中P > 中アックス (中フラッシュナックル) (>SA3)。\n*   **しゃがみ中P始動**: 2中P > ODフラチョ (> SA2/SA3)。これはゲージがある時に、よりダメージを伸ばしたい場合に有効な入れ込みコンボです。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "入れ込み時、またはゲージがある時",
+    "source_video_id": "mS-bnxMm4p8",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【スト6】これ1本でOK！アレックスを「楽にマスター」へ上げる攻略ガイド｜コンボ・立ち回り・初心者＆モダン対応【SF6 楽マスシリーズ】",
+    "source_timestamp": "09:22",
+    "source_quote": "はい、入れ込み系ですね。アシストにも採用されているコンボなんですけども、長い立ち(4+)弱Kから弱フラッシュナックル。もしくはしゃがみ中Pに中フラッシュ。これにこれが当たっていたらSA2かSA3へ。優秀な入れ込みコンボになってます。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:23:11.347277",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "101",
+      "110",
+      "401",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "6cf803e42f14",
+    "category": "combo",
+    "topic": "キャンセルラッシュコンボ",
+    "content": "立ち回りで頻繁に使うキャンセルラッシュからのコンボです。\n*   **しゃがみ中P始動**: 2中P > ラッシュ > 4中K > 5/2中P > 強エアニー。\nリーサル時には、2中P > ラッシュ > 4中K > 5中P > ラッシュ > 2中P > 強フラチョ > 2弱P x3 > SA3 のように長く繋ぐことで大ダメージを狙えます。ただし、この最大コンボは非常に難しいです。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "立ち回りでのヒット、リーサル時",
+    "source_video_id": "mS-bnxMm4p8",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【スト6】これ1本でOK！アレックスを「楽にマスター」へ上げる攻略ガイド｜コンボ・立ち回り・初心者＆モダン対応【SF6 楽マスシリーズ】",
+    "source_timestamp": "09:43",
+    "source_quote": "立ち回りでも非常に使うキャンセルラッシュからのコンボ。しゃがみ中Pからキャンセルラッシュになってます。個人的には繋がらない場面が多すぎるので、ここは今ボは今回は省こうかなと思います。なので基本はこれですね。これこれこれでいいと思ってます。もしくはこれですね。基本はこれですね。一応リーサルの時はこういうこんな感じここまで伸ばす。ラッシュ系のコンボになってますと。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:23:11.347277",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "110",
+      "403"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2c736076b9d3",
+    "category": "combo",
+    "topic": "パニッシュカウンターコンボ",
+    "content": "パニッシュカウンター時は、相手が大きく崩れるため、高ダメージを狙えるチャンスです。\n*   **2中P (CH) 始動**: 2中P (CH) > ラッシュ > 2強P > 強フラチョ > 4中K (前ステ起き攻めへ)。\n*   **5強Pタメ 始動**: 5強Pタメ > 強フラチョ > 4中K or ODコマ投げ (起き攻めへ)。このODコマ投げ後は詐欺飛びも可能です。\n*   **インパクト (PC) 始動**: インパクト (PC) > 垂直J強K > 5強Pタメ > 強エアニー or ODエアニー。3ゲージある場合はODエアニー締めを意識すると、起き攻め状況も良くダメージも高いです。\n*   **ジャストパリィ始動**: ジャスパ2強P(PC) > スタンス > 弱エルボー > 強エアニー or ODエアニー。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター時、ドライブインパクトヒット時、ジャストパリィ時",
+    "source_video_id": "mS-bnxMm4p8",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【スト6】これ1本でOK！アレックスを「楽にマスター」へ上げる攻略ガイド｜コンボ・立ち回り・初心者＆モダン対応【SF6 楽マスシリーズ】",
+    "source_timestamp": "11:10",
+    "source_quote": "パニカンコンボです。なるべく簡単化したいので基本これねいいかなと思いますね。インパクト始動これもしと強エアニーで締める。これも絞って強エアニーで締める。やっぱり強エアニー締めですね。3ゲージ余裕がある時は起き攻め状況とダメージがちょいODエアニーで締める。ジャスパ2強P(PC) > スタンス > 弱エルボー > 強/ODエアニー締め。インパクト壁ドンですね。立ち強P溜め強エアニー締め。ちょっとウマぶりたい時は屈強P > 中フラッシュ > スタンス > 弱エルボー > 中エアニー。端近い時ですね。SA2を仕込んで当たる場面めちゃくちゃ多いんで壁ドンのコンボと近いですけど、この感じで追撃できる。この後紹介するセットプレイも繋がるので強エアニーで締めましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:23:11.347277",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "401",
+      "602",
+      "605",
+      "607"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

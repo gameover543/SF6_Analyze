@@ -3800,5 +3800,34 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "bb492e4e2c18",
+    "category": "combo",
+    "topic": "EX花蝶扇のリーチとコンボ",
+    "content": "EX花蝶扇はリーチが短いので、ヒット確認後のコンボは距離を考慮する必要がある。遠い間合いでは当たらないため、適切な状況で使うか、他のコンボ選択肢を検討すべき。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "juri",
+    "situation": "コンボ中",
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "02:30",
+    "source_quote": "これ当たるんちゃう？わからないか、これ調べ、これわからない。遠か、わからないけど。これ、これ入るよね？自分のキャラも調べてないんだ。そうだよな、入るよな。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "technique",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

@@ -826,5 +826,63 @@
     "staleness_status": "current",
     "staleness_reason": "",
     "last_validated_version": ""
+  },
+  {
+    "id": "125c5e932a52",
+    "category": "general",
+    "topic": "防御に対する心理的課題",
+    "content": "防御が苦手だと感じると、何か行動を起こさなければならないという焦りから、無駄な行動をしてしまうことがある。しかし、焦らずガードすることが重要。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "02:18",
+    "source_quote": "受けに自信がないから何かアクションしなくちゃと思うんですよ。そうわかる。俺もわかるよ。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "プレイヤーの心理的な悩みを理解し、共感を示すことで、落ち着いて防御の基本に立ち返るよう促している。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "8a274fdb5432",
+    "category": "general",
+    "topic": "キャラクター選択とランクアップ",
+    "content": "使用キャラクターの性能が高いこともランクアップに寄与する。特に舞は足技能力が高いため、ケンよりも楽に上位に行ける可能性がある。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "ken",
+    "situation": null,
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "03:55",
+    "source_quote": "ええくそ優勝キャラやぞ。そうそうそう。キャラがすごい。助けられてるね。ケンより楽に上行ける？いや、足切り能力は高くなるけど。ま、別に俺は上手い人にはケンのほうが勝てるかなって気するけど。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "プレイヤーの努力だけでなく、キャラクターの強みも考慮に入れることで、モチベーションの維持やキャラクター理解を深めることを促している。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
   }
 ]

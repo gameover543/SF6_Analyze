@@ -2506,6 +2506,99 @@
     "last_validated_version": ""
   },
   {
+    "id": "7f947ed92b92",
+    "category": "neutral",
+    "topic": "立ち回りの中足ラッシュ",
+    "content": "ケンを使う際は、とにかくしゃがみ中攻撃からのドライブラッシュを狙う。ヒットした場合は状況に応じてコンボで運んだり、入れ替えたり、ダメージを取ったりする。ガードされた場合でも密着有利フレームが取れるため、そこから再度読み合いを仕掛ける。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "02:29",
+    "source_quote": "立ち回りですね、もうこれだけです。これ。もうこれにラッシュ仕込む。これです。ま、ヒットしてたら状況に応じて運んだり入れ替えたりダメージとったりできますし、まガードされてもこんな感じで密着取れますのでそっからもう一度読み合いできると。なので、とりあえずゲージが溜まったらとにかく中足ラッシュ、ゲージが溜まったら中足ラッシュっていう感じでやってました。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "69950ab03bdb",
+    "category": "neutral",
+    "topic": "ゲージ回復の立ち回り",
+    "content": "モダンケンはワンボタン波動拳が1種類しかなく弱いため、弾に頼りすぎない。代わりに、歩いてアシスト強攻撃やしゃがみ中攻撃などのリーチが長い技に迅雷脚を入れ込み、相手にガードさせてドライブゲージを回復するのも有効。また、たまにワンボタン龍尾脚で相手に近づき、ガードさせながらゲージ回復を狙うと良い。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "ドライブゲージが少ない時",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "02:49",
+    "source_quote": "この中足ラッシュを当てるために。まず1個は使ったゲージを回復する立ち回り。あともう1つは本命の中足ラッシュを当てるために他の技や行動で散らす立ち回り。まずゲージを回復する守りの立ち回りなんですけども、まあ一番最初、遠距離はまあ弾なんですけど、これモダンケンワンボタンで弾1種類しか出せません。かなり弱いです。なので弾ばかりに頼るわけでなくて、こんな感じで歩いていって例えばアシスト強とか中足みたいなリーチがある程度長い技にこんな感じで迅雷を入れて相手にガードさせてゲージを回復するのも強いし。あと振り過ぎは良くないんですけども、たまにね、こんな感じでワンボタン龍尾とかで近づいてガードさせながらゲージ回復。当たったらさらにラッキーみたいな感じでこういう技もちょっと見せるといいかなって思います。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "d6525514d3c6",
+    "category": "neutral",
+    "topic": "中足ラッシュを当てるための技散らし",
+    "content": "中足ラッシュぐらいの間合いで、相手が「中足ラッシュが来るか？」と意識している時にラッシュ弱攻撃を出す。ラッシュ弱攻撃はヒットすればアシスト中攻撃に繋がり、ガードされても有利フレームが取れるため、中足ラッシュと似たような効果を狙える。\n\nまた、地上で振りやすいアシスト強攻撃、強攻撃、中攻撃、アシスト弱攻撃などを振りながら、相手に中足以外の技も意識させることで、本命の中足ラッシュを当てやすくする。中足ラッシュが当たったら、状況に応じたコンボで相手を画面端に運び、投げや強攻撃の圧で倒しきる。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": null,
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "03:36",
+    "source_quote": "中足ラッシュを当てるために色々な技を見せて散らすっていう方の立ち回りですね。まあ一番分かりやすいのはこの中足ラッシュするかっこれ中足なってんなーみたいな相手が思ってる時にラッシュ弱。まこのラッシュ弱ヒットしてたらこんな感じでアシスト中に繋げられますし、ガードされた場合も有利を取れるってことで基本的に中足ラッシュとやってることは変わらない。なので技を散らす上に効果は同じものを得られる。一番使っていきたい択かなっていう感じがします。続いてふんじん前蹴り。本命の中足が当たったら状況別にコンボして画面端に運んで柔道やアシ強で倒しきる。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "cb6da5ee192a",
     "category": "neutral",
     "topic": "ケン戦の開幕立ち回り",

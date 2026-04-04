@@ -1,0 +1,94 @@
+[
+  {
+    "id": "6d3f04991919",
+    "category": "defense",
+    "topic": "起き上がりの行動選択",
+    "content": "ボタンを押さなければ押さないほど、防御が上手いと相手は勝手に思う。起き上がりでボタンを押しても、ガードしていても爆発したりはしないので大丈夫。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "juri",
+    "situation": "起き上がり",
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "00:46",
+    "source_quote": "だからボタンを押さなければ押さないほど、この人ガードうまいなって勝手に思ってくれるよ。大丈夫。起き上がりの選択肢見たら、お前何か行動してるやん、リバサ。コパン、中足。起き上がってガードしとったら爆発するとかそんなんないから大丈夫。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "coaching_pattern",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "起き上がりにボタンを押す癖があることに対し、ガードの安全性を強調し、相手にプレッシャーを与えるための心理的な側面を説明している。",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "100",
+      "109"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "eeb7f1352c93",
+    "category": "defense",
+    "topic": "起き上がりOD花蝶扇の活用",
+    "content": "舞のOD花蝶扇は強いので、相手の攻めに対してOD花蝶扇で攻め返す選択肢がある。ゲージ効率が良いので、ドライブゲージを消費してでも攻める場面では有効。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "juri",
+    "situation": "起き上がり",
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "01:23",
+    "source_quote": "勿体ない。舞の強いところの、やっぱ勿体ない。舞はOD花蝶扇で攻めれるから。爆発するんだよ、なんとか。ボタン押さなくても。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "technique",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "313"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "bb492e4e2c18",
+    "category": "combo",
+    "topic": "EX花蝶扇のリーチとコンボ",
+    "content": "EX花蝶扇はリーチが短いので、ヒット確認後のコンボは距離を考慮する必要がある。遠い間合いでは当たらないため、適切な状況で使うか、他のコンボ選択肢を検討すべき。",
+    "characters": [
+      "mai"
+    ],
+    "matchup": "juri",
+    "situation": "コンボ中",
+    "source_video_id": "ENtQ0Obkwic",
+    "source_channel": "いおりチャンネル【スト6講座と対戦動画投稿】",
+    "source_video_title": "[Street Fighter 6/Coaching] The trick to making your defense look good is 〇〇 #streetfighter6 #Str...",
+    "source_timestamp": "02:30",
+    "source_quote": "これ当たるんちゃう？わからないか、これ調べ、これわからない。遠か、わからないけど。これ、これ入るよね？自分のキャラも調べてないんだ。そうだよな、入るよな。",
+    "confidence": 1.0,
+    "channel_trust": 0.8,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:13:51.571655",
+    "knowledge_type": "technique",
+    "target_rank": "grand_master_to_master",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  }
+]

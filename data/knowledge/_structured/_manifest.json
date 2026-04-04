@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-04T04:23:57.321771",
-  "total_entries": 10445,
-  "matchup_indexes": 280,
+  "generated_at": "2026-04-05T05:23:12.933296",
+  "total_entries": 10484,
+  "matchup_indexes": 281,
   "category_indexes": 180,
   "situation_indexes": 9,
   "matchup_pairs": [
@@ -246,6 +246,8 @@
     "luke_vs_terry",
     "mai_vs_gouki",
     "mai_vs_honda",
+    "mai_vs_juri",
+    "mai_vs_ken",
     "mai_vs_luke",
     "mai_vs_mai",
     "mai_vs_marisa",

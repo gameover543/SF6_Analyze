@@ -4068,6 +4068,104 @@
     "last_validated_version": ""
   },
   {
+    "id": "7103eb2c0abb",
+    "category": "combo",
+    "topic": "しゃがみ強Kパニカン始動コンボ",
+    "content": "しゃがみ強攻撃がパニッシュカウンターになった場合、中強迅雷脚に繋ぎ、アシスト中攻撃にキャンセルする。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター時",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "01:57",
+    "source_quote": "下強ふんじん急停止アシスト中のコンボです。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "202",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "ae2cd66548d4",
+    "category": "combo",
+    "topic": "アシスト強Kパニカン始動コンボ",
+    "content": "アシスト強攻撃がパニッシュカウンターになった場合、しゃがみ中攻撃から中強迅雷脚に繋ぐ。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター時",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "02:01",
+    "source_quote": "アシスト強パニカンから中足ふんじん昇龍ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "109",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "96c6d06eb87c",
+    "category": "combo",
+    "topic": "強攻撃パニカン始動コンボ",
+    "content": "強攻撃がパニッシュカウンターになった場合、ドライブラッシュ、アシスト強攻撃、中竜巻旋風脚（少し遅らせて発動）に繋ぐ。\n\nまたは、ドライブラッシュ、アシスト強攻撃、強昇龍拳に繋ぐ。\n\nさらに、ドライブラッシュ、アシスト強攻撃、強迅雷脚、中昇龍拳に繋ぐ。",
+    "characters": [
+      "ken"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター時",
+    "source_video_id": "ixLsnYpl3MU",
+    "source_channel": "小林八 / こばやしはち",
+    "source_video_title": "【スト6】MR1900モダンケン徹底解説 コンボ 立ち回り...【Mケン】",
+    "source_timestamp": "02:05",
+    "source_quote": "強パニカン始動コンボ。強パニカンラッシュアシスト強ふんじんちょい遅らせたつまきですね。強パニカンラッシュアシスト強ふんじん昇龍ですね。強パニカンラッシュアシスト強強迅雷中昇龍ですね。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T04:42:18.334356",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "305",
+      "306",
+      "310",
+      "323"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
     "id": "211965a818ec",
     "category": "oki",
     "topic": "Blankaの弱ロリパニカンからの起き攻め",
@@ -14534,6 +14632,41 @@
     "referenced_moves": [
       "403",
       "602"
+    ],
+    "staleness_status": "current",
+    "staleness_reason": "",
+    "last_validated_version": ""
+  },
+  {
+    "id": "2c736076b9d3",
+    "category": "combo",
+    "topic": "パニッシュカウンターコンボ",
+    "content": "パニッシュカウンター時は、相手が大きく崩れるため、高ダメージを狙えるチャンスです。\n*   **2中P (CH) 始動**: 2中P (CH) > ラッシュ > 2強P > 強フラチョ > 4中K (前ステ起き攻めへ)。\n*   **5強Pタメ 始動**: 5強Pタメ > 強フラチョ > 4中K or ODコマ投げ (起き攻めへ)。このODコマ投げ後は詐欺飛びも可能です。\n*   **インパクト (PC) 始動**: インパクト (PC) > 垂直J強K > 5強Pタメ > 強エアニー or ODエアニー。3ゲージある場合はODエアニー締めを意識すると、起き攻め状況も良くダメージも高いです。\n*   **ジャストパリィ始動**: ジャスパ2強P(PC) > スタンス > 弱エルボー > 強エアニー or ODエアニー。",
+    "characters": [
+      "alex"
+    ],
+    "matchup": null,
+    "situation": "パニッシュカウンター時、ドライブインパクトヒット時、ジャストパリィ時",
+    "source_video_id": "mS-bnxMm4p8",
+    "source_channel": "さわかぜの格ゲーチャンネル",
+    "source_video_title": "【スト6】これ1本でOK！アレックスを「楽にマスター」へ上げる攻略ガイド｜コンボ・立ち回り・初心者＆モダン対応【SF6 楽マスシリーズ】",
+    "source_timestamp": "11:10",
+    "source_quote": "パニカンコンボです。なるべく簡単化したいので基本これねいいかなと思いますね。インパクト始動これもしと強エアニーで締める。これも絞って強エアニーで締める。やっぱり強エアニー締めですね。3ゲージ余裕がある時は起き攻め状況とダメージがちょいODエアニーで締める。ジャスパ2強P(PC) > スタンス > 弱エルボー > 強/ODエアニー締め。インパクト壁ドンですね。立ち強P溜め強エアニー締め。ちょっとウマぶりたい時は屈強P > 中フラッシュ > スタンス > 弱エルボー > 中エアニー。端近い時ですね。SA2を仕込んで当たる場面めちゃくちゃ多いんで壁ドンのコンボと近いですけど、この感じで追撃できる。この後紹介するセットプレイも繋がるので強エアニーで締めましょう。",
+    "confidence": 1.0,
+    "channel_trust": 0.3,
+    "frame_data_conflicts": [],
+    "extracted_at": "2026-04-05T05:23:11.347277",
+    "knowledge_type": "technique",
+    "target_rank": "",
+    "coaching_context": "",
+    "game_version": "2",
+    "video_upload_date": "",
+    "referenced_moves": [
+      "104",
+      "401",
+      "602",
+      "605",
+      "607"
     ],
     "staleness_status": "current",
     "staleness_reason": "",

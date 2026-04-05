@@ -12,6 +12,8 @@ import type { UserProfile } from "@/types/profile";
 import { CHAR_JP } from "@/lib/characters";
 
 // --- レート制限（IP単位、1日20回まで） ---
+// テスト時は DISABLE_RATE_LIMIT=1 で無効化（本番では絶対に設定しないこと）
+const RATE_LIMIT_DISABLED = process.env.DISABLE_RATE_LIMIT === "1";
 const DAILY_LIMIT = 20;
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
 
@@ -35,9 +37,11 @@ function checkRateLimit(ip: string): { allowed: boolean; remaining: number } {
 }
 
 export async function POST(request: NextRequest) {
-  // レート制限チェック
+  // レート制限チェック（DISABLE_RATE_LIMIT=1でスキップ）
   const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
-  const { allowed, remaining } = checkRateLimit(ip);
+  const { allowed, remaining } = RATE_LIMIT_DISABLED
+    ? { allowed: true, remaining: 9999 }
+    : checkRateLimit(ip);
   if (!allowed) {
     return NextResponse.json(
       { error: "本日のAI質問回数の上限（20回）に達しました。明日またご利用ください。" },

@@ -62,6 +62,7 @@ function resolveDataDir(subdir: string): string {
 const KNOWLEDGE_DIR = resolveDataDir("knowledge");
 const STRUCTURED_DIR = path.join(KNOWLEDGE_DIR, "_structured");
 const DIGESTS_DIR = path.join(KNOWLEDGE_DIR, "_digests");
+const PROFILES_DIR = path.join(KNOWLEDGE_DIR, "_profiles");
 const PATCHES_DIR = resolveDataDir("patches");
 
 // --- 類義語辞書（検索拡張用） ---
@@ -115,6 +116,11 @@ function readTextSafe(filePath: string): string | null {
  */
 function loadDigest(slug: string): string | null {
   return readTextSafe(path.join(DIGESTS_DIR, `${slug}.md`));
+}
+
+/** キャラ攻略プロフィールを読み込む */
+function loadProfile(slug: string): string | null {
+  return readTextSafe(path.join(PROFILES_DIR, `${slug}.md`));
 }
 
 /**
@@ -414,6 +420,15 @@ export function buildKnowledgeContext(
     if (opponent && mainSlug) {
       const matchupEntries = loadMatchupIndex(mainSlug, opponent);
       indexEntries.push(...matchupEntries);
+
+      // 対戦相手の攻略プロフィールを注入
+      const opponentProfile = loadProfile(opponent);
+      if (opponentProfile) {
+        const opponentName = CHAR_JP[opponent] || opponent;
+        lines.push(`## ${opponentName} の攻略プロフィール\n`);
+        lines.push(opponentProfile);
+        lines.push("");
+      }
     }
 
     // カテゴリ検出
@@ -579,6 +594,14 @@ export function buildMatchupKnowledgeContext(
     recentMessages.length > 0
       ? recentMessages[recentMessages.length - 1]
       : "";
+
+  // === 対戦相手の攻略プロフィール ===
+  const opponentProfile = loadProfile(opponentSlug);
+  if (opponentProfile) {
+    lines.push(`## ${opponentName} の攻略プロフィール\n`);
+    lines.push(opponentProfile);
+    lines.push("");
+  }
 
   // === マッチアップデータ（トークン予算内で上限付き） ===
   // マッチアップは最も関連性が高いため通常より多め（+3件）、最大12件
